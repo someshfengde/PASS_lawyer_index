@@ -60,28 +60,8 @@ def query_index():
   response = query_engine.query(query_text)
   return str(response), 200
 
-# # creating the query engine
-# query_engine = index.as_query_engine()
-# storage_context = StorageContext.from_defaults()
 
-# # getting response for query 
 
-# response = query_engine.query("what is the law case?")
-# print(response)
-
-# def get_response(query):
-#     # combining the data
-#     comb_data = dataset_a1_files + dataset_a2_files
-
-#     # creating the documents
-#     documents = SimpleDirectoryReader(input_files=comb_data).load_data()
-#     # creating indexing from documents
-#     index = GPTVectorStoreIndex.from_documents(documents=documents, openai_api_key=os.environ["OPENAI_API_KEY"])
-
-#     # creating the query engine
-#     query_engine = index.as_query_engine()
-#     response = query_engine.query(query)
-#     return response
 
 if __name__ == "__main__":
     initialize_index()
@@ -90,3 +70,6 @@ if __name__ == "__main__":
 
 
 
+
+
+# faster than ever 

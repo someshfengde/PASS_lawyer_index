@@ -1,19 +1,3 @@
-#%%
-# import sys, pathlib, fitz
-# from glob import glob 
-# from tqdm import tqdm 
-
-# filenames = glob("pdf_files/*.pdf")  # get document filename
-# for fname in tqdm(filenames):
-#     with fitz.open(fname) as doc:  # open document
-#         text = chr(12).join([page.get_text() for page in doc])
-#     # write as a binary file to support non-ASCII characters
-#     print("converted_text/"+ fname[:fname.find('.pdf')] + ".txt")
-#     fp = open("converted_text/"+ fname[:fname.find('.pdf')] + ".txt", "x")
-#     fp.close()
-#     pathlib.Path("converted_text/"+ fname[:fname.find('.pdf')] + ".txt").write_bytes(text.encode())
-#%%
-
 import sys, pathlib, fitz, os
 from glob import glob 
 from tqdm import tqdm 
