@@ -1,0 +1,5 @@
+llama_index==0.6.18
+numpy==1.24.3
+pandas==2.0.2
+torch==2.0.1
+transformers==4.29.2

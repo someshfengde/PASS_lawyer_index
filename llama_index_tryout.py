@@ -9,8 +9,8 @@ import os
 loader = download_loader("SimpleDirectoryReader")
 
 # the dataset files
-dataset_a1 = "dataset/IN-Ext/summary/full/A1"
-dataset_a2 = "dataset/IN-Ext/summary/full/A2"
+dataset_a1 = "dataset/summary/A1"
+dataset_a2 = "dataset/summary/A2"
 
 # loading the files 
 dataset_a1_files = glob(f"{dataset_a1}/*.txt")
