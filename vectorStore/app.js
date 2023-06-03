@@ -99,7 +99,7 @@ const model = new OpenAI({
 	verbose: true,
 })
 
-const chain = loadQAStuffChain(model, {
+const chain = loadQAMapReduceChain(model, {
 	verbose: true,
 	returnSourceDocuments: true,
 })
@@ -127,7 +127,7 @@ app.get('/query', async (req, res) => {
 			const summary = await chain.call({
 				input_documents: caseDocs,
 				question:
-					'summarize the documents where argument of the respondent and the case interpretation in mentioned. also mention the laws and the references of all the docs in bullet points.',
+					'list all the important bullet points and the arguments and the interpretations and everything imporant that is mentioned in the chunk',
 			})
 
 			response.push({
@@ -139,7 +139,7 @@ app.get('/query', async (req, res) => {
 			})
 		}
 
-		res.send({ docs, response: response })
+		res.send({ docs, response })
 	} catch (error) {
 		res.send(error)
 	}
