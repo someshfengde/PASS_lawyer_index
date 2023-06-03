@@ -1,0 +1,1313 @@
+Supreme Court of India
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Author: M.R. Shah
+Bench: M.R. Shah, Manoj Misra
+                                                                   REPORTABLE
+                                     IN THE SUPREME COURT OF INDIA
+                                       CIVIL ORIGINAL JURISDICTION
+                                    WRIT PETITION (C) NO. 421 OF 2019
+                         Moser Baer Karamchari Union Thr.
+                         President Mahesh Chand Sharma           …Appellant(s)
+                                                        Versus
+                         Union of India and Ors.                 …Respondent(s)
+                                                         WITH
+                                    WRIT PETITION (C) NO. 777 OF 2020
+                         Manoj Kumar Nagar                       …Appellant(s)
+                                                        Versus
+                         Union of India                          …Respondent(s)
+                                                         AND
+                                    WRIT PETITION (C) NO. 712 OF 2020
+                         Raj Kumar Verma                         …Appellant(s)
+                                                        Versus
+Signature Not Verified
+                         Union of India                          …Respondent(s)
+Digitally signed by R
+Natarajan
+Date: 2023.05.02
+16:43:17 IST
+Reason:
+                         Writ Petition (C) No. 421 of 2019
+                         Page 1 of 74
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+1
+�                         JUDGMENT
+M.R. SHAH, J.
+Writ Petition (C) No. 421 of 2019
+1. By way of this writ petition under Article 32 of the Constitution of India, filed by the writ
+petitioner – Moser Baer Karamchari Union have prayed for an appropriate writ, direction or order
+striking down Section 327(7) of the Companies Act, 2013 (hereinafter referred to as “Act, 2013”) as
+arbitrary and violative of Article 21 of the Constitution of India.
+It is also prayed to issue an appropriate writ, direction or order in the nature of Mandamus so as to
+leave the statutory claims of the “workmen’s dues” out of the purview of waterfall mechanism under
+Section 53 of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to either as “IBC” or
+“Code”).
+It is further prayed to issue an appropriate writ in the nature of Mandamus by giving a purposive
+interpretation to Section 53 of the IBC and pass necessary directions which will enable the
+petitioners to get their dues of 24 months released without any further delay.
+Writ Petition (C) No. 421 of 2019 Writ Petition (C) Nos. 777 and 712 of 2020 1.1 By way of these writ
+petitions under Article 32 of the Constitution of India, the respective writ petitioners have prayed
+that Clause 19(a) of the Eleventh Schedule of the IBC pursuant Section 255 of the IBC, be declared
+as unreasonable and violative of Article 14 of the Constitution of India as Clause 19(a) of the
+Eleventh Schedule of the IBC inserts sub-section (7) in Section 327 of the Companies Act, 2013,
+which puts statutory bar on the application of Sections 326 and 327 of the Companies Act, 2013, to
+the liquidation proceedings under the IBC.
+It is further prayed that sub-section (7) of Section 327 of the Companies Act, 2013, be declared as
+unreasonable and violative of Article 14 of the Constitution of India as sub-section (7) of Section 327
+of the Companies Act, 2013, which was inserted in Section 327 of the Companies Act, 2013 pursuant
+to Section 255 and the Eleventh Schedule of the Insolvency and Bankruptcy Code, 2016, Act 31 of
+2016, creates unreasonable classification for the distribution of legitimate dues of workmen in the
+event of liquidation of the Company under the IBC and liquidation of Company under the provisions
+of the Companies Act, 2013.
+Writ Petition (C) No. 421 of 2019 It is also prayed that distribution of the workmen's due as
+envisaged under Section 53(1)(b)(i) of the IBC, be declared as unreasonable and violative of Article
+14 of the Constitution of India, as Section 53(1)(b)(i) of the IBC limits the workmen's dues payable to
+workmen to twenty- four months only preceding the date of order of Liquidation and then rank the
+said workmen's dues equally with the secured creditors in the events such secured creditors has
+relinquished security in the manner set out in Section 52 of the IBC.
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+2
+It is further prayed that settlement of Workmen Dues should be done in accordance with the
+reasonable principles laid down under Section 326 even in the event of liquidation under the IBC.
+2. Shri K.V. Viswanathan, learned Senior Advocate has appeared as Amicus Curiae. Shri Gopal
+Sankaranarayanan, learned Senior Advocate, has appeared on behalf of the petitioner(s). Shri Balbir
+Singh, learned ASG has appeared on behalf of the respondent- Union of India.
+3. Shri K.V. Viswanathan, learned Senior Advocate has first of all taken us to the legislative history
+of the Writ Petition (C) No. 421 of 2019 Companies Act and the Preferential Payments and also the
+framing of the Insolvency and Bankruptcy Code.
+3.1 It is submitted that the Companies Act, 1956, as it existed prior to the Companies (Amendment)
+Act, 1985, did not provide for any “overriding preferential payments” to any party. It is submitted
+that in 1985, the Companies (Amendment) Bill, 1985 sought to introduce the proviso to sub-section
+(1) of Section 529, definition of “workmen”, “workmen’s dues” and “workmen’s portion” through
+insertion of Section 529(3) and the “overriding preferential payments” through Section 529-A.
+3.2 It is submitted that the Statement of Objects and Reasons for bringing these changes into effect
+was to ensure that the resources of the company are distributed even to workers whose labour and
+effort form a part of the capital of the Company. Resultantly, through Companies (Amendment) Act,
+1985, the idea of “workmen’s portion” and the “overriding preferential payments” were introduced
+and crystallised in the Companies Act, 1956.
+3.3 It is submitted that a cumulative reading of Section 529 and Section 529-A of the Companies
+Act, 1956 indicates that firstly, the security of every secured creditor is deemed to be subject to a pari
+passu charge in favour Writ Petition (C) No. 421 of 2019 of the appellant - workmen, to the extent of
+the workmen’s portion. Secondly, when the secured creditor opts to realise his security, so much of
+the debt due to such secured creditor as could not be realised by him by virtue of the proviso or the
+amount of workmen’s portion in his security, whichever is less, will rank pari passu with the
+workmen’s dues. Thirdly, the workmen’s dues and debts of secured creditor as described in Section
+529(1) Proviso
+(c) get overriding preferential payment and rank pari passu. These debts are payable in full, unless
+the assets are insufficient to meet them, in which case they shall abate in equal proportions.
+3.4 It is submitted that Section 530, when it provides for “Preferential Payments”, restricts
+Government dues to a period of 12 months and wages or salary of an employee to a period not
+exceeding 4 months within 12 months next before the relevant date, subject to limit in sub-section
+(2) of Section 530(1)(b).
+3.5 It is submitted that prior to enactment of the Companies Act, 2013, there were several
+Committees that were set-up in order to consider the proposals for reformation of the Companies
+Act, 1956. It is submitted that two of these Committees and their proposals are indicative of the
+issues that were sought to be addressed Writ Petition (C) No. 421 of 2019 through a new,
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+3
+refurbished legislation. In the year 2000, the Report of the High-Level Committee on Law relating
+to Insolvency and Winding Up of Companies was submitted under the chairmanship of Justice V.
+Balakrishna Eradi (popularly known as “Eradi Committee”). On consideration of various
+suggestions received by it, the Eradi Committee inter alia recommended that appropriate legislative
+action must be taken to ensure that the claims of all “employees of a company” and its secured
+creditors are ranked pari passu. Thereafter, in 2005, the Report of Expert Committee on Company
+Law, 2005 was submitted under the chairmanship of Dr. Jamshed J. Irani. The Irani Committee, on
+consideration of proposals before it, recommended that the status of secured creditors should be
+pari passu with “employees” in respect of their claims after payment of claims related to costs and
+expenses of administration of liquidation.
+3.6 It is submitted that the focus of these two Committees was on bringing the claims of “employees
+of a company” pari passu with the secured creditors, when the existing provision as on that day only
+specified that “workmen’s dues” would rank pari passu with secured creditors. It is submitted that
+these two Reports were followed by the introduction of the Companies Bill, 2009 Writ Petition (C)
+No. 421 of 2019 which retained the same structure as that of Section 529, 529-A and 530 of the
+Companies Act, 1956. It is submitted that it was clear that the recommendations qua ranking of dues
+of “employees of a company” were not accepted as the existing structure had been retained. It is
+submitted that however, this Companies Bill, 2009 lapsed and, therefore, the same was not given
+effect to.
+3.7 It is submitted that thereafter, again, the Companies Bill, 2011 was introduced, which was then
+referred to a Standing Committee. The Report of the Standing Committee of 15th Lok Sabha on
+Companies Bill, 2011 notes the legislative changes made to the Companies Act, 1956 and the
+Companies Bill, 2009. It is submitted that this indicates that Section 326, which was being
+introduced in lieu of Section 529-A of Companies Act, 1956, will now include a proviso to Section
+326(1) and amendment to Section 326(2) to ensure that wages/salaries payable to workmen for a
+period of 2 years is protected in the case of winding up. The rationale given for this legislative
+change was to protect interest of workmen in case of winding up. It is submitted that resultantly, the
+Companies Act, 2013, as enacted, while mostly retaining the structure of Section 529 and 529-A of
+Writ Petition (C) No. 421 of 2019 the Companies Act, 1956, introduced the proviso to Section 326(1)
+and also modified Section 326(2).
+3.8 It is submitted that the consequence of this change was that while workmen’s dues and dues
+owed to secured creditors as per Section 325(1) Proviso (c) ranked pari passu, the wages and salaries
+due to workmen for a period of 2 years preceding winding up order, shall be paid in priority to all
+other debts, within a period of 30 days of sale of assets and shall be subject to such charge over the
+security of secured creditors as may be prescribed. Importantly, the Government Dues and wages or
+salary owned to employees remained restricted to periods as they were in the Companies Act, 1956.
+It is submitted that another important aspect to be noted is that the definition of “workmen’s dues”
+includes the Pension Fund, Gratuity Fund and the Provident Fund amounts and there was no
+exclusion of the said amounts in the case of liquidation. It is submitted that therefore, the position
+of law regarding “overriding preferential payments” and “preferential payments”, as per the
+Companies Act, 1956 and the Companies Act, 2013, is that workmen have a charge over the property
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+4
+of the security of every secured creditor to the extent of workmen’s portion, the workmen’s dues
+rank pari passu with the debts owed to secured creditors Writ Petition (C) No. 421 of 2019 and
+specifically wages or salary due to workmen for a period of 2 years preceding the winding up order
+shall be paid in priority to all other debts.
+3.9 That thereafter, Shri K.V. Viswanathan, learned Senior Advocate and Amicus Curiae has taken
+us to the framing of the IBC. It is submitted that the Bankruptcy Law Reforms Committee submitted
+its Report on 04.11.2015. The said Report discussed the changes that are to be made to the existing
+regime of insolvency and bankruptcy proceedings and inter alia provided for reasons as to why
+changes were being made to the existing position of law. It is submitted that important parts of the
+Bankruptcy Law Reforms Committee (BLRC) Report may be summarized as follows:
+i. The Committee noted that operational creditors will include workmen and
+employees whose past payments are due.
+ii. Further, the Committee notes that the Central and State Government dues will be
+kept at a priority below the unsecured financial creditors in addition to all kinds of
+secured creditors.
+iii. The Committee also categorically notes that liquidation under the new regime will have an
+irreversible, time-bound Writ Petition (C) No. 421 of 2019 process with defined payout
+prioritisation. In the waterfall, secured creditors shall share highest priority along with a defined
+period of workmen dues.
+iv. Thereafter, the Committee, in order to bring the law in India in line with global practice,
+established the priority of payout in liquidation and drafting instructions were accordingly given. As
+proposed, the costs of IRP and Liquidation would rank first. After that, secured creditors and
+workmen dues capped up to 3 months from the start of IRP will be given pari passu priority. This
+was to be followed by dues to employees capped up-to 3 months. As the next tier, workmen dues for
+9 month period beginning 12 months before liquidation commencement date and ending 3 months
+before liquidation commencement date were to rank along with dues to unsecured financial
+creditors.
+v. The Committee also notes that there was some debate on whether priority given to workmen in
+Companies Act, 2013 should be retained in the new Code.
+Writ Petition (C) No. 421 of 2019 3.10 It is submitted that thus, the BLRC Report recommended a
+waterfall mechanism that was different from the Companies Act, 1956 and the Companies Act, 2013,
+with due cognizance of the position of law as it existed then. It is submitted that having reviewed the
+position of law and in view of the objects sought to be achieved through the IBC, the BLRC Report
+recommended that workmen’s dues will be capped at 3 months and will have pari passu priority
+with secured creditors and thereafter, the remaining dues will rank along with unsecured creditors.
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+5
+3.11 It is submitted that the IBC was introduced as a Bill in 2015. It is submitted that Section 36, as
+introduced in the Bill, provided for formation of the liquidation estate. Section 36(4)(a)(iii), as
+introduced in the Bill, stated that the contributions in respect of employee pensions alone would be
+excluded from the liquidation estate assets and would not be used for recovery in liquidation.
+Section 53, as introduced in the Bill, provided for the waterfall mechanism for payout in case of
+liquidation. Section 53(1)
+(b)(i) and (ii) ranked debts owed to secured creditors in the event of them relinquishing security and
+workmen’s dues for a period of 12 months preceding liquidation commencement date, pari passu. It
+is submitted that in Writ Petition (C) No. 421 of 2019 terms of the waterfall mechanism, this was
+therefore a step further than the path suggested by the BLRC Report since the workmen’s dues were
+to rank pari passu for a defined period of 12 months. It is submitted that however, thereafter, the
+IBC, when introduced as a Bill, was then referred to a Joint Committee. The Joint Committee on
+Insolvency and Bankruptcy Code, 2015 of the 16 th Lok Sabha submitted its report in April, 2016. It
+is submitted that the Joint Committee Report made two important recommendations in regard to
+the provisions contained in the Bill. Firstly, after noting representations from the workmen and
+employees, it was recommended that the Provident Fund, Pension Fund and Gratuity Fund are to be
+excluded from the liquidation estate assets under Section 36, since they provide the social safety net
+to the workmen and employees. Secondly, after consideration of the representations that workmen
+dues are to be paid as per the scheme contained in the Companies Act, 2013, the Joint Committee
+recommended that since the dues owed to Governments are being paid in respect of two years
+preceding liquidation commencement date, the workmen’s dues must also be paid for a period of
+two years, instead of the existing period of 12 months, preceding liquidation commencement date. It
+is submitted Writ Petition (C) No. 421 of 2019 that this was recommended keeping in mind that the
+workers are the “nerve centre of any company” and that their interests were to be protected. It is
+submitted that keeping in view the Joint Committee Recommendations, the IBC was brought into
+force. It is submitted that Section 36(4)(a)(iii) of the IBC now excludes all sums due to any workman
+or employee from the Provident Fund, Pension Fund and Gratuity Fund from being included in the
+liquidation estate assets. It is further submitted that Section 53(1)(b)(i) and (ii) of the IBC now ranks
+workmen’s dues for a period of 2 years preceding the liquidation commencement date and the debts
+owed to secured creditors in event of them relinquishing their security pari passu. It is submitted
+that dues owed to the employees are placed in Section 53(1)(c), confined to a period of 12 months,
+and the dues to Central Government and State Government are placed in Section 53(1)(e)(i),
+confined to a period of 2 years and below that of the unsecured creditors. It is submitted that the
+result, therefore, is that the position and waterfall mechanism as provided for in the Companies Act,
+1956 and the Companies Act, 2013 has now been altered after application of mind and resultantly,
+the workmen’s dues have been capped at 24 months preceding the liquidation Writ Petition (C) No.
+421 of 2019 commencement date. The changes introduced from the erstwhile regime have been so
+done on the basis of an organic evolution of law and consultative process, after due consideration of
+the requirements of a new Code governing liquidation.
+3.12 It is submitted that Section 53 Explanation (ii) of IBC states that the term “workmen’s dues”
+shall have the same meaning as assigned to it in Section 326 of the Companies Act, 2013. It is
+submitted that thereafter, the Eleventh Schedule to the IBC proposes Amendments to be made to
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+6
+Companies Act, 2013. It is submitted that importantly, Clause 18 of the Schedule omits erstwhile
+Section 325 of the Companies Act, 2013. It is submitted that Clause 19 of the Schedule amends
+Section 326 of Companies Act, 2013. Thereafter, Clause 20 of the Schedule inserts Section 327(7) to
+the Companies Act, 2013 which states that Section 326 and Section 327 shall not be applicable in the
+event of liquidation under the IBC. A conjoint reading of Section 53 Explanation (ii) of IBC and
+Section 327(7) of Companies Act, 2013 would indicate that only the meaning of “workmen’s dues” is
+incorporated by reference into the IBC. However, the waterfall mechanism, as has been fully altered
+by the IBC will apply to these “workmen’s dues” and not the waterfall Writ Petition (C) No. 421 of
+2019 mechanism contained in Section 326 of Companies Act, 2013. It is submitted that the reason
+for introduction of Section 327(7) of Companies Act, 2013 is only to exclude the application of
+waterfall mechanism and the modalities contained in the Companies Act, 2013 which has now been
+changed through the IBC. It is submitted that therefore, the argument that the waterfall mechanism
+from the Companies Act, 2013 must apply even under the IBC, would be wholly untenable and
+unworkable.
+3.13 It is submitted that subsequently, the Insolvency Law Committee submitted its report in 2018
+under the chairmanship of Mr. Injeti Srinivas. The Report contained summary responses of the
+Committee to the comments and issues raised with respect to the IBC. It is submitted that
+importantly, all questions that raised the issue of workmen’s dues either being unfairly ranked with
+secured creditors or that workmen’s dues were not protected under the IBC, the Committee noted
+that the interests of workmen were protected in line with the Objects sought to be achieved by the
+IBC.
+3.14 It is further submitted that therefore, the legislature through the IBC has attempted to overhaul
+the existing system of law and provide for a different modality through which liquidation would
+function. It is submitted that under Writ Petition (C) No. 421 of 2019 the Companies Act, 2013, the
+waterfall mechanism and preferential payments were being made, keeping in mind the scheme of
+winding up of a Company. It is submitted that admittedly, workmen’s dues were given pari passu
+priority with secured creditors of a defined kind and the wages and salaries owed for two years
+preceding the Order of winding up was to get absolute priority. It is further submitted that on the
+contrary, the scheme of the IBC is different from that of the Companies Act, 2013. It is submitted
+that the focus, in the IBC, is to revive the Company and it is only as a matter of last resort that
+liquidation envisaged. In liquidation, from the time of the BLRC Report, the focus has been on
+defined payout prioritisation and organically, the workmen’s dues have increased from 3 months to
+12 months and now to 24 months to rank pari passu with secured creditors who relinquish their
+security. It is submitted that this evolution of the IBC has been as a result of a consultative process,
+the position of workmen’s dues has been reviewed at multiple occasions and the legislature, in its
+wisdom, has opted to cap it to a period of 24 months prior to liquidation commencement date. It is
+further submitted that the Pension Fund, Gratuity Fund and Provident Fund are left out of the
+liquidation estate, in a bid to protect the social Writ Petition (C) No. 421 of 2019 safety net of the
+workmen. Therefore, the changes made through the IBC, to the existing scheme under the
+Companies Act, 2013 would not be unconstitutional.
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+7
+3.15 Shri K.V. Viswanathan, learned Senior Advocate and Amicus Curiae has further submitted that
+this Hon’ble Court in a catena of judgments has considered the principle of “judicial hands-off”
+when it comes to economic legislations. It is submitted that in economic matters, a wider latitude is
+given to the law-maker and the Court allows for experimentation in such legislations based on
+practical experiences and other problems seen by the law-makers. It is submitted that in a challenge
+to such a legislation, the Court does not adopt a doctrinaire approach. Reliance is placed on the
+decisions of Manish Kumar Vs. Union of India and Anr., (2021) 5 SCC 1 (Paras 169, 249-251); Swiss
+Ribbons Private Limited and Anr. Vs. Union of India and Ors., (2019) 4 SCC 17 [(Paras 17-24,
+25-28) [for objects of IBC] r/w Para 120]; Small Scale Industrial Manufacturers Association
+(Registered) Vs. Union of India and Ors., (2021) 8 SCC 511 (Paras 60-72). It is further submitted
+that as observed in a catena of decisions, a vested right under a statute can be taken away by another
+statute, in view of Writ Petition (C) No. 421 of 2019 public interest and in view of it being an
+economic measure.
+3.16 On IBC and reasonable classification, Shri K.V. Viswanathan, learned Senior Advocate and
+Amicus Curiae has submitted that in the case of Swiss Ribbons Private Limited and Anr. (supra),
+this Court was concerned with a challenge to Constitutional Validity of several provisions of the IBC
+including the waterfall mechanism under Section 53 of the IBC, even though it was at the instance of
+the Operational Creditors. It is submitted that after noting the objects and reasons for enactment of
+the IBC, this Hon’ble Court held that there existed an intelligible differentia for classification of
+financial creditors and operational creditors under the IBC. It is further submitted that Section 53 of
+the IBC was also upheld from the perspective of this reasonable classification by placing reliance on
+the object sought to be achieved by the IBC 3.17 It is further submitted that in the case of Committee
+of Creditors of Essar Steel India Limited Vs. Satish Kumar Gupta and Ors., (2020) 8 SCC 531, this
+Court was concerned with whether a resolution plan was to treat operational creditors on par with
+financial creditors and further with amendments made to the IBC that provided Writ Petition (C)
+No. 421 of 2019 operational creditors with a minimum of liquidation value under the CIRP Process.
+It is submitted that this Court in the said decision held that the principle of “equality for all” cannot
+be stretched to treat financial and operational creditors on par as this would defeat the entire
+objective of the IBC. This Court also held that amendments made to the IBC that guaranteed a
+minimum of liquidation value to operational creditors was not ultra vires Article 14.
+3.18 He has also further submitted that in the case of Ghanashyam Mishra and Sons Private Limited
+Vs. Edelweiss Asset Reconstruction Company Limited, (2021) 9 SCC 657, this Court was concerned
+with whether the approved resolution plan was binding on the Government, whether before or after
+the Amendment made to Section 31 of IBC by Amendment Act, 2019. It is submitted that this Court
+categorically held that the amendment was clarificatory in nature and that the approved resolution
+plan would be binding on the Government. While holding so, this Court noted the legislative intent
+in making the plan binding on all stake holders, to create a clean slate and to ensure that no surprise
+claims come up after the resolution process has begun.
+Writ Petition (C) No. 421 of 2019 3.19 On interpretation of “workmen’s portion” under Section 529
+and 529-A of the Companies Act, reliance is placed on the decision of this Court in the case of
+Allahabad Bank Vs. Canara Bank and Anr., (2000) 4 SCC 406 as well as Andhra Bank Vs. Official
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+8
+Liquidator and Anr., (2005) 5 SCC 75.
+3.20 Making above submissions, it is prayed to allow the present writ petitions and grant the reliefs
+as prayed.
+4. We have heard Shri Balbir Singh, learned ASG appearing on behalf of the respondent – Union of
+India.
+4.1 Shri Balbir Singh, learned ASG has taken us to the relevant provisions under the Companies Act,
+1956, more particularly, Sections 59A, 529A, 530 and the relevant provisions of the Companies Act,
+2013.
+4.2 It is submitted that initially the insolvency process in case of winding up of insolvent companies
+were provided under Section 325 of Act, 2013. However, Section 325 of the Act, 2013 has been
+omitted w.e.f. 15.11.2016 on advent of the IBC. It is submitted that therefore, as on today, the
+winding up proceeding in case of insolvency are not governed by Companies Act, 2013 and the
+provisions of the IBC is the only applicable law to deal Writ Petition (C) No. 421 of 2019 with such a
+situation as it is a complete Code in itself. It is submitted that furthermore, an amendment w.e.f.
+15.11.2016 was brought in under Section 327(7) of the Act, 2013 wherein it has been clarified that
+the provisions of Section 326 and Section 327 of the Act, 2013 will not be applicable in the event of
+liquidation under the IBC.
+4.3 It is submitted that only in case of any winding up under Companies Act, 2013, Sections 326 and
+327 of the Companies Act, 2013 are relevant. He has submitted that following are the relevant
+features in case of winding up proceedings under Sections 326 and 327 of the Act, 2013:-
+… workmen’s portion in the security shall be paid in priority to all other debts;
+… however, workmen’s dues (given in (b)(i) and (ii) payable for the period of 24 months, shall be
+paid in priority to all other debts (including debts due to secured creditors). This means that
+wages/salary for the period of 24 months is over and above every other claim/debts (including debts
+due to secured creditors).
+… workmen’s dues include Provident Fund, Pension Fund and Gratuity Fund or any other Fund for
+the Writ Petition (C) No. 421 of 2019 welfare of the workmen maintained by the Company.
+4.4 It is submitted that the waterfall mechanism is given in Section 327, which is similar to Section
+530 of the Companies Act, 1956. It is submitted that thereafter the IBC has been introduced in the
+year 2016 wherein the workmen dues were duly protected and the Provident Fund, Gratuity Fund
+and Pension Fund are excluded from the liquidation estate. It is submitted that as per Section 53 of
+the IBC, the workmen dues are given the top priority in the waterfall mechanism.
+4.5 It is submitted that the liquidation process is covered under Chapter III of the IBC, which
+comprises from Sections 33 to 54. Section 36 of the IBC provides for liquidation estate and Section
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+9
+36(4) of the IBC specifies certain payouts not to be included in the liquidation estate assets.
+Therefore, as per the said provision, all these debts due are not to be included in the liquidation
+estate assets. It is submitted that as per the said provision, all payments due to any workmen or
+employee from Provident Fund, Pension Fund and The Gratuity Fund shall not be included in the
+list of assets under liquidation estate.
+Writ Petition (C) No. 421 of 2019 4.6 It is submitted that with respect to Section 53 of the IBC, sale
+of liquidation assets shall be distributed in certain order of priority. It is submitted that as per
+Section 53, the payment of insolvency resolution process costs and liquidation costs is paramount
+and the same shall be paid in full. The liquidation cost includes the salary and wages paid to
+workmen during the period of liquidation process to maintain the Company as going concern.
+Thereafter, the payment of workmen dues for a period of 24 months are to be paid alongwith
+secured creditors dues in the event of relinquishment of security. The workmen dues and debts of
+secured creditors in the case of relinquishment of security are ranked equally between them.
+However, in the case of enforcement of security any unpaid outstanding debt comes below in ladder
+to Section 53(1)(e)(iii) of the IBC.
+4.7 It is submitted that the challenge has been made on the ground of Article 14 of the Constitution
+of India by comparing Section 53 of the IBC with the provisions of erstwhile Companies Act, 1956
+and existing Companies Act, 2013 to state that workmen are at a disadvantageous position on the
+basis: (i) workmen’s portion in the security Writ Petition (C) No. 421 of 2019 held by secured
+creditor has been done away with; (ii) preference/superiority given to 24 months over any other
+debt has been done away with; (iii) workmen and secured creditors have been placed in same pool.
+4.8 To the aforesaid, it is submitted by Shri Balbir Singh, learned ASG that as such the IBC is a new
+insolvency mechanism in line with the international practices and with overarching objective of
+unlocking sick and insolvent companies primarily to revive such companies in event of failure, for
+transparent and equitable liquidation of assets. It is submitted that the IBC was introduced as a
+water- shed moment for insolvency law in India that consolidated process under several disparate
+statutes such as Act, 2013, SICA, SARFAESI, Recovery of Debts Act etc., into a single Code. It is
+submitted that the objective of the IBC was to introduce comprehensive and time bound insolvency
+framework and to maximize the value of assets of all persons and balance the interest of all
+stakeholders.
+4.9 It is submitted that the UNICITRAL Legislative Guide on Insolvency Law was instructive for the
+Indian experience on drafting the IBC which provided critical guidance on what an insolvency law
+represents. It is Writ Petition (C) No. 421 of 2019 submitted that a reading together of the
+UNICITRAL Legislative Guide on Insolvency Law and Bankruptcy Law Report clarifies in no
+uncertain terms, that the procedure designed for the insolvency process under the IBC is critical for
+allocating economic coordination between the parties who partake in or are bound by the process. It
+is submitted that this Hon’ble Court has looked at overarching object and economic balance
+achieved by IBC and as such has appreciated the working and operation of IBC in unlocking value
+for all its stakeholders including financial institutions in the case of Innoventive Industries Limited
+Vs. ICICI Bank and Anr., (2018) 1 SCC 407, followed in Arcelormittal India Private Limited Vs.
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+10
+Satish Kumar Gupta and Ors., (2019) 2 SCC 1; Arun Kumar Jagatramka Vs. Jindal Steel and Power
+Limited and Anr., (2021) 7 SCC 474 and Sesh Nath Singh and Anr. Vs. Baidyabati Sheoraphuli Co-
+operative Bank Limited and Anr., (2021) 7 SCC 313.
+4.10 It is submitted that as per the objectives of the IBC, it is clear that corporate death of a
+Corporate Debtor is inevitable. However, every effort should be made to resuscitate the Corporate
+debtor in the larger public interest, which includes not only the workmen of the corporate debtor,
+but also its creditors and the goods it Writ Petition (C) No. 421 of 2019 produces in the larger
+interest of the economy of the country.
+4.11 It is submitted that in the Bankruptcy Law Reforms Committee (Volume 1) (November, 2015), it
+was agreed that the assets held in by the entity in trust (such as employee pensions), assets held as
+collateral to certain financial market institutions and assets held as part of operational transactions
+where the entity has right over the asset but is not the owner of the same shall be excluded from the
+liquidation estate. It is further submitted that it was also debated with respect to the waterfall
+mechanism under the IBC and was agreed that the workmen dues capped up to 3 months will be
+given the second priority with the secured creditor after the costs of the corporate insolvency and
+resolution process and liquidation.
+4.12 It is submitted that subsequently, a report of the Joint Committee on the Insolvency and
+Bankruptcy Code, 2015 was prepared and presented in Lok Sabha on 28.04.2016 wherein the issue
+of exclusion of Provident Fund, Pension Fund and Gratuity Fund from the liquidation estate assets
+and estate of bankrupt was Writ Petition (C) No. 421 of 2019 debated. It is submitted that the
+Committee, after an in- depth examination, was of the view that Provident Fund, Pension Fund and
+Gratuity Fund provide the social safety net to the workmen and employees and hence, need to be
+secured in the event of liquidation of a company or bankruptcy of partnership firm. It is submitted
+that the Committee further observed that the workers are the nerve center of any company and in
+the event of any company becoming insolvent or bankrupt, the workmen get affected adversely and
+therefore, priority must be given to their outstanding dues. Therefore, all sums due to any workman
+or employee from the Provident Fund, Gratuity Fund or Pension Fund should not be included in the
+liquidation estate assets. It is submitted that thus, to protect the interest of the workmen, the
+Committee decided that the workmen dues for a period of 12 months as provided under Section 53
+of the IBC be increased to 24 months preceding liquidation commencement date.
+4.13 It is submitted that in light of the same, Section 36 of the IBC has clearly given outright
+protection to workmen’s dues under Provident Fund, Pension Fund and Gratuity Fund which is not
+treated as liquidation assets and liquidator has no claim over such funds. That therefore, Writ
+Petition (C) No. 421 of 2019 this share of workmen’s dues has consciously been taken outside the
+liquidation process.
+4.14 It is submitted that liquidation costs cover the wages and salary of the workmen during the
+liquidation process. It is submitted that the liquidation cost is defined in Section 5(16) of the IBC
+which includes the cost incurred by the liquidator during the period of liquidation subject to such
+regulations as specified by the Board. It is submitted that with respect to the liquidation process, the
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+11
+Board has notified the Insolvency and Bankruptcy Board of India (Liquidation Process) Regulations,
+2016. It is submitted that Regulation 2(ea) talks about liquidation cost which under Section 5(16) of
+the IBC includes the costs incurred by the liquidator in carrying on the business of the Corporate
+Debtor as a going concern. That, therefore, the salary and wages of the workmen in case of going
+concern liquidation are protected under the liquidation costs. It is further submitted that under the
+Liquidation Regulations 2016, a mechanism is created wherein Regulation 19 provides for claim by
+workmen and employee and Regulation 31A has been inserted to bring in stakeholders Consultation
+Committee, where participation to workmen/ employees is given.
+Writ Petition (C) No. 421 of 2019 4.15 It is submitted that the issue with respect to the workmen and
+secured creditor being kept at equal footing under Section 53 of the IBC is only in the case wherein
+the secured creditor has relinquished its security and the same is the part of the liquidation pool. It
+is submitted that Section 52 of the IBC specifically states about the secured creditor in the
+liquidation proceedings and Regulation 21A talks about the presumption of security interest in the
+case of secured creditors. It is submitted that the said position has been duly considered by the
+respondent – Union of India in the Report of the Insolvency Law Committee (March, 2018) as well
+as Report of Insolvency Law Committee (February, 2020).
+4.16 It is further submitted that the Committee in the Report of February, 2020 duly agreed that the
+priority for recovery to secured creditors under Section 53(1)(b)(ii) should be applicable only to the
+extent of the value of the security interest that is relinquished by the secured creditor. It is submitted
+that the Committee noted that the Code aims to promote a collective liquidation process and
+towards this end, it encourages secured creditors to relinquish their security interest by providing
+them second Writ Petition (C) No. 421 of 2019 highest priority in the recovery of their dues under
+Section 53(1)(b) of the IBC and are not treated as ordinary unsecured creditors under the IBC as
+they would have been under the Companies Act, 1956. That the said provision intends to promote
+the overall value maximization.
+4.17 It is submitted that furthermore, the Committee in its report of February, 2020 also decided
+whether the secured creditors who realized their security interest should contribute towards the
+payment of dues of workmen. Regulation 21(A) of Liquidation Process requires that secured
+creditors who realise their security interest contribute towards the payment of dues of workmen as
+they would have if they had relinquished their security interest to the liquidation estate. It is
+submitted that thus, the requirement to contribute to workmen dues as provided under Regulation
+21A, recognizes that workmen are key stakeholders and form the backbone of the efforts to preserve
+the business of the Corporate Debtor not just prior to commencement of insolvency but also during
+the insolvency proceedings.
+Writ Petition (C) No. 421 of 2019 4.18 It is submitted that thus, visualizing the objects and working
+of the IBC, it is clear that the rights and interest of the workers have been protected from the date of
+enactment of the IBC. It is submitted that in either case that is of relinquishment or
+non-relinquishment of the security by the secured creditor, the interest of the workmen is protected.
+It is submitted that in fact, the secured creditors are taking significant hair-cut and workmen are
+being compensated on equitable basis in a just and proper manner as per Section 53 of the IBC. It is
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+12
+submitted that therefore, it is unfair to say that ranking them with workmen is arbitrary, lest
+manifestly arbitrary to declare Section 53 as unconstitutional.
+4.19 It is submitted that from examination of waterfall mechanism as provided under Section 53 of
+the IBC, it is clear that other stakeholders including the Central Government have seriously
+compromises their position in connection with the recovery of statutory dues so as to enable value
+maximization and reviving unhealthy companies on going concern basis. It is submitted that
+therefore, to say that workmen are in any way adversely affected to the tune of arbitrariness or
+inequity contemplated under Article 14 is erroneous.
+Writ Petition (C) No. 421 of 2019 4.20 It is further submitted by Shri Balbir Singh, learned ASG
+appearing on behalf of the respondent – Union of India that the IBC being a law relating to
+economic activities as observed and held by this Court in the case of R.K. Garg Vs. Union of India
+and Ors., (1981) 4 SCC 675, the laws relating to economy should be viewed with greater latitude than
+the laws touching civil rights.
+4.21 Making above submissions and relying upon the decisions of this Court in the case of R.K. Garg
+(supra) (paras 8 and 16); Rustom Cavasjee Cooper Vs. Union of India, (1970) 1 SCC 248 (paras 63
+and 179); Delhi Science Forum and Ors. Vs. Union of India and Anr., (1996) 2 SCC 405 (para7);
+BALCO Employees’ Union (Regd.) Vs. Union of India and Ors., (2002) 2 SCC 333 (paras 46, 47, 92,
+93, 94 and 98), it is prayed to observe and hold that Section 53 of the IBC, 2016 is neither arbitrary
+nor violative of Articles 14 and 21 of the Constitution of India.
+5. We have heard learned counsel appearing on behalf of the respective parties at length.
+Writ Petition (C) No. 421 of 2019
+6. By way of this writ petition under Article 32 of the Constitution of India, the petitioner - union
+has sought for an appropriate writ, direction or order striking down Section 327(7) of the
+Companies Act, 2013 as arbitrary and violative of Article 21 of the Constitution of India. The
+petitioner has also sought for an appropriate direction so as to leave the statutory claims of the
+“workmen’s dues” out of the purview of waterfall mechanism under Section 53 of the Insolvency and
+Bankruptcy Code, 2016. As per Section 327(7), Sections 326 and 327 of the Act, 2013 shall not be
+applicable in the event of liquidation under the IBC. Sections 326 and 327 of the Act, 2013 provide
+for preferential payments in a winding up under the provisions of the Act, 2013. However, in view of
+the introduction of new regime under the IBC, in case of liquidation under IBC, distribution is to be
+made as per Section 53 of IBC. At this stage, it is required to be noted that IBC has been enacted
+w.e.f. 28.05.2016 and as per Section 53 of the IBC, the distribution of assets in case of liquidation
+under the IBC is required to be made. Section 53 of the IBC reads as under: -
+“53. Distribution of assets.—(1) Notwithstanding anything to the contrary contained
+in any law enacted by the Parliament or any State Legislature for the time being in
+force, the proceeds from the sale of the liquidation assets shall be distributed in the
+following Writ Petition (C) No. 421 of 2019 order of priority and within such period
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+13
+and in such manner as may be specified, namely—
+(a) the insolvency resolution process costs and the liquidation costs paid in full;
+(b) the following debts which shall rank equally between and among the following—
+(i) workmen's dues for the period of twenty-four months preceding the liquidation
+commencement date; and
+(ii) debts owed to a secured creditor in the event such secured creditor has
+relinquished security in the manner set out in Section 52;
+(c) wages and any unpaid dues owed to employees other than workmen for the period
+of twelve months preceding the liquidation commencement date;
+(d) financial debts owed to unsecured creditors;
+(e) the following dues shall rank equally between and among the following:—
+(i) any amount due to the Central Government and the State Government including
+the amount to be received on account of the Consolidated Fund of India and the
+Consolidated Fund of a State, if any, in respect of the whole or any part of the period
+of two years preceding the liquidation commencement date;
+(ii) debts owed to a secured creditor for any amount unpaid following the
+enforcement of security interest;
+(f) any remaining debts and dues;
+(g) preference shareholders, if any; and
+(h) equity shareholders or partners, as the case may be.
+(2) Any contractual arrangements between recipients under sub-section (1) with
+equal ranking, if disrupting the order of priority under that sub-section shall be
+disregarded by the liquidator.
+Writ Petition (C) No. 421 of 2019 (3) The fees payable to the liquidator shall be deducted
+proportionately from the proceeds payable to each class of recipients under sub-section (1), and the
+proceeds to the relevant recipient shall be distributed after such deduction.
+Explanation.—For the purpose of this section—
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+14
+(i) it is hereby clarified that at each stage of the distribution of proceeds in respect of a class of
+recipients that rank equally, each of the debts will either be paid in full, or will be paid in equal
+proportion within the same class of recipients, if the proceeds are insufficient to meet the debts in
+full; and
+(ii) the term “workmen's dues” shall have the same meaning as assigned to it in Section 326 of the
+Companies Act, 2013 (18 of 2013).” In view of the enactment of IBC and Section 53 of the IBC, it
+necessitated to amend the Act, 2013. As per Sub-Section (7) of Section 327, Sections 326 and 327
+shall not be applicable in the event of liquidation under the IBC. The object and purpose of
+amending the Act, 2013 and to exclude Sections 326 and 327 in the event of liquidation under the
+IBC seems to be that there may not be two different provisions with respect to winding
+up/liquidation of a company. Therefore, in view of the enactment of IBC, it necessitated to exclude
+the applicability of Sections 326 and 327 of the Act, 2013 which cannot be said to be arbitrary as
+contended on behalf of the petitioner.
+Writ Petition (C) No. 421 of 2019 6.1 At this stage, it is required to be noted that Sub- Section (7) of
+Section 327 of which the vires are under challenge, shall be applicable in case of liquidation of a
+company under the IBC. Meaning thereby, in case of liquidation of a company under IBC, the
+provisions of Section 53 of the IBC and other provisions of the IBC shall be applicable as the
+company is ordered to be liquidated or wound up under the provisions of IBC. Therefore, merely
+because under the earlier regime and in case of winding up of a company under the Act, 1956/2013,
+the dues of the workmen may have pari passu with that of the secured creditor, the petitioner cannot
+claim the same benefit in case of winding up/liquidation of the company under IBC. The parties
+shall be governed by the provisions of the IBC in case of liquidation of a company under the
+provisions of the IBC.
+6.2 Now so far as Section 53 of the IBC is concerned, it provides for distribution of the assets in case
+of liquidation of a company under IBC. As per Section 53(1)(b) the workmen’s dues for the period of
+twenty-four months preceding the liquidation commencement date shall rank equally between the
+workmen and the secured creditor in the event such secured creditor has relinquished security in
+the manner set out in Section 52. Therefore, workmen’s Writ Petition (C) No. 421 of 2019 dues for
+the period of twenty-four months preceding the liquidation commencement date shall have pari
+passu with the dues of secured creditor. At this stage, it is required to be noted that as per Section
+36(4) of IBC, all sums due to any workman or employee from the provident fund, the pension fund
+and the gratuity fund shall not be included in the liquidation estate assets and shall not be used for
+the recovery in the liquidation. Therefore, a conscious decision has been taken by the
+Parliament/Legislature in its wisdom to keep out of all sums due to any workman/employee from
+the provident fund, the pension fund and the gratuity fund from the liquidation estate assets [as per
+Section 36(4)] and that the workmen’s dues for the period of twenty-four months preceding the
+liquidation commencement date shall rank equally between the workmen’s dues to the said extent
+and the dues to the secured creditor. Therefore, the same cannot be said to be arbitrary and violative
+of Article 21 of the Constitution of India as contended on behalf of the petitioner. As per the settled
+position of law, IBC is a complete Code and the object and purpose of IBC is altogether different
+than that of the Act, 1956/2013. The IBC is a new insolvency mechanism, therefore, the provisions
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+15
+under the IBC cannot be compared with that of Writ Petition (C) No. 421 of 2019 the earlier regime,
+namely, the Companies Act, 1956/2013.
+6.3 At this stage, it is required to be noted that the issue with respect to the workman and the
+secured creditor being kept at equal footing under Section 53 of the IBC is only in a case wherein the
+secured creditor has relinquished its security and the same is the part of the stage of the liquidation
+pool.
+7. Section 2711 of the Companies Act 2013, as originally enacted, had as many as seven grounds on
+which a company could be wound up. Ground (a) on 1 271. Circumstances in which company may be
+wound up by Tribunal. – (1) A company may, on a petition under section 272, be wound-up by the
+Tribunal, -
+(a) If the company is unable to pay debts;
+(b) if the company has, by special resolution, resolved that the company be wound up by the
+Tribunal;
+(c) if the company has acted against the interests of the sovereignty and integrity of India, the
+security of the State, friendly relations with foreign States, public order, decency or morality;
+(d) if the Tribunal has ordered the winding up of the company under Chapter XIX;
+(e) if on an application made by the Registrar or any other person authorised by the Central
+Government by notification under this Act, the Tribunal is of the opinion that the affairs of the
+company have been conducted in a fraudulent manner or the company was formed for fraudulent
+and unlawful purpose or the persons concerned in the formation or management of its affairs have
+been guilty of fraud, misfeasance or misconduct in connection therewith and that is proper that the
+company be wound up;
+(f) if the company has made a default in filing with the Registrar its financial statements or annual
+returns for immediately preceding five consecutive financial years; or
+(g) if the Tribunal is of the opinion that it is just and equitable that the company should be wound
+up.
+*** Writ Petition (C) No. 421 of 2019 which the company could be wound up was when the company
+is unable to pay its debts. The other grounds were, when the company, by special resolution, has
+decided to be wound up; when the company has acted against the interests of sovereignty and
+integrity of India, the security of the State, friendly relations with foreign State, public order,
+decency or morality; if the Tribunal has ordered winding up of the company under Chapter XIX of
+the Companies Act, 2013, a chapter relating to revival and rehabilitation of sick companies; if on an
+application made by the Registrar or any other person authorised by the Central Government by
+notification, the Tribunal is of the opinion that the affairs of the company have been conducted in a
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+16
+fraudulent manner or the company has been formed for fraudulent and unlawful purpose, or
+persons concerned in formation or management of its affairs have been guilty of fraud, misfeasance,
+misconduct in connection therewith, which makes it proper that the company be wound up; or if the
+company has made default in filing its financial statements or annual returns with the Registrar for
+immediately preceding five consecutive financial years; lastly, if the Tribunal is of the opinion that it
+is just and equitable to wind up the company.
+Writ Petition (C) No. 421 of 2019 7.1 The provision as enacted was never enforced till it was
+substituted by Act No. 31 of 2016 and the Eleventh Schedule in paragraph 10 of the Insolvency and
+Bankruptcy Code, 20162, with effect from 15th November 2016. This coincided with the enactment
+and enforcement of the Code, also applicable with effect from 15 th November 2016. Consequent to
+the substitution, Section 2713 of the Companies Act 2013 now envisages only five grounds for
+winding up of the company under the Companies Act 2013. The first ground is where the company,
+by special resolution, has resolved to be wound up by the Tribunal. The other grounds are when the
+company has acted against the sovereignty and integrity 2 For short, “Code”.
+3 271. Circumstances in which company may be wound up by Tribunal. – A company may, on a
+petition under section 272, be wound-up by the Tribunal, -
+(a) if the company has, by special resolution, resolved that the company be wound up by the
+Tribunal;
+(b) if the company has acted against the interests of the sovereignty and integrity of India, the
+security of the State, friendly relations with foreign States, public order, decency or morality;
+(c) if on an application made by the Registrar or any other person authorised by the Central
+Government by notification under this Act, the Tribunal is of the opinion that the affairs of the
+company have been conducted in a fraudulent manner or the company was formed for fraudulent
+and unlawful purpose or the persons concerned in the formation or management of its affairs have
+been guilty of fraud, misfeasance or misconduct in connection therewith and that is proper that the
+company be wound up;
+(d) if the company has made a default in filing with the Registrar its financial statements or annual
+returns for immediately preceding five consecutive financial years; or
+(e) if the Tribunal is of the opinion that it is just and equitable that the company should be wound
+up.
+Writ Petition (C) No. 421 of 2019 of India, security of the State, friendly relations with foreign
+States, public order, decency or morality; if the Tribunal on an application made by the Registrar or
+any other person authorised by the Central Government by a notification is satisfied that the affairs
+of the company have been conducted in a fraudulent manner, or the company was formed for a
+fraudulent or unlawful purpose, or the persons concerned in the formation or management of its
+affairs have been found to be guilty of fraud, misfeasance or misconduct in connection therewith,
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+17
+which makes it proper for the company to be wound up; if the company has defaulted in filing
+financial statements and annual returns with the Registrar for immediately preceding five
+consecutive financial years; and lastly if the Tribunal is of the opinion that it is just and equitable
+that the company should be wound up.
+7.2 Clearly, the legislature has now removed clause (a) to Section 271 of the Companies Act, 2013,
+when a company is unable to pay the debts, and clause (d) to Section 271 of the Companies Act,
+2013, when a company is directed to be wound up under the Chapter XIX of the Companies Act,
+2013. In fact, Chapter XIX of the Companies Act 2013 was deleted/omitted in terms of Act No. 31 of
+2016 and the Eleventh Schedule in Writ Petition (C) No. 421 of 2019 paragraph 8 of the Code, with
+effect from 15 th November 2016. The Code, as enacted, is a separate and consolidated enactment
+specifically relating to and dealing with companies which are insolvent and unable to pay dues, and
+envisages a procedure with a mandate to first explore possibility of rehabilitation and revival of the
+company, and the dissolution/winding up as the last call. 7.3 This is significant and must be
+highlighted when we examine the question of the Constitutional challenge made by the petitioners,
+so as to not frustrate the objective and purpose of the Code, which completely replaces the then
+existing framework for insolvency and bankruptcy resolution that was inadequate, ineffective and
+guilty of causing undue delays. The enactment of the Code and the amendments thereafter are a
+consequence of detailed consultation and deliberations by several committees, commissions and
+experts4, in a matter which deals with the economy of the country as a whole. Earlier position was
+far from satisfactory in spite of enactment of the Sick Industrial Companies (Special Provisions) Act,
+4 See – The Report of High Level Committee on Law Relating to Insolvency and Winding Up of
+Companies, 2000, The Report of the Expert Committee on Company Law dated 31.05.2005, 57th
+Report of the Standing Committee of 15th Lok Sabha on Finance on The Companies Bill, 2011, The
+Report of the Bankruptcy Law Reforms Committee dated 04.11.2015, The Report of Joint
+Committee on Insolvency and Bankruptcy Code, 2015 of the 16 th Lok Sabha and The report of the
+Insolvency Law Committee dated 26.03.2018.
+Writ Petition (C) No. 421 of 2019 1985, the Recovery of Debts Due to Banks and Financial
+Institutions Act, 1993, and the Securitisation and Reconstruction of Financial Assets and
+Enforcement of Security Interest Act, 2002. The Code has been enacted with the objective of
+reorganisation and insolvency resolution of corporate persons, partnership firms and individuals in
+a time-bound manner for maximisation of the value of assets, promote entrepreneurship, enhance
+availability of credit and balance the interests of all stakeholders, including by alteration in the
+priority of payment of government dues, to establish an Insolvency and Bankruptcy Fund, and
+matters connected therewith or incidental thereto. The objective is to improve the ease of doing
+business and facilitate more investments, leading to higher economic growth and development.
+8. We have earlier referred to, in detail, the divergent opinions expressed while enacting the Code on
+the status of the workmen's dues and the hierarchy in which they should be placed. The waterfall
+mechanism now prescribed in the Code with reference to the workmen’s dues is a well-considered
+and thought-out decision. The waterfall mechanism and the hierarchy prescribed to the workmen’s
+dues should be seen in the overall objective of the Code, which is to explore whether the corporate
+Writ Petition (C) No. 421 of 2019 debtor can be revived so that jobs are not lost, the use of economic
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+18
+assets is maximised, and there is an effective legal framework which enhances the viability of credit
+in the hands of banks and financial institutions. The Code recognises the financial impact on
+secured creditors or financial institutions dealing with public money, as their economic health is
+equally important for the general public as well as the national economy. Unless there is economic
+growth and fresh investments in the industry, employment opportunities will not be available,
+which would in turn lead to economic woes, insolvencies and bankruptcies. These are all complex
+economic matters wherein various conflicting interests have to be balanced, and a holistic rather
+than a one-sided, approach is to be taken. Each opinion may have merit, but the court can hardly
+substitute its own wisdom or view for that of the legislature, especially when the enactment is the
+outcome of a thought-out and ruminated review on complex fiscal and commercial challenges facing
+the economy. It is in this context, this Court, while upholding the Constitutional validity of the Code
+on the challenge of discrimination made by the operational creditors in Swiss Ribbons Private
+Limited and Another. v. Union of India and Others.5 had observed as under:
+5 (2019) 4 SCC 17.
+Writ Petition (C) No. 421 of 2019 “Judicial hands-off qua economic legislation ****
+21. In this country, this Court in R.K. Garg v. Union of India, (1981) 4 SCC 675, has held :
+“8. Another rule of equal importance is that laws relating to economic activities should be viewed
+with greater latitude than laws touching civil rights such as freedom of speech, religion, etc. It has
+been said by no less a person than Holmes, J., that the legislature should be allowed some play in
+the joints, because it has to deal with complex problems which do not admit of solution through any
+doctrinaire or straitjacket formula and this is particularly true in case of legislation dealing with
+economic matters, where, having regard to the nature of the problems required to be dealt with,
+greater play in the joints has to be allowed to the legislature. The court should feel more inclined to
+give judicial deference to legislative judgment in the field of economic regulation than in other areas
+where fundamental human rights are involved. Nowhere has this admonition been more felicitously
+expressed than in Morey v. Doud where Frankfurter, J., said in his inimitable style:
+‘In the utilities, tax and economic regulation cases, there are good reasons for judicial
+self-restraint if not judicial deference to legislative judgment. The legislature after all
+has the affirmative responsibility. The courts have only the power to destroy, not to
+reconstruct. When these are added to the complexity of economic regulation, the
+uncertainty, the liability to error, the bewildering conflict of the experts, and the
+number of times the Judges have been overruled by events — self-
+Writ Petition (C) No. 421 of 2019 limitation can be seen to be the path to judicial wisdom and
+institutional prestige and stability.’ The Court must always remember that “legislation is directed to
+practical problems, that the economic mechanism is highly sensitive and complex, that many
+problems are singular and contingent, that laws are not abstract propositions and do not relate to
+abstract units and are not to be measured by abstract symmetry”; ‘that exact wisdom and nice
+adaption of remedy are not always possible’ and that ‘judgment is largely a prophecy based on
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+19
+meagre and uninterpreted experience’. Every legislation, particularly in economic matters is
+essentially empiric and it is based on experimentation or what one may call trial and error method
+and therefore it cannot provide for all possible situations or anticipate all possible abuses. There
+may be crudities and inequities in complicated experimental economic legislation but on that
+account alone it cannot be struck down as invalid. The courts cannot, as pointed out by the United
+States Supreme Court in Secy. of Agriculture v. Central Roig Refining Co. be converted into tribunals
+for relief from such crudities and inequities. There may even be possibilities of abuse, but that too
+cannot of itself be a ground for invalidating the legislation, because it is not possible for any
+legislature to anticipate as if by some divine prescience, distortions and abuses of its legislation
+which may be made by those subject to its provisions and to provide against such distortions and
+abuses. Indeed, howsoever great may be the care bestowed on its framing, it is difficult to conceive
+of a legislation which is not capable of being abused by perverted human ingenuity. The Court must
+therefore adjudge the constitutionality of such legislation by the Writ Petition (C) No. 421 of 2019
+generality of its provisions and not by its crudities or inequities or by the possibilities of abuse of any
+of its provisions. If any crudities, inequities or possibilities of abuse come to light, the legislature can
+always step in and enact suitable amendatory legislation. That is the essence of pragmatic approach
+which must guide and inspire the legislature in dealing with complex economic issues.
+***
+19. …. It would be outside the province of the Court to consider if any particular immunity or
+exemption is necessary or not for the purpose of inducing disclosure of black money. That would
+depend upon diverse fiscal and economic considerations based on practical necessity and
+`administrative expediency and would also involve a certain amount of experimentation on which
+the Court would be least fitted to pronounce. The Court would not have the necessary competence
+and expertise to adjudicate upon such an economic issue. The Court cannot possibly assess or
+evaluate what would be the impact of a particular immunity or exemption and whether it would
+serve the purpose in view or not. There are so many imponderables that would enter into the
+determination that it would be wise for the Court not to hazard an opinion where even economists
+may differ. The Court must while examining the constitutional validity of a legislation of this kind,
+“be resilient, not rigid, forward looking, not static, liberal, not verbal” and the Court must always
+bear in mind the constitutional proposition enunciated by the Supreme Court of the United States in
+Munn v. Illinois, namely, ‘that courts do not substitute their social and economic beliefs for the
+judgment of legislative bodies’. The Court must defer to legislative judgment in matters relating to
+social and economic policies and Writ Petition (C) No. 421 of 2019 must not interfere, unless the
+exercise of legislative judgment appears to be palpably arbitrary. The Court should constantly
+remind itself of what the Supreme Court of the United States said in Metropolis Theater Co. v. City
+of Chicago:
+“12. … The problems of government are practical ones and may justify, if they do not
+require, rough accommodations, illogical it may be, and unscientific. But even such
+criticism should not be hastily expressed. What is best is not always discernible, the
+wisdom of any choice may be disputed or condemned. Mere error of Government are
+not subject to our judicial review.” It is true that one or the other of the immunities or
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+20
+exemptions granted under the provisions of the Act may be taken advantage of by
+resourceful persons by adopting ingenious methods and devices with a view to
+avoiding or saving tax. But that cannot be helped because human ingenuity is so great
+when it comes to tax avoidance that it would be almost impossible to frame tax
+legislation which cannot be abused. Moreover, as already pointed out above, the trial
+and error method is inherent in every legislative effort to deal with an obstinate social
+or economic issue and if it is found that any immunity or exemption granted under
+the Act is being utilised for tax evasion or avoidance not intended by the legislature,
+the Act can always be amended and the abuse terminated. We are accordingly of the
+view that none of the provisions of the Act is violative of Article 14 and its
+constitutional validity must be upheld.” (emphasis supplied) Writ Petition (C) No.
+421 of 2019
+22. Likewise, in Bhavesh D. Parish v. Union of India (2000) 5 SCC 471, this Court held :
+“26. The services rendered by certain informal sectors of the Indian economy could not be belittled.
+However, in the path of economic progress, if the informal system was sought to be replaced by a
+more organised system, capable of better regulation and discipline, then this was an economic
+philosophy reflected by the legislation in question. Such a philosophy might have its merits and
+demerits. But these were matters of economic policy. They are best left to the wisdom of the
+legislature and in policy matters the accepted principle is that the courts should not interfere.
+Moreover in the context of the changed economic scenario the expertise of people dealing with the
+subject should not be lightly interfered with. The consequences of such interdiction can have
+large-scale ramifications and can put the clock back for a number of years. The process of
+rationalisation of the infirmities in the economy can be put in serious jeopardy and, therefore, it is
+necessary that while dealing with economic legislations, this Court, while not jettisoning its
+jurisdiction to curb arbitrary action or unconstitutional legislation, should interfere only in those
+few cases where the view reflected in the legislation is not possible to be taken at all.
+***
+30. Before we conclude there is another matter which we must advert to. It has been brought to our
+notice that Section 45-S of the Act has been challenged in various High Courts and a few of them
+have granted the stay of provisions of Section 45-S. When considering an application for staying the
+operation of a piece of legislation, and that too pertaining to economic reform or change, then Writ
+Petition (C) No. 421 of 2019 the courts must bear in mind that unless the provision is manifestly
+unjust or glaringly unconstitutional, the courts must show judicial restraint in staying the
+applicability of the same. Merely because a statute comes up for examination and some arguable
+point is raised, which persuades the courts to consider the controversy, the legislative will should
+not normally be put under suspension pending such consideration. It is now well settled that there is
+always a presumption in favour of the constitutional validity of any legislation, unless the same is set
+aside after final hearing and, therefore, the tendency to grant stay of legislation relating to economic
+reform, at the interim stage, cannot be understood. The system of checks and balances has to be
+utilised in a balanced manner with the primary objective of accelerating economic growth rather
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+21
+than suspending its growth by doubting its constitutional efficacy at the threshold itself.” (emphasis
+supplied)
+23. In Directorate General of Foreign Trade v. Kanak Exports, (2016) 2 SCC 226, this Court has held
+:
+“109. Therefore, it cannot be denied that the Government has a right to amend, modify or even
+rescind a particular scheme. It is well settled that in complex economic matters every decision is
+necessarily empiric and it is based on experimentation or what one may call trial and error method
+and therefore, its validity cannot be tested on any rigid prior considerations or on the application of
+any straitjacket formula. In BALCO Employees' Union v. Union of India, (2002) 2 SCC 333] , the
+Supreme Court held that laws, including executive action relating to economic activities should be
+viewed with greater latitude than laws touching civil rights such as freedom of Writ Petition (C) No.
+421 of 2019 speech, religion, etc. that the legislature should be allowed some play in the joints
+because it has to deal with complex problems which do not admit of solution through any doctrine
+or straitjacket formula and this is particularly true in case of legislation dealing with economic
+matters, where having regard to the nature of the problems greater latitude require to be allowed to
+the legislature.” **** The raison d'être for the Insolvency and Bankruptcy Code ****
+27. As is discernible, the Preamble gives an insight into what is sought to be achieved by the Code.
+The Code is first and foremost, a Code for reorganisation and insolvency resolution of corporate
+debtors. Unless such reorganisation is effected in a time-bound manner, the value of the assets of
+such persons will deplete. Therefore, maximisation of value of the assets of such persons so that they
+are efficiently run as going concerns is another very important objective of the Code. This, in turn,
+will promote entrepreneurship as the persons in management of the corporate debtor are removed
+and replaced by entrepreneurs. When, therefore, a resolution plan takes off and the corporate
+debtor is brought back into the economic mainstream, it is able to repay its debts, which, in turn,
+enhances the viability of credit in the hands of banks and financial institutions. Above all,
+ultimately, the interests of all stakeholders are looked after as the corporate debtor itself becomes a
+beneficiary of the resolution scheme —workers are paid, the creditors in the long run will be repaid
+in full, and shareholders/investors are able to maximise their investment. Timely resolution of a
+corporate debtor who is in the red, by an effective legal framework, would go a long way to support
+the development of credit markets. Since more Writ Petition (C) No. 421 of 2019 investment can be
+made with funds that have come back into the economy, business then eases up, which leads,
+overall, to higher economic growth and development of the Indian economy. What is interesting to
+note is that the Preamble does not, in any manner, refer to liquidation, which is only availed of as a
+last resort if there is either no resolution plan or the resolution plans submitted are not up to the
+mark. Even in liquidation, the liquidator can sell the business of the corporate debtor as a going
+concern. (See ArcelorMittal (India) (P) Ltd. v. Satish Kumar Gupta, (2019) 2 SCC 1 at para 83, fn 3).
+**** Epilogue
+120. The Insolvency Code is a legislation which deals with economic matters and, in the larger sense,
+deals with the economy of the country as a whole. Earlier experiments, as we have seen, in terms of
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+22
+legislations having failed, “trial” having led to repeated “errors”, ultimately led to the enactment of
+the Code. The experiment contained in the Code, judged by the generality of its provisions and not
+by so-called crudities and inequities that have been pointed out by the petitioners, passes
+constitutional muster. To stay experimentation in things economic is a grave responsibility, and
+denial of the right to experiment is fraught with serious consequences to the nation. We have also
+seen that the working of the Code is being monitored by the Central Government by Expert
+Committees that have been set up in this behalf. Amendments have been made in the short period in
+which the Code has operated, both to the Code itself as well as to subordinate legislation made
+under it. This process is an ongoing process which involves all stakeholders, including the
+petitioners.
+****” Writ Petition (C) No. 421 of 2019
+9. As elucidated above, the Companies Act, 2013 does not deal with insolvency and bankruptcy
+when the companies are unable to pay their debts or the aspects relating to the revival and
+rehabilitation of the companies and their winding up if revival and rehabilitation is not possible. In
+principle, it cannot be doubted that the cases of revival or winding up of the company on the ground
+of insolvency and inability to pay debts are different from cases where companies are wound up
+under Section 271 of the Companies Act 2013. The two situations are not identical. Under Section
+271 of the Companies Act, 2013, even a running and financially sound company can also be wound
+up for the reasons in clauses (a) to (e). The reasons and grounds for winding up under Section 271 of
+the Companies Act, 2013 are vastly different from the reasons and grounds for the revival and
+rehabilitation scheme as envisaged under the Code. The two enactments deal with two distinct
+situations and in our opinion, they cannot be equated when we examine whether there is
+discrimination or violation of Article 14 of the Constitution of India. For the revival and
+rehabilitation of the companies, certain sacrifices are required from all quarters, including the
+workmen. In case of insolvent companies, for the sake of survival and regeneration, Writ Petition
+(C) No. 421 of 2019 everyone, including the secured creditors and the Central and State
+Government, are required to make sacrifices. The workmen also have a stake and benefit from the
+revival of the company, and therefore unless it is found that the sacrifices envisaged for the
+workmen, which certainly form a separate class, are onerous and burdensome so as to be manifestly
+unjust and arbitrary, we will not set aside the legislation, solely on the ground that some or marginal
+sacrifice is to be made by the workers. We would also reject the argument that to find out whether
+there was a violation of Article 14 of the Constitution of India or whether the right to life under
+Article 21 Constitution of India was infringed, we must word by word examine the waterfall
+mechanism envisaged under the Companies Act, 2013, where the company is wound up in terms of
+grounds (a) to (e) of Section 271 of the Companies Act, 2013; and the rights of the workmen when
+the insolvent company is sought to be revived, rehabilitated or wound up under the Code. The
+grounds and situations in the context of the objective and purpose of the two enactments are
+entirely different.
+10. We now turn to the difference in the waterfall mechanism provided in the Companies Act, 2013
+and the Writ Petition (C) No. 421 of 2019 Code. As per Section 3246 of the Companies Act, 2013, all
+debts payable on a contingency, or all claims against the company, present or future, certain or
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+23
+contingent, ascertained or sounding only in damages, are admissible to proof against the company.
+A just estimate can be made so far as possible in respect of value of such debts or claims as may be
+subject to any contingency, damages, etc. and do not bear a certain value. Section 3267 of the
+Companies Act, 2013 deals with overriding 6 324. Debts of all descriptions to be admitted to
+proof.— In every winding up (subject, in the case of insolvent companies, to the application in
+accordance with the provisions of this Act or of the law of insolvency), all debts payable on a
+contingency, and all claims against the company, present or future, certain or contingent,
+ascertained or sounding only in damages, shall be admissible to proof against the company, a just
+estimate being made, so far as possible, of the value of such debts or claims as may be subject to any
+contingency, or may sound only in damages, or for some other reason may not bear a certain value.
+7 326. Overriding preferential payments.—(1) In the winding up of a company under this Act, the
+following debts shall be paid in priority to all other debts:
+(a) workmen's dues; and;
+(b) where a secured creditor has realised a secured asset, so much of the debts due to such secured
+creditor as could not be realised by him or the amount of the workmen's portion in his security (if
+payable under the law), whichever is less, pari passu with the workmen's dues:
+Provided that in case of the winding up of a company, the sums referred to in sub-clauses (i) and (ii)
+of clause (b) of the Explanation, which are payable for a period of two years preceding the winding
+up order or such other period as may be prescribed, shall be paid in priority to all other debts
+(including debts due to secured creditors), within a period of thirty days of sale of assets and shall be
+subject to such charge over the security of secured creditors as may be prescribed.
+(2) The debts payable under the proviso to sub-section (1) shall be paid in full before any payment is
+made to secured creditors and thereafter debts payable under that sub-section shall be paid in full,
+unless the assets are insufficient to meet them, in which case they shall abate in equal proportions.
+Explanation.—For the purposes of this section, and Section 327—
+(a) “workmen”, in relation to a company, means the employees of the company, being workmen
+within the meaning of clause(s) of Section 2 of the Industrial Writ Petition (C) No. 421 of 2019
+preferential payments which have to be paid in priority to all other debts. These include the
+workmen debts, and dues of the secured creditor where the secured creditor has realised the secured
+asset but could not realise the entire amount, or the amount of workmen’s portion in his security
+payable under the law, whichever is less, pari passu with the workmen’s dues. Thus, this balances
+and Disputes Act, 1947;
+(b) “workmen's dues”, in relation to a company, means the aggregate of the following sums due from
+the company to its workmen, namely—
+(i) all wages or salary including wages payable for time or piece work and salary earned wholly or in
+part by way of commission of any workman in respect of services rendered to the company and any
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+24
+compensation payable to any workman under any of the provisions of the Industrial Disputes Act,
+1947;
+(ii) all accrued holiday remuneration becoming payable to any workman or, in the case of his death,
+to any other person in his right on the termination of his employment before or by the effect of the
+winding up order or resolution;
+(iii) unless the company is being wound up voluntarily merely for the purposes of reconstruction or
+amalgamation with another company or unless the company has, at the commencement of the
+winding up, under such a contract with insurers as is mentioned in Section 14 of the Workmen's
+Compensation Act, 1923, rights capable of being transferred to and vested in the workmen, all
+amount due in respect of any compensation or liability for compensation under the said Act in
+respect of the death or disablement of any workman of the company;
+(iv) all sums due to any workman from the provident fund, the pension fund, the gratuity fund or
+any other fund for the welfare of the workmen, maintained by the company;
+(c) “workmen's portion”, in relation to the security of any secured creditor of a company, means the
+amount which bears to the value of the security the same proportion as the amount of the
+workmen's dues bears to the aggregate of the amount of workmen's dues and the amount of the
+debts due to the secured creditors.
+Illustration The value of the security of a secured creditor of a company is Rs. 1,00,000. The total
+amount of the workmen's dues is Rs. 1,00,000. The amount of the debts due from the company to
+its secured creditors is Rs. 3,00,000. The aggregate of the amount of workmen's dues and the
+amount of debts due to secured creditors is Rs. 4,00,000. The workmen's portion of the security is,
+therefore, one-fourth of the value of the security, that is Rs. 25,000.
+Writ Petition (C) No. 421 of 2019 equates the rights of the secured creditor to realise the secured
+asset, but in case the secured creditor is not able to realise the full amount or has paid an amount to
+the workmen if payable under the law, whichever is less, these dues rank pari passu with the
+workmen’s dues. Explanation to Section 326 of the Companies Act, 2013 defines ‘workmen’, which
+means employees within the meaning of Section 2(s) of the Industrial Disputes Act, 1947; and the
+expressions “workmen’s dues”; and “workmen’s portion”, which expressions are terms of the
+Companies Act, 2013 specially used in clause (b) of sub- section (1) to Section 326 of the Companies
+Act, 2013. The workmen’s portion in relation to the security of any secured creditor of a company
+means the amount which bears to the value of security, the same proportion as the amount of
+workmen’s dues bears to the aggregate of the amount of workmen’s dues and the amount of debts
+due to the secured creditors. The illustration clarifies the formula by way of an hypothetical case,
+where the secured creditors and workmen’s dues are both Rs.1 lakh. The amount of the debts due
+from the company to the secured creditors is hypothetically taken as Rs. 3 lakhs. Accordingly, the
+aggregate amount due towards workmen’s dues and the amount of debts due to the Writ Petition (C)
+No. 421 of 2019 secured creditors is Rs. 4 lakhs. In this background, when the value of the security
+of the secured creditors is Rs. 1 lakh, one-fourth of the value of the security, i.e. Rs.25,000/- would
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+25
+be the workmen’s portion. To this extent, there is no difficulty or dispute. As noticed below there is
+hardly any difference in the said hierarchy and the waterfall mechanism under the Code.
+11. However, the proviso to sub-section (1) to Section 326 of the Companies Act, 2013 states that in
+case of winding up of the company, the sums referred to in sub- clauses (i) and (ii) to clause (b) of
+the Explanation to Section 326 of the Companies Act, 2013, which are payable for a period of two
+years preceding the winding up order or such other period as may be prescribed, shall be paid in
+priority to all other debts, including debts due to secured creditors. This payment is to be made
+within a period of thirty days from the sale of assets and shall be subject to such charge over the
+security of the secured creditors. Sub-clause (i) to clause (b) of the Explanation to Section 326 of the
+Companies Act, 2013 refers to all wages or salary, including wages payable for time or piece work
+and salary earned wholly or in part, etc. under any provisions of the Industrial Disputes Act, 1947.
+Sub- clause (ii) to clause (b) of the Explanation to Section 326 Writ Petition (C) No. 421 of 2019 of
+the Companies Act, 2013 deals with all accrued holiday remuneration payable to any workmen or, in
+the case of his death, to any other person in his right on termination of his employment, etc.
+Sub-clauses (iii) and (iv) of clause
+(b) of the Explanation to Section 326 of the Companies Act, 2013 are excluded from the proviso.
+These sub- clauses deal with liability of compensation under the Workmen’s Compensation Act,
+1923 in respect of death or disablement of the workmen or all sums due to any workman from the
+provident fund, the pension fund, the gratuity fund or any other fund of the welfare of the
+workmen8. What is clear from the provision is that the proviso applies in case of winding up of a
+company to the sums referred to in sub-clauses (i) and (ii) of clause (b) of the Explanation to Section
+326 of the Companies Act, 2013 which are payable for a period of two years preceding the winding
+up order or such other period as may be prescribed. We are not informed that a different period has
+been prescribed and, therefore, the sums referred to in sub-clauses (i) and (ii) to clause (b) of the
+Explanation to Section 326 of the Companies Act, 2013 8 For the purpose of the present decision,
+we are not required to comment on the provisions of the Employees’ Provident Funds and
+Miscellaneous Provisions Act, 1952 and the payment of workmen’s dues under the Companies
+Act,1956 or even Section 36 (4)(a)(iii) of the Code. However, see - Employees Provident Fund
+Commissioner v. Official Liquidator of Esskay Pharmaceuticals Limited, (2011) 10 SCC 727 and
+Bhupinder Singh v. Unitech Limited, (2022) 8 SCC 749.
+Writ Petition (C) No. 421 of 2019 are payable for two years preceding the winding up order. Thus,
+this period of two years is with reference to the date of the winding up order, and not with reference
+to the date earlier in point of time, that is, when a winding up petition is filed. This restricts the
+period for which payment under sub-clauses (i) and (ii) to clause (b) of the Explanation to Section
+326 of the Companies Act, 2013 would apply. Entire unpaid dues are not covered by the proviso to
+sub- section (1) to Section 326 of the Companies Act, 2013.
+12. When we turn our attention to the Code, it is to be first noted that in terms of Section
+36(4)(a)(iii) of the Code, all sums due to any workman or employee from the provident fund, the
+pension fund and the gratuity fund, do not form part and are not to be included in the liquidation
+proceedings.9 Sub-section (1) to Section 52 of the Code gives two options to a secured creditor. First,
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+26
+the secured creditor in a liquidation proceeding may relinquish its security interest and receive the
+proceeds from the sale of assets by the liquidator in the manner specified in Section 9 For the
+purpose of the present decision, we are not interpreting sub-clause (iii) to clause (a) of sub-section
+(4) to Section 36 of the Code as this is an issue of some debate and pending consideration in other
+matters. The legal effect of exclusion is that, the amount of sums due to any workmen or employee
+from the provident fund, the pension fund or the gratuity fund cannot be made subject matter of
+reduction or dilution even in a rehabilitation or revival plan. They are excluded from the waterfall
+mechanism and would not be used in recovery on liquidation, and they cannot be shared.
+Writ Petition (C) No. 421 of 2019 53 of the Code. The second option is to realise the security interest,
+but in the manner specified in Section 52 of the Code. Sub-section (2) to Section 52 of the Code
+states that where the secured creditor realises the security interest, he shall inform the liquidator of
+such security interest and identify the asset subject to such security interest to be realised. The
+liquidator is to verify the security interest and shall permit the secured creditor to realise such
+security interest, which is proved either by records of such security interest maintained by an
+information utility, or by such other means as may be specified by the Board. Sub-section (4) to
+Section 52 of the Code states that the secured creditor may enforce, realise, settle, compromise or
+deal with the secured asset in accordance with such law as applicable to the security interest being
+realised and to the secured creditor. The secured creditor is to accordingly apply the proceeds to
+recover the debts due to him. We need not refer to sub- section (5) to Section 52 of the Code as it
+relates to the action which the secured creditor may take if he faces resistance from the corporate
+debtor or any other person connected therewith in taking possession of, selling or otherwise
+disposing off the security. Sub-section (6) to Section 52 of the Code applies when an adjudicating
+Writ Petition (C) No. 421 of 2019 authority is in receipt of an application under sub-section (5) to
+Section 52 of the Code. Sub-section (7) to Section 52 of the Code, however, is important as it states
+that where on enforcement of the security interest, an amount by way of proceeds is in excess of the
+debts due to the secured creditor, the secured creditor shall account for and pay the excess/surplus
+amount to the liquidator from enforcement of such secured assets. The amount of insolvency
+resolution process costs, due from secured creditors who realise their security interests in the
+manner provided in the section, are to be deducted from the proceeds of any realisation by such
+secured creditors. They are to be transferred and included in the liquidation estate. Sub-section (9)
+to Section 52 of the Code states that where proceeds for realisation of the secured assets are not
+adequate to repay the debts owed to the secured creditor, the unpaid debts of such secured creditor
+shall be paid by the liquidator in the manner specified in clause
+(e) to sub-section (1) to Section 53 of the Code.
+13. To protect the interest of the workmen where the secured creditor does not relinquish its security
+interest to fall under Section 53 of the Code, Regulation 21A 10 of the 10 21A. Presumption of
+security interest.— (1) A secured creditor shall inform the liquidator of its decision to relinquish its
+security interest to the liquidation estate or realise its security interest, as the case may be, in Form
+C or Form D of Writ Petition (C) No. 421 of 2019 Insolvency and Bankruptcy Board of India
+(Liquidation Process) Regulations, 2016 has been enacted, and it requires that the secured creditor,
+who opts to realise its security interest as per section 52 of the Code, has to pay as much towards the
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+27
+amount payable under the clause (a) and sub-clause (i) to clause (b) of sub-section (1) to Section 53
+of the Code to the liquidator within the time and the manner stipulated therein. The workmen’s
+dues, even when the secured creditor opts to proceed under Section 52 of the Code, are therefore
+protected in terms of sub-clause (b) of sub-section (1) to Section 53 of the Code.
+Schedule II:
+Provided that, where a secured creditor does not intimate its decision within thirty days from the
+liquidation commencement date, the assets covered under the security interest shall be presumed to
+be part of the liquidation estate.
+(2) Where a secured creditor proceeds to realise its security interest, it shall pay -
+(a) as much towards the amount payable under clause (a) and sub-clause (i) of clause (b) of
+sub-section (1) of section 53, as it would have shared in case it had relinquished the security interest,
+to the liquidator within ninety days from the liquidation commencement date; and
+(b) the excess of the realised value of the asset, which is subject to security interest, over the amount
+of his claims admitted, to the liquidator within one hundred and eighty days from the liquidation
+commencement date:
+Provided that where the amount payable under this sub-regulation is not certain by the date the
+amount is payable under this sub-regulation, the secured creditor shall pay the amount, as
+estimated by the liquidator:
+Provided further that any difference between the amount payable under this sub-regulation and the
+amount paid under the first proviso shall be made good by the secured creditor or the liquidator, as
+the case may be, as soon as the amount payable under this sub-regulation is certain and so informed
+by the liquidator.
+(3) Where a secured creditor fails to comply with sub-regulation (2), the asset, which is subject to
+security interest, shall become part of the liquidation estate.
+Writ Petition (C) No. 421 of 2019
+14. Before we refer to Section 53 of the Code, we would like to take note of Section 30 of the Code,
+which relates to the submission of resolution plan, which is required to be examined by the
+resolution professional in the manner stipulated in sub-section (2) to Section 30 11 of the Code.
+Substantial part of clause (b) of sub-section (2) to Section 11 30. Submission of resolution plan.—(1)
+A resolution applicant may submit a resolution plan along with an affidavit stating that he is eligible
+under Section 29-A to the resolution professional prepared on the basis of the information
+memorandum.
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+28
+(2) The resolution professional shall examine each resolution plan received by him to confirm that
+each resolution plan—
+(a) provides for the payment of insolvency resolution process costs in a manner specified by the
+Board in priority to the payment of other debts of the corporate debtor;
+(b) provides for the payment of debts of operational creditors in such manner as may be specified by
+the Board which shall not be less than—
+(i) the amount to be paid to such creditors in the event of a liquidation of the corporate debtor under
+Section 53; or
+(ii) the amount that would have been paid to such creditors, if the amount to be distributed under
+the resolution plan had been distributed in accordance with the order of priority in sub-section (1) of
+Section 53, whichever is higher, and provides for the payment of debts of financial creditors, who do
+not vote in favour of the resolution plan, in such manner as may be specified by the Board, which
+shall not be less than the amount to be paid to such creditors in accordance with sub-section (1) of
+Section 53 in the event of a liquidation of the corporate debtor.
+Explanation 1.—For the removal of doubts, it is hereby clarified that a distribution in accordance
+with the provisions of this clause shall be fair and equitable to such creditors.
+Explanation 2.—For the purposes of this clause, it is hereby declared that on and from the date of
+commencement of the Insolvency and Bankruptcy Code (Amendment) Act, 2019, the provisions of
+this clause shall also apply to the corporate insolvency resolution process of a corporate debtor—
+Writ Petition (C) No. 421 of 2019 30 of the Code relates to the payment of debts of operational
+creditors, which is not relevant for us. However, the later portion of clause (b) of sub-section (2) to
+Section 30 of the Code provides for the payment of debts of financial creditors who do not vote in
+favour of the resolution plan. The amount payable to them, it stipulates, shall not be less than the
+amount to be paid to such creditors in accordance with sub-section (1) to Section 53 of the Code in
+the event of a liquidation of the corporate debtor. Sub-section (4) to Section 30 of the Code states
+when and how a Committee of Creditors is to approve the resolution plan. Sub-section (6) states
+that
+(i) where a resolution plan has not been approved or rejected by the Adjudicating Authority;
+(ii) where an appeal has been preferred under Section 61 or Section 62 or such an appeal is not time
+barred under any provision of law for the time being in force; or
+(iii) where a legal proceeding has been initiated in any court against the decision of the Adjudicating
+Authority in respect of a resolution plan;
+(c) provides for the management of the affairs of the corporate debtor after approval of the
+resolution plan;
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+29
+(d) the implementation and supervision of the resolution plan;
+(e) does not contravene any of the provisions of the law for the time being in force;
+(f) conforms to such other requirements as may be specified by the Board.
+Explanation.—For the purposes of clause (e), if any approval of shareholders is required under the
+Companies Act, 2013 (18 of 2013) or any other law for the time being in force for the
+implementation of actions under the resolution plan, such approval shall be deemed to have been
+given and it shall not be a contravention of that Act or law.
+**** Writ Petition (C) No. 421 of 2019 the resolution professional shall submit the resolution plan as
+approved by the Committee of Creditors to the adjudicating authority. Section 31 12 of the Code
+relates to approval of the resolution plan. The adjudicating authority is to satisfy that the resolution
+plan as approved by the Committee of Creditors under sub-section (4) of Section 30 of the Code,
+meets the requirements as referred to in sub-section (2) to Section 30 of the Code. Further, the
+resolution plan has provisions for its effective implementation. Sub-section (2) to Section 31 of the
+Code states that where the adjudicating authority is satisfied that the resolution plan does not
+confirm to the requirements referred to in sub-section (1) to Section 31 of the Code, it may by an
+order reject the resolution plan.
+12 31. Approval of resolution plan.—(1) If the Adjudicating Authority is satisfied that the resolution
+plan as approved by the committee of creditors under sub- section (4) of Section 30 meets the
+requirements as referred to in sub-section (2) of Section 30, it shall by order approve the resolution
+plan which shall be binding on the corporate debtor and its employees, members, creditors,
+including the Central Government, any State Government or any local authority to whom a debt in
+respect of the payment of dues arising under any law for the time being in force, such as authorities
+to whom statutory dues are owed, guarantors and other stakeholders involved in the resolution
+plan: Provided that the Adjudicating Authority shall, before passing an order for approval of
+resolution plan under this sub-section, satisfy that the resolution plan has provisions for its effective
+implementation.
+(2) Where the Adjudicating Authority is satisfied that the resolution plan does not confirm to the
+requirements referred to in sub-section (1), it may, by an order, reject the resolution plan.
+**** Writ Petition (C) No. 421 of 2019 We need not refer to other sub-sections of Section 31 of the
+Code.
+15. We now turn our attention to Section 53 of the Code which begins with a non-obstante clause
+and states that notwithstanding anything to the contrary contained in any law enacted by the
+Parliament or any State Legislature for the time being in force, the proceeds from the sale of
+liquidation assets shall be distributed in the order of priority, which is stipulated, and within such
+period and such manner as may be specified. The consequence of sub-section (1) to Section 53 of the
+Code is that it will override the rights of parties, including the secured creditor, when the said
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+30
+provision applies. Section 53 of the Code is the complete and comprehensive code which ensures
+collection of assets and then provides the manner in which the creditors are to be paid. Even the
+rights of the secured creditor falling under Section 53 of the Code to enforce, realise, settle,
+compromise or deal with the secured assets as applicable to the security interest are diluted and
+compromised.
+15.1 Clause (a) to sub-section (1) to Section 53 deals with insolvency resolution process costs and the
+liquidation costs which are to be paid in full. No grievance or issue can be raised in respect of the
+said clause.
+Writ Petition (C) No. 421 of 2019 Clause (b) to sub-section (1) to Section 53 states that the debts due
+in the form of workmen’s dues for a period of twenty four months preceding the liquidation
+commencement date and the debts owed to the secured creditor in the event such secured creditor
+has relinquished security in the manner set out in Section 52 of the Code shall rank equally between
+and amongst the workmen and the secured creditors. The Explanation to Section 53 of the Code
+states that ‘workmen’s dues’ shall have the same meaning as assigned to it in Section 326 of the
+Companies Act, 2013. In other words, Explanation to Section 326 of the Companies Act, 2013 has
+been incorporated and applies to the waterfall mechanism as prescribed in clause (b) to sub-section
+(1) to Section 53 of the Code. What is significant here is that under clause (b) to sub-section (1) to
+Section 53 of the Code, the workmen’s dues are for the period of twenty four months preceding the
+liquidation commencement date. The liquidation commencement date, as defined in terms of
+sub-section (17) to Section 5 of the Code, is much earlier in point of time and need not coincide with
+the date of winding up. This is in the interest of the workmen. Clause
+(i) of Explanation to Section 53 of the Code states that where the distribution of proceeds in respect
+of class of Writ Petition (C) No. 421 of 2019 recipients that rank equally, each of the debts would be
+paid either in full or would be paid in equal proportion within the same class of recipients, if the
+proceeds are insufficient to meet the debts in full. Ex facie, the clause is very just and fair. It is to be
+noted that the wages and unpaid dues owed to employees other than the workmen fall in clause (c),
+which is below clause (b) to sub-section (1) to Section 53 of the Code. They are to be paid wages and
+unpaid dues only for a period of twelve months preceding the liquidation commencement date, and
+that too only if surplus funds are available after making payment in terms of clause (a) and (b) of
+sub-section (1) to Section 53 of the Code. Clause (d) of sub-section (1) to Section 53 of the Code
+relates to financial debts owed to unsecured creditors. The amounts due to the Central Government
+and the State Government, etc., and the debts owed to a secured creditor for any amount that
+remains unpaid following the enforcement of security interest, have been clubbed together in clause
+(e) of sub- section (1) to Section 53 of the Code, and have to be ranked equally between and among
+both of them. The remaining debts and dues fall in clause (f) of sub-section (1) to Section 53 of the
+Code. Preference shareholders fall under clause (g) of sub-section (1) to Section 53 of the Writ
+Petition (C) No. 421 of 2019 Code, and equity shareholders or partners fall under clause (h) of
+sub-section (1) to Section 53 of the Code. Sub-section (2) to Section 53 of the Code states that any
+contractual arrangements between recipients under sub- section (1) with equal ranking, if disrupting
+the order of priority under the said sub-section will be disregarded by the liquidator.
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+31
+16. The waterfall mechanism is based on a structured mathematical formula, and the hierarchy is
+created in terms of payment of debts in order of priority with several qualifications, striking down
+any one of the provisions or rearranging the hierarchy in the waterfall mechanism may lead to
+several trips and disrupt the working of the equilibrium as a whole and stasis, resulting in
+instability. Every change in the waterfall mechanism is bound to lead to cascading effects on the
+balance of rights and interests of the secured creditors, operational creditors and even the Central
+and State Governments. Depending upon the facts, in some cases, the waterfall mechanism in the
+Code may be more beneficial than the hierarchy provided under Section 326 of the Companies Act,
+2013 and vice-versa. Therefore, we hesitate and do not accept the arguments of the petitioners.
+Writ Petition (C) No. 421 of 2019
+17. The Code is based on the organic evolution of law and is a product of an extensive consultative
+process to meet the requirements of the Code governing liquidation. It introduced a comprehensive
+and time-bound framework to maximise the value of assets of all persons and balance the interest of
+the stakeholders. The guiding principle for the Code in setting the priority of payments in
+liquidation was to bring the practices in India in line with global practices. In the waterfall
+mechanism, after the costs of the insolvency resolution process and liquidation, secured creditors
+share the highest priority along with a defined period of dues of the workmen. The unpaid dues of
+the workmen are adequately and significantly protected in line with the objectives sought to be
+achieved by the Code and in terms of the waterfall mechanism prescribed by Section 53 of the Code.
+In either case of relinquishment or non-relinquishment of the security by the secured creditor, the
+interests of workmen are protected under the Code. In fact, the secured creditors are taking
+significant hair-cut and workmen are being compensated on an equitable basis in a just and proper
+manner as per Section 53 of the Code. The Code balances the rights of the secured creditors, who are
+financial institutions in which the general public has Writ Petition (C) No. 421 of 2019 invested
+money, and also ensures that the economic activity and revival of a viable company is not hindered
+because it has suffered or fallen into a financial crisis. The Code focuses on bringing additional gains
+to both the economy and the exchequer through efficiency enhancement and consequent greater
+value capture. In economic matters, a wider latitude is given to the law- maker and the Court allows
+for experimentation in such legislations based on practical experiences and other problems seen by
+the law-makers. In a challenge to such legislation, the Court does not adopt a doctrinaire approach.
+Some sacrifices have to be always made for the greater good, and unless such sacrifices are prima
+facie apparent and ex facie harsh and unequitable as to classify as manifestly arbitrary, these would
+be interfered with by the court.
+18. In view of the above and for the reasons stated above and as sub-section (7) of Section 327 of the
+Act, 2013 provides that Sections 326 and 327 of the Act, 2013 shall not be applicable in the event of
+liquidation under the IBC, which has been necessitated in view of the enactment of IBC and it
+applies with respect to the liquidation of a company under the IBC, Section 327(7) of Writ Petition
+(C) No. 421 of 2019 the Act, 2013 cannot be said to be arbitrary and/or violative of Article 21 of the
+Constitution of India. In case of the liquidation of a company under the IBC, the distribution of the
+assets shall have to be made as per Section 53 of the IBC subject to Section 36(4) of the IBC, in case
+of liquidation of company under IBC.
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+32
+19. In view of the above and for the reasons stated above, the writ petition(s) lack merits and the
+same deserve to be dismissed and are accordingly dismissed. However, in the facts and
+circumstances of the case, there shall be no order as to costs.
+Pending applications, if any, also stand disposed of.
+………………………………….J.
+                                   [M.R. SHAH]
+NEW DELHI;                     ………………………………….J.
+MAY 02, 2023.                     [SANJIV KHANNA]
+Writ Petition (C) No. 421 of 2019
+Moser Baer Karamchari Union Thr. ... vs Union Of India on 2 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/94292477/
+33

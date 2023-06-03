@@ -1,0 +1,764 @@
+Supreme Court of India
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Author: C.T. Ravikumar
+Bench: M.R. Shah, C.T. Ravikumar
+                                                                     Reportable
+                                  IN THE SUPREME COURT OF INDIA
+                                   CIVIL APPELLATE JURISDICTION
+                                     Civil Appeal No. 1669 of 2020
+                         Sabarmati Gas Limited
+                                                                    …Appellant
+                                                 Versus
+                         Shah Alloys Limited
+                                                                …Respondents
+                                            JUDGMENT
+C.T. RAVIKUMAR, J.
+1. This appeal under Section 62 of the Insolvency and Bankruptcy Code, 2016 (IBC) is preferred by
+Sabarmati Gas Limited (hereinafter referred to as the appellant) against the final judgment dated
+19.12.2019 of the National Company Law Appellate Tribunal (NCLAT) in Company Appeal (AT)
+(Insolvency) No. 820 of 2019. As per the same the NCLAT dismissed the appeal preferred by the
+appellant against order dated 27.06.2019 in CP Signature Not Verified (IB) No.
+516/9/NCLT/AHM/2018 of the National Company Digitally signed by Sanjay Kumar Date:
+2023.01.04 17:05:11 IST Reason:
+Law Tribunal, Ahmedabad Bench, (NCLT) dismissing the application filed under Section 9 of the
+IBC, in its capacity as operational creditor of ‘Shah Alloys Limited’ (hereinafter referred to as the
+‘respondent’).
+2. In the captioned appeal mainly, twin questions of law call for consideration id est :-
+(i) Whether in computation of the period of limitation in regard to an application
+filed under Section 9, IBC the period during which the operational creditor’s right to
+proceed against or sue the corporate debtor that remain suspended by virtue of
+Section 22 (1) of the Sick Industrial Companies (Special Provisions Act, 1985) (SICA)
+can be excluded, as provided under Section 22 (5) of SICA?
+(ii) Whether the respondent has raised a dispute which is describable as 'pre-existing dispute’
+between itself and the appellant warranting dismissal of application under Section 9 of the IBC at
+the threshold?
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+1
+While considering the stated twin questions certain other allied questions of relevance may also crop
+up for consideration, which we will state and consider at the appropriate time. The respondent
+-corporate debtor was the petitioner in Case No. 13 of 2010 before the Board for Industrial and
+Financial Re-construction (BIFR) and the appellant herein was the applicant in Miscellaneous
+Application No. 432 of 2013 in Case No. 13 of 2010.
+3. Heard learned Senior Counsel for the appellant Shri Shyam Divan and Mr. S. Guru Krishna
+Kumar, learned Senior Counsel for the respondent.
+4. Consideration of the questions, mentioned above and to be mentioned hereinafter, is called for, in
+the following factual background:
+The respondent, for its manufacturing needs, required commercial supply of natural gas. To
+facilitate the same on 30.05.2008 the appellant and the respondent entered into a Gas Sales
+Agreement (GSA) whereby and whereunder the appellant was having the obligation to supply
+natural gas conforming to the specifications laid down in Annexure-2, appended to GSA and it also
+forms part of the contract. Going by clause 11.2 of GSA, notwithstanding any dispute in relation to
+any amount invoiced, the respondent could not withhold payment in accordance with the GSA.
+According to the appellant, the respondent defaulted payment of invoices inasmuch as it made only
+partial irregular payments from November, 2011. Meanwhile, the respondent approached BIFR to
+get it declared as a ‘sick unit’ and for recommendation of a plan for its rehabilitation, in terms of the
+provisions under SICA. The reference was admitted by BIFR as case No. 13 of 2010 and as per order
+dated 31.08.2010 the respondent was declared as a ‘sick company’. It is the case of the appellant that
+by virtue of Section 22 of SICA there was a moratorium on the respondent and therefore, it could
+not have proceeded against the respondent for outstanding dues, thenceforth, without obtaining the
+permission of the BIFR. On 07.08.2012 the appellant stopped the gas supply and then, intervened in
+the pending proceedings before the BIFR viz., 13 of 2010. On 08.03.2013, as per Miscellaneous
+Application No. 432 of 2013 the appellant sought permission of the BIFR for initiating proceedings
+against the respondent for recovery of an outstanding dues of Rs. 4,71,56,095/-. On 09.09.2015, the
+BIFR passed an order thereon. Shortly thereafter, to be precise, w.e.f. 01.12.2016, SICA was
+repealed.
+5. According to the appellant, BIFR became functus officio and all proceedings pending before it,
+including the case of the respondent, were abated and several sections of IBC, including Sections 8
+and 9, came into effect on 01.12.2016. Hence, after the enactment of IBC, the appellant issued a
+demand notice on 01.04.2017, under Section 8 of the IBC read with Rule 5 of the Insolvency and
+Bankruptcy (Application to Adjudicating Authority), Rules 2016, in Form No. 3 demanding payment
+of operational debt of Rs. 4,71,56,094.76/-. On 10.04.2017, the respondent gave a reply to the
+aforesaid demand notice stating that there was shortfall in supply of natural gas and also a huge loss
+due to the disconnection of gas supply. Raising such contentions, the respondent declined the
+liability to pay the amount demanded. Thereafter, the appellant filed an application under Section 9
+of the IBC before NCLT, Ahmedabad seeking initiation of Corporate Insolvency Resolution Process
+(CIRP) in its capacity as Operational Creditor of the respondent. The said application was dismissed
+by the NCLT as per order dated 27.06.2019 on the grounds of being barred by limitation and
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+2
+existence of a ‘pre-existing dispute’ between the appellant and the respondent. It is the appeal
+challenging the same before the NCLAT that ultimately culminated in the impugned judgment.
+6. We will firstly consider the first question of law arising on account of dismissal of the appellant’s
+application under Section 9, IBC on the ground of being barred by limitation. In the light of the
+aforesaid factual backdrop and contentions the appellant would contend that the NCLT and NCLAT
+had failed to look into and appreciate the cumulative effect of sub-sections (1) and (5) of Section 22
+of SICA while dismissing the application under Section 9, IBC as barred by limitation. In elaboration
+of the contention, it is submitted that the NCLT and NCLAT had failed to appreciate that the
+respondent was admitted as a ‘sick company’ by the BIFR as per its order dated 31.08.2010 and
+hence, by virtue of sub-section (5) of Section 22, SICA the period of suspension under SICA viz.,
+from 31.08.2010 to 01.12.2016, ought to have been excluded while calculating the period of
+limitation. According to the appellant, since the application under Section 9, IBC was filed on
+20.08.2018 granting the benefit of such exclusion would have, certainly, put the application well
+within the limitation period of 3 years as provided under Article 137 of the Limitation Act. The
+learned counsel for the appellant placed reliance on the decision in Paramjeet Singh Patheja v. ICDS
+Ltd. 1, particularly paragraph 43
+(vii) therein, to support the contention that there was a statutory bar for laying or continuing with
+any legal proceeding for realisation of a right vested by law on the appellant.
+1 (2006) 13 SCC 322
+7. Resisting the contentions of the appellant and supporting the impugned judgment the respondent
+would contend that both NCLT and NCLAT had rightly appreciated the factual positions thereon
+obtained in the case on hand and applied the provisions correctly, to arrive at the finding that the
+application filed by the appellant under Section 9, IBC was barred by limitation. According to the
+respondent there is discrepancy between the stand of the appellant in the Section 9 application and
+the Demand Notice under Section 8, of the IBC as relates the quantum of alleged outstanding dues.
+It is also contended that such a discrepancy also exists with respect to the date of cause of action
+inasmuch as going by Section 9 application the alleged debt fell due on and from November, 2011
+and as per the Demand Notice the so-called debt fell due on and from 9th July, 2012 and in either
+case, Section 9 application was barred by limitation as it was filed only in the year 2018. To wit,
+beyond 3 years from the alleged default. The benefit of exclusion of period under Section 22(5) of
+the SICA is not available to the appellant for computing the period of limitation in respect of an
+application under Section 9, IBC, it is further contended. According to the respondent, Section 22
+(1), SICA did not accord a blanket protection against running of cause of action and it is intended to
+suspend legal proceedings of coercive nature so as to secure assets of an enterprise. In other words,
+the contention is that filing application for recovery was permissible and Section 22 (1), SICA did
+not forbid the same and it interdicted only execution or distress or the like against the properties of
+the industrial company concerned in the contingencies contemplated thereof.
+8. When Sections 8 and 9, IBC came into force only with effect from 01.12.2016, the question of
+initiation of the CIRP by filing an application under Section 9 was possible only from 01.12.2016.
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+3
+But the question is whether any party, which falls under the expression ‘Operational Creditor’ under
+the IBC claims to have operational debt due from an industrial company and the cause of action for
+recovery of the same had accrued much earlier than 01.12.2016, but prevented from enforcing the
+right against such company in view of statutory prohibition under Section 22 (1), SICA, could
+initiate CIRP despite the passage of three years since the cause of action claiming the protection of
+exclusion of the period of suspension by virtue of Section 22 (5), SICA? 8.1 In that context it is only
+apt to refer to the afore- mentioned relevant provisions under SICA. Section 22(1), SICA was as
+follows: -
+“22. Suspension of legal proceedings, contracts, etc. – (1) Where in respect of an
+industrial company, an inquiry under section 16 is pending or any scheme referred to
+under section 17 is under preparation or consideration or a sanctioned scheme is
+under implementation or where an appeal under section 25 relating to an industrial
+company is pending, then, notwithstanding anything contained in the Companies
+Act, 1956 (1 of 1956) or any other law or the memorandum and articles of association
+of the industrial company or any other instrument having effect under the said Act or
+other law, no proceedings for the winding up of the industrial company or for
+execution, distress or the like against any of the properties of the industrial company
+or for the appointment of a receiver in respect thereof [and no suit for the recovery of
+money or for the enforcement of any security against the industrial company or of
+any guarantee in respect of any loans or advance granted to the industrial company]
+shall lie or be proceeded with further, except with the consent of the Board or, as the
+case may be, the Appellate Authority.” 8.2 Section 22(5), SICA, relied on by the
+appellant for seeking exclusion of the period from 31.08.2010 to 01.12.2016 while
+computing the period of limitation, was as hereunder: -
+“22. Suspension of legal proceedings, contracts, etc. – (1)… (2)… (3)… (4)… (5) In computing the
+period of limitation for the enforcement of any right, privilege, obligation or liability, the period
+during which it or the remedy for the enforcement thereof remains suspended under this section
+shall be excluded.”
+9. Thus, Section 22 (1), SICA as extracted above, would make it clear that there was a statutory bar
+to take to any proceeding for realisation of a right referred to in the said Section against an
+industrial company when once an enquiry under Section 16, SICA is pending against it or any
+scheme referred to under Section 17 thereof is under preparation or consideration or a sanctioned
+scheme is under implementation or where an appeal under Section 25 relating to an industrial
+company is pending, except with the consent of the Board or the Appellate Authority, as the case
+may be. As noticed earlier, SICA came to be repealed and IBC came into force (Sections 7 to 9 and
+various other Sections), on the same day viz, on 01.12.2016.
+10. A two-Judge Bench decision of this Court in Paramjeet Singh Patheja’s case (supra), more
+particularly, paragraph 43 (vii), is relied on by the appellant to support its claim for exclusion of the
+period from 31.08.2010 to 01.12.2016 while computing the period of limitation for filing applicants
+under Section 9, IBC. It, in so far as relevant reads thus: -
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+4
+“43. For the foregoing discussions we hold:
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi) ………
+(vii) It is a well-established rule that a provision must be construed in a manner which would give
+effect to its purpose and to cure the mischief in the light of which it was enacted. The object of
+Section 22, in protecting guarantors from legal proceedings pending a reference to BIFR of the
+principal debtor, is to ensure that a scheme for rehabilitation would not be defeated by isolated
+proceedings adopted against the guarantors of a sick company. To achieve that purpose, it is
+imperative that the expression "suit" in Section 22 be given its plain meaning, namely, any
+proceedings adopted for realization of a right vested in a party by law. This would clearly include
+arbitration proceedings.” (Emphasis added)
+11. In the light of the position settled thus, in Paramjeet Singh Patheja’s Case (supra), it is relevant to
+refer to an earlier two-Judge Bench decision of this court in Kailash Nath Agarwal and Ors. v.
+Pradeshiya Industrial & Investment Corporation of U.P. Ltd. and Anr.2 That was also a case,
+involving consideration of the question as to whether Section 22, SICA, afford protection to
+guarantors of sick company or only to the sick company. It is relevant to note in this context that the
+decision in Kailash Nath Agarwal’s Case (supra) was not brought to the notice of the later bench
+while deciding Paramjeet Singh Patheja’s Case (supra). In other words, the latter case was decided
+per incuriam. In Kailash Nath Agarwal’s Case, after considering contentions akin to those raised in
+Paramjeet Singh Patheja’s Case, this court held that the words “proceedings” and again “suit” had to
+be 2 (2003) 4 SCC 305 construed differently as carrying different meanings, since, they had been
+raised to denote different things. It was concluded that Section 22 (1), SICA only prohibits recovery
+against the industrial company and there would be no protection offered to guarantors against the
+recovery proceedings.
+12. The above conflicting decisions need not detain us from considering the issue further in the light
+of a subsequent three-Judge Bench decision of this court in KSL & Industries Ltd. Vs. M/s. Arihant
+Threads Ltd 3. The three-judge bench, after noting the contentions raised before and the findings of
+the two-judge bench in Kailash Nath Agarwal’s case (supra), found that it did not deal with the
+question regarding the scope of protection afforded to the industrial company concerned, under
+Section 22 (1) of SICA. Having observed thus, the three-Judge Bench went on to consider the said
+question. In that regard, paragraphs 32, 33 and 53 are relevant and reads thus:
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+5
+3 (2015) 1 SCC 166 “32. As observed earlier, Sub-section (1) of Section 22 may be divided into two
+parts. In one part, it provides that “no proceedings’’ be instituted for the winding up of the industrial
+company or for execution, distress or the like against any of the properties of such industrial
+company, and in the second part it provides that “no suit” for the recovery of money or for the
+enforcement of any security against the industrial company or of any guarantee in respect of any
+loans or advances granted to the industrial company, “shall lie or be proceeded with further, except
+with the consent of the Board or, as the case may be, the Appellate Authority.”
+33. Undoubtedly, the present proceedings viz. “application for recovery” cannot specifically be
+described as proceedings for execution, distress or the like against any of the properties, but it is
+certainly a proceeding which results in and in fact had resulted in the execution and distress against
+the property of the Company and is therefore liable to be construed as a proceeding for the
+execution, distress or the like against any of the properties of the industrial company. We are of the
+view that such a construction would be within the intendment of Parliament wherever the
+proceedings for recovery of a debt which has been secured by a mortgage or pledge of the property
+of the borrower are instituted. Surely, there is no purpose in construing that Parliament intended
+that such an application for recovery by summary procedure should lie or be proceeded with, but
+only its execution be interdicted or inhibited especially. In this context, it may be remembered that
+the proceedings by way of an application for recovery according to a summary procedure as
+provided under the RDDB Act are not referred to in Section 22 simply because the RDDB Act had
+not then been enacted.
+53. Moreover, we have found nothing contrary in the intention of the SICA to exclude a recovery
+application from the purview of Section 22, indeed there could be no reason for such exclusion since
+the purpose of the provision is to protect the properties of a sick company, so that they may be dealt
+with in the best possible way for the purpose of its revival by the BIFR. In State of Punjab v. The
+Okara Grain Buyers Syndicate Ltd. MANU/SC/0023/1963: AIR 1964 SC 669, the Court articulated
+the importance of preserving the beneficent purpose of the statute and observed:
+14. … We shall therefore proceed to examine the provisions of the Act on the footing that the test for
+determining whether the Government is bound by a statute is whether it is expressly named in the
+provision which it is contended binds it, or whether it “is manifest that from the terms of the statute,
+that it was the intention of the legislature that it shall be bound”, and that the intention to bind
+would be clearly made out if the beneficent purpose of the statute would be wholly frustrated unless
+the Government were bound.”
+13. Thus, it is obvious that the three-Judge Bench in KSL & Industries Ltd. (supra) considered the
+question whether a recovery application under the Recovery of Debts Due to Banks and Financial
+Institutions Act, 1963 (RDDB Act) would lie or be proceeded with against a sick company in view of
+the Bar contained in Section 22 (1) of SICA. Evidently, even after finding that an ‘application for
+recovery’ under RDDB Act could not specifically be described as proceedings for execution, distress
+or the like against any of the properties, it was held that it is certainly a proceeding which may result
+in the execution and distress against the property of the company and is therefore, liable to be
+construed as a proceeding for the execution, distress or the like against any of the properties of the
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+6
+industrial company. Accordingly, it was held that such a construction would be within the
+intendment of the Parliament. Moreover, it was held therein that there would be no purpose in
+construing the Parliament intended that such an application for recovery by summary procedure
+should lie or be proceeded with, but only its execution be interdicted or inhibited. That apart the
+three-Judge Bench found nothing contrary in the intention of the SICA to exclude a recovery
+application from the purview of a Section 22 thereof, taking note of the fact that the purpose of the
+said provision is to protect the properties of sick company, so that they may be dealt with in the best
+possible way for the purpose of its revival by BIFR.
+14. In view of the provisions under Section 22 (1) of SICA and the decisions in Paramjeet Singh case
+(Supra) and in KSL & Industries Limited (supra), it is worthwhile to note that in the case on hand it
+was the industrial company (respondent herein) that approached the BIFR under the provisions of
+SICA and got it declared as ‘sick company’ by filing Case No. 13 of 2010; that it is thereafter that the
+appellant filed Miscellaneous Application No. 432/2013 thereon praying, inter-alia, to permit it
+under Section 22 of SICA to approach a Civil Court of appropriate jurisdiction for recovery of the
+above-mentioned dues along with interest; that the said application was disposed of only on
+09.09.2015, as per Annexure-A40 proceedings, that too, only with a direction to the respondent
+company to incorporate the dues of the applicant in the DRS and that as per Annexure-A40, Case
+No.13 of 2010 and M.A. No. 292/2014 filed thereon, were then, posted for hearing. In short, Case
+No. 13 of 2010 was pending before the BIFR when SICA was repealed w.e.f. 01.12.2016 and Sections
+8 and 9, IBC took its effect from 01.12.12016. Thus, obviously, proceedings under SICA were then
+pending before the BIFR when the default from the part of the respondent allegedly occurred and by
+virtue of Section 22 (1), SICA and the decisions referred above, the appellant could not have, then,
+resorted to any legal proceedings for enforcing any right which may result in recovery from the
+properties of the respondent company. For the same reasons, the contention of the respondent that
+pending the proceedings before the BIFR the appellant could have resorted to arbitration
+proceedings also has to fail.
+15. Now, we will have to consider the purported intent of Section 22 (5), SICA. The intention
+appears to be to protect the interest of such a party who was prevented from lawfully enforcing the
+right to seek for recovery of dues during the operative period of the bar under Section 22 (1), SICA, if
+it is otherwise available even after the conclusion of proceedings before the BIFR, to the extent
+specifically mentioned therein. According to us, any other understanding of the provisions under
+Section 22 (5) would be wholly pointless and purposeless. When the appellant being a party to BIFR
+in the sense, on intervention obtained an order to the respondent company to incorporate its dues in
+the Draft Rehabilitation Scheme (DRS) in an application seeking permission to effect recovery of the
+dues and such a stage had not reached till 01.12.2016, whether there would be any justification to
+hold that on the repeal of SICA it could not claim the benefit flowing from the provisions under
+Section 22 (5) of SICA, subject to the provisions under the relevant laws governing the appropriate
+forum chosen?
+16. In the contextual situation, it is apropos to refer to Section 252 of IBC which reads thus: -
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+7
+“252. The Sick Industrial Companies (Special Provisions) Repeal Act, 2003 shall be amended in the
+manner specified in the Eighth Schedule.” 16.1 The Eighth Schedule would reveal the nature and
+manner of amendment specified thereunder as substitution to sub-clause (b) of Section 4, of SICA
+Repeal Act, 2003 w.e.f. 01.12.2016, as hereunder:
+"(b) On such date as may be notified by the Central Government in this behalf, any
+appeal preferred to the Appellate Authority or any reference made or inquiry pending
+to or before the Board or any proceeding of whatever nature pending before the
+Appellate Authority or the Board under the Sick Industrial Companies (Special
+Provisions) Act, 1985 (1 of 1986) shall stand abated: Provided that a company in
+respect of which such appeal or reference or inquiry stands abated under this clause
+may make reference to the National Company Law Tribunal under the Insolvency
+and Bankruptcy Code, 2016 within one hundred and eighty days from the
+commencement of the Insolvency and Bankruptcy Code, 2016 in accordance with the
+provisions of the Insolvency and Bankruptcy Code, 2016:
+Provided further that no fees shall be payable for making such reference under
+Insolvency and Bankruptcy Code, 2016 by a company whose appeal or reference or
+inquiry stands abated under this clause.".
+(Emphasis added)
+17. A perusal of the substituted sub-clause (b), as extracted above would reveal that reference made
+or inquiry pending or any proceeding of whatever nature, before the Board under SICA would stand
+abated upon its notification by the Central Government. The first proviso to sub-clause (b) only
+makes reference to the time limit applicable to the company in respect of which the appeal or
+reference or enquiry or any such proceeding thus stood abated under the said sub-clause. Going by
+the said proviso, such a company may make reference to NCLT under IBC within 180 days from the
+commencement of IBC and in accordance with the provisions thereof. Subsequently, the stated
+amendment was notified by the Central Government under S.O. 3569 (E) dated 25.11.2016. It is thus
+clear that on account of repeal of SICA under Repeal Act (1 of 2003) w.e.f. 01.12.2016, any pending
+proceeding or enquiry under SICA, initiated by an industrial company would get abated and the
+prescription of such period of 180 days became applicable only to such a company. A scanning of the
+stated sub-clause (b) and the provisos would not reveal or indicate prescription of any such specific
+time limit as regards the opposite parties in the abated reference, inquiry or proceeding for
+proceeding with their available remedy under IBC. In the said circumstances, if such an opposite
+party falls within the expression ‘operational creditor’, under IBC, it could only be taken that it
+should be governed by the provisions under the IBC in regard to the period of limitation for
+approaching the Adjudicating Authority. In this context, it is also relevant to note that as relates the
+company whose reference or inquiry or any proceeding got abated, as mentioned, it need not pay
+any fee for making reference under IBC, in terms of the second proviso to the substituted sub-clause
+(b) of Section 4 of the SICA Repeal Act. Needless to say, that this exemption is not available to other
+parties to the abated proceedings, or reference or inquiry concerned.
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+8
+18. Section 6, IBC provides that where any corporate debtor commits a default, a financial creditor,
+an operational creditor or the corporate debtor itself may initiate CIRP in respect of such corporate
+debtor in the manner provided under Chapter II of IBC. Section 8, which falls under Chapter II,
+deals with insolvency resolution by operational creditor. It provides that an operational creditor
+may, on the occurrence of default, deliver a demand notice of unpaid of operational debt or copy of
+an invoice demanding payment of the amount involved in the default to the corporate debtor in such
+form and manner as may be prescribed. It is apposite to note that a seemingly printing error had
+occurred in Section 8 (1), IBC inasmuch as instead of ‘a demand notice of unpaid operational debt’ it
+is printed as ‘a demand notice of unpaid operational debtor.’ Evidently, this must have occurred as
+in the Gazette Notification also the word ‘debtor’ is following the words ‘unpaid operational’. The
+word ‘debtor’ used therein has to be split into ‘debt’ and ‘or’ so as to serve the purpose and to give
+the intended meaning to Section 8 (1) and this view would get support from sub-section (2) of
+Section 8 itself. Sub-section 2 of Section 8, IBC in so far as it is relevant, reads thus: -
+“8. (1) ….
+(2) The corporate debtor shall, within a period of ten days of the receipt of the
+demand notice or copy of the invoice mentioned in sub-section (1) bring to the notice
+of the operational creditor—
+(a) existence of a dispute, if any, or record of the pendency of the suit or arbitration
+proceedings filed before the receipt of such notice or invoice in relation to such
+dispute;
+(b) the payment of unpaid operational debt— (Underline supplied)
+19. So also, the said position is evident from Rule 5 of the Insolvency and Bankruptcy (Application to
+Adjudicating Authority) Rules, 2016 (for short ‘the Rules’). Going by the instruction in Form 3, in
+which a Demand Notice is to be delivered to the corporate debtor under ‘the Rules’, the said from
+has to be served on the corporate debtor, ten days in advance of filing an application under Section 9
+of the Code. This instruction can only be construed that it shall be served on the corporate debtor
+not less than ten days in advance of filing an application under Section 9 of the Code for the simple
+reason that the period of limitation for filing an application under Section 9, IBC is governed by
+Section 238 A, IBC and therefore, it could not be construed that Section 9 application should
+invariably be filed on the eleventh day of service of advance demand notice in Form 3. Section 238
+A, IBC, dealing with period of limitation, has come into force w.e.f. 06.06.2018 and it reads thus: -
+“238A. Limitation. – The provisions of the Limitation Act, 1963 (36 of 1963) shall, as
+far as may be, apply to the proceedings or appeals before the Adjudicating Authority,
+the National Company Law Appellate Tribunal, the Debt Recovery Tribunal or the
+Debt Recovery Appellate Tribunal, as the case may be.”
+20. Obviously, Section 238A, IBC makes the provisions of the Limitation Act, 1963 applicable to
+computation of the period of limitation in regard to proceedings before the Adjudicating Authority
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+9
+and the other forums. This position is made explicitly clear in the decision of this Court in B.K.
+Educational Services Private Limited v. Parag Gupta and Associates4 at paragraphs 43 and 48 and
+they read thus: -
+“43. It will be seen from a reading of Section 8 (2)
+(a) that the corporate debtor shall, within a period of 10 days of the receipt of the
+demand notice, bring to the notice of the operational creditor the existence of a
+“dispute”. We have seen that “dispute” as defined in Section 5 (6) includes a suit or
+arbitration proceeding relating to certain matters. Again, under Section 8 (2) (a), the
+corporate debtor may, in the alternative, disclose the pendency of a suit or arbitration
+proceedings 4 (2019) 11 SCC 633 filed before the receipt of the demand notice. It is
+clear therefore, that at least in the case of an operational creditor, “default” must be
+non-
+payment of amounts that have become due and payable in law. The “dispute” or pendency of a suit
+or arbitration proceedings would necessarily bring in the Limitation Act, for if a suit or arbitration
+proceeding is time-barred, it would be liable to be dismissed. This again is an important pointer to
+the fact that when the expression “due” and “due and payable” occur in Sections 3(11) and 3 (12) of
+the Code, they refer to a “default” which is non-payment of a debt that is due in law i.e. that such
+debt is not barred by the law of limitation. It is well settled that where the same word occurs in a
+similar context, the draftsman of the statute intends that the word bears the same meaning
+throughout the statute (see Bhogilal Chunilal Pandya v. State of Bombay 1959 Supp (1) SCR 310,
+AIR 1959 SC 356, 1959 Cri LJ 389, Supp SCR at pp. 313- 14). It is thus clear that the expression
+“default” bears the same meaning in Sections 7 and 8 of the Code, making it clear that the corporate
+insolvency resolution process against a corporate debtor can only be initiated either by a financial or
+operational creditor in relation to debts which have not become time-barred.
+48. It is thus clear that since the Limitation Act is applicable to applications filed under Sections 7
+and 9 of the Code from the inception of the Code, Article 137 of the Limitation Act gets attracted.
+“The right to sue”, therefore, accrues when a default occurs. If the default has occurred over three
+years prior to the date of filing of the application, the application would be barred under Article 137
+of the Limitation Act, save and except in those cases where, in the facts of the case, Section 5 of the
+Limitation Act may be applied to condone the delay in filing such application.” (emphasis supplied)
+21. The decision in B.K. Educational Services Private Limited (supra) would thus reveal that Articles
+137 and 5 of the Limitation Act, 1963 are applicable to applications filed under Sections 7 and 9 of
+IBC. It be so, the position is that the period of limitation is three years from the right to apply
+accrues but the delay is condonable on sufficient grounds. It is to be noted that the third column in
+Article 137 of the Limitation Act posits that time runs when the ‘right to apply accrues’. In the
+decision in Babulal Vardharji Gurjar v. Veer Gurjar Aluminium Industries Private Limited and Anr.5
+this Court considered the question as to when ‘right to apply would accrue?’ Paragraph 32 of the
+said decision, in so far as it is relevant for the purpose of this case reads thus:-
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+10
+“32. When Section 238-A of the Code is read with the above noted consistent
+decisions of this Court in Innoventive Industries [Innoventive Industries Ltd. v. ICICI
+Bank, (2018) 1 SCC 407], B.K. Educational Services [B.K. Educational Services (P)
+Ltd. v. Paras Gupta & Associates, (2019) 11 SCC 633], Swiss Ribbons [Swiss Ribbons
+(P) Ltd. v. Union of India, 5 (2020) 15 SCC 1 (2019) 4 SCC 17], K. Sashidhar [K.
+Sashidhar v. Indian Overseas Bank, (2019) 12 SCC 150], Jignesh Shah [Jignesh Shah
+v. Union of India, (2019) 10 SCC 750], Vashdeo R. Bhojwani [Vashdeo R.
+Bhojwani v. Abhyudaya Coop. Bank Ltd., (2019) 9 SCC 158], Gaurav Hargovindbhai Dave [Gaurav
+Hargovindbhai Dave v. Asset Reconstruction Co. (India) Ltd., (2019) 10 SCC 572] and Sagar Sharma
+[Sagar Sharma v. Phoenix ARC (P) Ltd., (2019) 10 SCC 353] respectively, the following basics
+undoubtedly come to the fore:
+(a) that the Code is a beneficial legislation intended to put the corporate debtor back on its feet and
+is not a mere money recovery legislation;
+(b) that CIRP is not intended to be adversarial to the corporate debtor but is aimed at protecting the
+interests of the corporate debtor;
+(c) that intention of the Code is not to give a new lease of life to debts which are time-barred;
+(d) that the period of limitation for an application seeking initiation of CIRP under Section 7 of the
+Code is governed by Article 137 of the Limitation Act and is, therefore, three years from the date
+when right to apply accrues;
+(e) that the trigger for initiation of CIRP by a financial creditor is default on the part of the corporate
+debtor, that is to say, that the right to apply under the Code accrues on the date when default occurs;
+(f) that default referred to in the Code is that of actual non-payment by the corporate debtor when a
+debt has become due and payable; and
+(g) that if default had occurred over three years prior to the date of filing of the application, the
+application would be time-barred save and except in those cases where, on facts, the delay in filing
+may be condoned; and
+(h) an application under Section 7 of the Code is not for enforcement of mortgage liability and
+Article 62 of the Limitation Act does not apply to this application.
+22. The following relevant recitals from paragraphs 34, 34.1, 38 and 38.1 are worthy to be noted in
+the above context and they read thus:-
+“34……….. As noticed, in B.K. Educational Services [B.K. Educational Services (P) Ltd. v. Paras
+Gupta & Associates, (2019) 11 SCC 633, it has clearly been held that the limitation period for
+application under Section 7 of the Code is three years as provided by Article 137 of the Limitation
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+11
+Act, which commences from the date of default and is extendable only by application of Section 5 of
+the Limitation Act, if any case for condonation of delay is made out. The findings in para 12 in
+Jignesh Shah [Jignesh Shah v. Union of India, (2019) 10 SCC 750] makes it clear that the Court
+indeed applied the principles so stated in B.K. Educational Services [B.K. Educational Services (P)
+Ltd. v. Paras Gupta & Associates, (2019) 11 SCC 633], and held that the winding-up petition filed
+beyond three years from the date of default was barred by time.
+34.1. Even in the later decisions, this Court has consistently applied the declaration of law in B.K.
+Educational Services [B.K. Educational Services (P) Ltd. v. Paras Gupta & Associates, (2019) 11 SCC
+633]. As noticed, in Vashdeo R. Bhojwani [Vashdeo R. Bhojwani v. Abhyudaya Coop. Bank Ltd.,
+(2019) 9 SCC 158], this Court rejected the contention suggesting continuing cause of action for the
+purpose of application under Section 7 of the Code while holding that the limitation started ticking
+from the date of issuance of recovery certificate dated 24-12-2001. Again, in Gaurav Hargovindbhai
+Dave [Gaurav Hargovindbhai Dave v. Asset Reconstruction Co. (India) Ltd., (2019) 10 SCC 572],
+where the date of default was stated in the application under Section 7 of the Code to be the date of
+NPA i.e. 21-7-2011, this Court held that the limitation began to run from the date of NPA and hence,
+the application filed under Section 7 of the Code on 3-10-2017 was barred by limitation.
+38. The question as to whether date of enforcement of the Code (i.e. 1-12-2016) provides the starting
+point of limitation for an application under Section 7 of the Code and hence, the application in
+question, made in the year 2018, is within limitation, is not even worth devoting much time. A bare
+look at para 21 of the impugned order [Babulal Vardhaji Gurjar v. Veer Gurjar Aluminium
+Industries (P) Ltd., 2019 SCC OnLine NCLAT 295] leaves nothing to guess that such observations by
+the Appellate Tribunal had only been assumptive in nature without any foundation and without any
+basis. There is nothing in the Code to even remotely indicate if the period of limitation for the
+purpose of an application under Section 7 is to commence from the date of commencement of the
+Code itself. Similarly, nothing provided in the Limitation Act could be taken as the basis to support
+the proposition so stated by the Appellate Tribunal. In fact, such observations had been in the teeth
+of law declared by this Court in B.K. Educational Services [B.K. Educational Services (P) Ltd. v.
+Paras Gupta & Associates, (2019) 11 SCC 633].
+38.1. It appears that at the given point of time, NCLAT had been readily adopting such a proposition
+in other cases too, so as to treat similar applications within limitation. This approach of NCLAT was
+specifically disapproved by this Court in Sagar Sharma [Sagar Sharma v. Phoenix ARC (P) Ltd.,
+(2019) 10 SCC 353] where, after observing that in B.K. Educational Services [B.K. Educational
+Services (P) Ltd. v. Paras Gupta & Associates, (2019) 11 SCC 633] it had already been made clear
+that the date of the Code's coming into force on 1-12-2016 was wholly irrelevant to the triggering of
+any limitation period for the purposes of the Code, this Court said : (Sagar Sharma case [Sagar
+Sharma v. Phoenix ARC (P) Ltd., (2019) 10 SCC 353], SCC p. 354, para 3) “3. Article 141 of the
+Constitution of India mandates that our judgments are followed in letter and spirit. The date of
+coming into force of the IB Code does not and cannot form a trigger point of limitation for
+applications filed under the Code. Equally, since “applications” are petitions which are filed under
+the Code, it is Article 137 of the Limitation Act which will apply to such applications.”
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+12
+23. The above-mentioned positions settled with respect to Section 7, IBC will proprio vigore apply to
+Section 9, IBC. In short, as relates an application under Section 9, IBC the date of coming into force
+of IBC, viz, 01.12.2016 would not form the trigger point of limitation and the period of limitation for
+an application for initiating of CIRP under Section 9, IBC would be three years from the date when
+the right to apply accrues as provided by Article 137 of the Limitation Act and further that the right
+to apply under the IBC would accrue on the date when default occurs and it is extendable only by
+application of Section 5 of the Limitation Act. In view of the nature of the provision under SICA and
+the nature of the orders issuable by the BIFR and the positions qua an application for initiation of
+CIRP under Section 9 of IBC, referred above, we think it absolutely unnecessary to delve into the
+question of applicability or otherwise of Section 14 of the Limitation Act in regard to proceedings
+under Section 9, IBC as the same provides only for exclusion of time of proceedings bona fide in
+Court without jurisdiction.
+24. When the limitation period for initiating CIRP under Section 9, IBC is to be reckoned from the
+date of default, as opposed to the date of commencement of IBC and the period prescribed therefor,
+is three years as provided by Section 137 of the Limitation Act, 1963 and the same would commence
+from the date of default and is extendable only by application of Section 5 of the Limitation Act,
+1963 it is incumbent on the Adjudicating Authority to consider the claim for condonation of the
+delay when once the proceeding concerned is found filed beyond the period of limitation.
+25. As relates Section 5 of the Limitation Act showing ‘sufficient cause’ is the only criterion for
+condoning delay. ‘Sufficient Cause’ is the cause for which a party could not be blamed. We have
+already taken note of the legal bar for initiation of proceedings against an industrial company by
+virtue of Section 22 (1), SICA and obviously, when a party was thus legally disabled from resorting to
+legal proceeding for recovering the outstanding dues without the permission of BIFR and even on
+application permission therefor was not given the period of suspension of legal proceedings is
+excludable in computing the period of limitation for the enforcement of such right in terms of
+Section 22(5), SICA. In the absence of provisions for exclusion of such period in respect of an
+application under Section 9, IBC, despite the combined reading of Section 238A, IBC and the
+provisions under the Limitation Act what is legally available to such a party is to assign the same as
+a sufficient cause for condoning the delay under Section 5 of the Limitation Act. In such eventuality,
+in accordance with the factual position obtained in any particular case viz., the period of delay and
+the period covered by suspension of right under Section 22 (1), SICA etc., the question of
+condonation of delay has to be considered lest it will result in injustice as the party was statutorily
+prevented from initiating action against the industrial company concerned. The first question
+formulated hereinbefore is accordingly answered.
+26. In the case on hand, indubitably, the question whether the delay occurred in the matter of filing
+of application under Section 9, IBC is condonable or not, was not considered. A bare perusal of the
+impugned order would reveal that after taking into account the date of default and the date of filing
+of the application under Section 9, IBC the NCLAT held it as time barred. When once it is so found
+we would have remanded the matter for consideration of the question of limitation afresh, but for
+the fact that the application under Section 9, IBC was dismissed assigning reason of existence of
+‘pre-existing dispute’ as well.
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+13
+27. The appellant and the respondent have cited various decisions in support of their rival
+contentions on the sustainability or otherwise of the dismissal of the stated application on the
+ground of existence of ‘pre-existing dispute(s)’ between the parties. Nonetheless, we are of the
+considered view that in that regard, only the decisions to be referred infra, require consideration.
+Paradoxically, both sides relied on the decision of this Court in Macquarie Bank Limited v. Shilpi
+Cable Technologies Limited6.
+28. Macquarie Bank Limited’s case (supra) is relied on by the appellant to drive home the point that
+production of the certificate/statement from the financial institution maintaining the accounts of
+the operational creditor concerned, under Section 9 (3)(c), IBC, is not a condition precedent to
+trigger CIRP and hence, its insistence will be violative of the law laid down thereunder. In
+Macquarie Bank Limited (supra), in paragraph 16, this Court held: -
+“16. When we come to clause (c) of Section 9(3), it is equally clear that a copy of the
+certificate from the financial institution maintaining accounts of the operational
+creditor confirming that there is no payment of an unpaid operational debt by the
+corporate debtor is certainly not a condition precedent to triggering the insolvency
+process under the Code. The expression “confirming” makes it clear that this is only a
+piece of evidence, albeit a very 6 (2018) 2 SCC 674 important piece of evidence, which
+only “confirms” that there is no payment of an unpaid operational debt. This becomes
+clearer when we go to clause (d) of Section 9(3) which requires such other
+information as may be specified has also to be furnished along with the application.”
+29. This position is thus fairly settled, as above. On the other hand, the respondent relied on the said
+decision to buttress its contention that existence of ‘pre-existing dispute’ should entail dismissal of
+application under Section 9, IBC.
+30. In Macquarie Bank Limited (supra), this Court held, at paragraphs, 13 and 14 thus: -
+“13. The first thing to be noticed on a conjoint reading of Sections 8 and 9 of the
+Code, as explained in Mobilox Innovations (P) Ltd. v. Kirusa Software (P) Ltd. (2018)
+1 SCC 353, decided on 21-9-2017 at paras 33 to 36, is that Section 9(1) contains the
+conditions precedent for triggering the Code insofar as an operational creditor is
+concerned. The requisite elements necessary to trigger the Code are:
+(i) occurrence of a default;
+(ii) delivery of a demand notice of an unpaid operational debt or invoice demanding payment of the
+amount involved; and
+(iii) the fact that the operational creditor has not received payment from the corporate debtor within
+a period of 10 days of receipt of the demand notice or copy of invoice demanding payment, or
+received a reply from the corporate debtor which does not indicate the existence of a pre-existing
+dispute or repayment of the unpaid operational debt.
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+14
+14. It is only when these conditions are met that an application may then be filed under Section 9(2)
+of the Code in the prescribed manner, accompanied with such fee as has been prescribed ...”
+(emphasis supplied)
+31. In the decision in Innoventive Industries Ltd. v. ICICI Bank and Anr.7, at paragraph 29, this
+Court held thus: -
+“29. The scheme of Section 7 stands in contrast with the scheme under Section 8
+where an operational creditor is, on the occurrence of a default, to first deliver a
+demand notice of the unpaid debt to the operational debtor in the manner provided
+in Section 8(1) of the Code.
+Under Section 8(2), the corporate debtor can, within a period of 10 days of receipt of the demand
+notice or copy of the invoice mentioned in sub-section (1), bring to the notice of the operational
+creditor the existence of a dispute or the record of the pendency of a suit or arbitration proceedings,
+which is pre-existing — i.e. before such notice or invoice was received by the 7 (2018) 1 SCC 407
+corporate debtor. The moment there is existence of such a dispute, the operational creditor gets out
+of the clutches of the Code.”
+32. A scanning of the decisions referred supra, would reveal that existence of a ‘pre-existing dispute’
+should entail dismissal of an application filed under Section 9 IBC at the threshold. Therefore, the
+question is whether the respondent had raised a dispute describable as a ‘pre- existing dispute’ so as
+to entail dismissal of application of the appellant under Section 9, IBC. In Mobilox Innovations (P)
+Ltd. (supra), particularly at paragraphs 33 and 51, this Court held thus: -
+“33. The scheme under Sections 8 and 9 of the Code, appears to be that an
+operational creditor, as defined, may, on the occurrence of a default (i.e. on
+non-payment of a debt, any part whereof has become due and payable and has not
+been repaid), deliver a demand notice of such unpaid operational debt or deliver the
+copy of an invoice demanding payment of such amount to the corporate debtor in the
+form set out in Rule 5 of the Insolvency and Bankruptcy (Application to Adjudicating
+Authority) Rules, 2016 read with Form 3 or 4, as the case may be [Section 8 (1)].
+Within a period of 10 days of the receipt of such demand notice or copy of invoice, the corporate
+debtor must bring to the notice of the operational creditor the existence of a dispute and/or the
+record of the pendency of a suit or arbitration proceeding filed before the receipt of such notice or
+invoice in relation to such dispute [Section 8(2)
+(a)]. What is important is that the existence of the dispute and/or the suit or arbitration proceeding
+must be pre-existing i.e. it must exist before the receipt of the demand notice or invoice, as the case
+may be. […] It is only if, after the expiry of the period of the said 10 days, the operational creditor
+does not either receive payment from the corporate debtor or notice of dispute, that the operational
+creditor may trigger the insolvency process by filing an application before the adjudicating authority
+under Sections 9(1) and 9(2). [. .. ] It may also reject the application if the notice of dispute has been
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+15
+received by the operational creditor or there is a record of dispute in the information utility [Section
+9(5)(ii)(d)}. Section 9(5)(ii)(d) refers to the notice of an existing dispute that has so been received,
+as it must be read with Section 8(2)(a). Also, if any disciplinary proceeding is pending against any
+proposed resolution professional, the application may be rejected [Section 9(5)(ii)(e)].
+51. It is clear, therefore, that once the operational creditor has filed an application, which is
+otherwise complete, the adjudicating Authority must reject the application under Section 9(5)(2)
+(d) if notice of dispute has been received by the operational creditor or there is a record of dispute in
+the information utility. It is clear that such notice must bring to the notice of the operational
+creditor the “existence” of a dispute or the fact that a suit or arbitration proceeding relating to a
+dispute is pending between the parties. Therefore, all that the adjudicating Authority is to see at this
+stage is whether there is a plausible contention which requires further investigation and that the
+“dispute” is not a patently feeble legal argument or an assertion of fact unsupported by evidence. It
+is important to separate the grain from the chaff and to reject a spurious defence which is mere
+bluster. However, in doing so, the Court does not need to be satisfied that the defence is likely to
+succeed. The Court does not at this stage examine the merits of the dispute except to the extent
+indicated above. So long as a dispute truly exists in fact and is not spurious, hypothetical or illusory,
+the adjudicating Authority has to reject the application.” (emphasis supplied)
+33. In the light of the positions thus settled by this Court in Macquarie Bank Limited (supra) and
+Mobilox Innovations (P) Ltd. (supra), we will examine the question whether there was a
+‘pre-existing dispute’ between the parties, warranting dismissal of the application for initiation of
+CIRP filed by the appellant.
+34. In this context, it is relevant to note that the Annexure A-41 demand notice under Section 8, IBC
+was issued by the appellant on 01.04.2017 and the respondent replied the same as per letter
+Annexure A-42 letter dated 10.04.2017 viz., within 10 days from the date of receipt of Annexure
+A-41. Evidently, the respondent, in Annexure A-42 reply raised the contentions that there was
+shortfall in gas supply and that it had suffered huge loss due to the disconnection of gas supply. True
+that, in terms of the decision in Mobilox Innovations (P) Ltd. (supra) what is to be looked into is the
+existence or otherwise of a dispute and/or the suit or arbitration proceedings prior to the receipt of
+demand notice or invoice, as the case may be. In the case on hand, as noticed earlier, the appellant
+had issued a demand notice under Section 8, IBC read with the Rule 5 of 2016 Rules on 01.04.2017.
+Obviously, the NCLT and NCLAT referred to a letter dated 04.01.2013 (Annexure A-36 herein) to
+hold that existence of a pre-existing dispute between the parties revealed from the same. The said
+letter dated 04.01.2013 issued by way of a reply by the respondent to the letter from the appellant
+dated 03.01.2013, reads thus:-
+“Date : 04.01.2013 To, The Director, Sabarmati Gas Ltd., Gandhinagar.
+Respected Sir, Ref : Your letter dated 03.01.2013 We are registered with BlFR vide
+Case No. 13/2010 pursuant to Section 22 of SICA no coercive recovery can be made.
+Kindly note that abrupt disconnection of Gas Supply to our Unit is causing heavy
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+16
+losses on account of production. The loss is further exaggerating on account of
+non-supply of material to various parties which includes Railway Board and other Big
+units.
+Kindly note that you are responsible for the Direct Loss of Production ranging from Rs. 30- Rs. 50
+Lakhs per day and also Consequential Losses that may be incurred by us including Penalties for
+Non-compliance of contract (or supplies for which you will solely be held responsible.
+In view of the above subject we agree for payment of bills and request you to wait (or the old bills
+payment till restructuring is agreed by Honorable BIFR.
+Hoping for your best co-operation Thanking you, For Shah Alloys Limited Authorized Signatory”
+35. The learned Senior Counsel for the appellant would contend that last para of the said letter dated
+04.01.2013 would reveal the fact that the respondent had agreed to effect the payments or bills and
+requested only to wait for the old bills payments till restructuring is agreed by BIFR and in other
+words, non-existence of a dispute. That apart, the appellant heavily relied on paragraph 2.7 and 2.10
+(iv) of Annexure 40 which is the proceeding of BIFR in Case No.13 of 2010 dated 09.09.2015, to
+canvass the position that the contention of the respondent regarding existence of a pre-existing
+dispute with respect to the dues payable to it, is bereft of any basis. The aforesaid relevant
+paragraphs in Annexure A-40 are as under: - “2.7 The Bench then took MA No. 432/2013. The ld
+advocate representing the applicant (Sabarmati Gas Ltd.) sought time to appear prepared in the
+next date of hearing, since they have been engaged recently in this case. The ld advocate
+representing the company submitted that the applicant is an unsecured creditor and he accepted the
+dues of the applicant. He assured that their reconciled dues will be taken care of in the DRS, as
+unsecured creditor and they will be paid as per the terms of DRS, as and when it would be approved
+by the Board.
+2.10 Having considered the submissions made during the hearing and material on record the Bench
+issued following directions:
+…
+(iv) MA 432 filed by Sabarmati Gas Ltd. is disposed off with the direction to the company to
+incorporate the dues of the applicant in the DRS.”
+36. True that paragraph 2.7 of Annexure 40 carries the recording of the submissions made on behalf
+of the respondent before the BIFR by the learned advocate, as above. Citing all such aspects, the
+learned Senior Counsel for the appellant contended that the contention of the respondent regarding
+‘pre-existing dispute’ is only a patently feeble legal argument/assertion of fact unsupported by
+evidence and therefore, it was to be rejected by the Tribunals. It is further contended by the
+applicant that directions at paragraph 2.10 (iv) also is relevant in this context as it would reveal that
+the Misc. Application No.432 of 2013 filed by the Appellant herein was disposed of with the
+direction to the respondent company to incorporate the position of the appellants/applicant therein
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+17
+in the DRS.
+37. Per contra, the learned counsel for the respondent would submit that a scanning of paragraph
+2.7 itself would reveal that what was assured by the counsel appearing on behalf of the respondent
+before the BIFR was not full payment of the amount as claimed by the appellant thereunder and
+what was assured was that the reconciled dues towards the appellant would be taken care of in the
+DRS, as unsecured creditor and that it would be paid as per the terms of DRS, as and when it is
+approved by the Board.
+38. In this context the meaning of the word “reconciliation” is to be looked into. Going by Black’s
+Law Dictionary, 10th Edition, the apt meaning suitable to the situation in relation to accounting,
+reads thus: “an adjustment of amounts so that they agree, especially by allowing for outstanding
+items”. It is submitted by the learned counsel for the respondent that such a reconciliation had not
+taken place and also that indisputably, DRS was not formulated and approved. The aforesaid facts
+revealed from Annexure 40 together with the stand taken by the respondent in the letter dated
+04.01.2013 (Annexure 36) would reveal the existence of a pre-existing dispute between the parties.
+In the contextual situation it is only apposite to be remindful of the observation in Mobilox
+Innovations (P) Ltd. (supra) that in doing the act of separating the grain from chaff the Court need
+not to be satisfied that the defence is likely to succeed. It is enough that a dispute exists between the
+parties and in other words, what is to be seen is whether there was a plausible contention requiring
+investigation for the purpose of adjudication. Taking note of the nature of the dispute of the
+respondent as referred hereinbefore in respect of the claim made by the appellant, we do not find
+any reason to disagree with the concurrent findings of the Tribunals that there existed a
+‘pre-existing dispute’ between the parties before the receipt of demand notice under Section 8, IBC.
+In other words, the dismissal of the application under Section 9, IBC on the ground of ‘pre-existing
+dispute’ cannot be held to be patently illegal or perverse. We also do not find any reason, in the facts
+and circumstances, to hold that the case set up by the respondent was a patently feeble legal
+argument. At any rate, we are not inclined to brush aside the case of the respondent as spurious. We
+may hasten to add here that we shall not be understood to have held that the dispute set by the
+respondent regarding the dues is ultimately to be upheld. Certainly, when the expression
+‘pre-existing dispute’ is used it will only indicate the existence of a dispute prior to the receipt of a
+demand notice under Section 8, IBC, and the correctness or its truthfulness is a matter of evidence.
+In short, the respondent has succeeded in raising a dispute describable as ‘pre-existing dispute’. In
+that view of the matter once we find that the Tribunals have rightfully held that there existed a
+‘pre-existing dispute’ between the parties there cannot be an order of remand of the matter to the
+Tribunal for reconsideration of Section 9 application under IBC.
+39. In the contextual situation, it is also relevant to refer to the fact, rightly taken note of by the
+NCLT, that the respondent herein had filed a Commercial Suit No.92 of 2017 on 28.04.2017 before
+the Commercial Court in Ahmedabad, claiming damages for the loss suffered by it due to
+discontinuation of gas supply. True that on 12.07.2018, the said Commercial Civil Suit was
+dismissed by the Commercial Court at Ahmedabad on the ground of being barred by limitation.
+Annexure-B would reveal that against the judgment of dismissal in the said suit, the respondent
+herein had filed First Appeal No. 3841 of 2018 before the High Court of Gujarat at Ahmedabad. It
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+18
+was disposed of on 11.08.2021, taking into account the joint submission that parties be permitted to
+settle dispute through arbitration process. In this context it is also to be noted that the notice of
+arbitration dated 29.11.2019 has been issued by the appellant itself. Recording the submission, the
+appeal was permitted to be withdrawn leaving the parties to proceed with arbitral process. This fact
+is not disputed and in fact, it is indisputable in view of Annexure-B, judgment dated 11.08.2021 of
+the High Court of Gujarat in Misc. First Appeal No.3841 of 2018. In Annexure-B, it is recorded
+thus:-
+“Both the learned counsel have taken instructions and have jointly submitted that let the parties get
+their dispute settled through the arbitration process where learned former Judge of this Court,
+Justice J.C. Upadhyaya (Retired) has already been appointed as the arbitrator on 29.11.2019 and
+since then the matter is pending here.” In this context, it is also relevant to note that Gas Supply
+Agreement (GAS) which is an agreement entered into between the appellant and the respondent
+dated 30.05.2008 in regard to the supply of natural gas, contains an arbitration clause viz., clause
+No.17. When the agreement entered into between the parties carries an arbitration clause and when
+the parties mutually consented and sought to proceed with arbitration before the High Court and
+further, when the arbitration proceedings are pending, we are of the view that the parties shall be
+left with the liberty to raise all contentions before the arbitrator, except the legal questions discussed
+and decided in this judgment.
+40. Subject to the above, this Appeal stands dismissed. All the pending application (s), stand
+disposed of.
+……………………, J.
+(Ajay Rastogi) ……………………, J.
+(C.T. Ravikumar) New Delhi;
+January 04, 2023
+Sabarmati Gas Limited vs Shah Alloys Limited on 4 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/26098995/
+19

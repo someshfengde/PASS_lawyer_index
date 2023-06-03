@@ -1,0 +1,531 @@
+Delhi High Court
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+                                             NEUTRAL CITATION NO: 2022/DHC/001972
+$~50
+*       IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                                           Date of Decision: 13th May, 2
++       O.M.P. (COMM) 81/2022 & I.A. 1927/2022 (seeking stay of award)
+        NATIONAL HIGHWAYS AUTHORITY OF INDIA ..... Petitioner
+                     Through: Ms. Neetica Sharma, Advocate.
+                                        versus
+        VIJAYAWADA TOLLWAYS PVT. LTD.                                               ....
+                                        Through:      Ms. Gunjan Chhabra and Mr.
+                                                      Aayushmaan Gauba, Advocates.
+        CORAM:
+        HON'BLE MR. JUSTICE SANJEEV NARULA
+                                        JUDGMENT
+SANJEEV NARULA, J. (Oral):
+1. The present petition under Section 34 of the Arbitration and Conciliation Act, 1996 [hereinafter
+"the Act"] impugns the arbitral Award dated 14th August, 2021 passed by a three-member Arbitral
+Tribunal comprising of - Hon'ble Mr. Justice A.K. Patnaik (Retd.) (Presiding Arbitrator), Hon'ble
+Mr. Justice B. Sudershan Reddy (Retd.), and Mr. Raghav Chandra, IAS (Retd.) (Arbitrators)
+[hereinafter "impugned Award"].
+BRIEF FACTS The Contract
+2. The Respondent/ Vijaywada Tollways Pvt. Ltd. [hereinafter "VTPL"] This is a digitally signed
+Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 being the L-1 bidder, was awarded the work of - "Six
+Laning of Chilkaluripet-Vijaywada Section of NH-5 from KM 355.000 to KM 434.15 (82.5 KM) in
+State of Andhra Pradesh to be executed as BOT (Toll) on DBFO Pattern under NHDP Phase-V"
+[hereinafter "Project"], vide letter of acceptance dated 21st February, 2008 issued by the Petitioner/
+National Highway Authority of India [hereinafter "NHAI"].
+3. Parties entered into a Concession Agreement dated 04th June, 2008 [hereinafter "CA"]. The
+original Project length under the CA was 82.5 KM [hereinafter "Total Project Length"]. However,
+owing to various hinderances in a stretch of 14.5 KM (out of the Total Project Length), the
+Independent Engineer ["IE"] vide letter dated 18th December, 2009, directed VTPL to suspend the
+work qua the said stretch.
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+1
+4. For afore-mentioned 14.5 KM stretch - parties entered into a Supplementary Agreement dated
+09th September, 2013 [hereinafter "Supplementary Agreement"]. Therein, it was recorded that: (a)
+VTPL/ Claimant proposed to exclude 14.5 KM stretch from the Project and the impediments arising
+thereunder. (b) In the event, NHAI was unable to fulfil its commitments qua the aforesaid stretch
+within three months or any further period as may be mutually agreed between the parties or any
+other further period w.e.f. signing of the Supplementary Agreement for handing over 14.5 KM
+stretch, the said stretch would be de-linked from the 'scope of work'.
+5. In the event of deletion of 14.5 KM of Chilakuripet Town stretch, it was further agreed that: (a)
+toll revenue for the stretch of 14.5 KM being This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 collected by VTPL would be passed to NHAI from
+the date of collection of toll/ appointed date i.e., 01st May, 2009; (b) maintenance expenditure on
+14.5 KM stretch incurred so far and borne by VTPL would be reimbursed by NHAI (based on the
+recommendation of IE); (c) future maintenance expenses on the stretch of 14.5 KM would be borne
+by NHAI and maintenance could be done through VTPL or third-party (and payment thereon would
+be subject to certification by IE); and (d) VTPL would pay revenue sharing premium to NHAI as per
+Article 25 and 26 of CA for stretch of 68 KMs.
+The Dispute
+6. Disputes between the parties emanates from de-linking of 14.5 KM stretch from the Total Project
+Length. Since NHAI was not able to remove hinderances/ impediments from the said stretch within
+three months from the date of the Supplementary Agreement, VTPL issued letters to NHAI to
+de-link the stretch of 14.5 KM from the 'scope of work' and after nearly one and a half years from the
+date of the Supplementary Agreement (i.e., 09th September, 2012), conveyed the decision of the
+Executive Committee to de- link the aforesaid stretch from the 'scope of work'.
+7. Vide communication dated 01st November, 2018, NHAI sought recovery of Rs. 16,76,66,383/-
+relying on the following clause of the Supplementary Agreement: (a) Clause B (iii) (i.e., toll revenue
+collection for the 14.5 KM stretch was to be transferred by VTPL to NHAI); and (b) Clause C (i),
+which included claim towards loss of interest (Rs. 9.69 Crores) accrued on account of delayed
+payment of toll revenue for the 14.5 KM This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 stretch. VTPL invoked arbitration vide notice dated
+09th November, 2018 and by consent, an Arbitral Tribunal was constituted which culminated into
+the impugned Award [which was corrected vide Order dated 17th September, 2021].
+8. NHAI impugns the Award qua six claims - Claims No. 2, 4 and 5-8, which are taken up separately.
+CLAIM-WISE CONTENTIONS AND ANALYSIS I. CLAIM NO. 2/ DISPUTE NO. 2 - WHETHER
+NHAI IS ENTITLED FOR SUM OF RS. 16,76,66,383/- AS PER THE IMPUGNED LETTERS DATED
+01ST NOVEMBER, 2018 AND 06TH MARCH, 2019 UNDER THE SUPPLEMENTARY
+AGREEMENT OR ANY LESSER AMOUNT
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+2
+9. Ms. Neetica Sharma, counsel for NHAI makes the following submissions: -
+(i) The impugned Award, to the extent challenged, is patently illegal, in violation of public policy and
+settled law. The Tribunal misapplied the legal and contractual provisions and passed the impugned
+Award which is liable to be set-aside under Section 34 of the Act. 1
+(ii) NHAI's claim for interest of Rs. 9.69 Crores has been erroneously refused on the ground that the
+Supplementary Agreement did not contain any provision for award of interest. NHAI is entitled to
+Rs. 9.69 Crores towards loss of interest on account of delayed remittance Reliance is placed on: Oil
+and Natural Gas Corporation Ltd. v. Saw Pipes Ltd., (2003) 5 SCC 705) and IOCL v. M/s Shree
+Ganesh Petroleum Rajgurunagar, 2022 SCC OnLine SC 131.
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 of toll revenue for 14.5 KM de-linked stretch.
+Reliance is placed on Article 47.5 of CA ('Detailed Payments'). Further, a bare reading of Clause C
+(v) of Supplementary Agreement reveals that all the terms and conditions of the said agreement
+shall be governed by the CA which in turn, contains the interest clause.
+(iii) VTPL vide letter dated 22nd December, 2014 acknowledged the de-
+linking of 14.5 KM stretch from December, 2013. By way of the said letter, VTPL
+stated that an additional concession fee is payable from the day falling after 1698th
+day from 24th December 2013. Despite such acknowledgment, VTPL did not start
+paying the proportionate toll revenue generated from the same stretch until 2015.
+Thus, VTPL is liable to pay interest for the period commencing from December, 2013
+till the actual date of payment i.e., 12th November, 2015.
+(iv) VTPL wrongly deducted Rs. 26.18 Crore towards the routine maintenance, incident
+management and toll operation charges which was contrary to the evaluation of the IE [i.e., Rs.
+20,25,12,661/-]. The amount of Rs. 16.76 Crore claimed by NHAI vide letter dated 01st November,
+2018 was towards interest and short payments due to NHAI. Thus, there is no connection between
+the above-stated amounts.
+(v) The reimbursement towards maintenance and other expenditures by NHAI was dependent upon
+VTPL's submission of details for certification by IE/ Project Director ["PD"]. The Tribunal erred in
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 holding that the agreement to pass on the toll
+revenue from the de- linked stretch of 14.5 KM by VTPL to NHAI and promise on the part of NHAI
+to reimburse the maintenance expenditure to VTPL, have to be simultaneously performed. The
+question of reciprocal promises does not arise in the present case. Pertinently, the Tribunal itself, in
+paragraph No. 5.2.8 of the Award, has recorded that the dispute is only qua quantum of
+maintenance of de-linked stretch of 14.5 KM and further, in paragraph No. 5.2.16 has held that the
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+3
+actual expenses borne by the Concessionaire/ VTPL will have to be taken into consideration by IE/
+PD for certification.
+(vi) Claim for recovery of Rs. 16,76,66,383/- raised by NHAI vide notices dated 01st November,
+2018 and 06th March, 2019, was made after deducting Rs. 18,64,76,216/- payable to VTPL, as
+certified by IE towards routine maintenance, incident management and toll operation charges for
+the de-linked portion of 14.5 KM for the disputed period commencing from May, 2009 to August,
+2018.
+(vii) The Arbitral Tribunal erred in holding that no timeframe was prescribed under CA, for passing
+on toll revenue by VTPL to NHAI. A meeting between the parties was held on 20th September,
+2018, wherein the issue of timelines for deposit of proportionate toll revenue was discussed and
+VTPL was instructed to remit the amount by seventh day of every month. Reliance is placed on
+Clause 26.4 of the CA ('Payment of Concession Fee') whereunder VTPL is obliged to pay 'concession
+fee' within seven days from close of each month.
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 ANALYSIS
+10. Claim No. 2/ Dispute No. 2 pertains to the amount that NHAI sought to recover under letters
+dated 01st November, 2018 and 06th March, 2019. The breakup of the amount NHAI sought to
+recover (Rs. 16,76,66,383/-) has been given in paragraph No. 5.2.1 of the impugned Award which
+includes amount due towards: (a) short and delayed payment of toll revenues (from May, 2015 to
+June, 2016 and July, 2016 to August, 2018); and (b) loss of interest due to delayed remittance of toll
+revenue arising from de-linking of 14.5 KM stretch.
+11. The challenge in the present petition is confined to the award of the interest component which
+forms part of Claim No. 2. However, since NHAI has also touched upon the other components to
+sustain the challenge, a brief mention of the entire gamut of dispute would be necessary. It was
+undisputed that the quantum of toll revenue collected for the de-linked stretch was to be passed on
+from VTPL to NHAI. The dispute was limited to the quantum of maintenance expenditure which
+was to be reimbursed by NHAI under Clause C (i)(b) (maintenance expenditure on 14.5 KM stretch)
+of the Supplementary Agreement. VTPL contended that it was entitled to expenditure on 'actual
+basis' and NHAI relied upon the maintenance expenditure, incidental management expenditure and
+tolling operation charges as per the calculation and certification by IE in Annexure-F to the Affidavit
+dated 02nd December, 2019 filed by NHAI, in terms of the Supplementary Agreement. On this
+aspect, the Arbitral Tribunal analyzed terms of the CA and Supplementary Agreement and in
+particular Clause C This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972
+(i)(b) and Clause C (i)(c) thereof and held that expenses actually borne by Concessionaire/ VTPL on
+future maintenance will have to be looked into by IE/ PD and NHAI was not bound to reimburse the
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+4
+actual future maintenance expenses. Instead, it was liable to be reimbursed only the amount
+certified by IE/ PD. Thereafter, the Tribunal analyzed the calculations done by the IE in terms of
+Affidavit dated 02nd December, 2019 and held the same to be in terms of the stipulations in the
+Supplementary Agreement.
+12. Qua recovery of interest amount of Rs. 9.69 Crores sought to be affected from the escrow
+account, the Arbitral Tribunal held as under: -
+"5.2.27. The arbitral Tribunal finds that in the Impugned Notice dated 01.11.2018 of
+the Respondent (Annexure C-1 Vol. C-2 Pg. 1), the Respondent has not reimbursed
+the Maintenance Expenditure, Incidental Management Expenditure and Tolling
+Operations Charges and has also claimed interest of Rs. 9.69 Crores. The Impugned
+Notices dated 01.11.2018 and 06.03.2019 of the Respondent demanding Rs. 16.77
+Crores along with interest from the Claimant are therefore contrary to the
+Supplementary Agreement dated 09.09.2013 read with the Concession Agreement
+dated 04.06.2008 and are illegal. The arbitral Tribunal also holds that the Claimant
+is entitled to an injunction restraining the Respondent from recovering the sum of
+Rs. 16.77 Crores from the Escrow Account in furtherance of its letter dated 01.11.2018
+and 06.03.2019. The Point of Dispute No. 2 is answered accordingly. The Respondent
+will therefore deduct the amounts reimbursable to the Claimant towards
+Maintenance Expenditure, Incidental Management Expenditure and Tolling
+Operation Charges for the period from May 2009 to August 2018 as certified by the
+IE in Annexure-F to the Affidavit dated 02.12.2019 from the proportionate toll free
+amount for the said stretch of 14.5 Kms and demand the differential amount that is
+due from the Claimant to the Respondent in terms of Article 47.5 of the Concession
+Agreement. In case, the Claimant does not pay the differential amount that is due
+from the Claimant to the Respondent within 15 days from the date of receipt of the
+demand, the Respondent is entitled to claim interest in terms of Article 47.5 of the
+Concession Agreement."
+13. From the afore-noted extract it emerges that the Tribunal upheld This is a digitally signed
+Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 VTPL's claim on the basis of terms of the
+Supplementary Agreement. The said agreement does not contain a provision for payment of interest
+and stipulates that all rights and obligations thereunder shall be governed by CA which is deemed to
+be part and parcel thereof. Therefore, Article 47.5 of the CA relating to delayed payments is
+applicable, which reads as under: -
+"47.5 Delayed Payments The Parties hereto agree that payments due from one Party
+to the other Party under the provisions of this Agreement shall be made within the
+period set forth therein, and if no such period is specified, within 15 (fifteen) days of
+receiving a demand along with the necessary particulars. In the event of delay beyond
+such period, the defaulting Party shall pay interest for the period of delay calculated
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+5
+at a rate equal to 5% (five per cent) above the Bank Rate, and recovery thereof shall
+be without prejudice to the rights of the Parties under this Agreement including
+Termination thereof."
+14. It should be noted that NHAI's demanded interest for delayed payment of toll revenue vide
+notice dated 01st November, 2018. While making the demand, NHAI had not reimbursed or
+adjusted the maintenance expenditure, incidental management expenditure and tolling operations
+charges. Yet, they claimed interest of Rs. 9.69 Crores. The alleged loss of interest due to delayed
+remittance of toll revenue arising from the de-linking of 14.5 KM stretch cannot be claimed without
+adjustment of the amounts due under CA. It cannot be accepted that there is no connection between
+the above-stated amounts. The liability qua payment of interest would apply on payments due from
+one party to another under the provisions of CA. Therefore, the demand was contrary to the
+provisions of the CA and Supplementary Agreement. Further, it must also be noted that for the first
+time, NHAI filed a statement giving details of the amount reimbursable to VTPL towards the above
+expense, on 02nd December, 2019. Keeping that in This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 view, the Tribunal directed that differential amount
+that is due from VTPL to NHAI shall be paid within 15 days from the date of receipt of the demand
+failing which, NHAI would be entitled to claim interest in terms of Article 47.5 of CA.
+15. The provisions contained in CA, which governs the question regarding the payment of interest,
+cannot be side-stepped. The Tribunal rightly rejected the claim of NHAI relying upon Article 47.5 of
+CA, observing that the said provision is not an unreasonable stipulation. This finding is a reasonable
+construction of the terms of the agreements which the Court finds no ground to interfere.
+II. CLAIM NO. 4/ DISPUTE NO. 3 - WHETHER VTPL IS ENTITLED FOR SUM OF RS.
+4,34,63,014/- AS COMPENSATION ON ACCOUNT OF INTEREST ON DEBT DUE TO
+S U S P E N S I O N  O F  ' U S E R  F E E  C O L L E C T I O N ' /  ' T O L L  C O L L E C T I O N '  D U R I N G
+DEMONETIZATION PERIOD OR ANY LESSER AMOUNT.
+16. Ms. Sharma makes the following averments qua the afore-said claim:
+(i) As per financial agreement and financial model, VTPL was required to pay principal amount plus
+interest accrued thereon irrespective of occurrence of any force majeure event, including interest on
+debt which was part of the 'debt repayment obligations' of VTPL. The Arbitral Tribunal erred in
+holding that force majeure costs involves 'interest payments on debt' but does not include 'debt
+repayment obligations' and awarded claim of Concessionaire/ VTPL for 'interest payments on debt'
+due to occurrence of force majeure event, as per Clause 34.7.2. ('Allocation of cost arising out of
+Force Majeure') of This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 CA.
+(ii) As per the finance agreement and refinance agreements of Concessionaire/ VTPL with its
+respective lender banks, VTPL was under debt payment obligations w.e.f. 30 th June, 2012 and 31st
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+6
+December, 2015 (i.e., during the force majeure period from 09th November, 2016 to 02nd
+December, 2016) as per the amortization schedules contained therein and thus, no interest was
+payable by NHAI.
+(iii) The Arbitral Tribunal did not consider the letter dated 05th June, 2018 issued by the IE which
+categorically recommended that no claim of 'interest on debt' can be allowed to VTPL as they had to
+pay debt, irrespective of occurrence of force majeure event.
+ANALYSIS
+17. NHAI is aggrieved with award of Rs. 84,04,684/- towards 'interest payments on debt' as Force
+Majeure Costs during demonetization period. The Tribunal found that the Force Majeure Cost
+includes 'interest payments on debt' but not 'debt repayment obligations'.
+18. According to VTPL, in terms of the office order dated 29th November, 2016, issued with the
+approval of the Competent Authority, during the period from 09th November, 2016 till midnight of
+02nd December, 2016 - all losses on account of non-collection of tolls during the suspension of This
+is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 collection of user fees at toll plazas on national
+highways due to demonetization of Rs. 500/- and Rs. 1000/- bank notes, were to be addressed as
+per Article 34.7.2 of CA which reads as under: -
+"34.7.2 Upon occurrence of any Force Majeure Event after the Appointed Date, the
+costs incurred and attributable to such event and directly relation to the Project (the
+"Force Majeure Costs") shall be allocated and paid as follows:
+(a) upon occurrence of a Non-Political Event, the Parties shall bear their respective
+Force Majeure Costs and neither Party shall be required to pay to the other Party any
+costs thereof;
+(b) Upon occurrence of an Indirect Political Event, all Force Majeure Costs
+attributable to such Indirect Political Event, and not exceeding the Insurance Cover
+for such Indirect Political Event, shall be borne by the Concessionaire, and to the
+extent Force Majeure Costs exceed such Insurance Cover, one half of such excess
+amount shall be reimbursed by the Authority to the Concessionaire; and
+(c) Upon occurrence of a Political Event, all Force Majeure Costs attributable to such
+Political Event shall be reimbursed by the Authority to the Concessionaire.
+For the avoidance of doubt, Force Majeure Costs may include interest payments on
+debt, O&M Expenses, any increase in the cost of Construction Works on account of
+inflation and all other costs directly attributable to the Fore Majeure Event, but shall
+not include loss of Fee revenues or debt repayment obligations, and for determining
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+7
+such costs information contained in the Financial Package may be relied upon to the
+extent that such information is relevant."
+19. VTPL claimed that the reimbursement of costs due towards 'interest payments on debt' is
+included under the afore-noted provision. On this aspect, the Tribunal analyzed the relevant
+provision of CA as under: -
+"5.3.5. On a reading of the provisions of the last portion of Article 34.7.2 of the
+Concession Agreement, the arbitral Tribunal finds that the said portion states that for
+avoidance of doubt "Force Majeure Costs may include interest payment on debt" but
+shall not include "debt repayment obligations". Thus, Article 34.7.2 makes a
+distinction between 'debt' and This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 'interest payment on debt' and makes
+it abundantly clear that while repayment of debt (lower of Statutory Auditor
+certificate and Lead Bank certificate) may be released to the Claimant on account of
+Interest on debt during the period of toll suspension. She submitted that the
+Respondent however did not release the said amount of costs towards interest on
+debt obligations is not part of Force Majeure costs, interest payment on debt may be
+included in Force Majeure costs. Therefore, the contention on behalf of the
+Respondent that interest payment on debt is part of debt repayment obligations and
+cannot be included In Force Majeure costs is misconceived.
+5.3.6. The arbitral Tribunal further finds on a reading of the last portion of Article
+34.7.2 of the Concession Agreement that for determining Force Majeure costs,
+information contained in the Financial Package may be relied upon to the extent such
+information is relevant. The expressions Financial Package' and 'Financial
+Agreements' have been defined in Article 48.1 of the Concession Agreement and are
+extracted hereunder:
+"Financial Package means the financing package, indicating the total capital cost of
+Six-Laning and the means of financing thereof, as set forth in the Financial Model
+and approved by the Senior Lenders, and includes Equity, all financial assistance
+specified in the Financing Agreements, Subordinated Debt and Equity Support, if
+any.
+Financing Agreements means the agreements executed by the Concessionaire le
+respect of financial assistance to be provided by the Senior Lenders by way of loons,
+guarantees, subscription to non- convertible debentures and other debt instruments
+including loan agreements, guarantees, notes, debentures and other debt instruments
+including loan agreements, guarantees, notes, debentures, bonds and other debt
+instruments, security agreements, and other documents relating to the financing
+(including refinancing) of the Total Project Cost, and includes amendments or
+modifications made in accordance with Clause 5.2.2"
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+8
+From the definition of Financial Package in the Concession Agreement given above, it
+is clear that all financial assistance specified in the Financing Agreements. for
+financing the total project cost of six-laning were included. Further, from the
+definition of Financing Agreements given above, it is also clear that not only
+agreements executed by the Concessionaire in respect of Financial Assistance to be
+provided by the Senior Lenders by way of loans, but also other documents relating to
+the financing (including refinancing) of the Total Project Cost who are included in the
+definition of Financing Agreements. Thus, the original Financing Agreements as well
+as the Refinanced Agreement are included in Financing This is a digitally signed
+Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 Agreements and can be looked into
+for the purpose of determining the Force Majeure costs.
+5.3.7. The arbitral Tribunal finds that originally under the Common Loan Agreement
+dated 18.03.2009 between the Claimant as the borrower a consortium of lenders,
+with the State Bank of India as the Lender's Agent. In the Schedule II of the Common
+Loan Agreement is titled "Financial Planning and the total project cost in Schedule II
+is shown as Rs. 804 Crores for which the equity contribution was Rs. 216.20 Crores
+and the Rupee term loan was Rs. 587.80 Crores. The repayment of the term loan of
+Rs. 587.80 was to commence in the quarter ending 30.06.2012 and was to be
+completed in the quarter ending 31.03.2022. This would be clear from a reading of
+the Amortisation Schedule in Schedule IV of the Common Loan Agreement Clause
+2.6 (i) of this Common Loan Agreement provided that the borrower should pay to the
+lenders interest for the interest period at the applicable interest rates on the principal
+amounts of the respective leaders outstanding on due dates are set out in Schedule III
+of the common loan Agreement and such interest has to be paid monthly on the
+Interest payment dates. The arbitral Tribunal further finds that on 16.06.2015, the
+Claimant and HSBC as the lender entered into a Refinanced Loan Agreement for a
+facility amount in foreign currency of USD 60,000,000 with a view to clear off its
+loans to the lender banks under the Common Loan Agreement. Section 5 of this
+Refinanced Loan Agreement furnishes the repayment dates and the repayment
+amounts. Section 4 of this Refinanced Loan Agreement is titled 'Interest' and Section
+4.1.1 provides that on the last day of each interest period the borrower shall pay the
+accrued interest on the advance to which the interest period relates. The arbitral
+Tribunal further finds that as per the certificate of the HSBC Bank dated 11.04.2017
+for the interest period 09.11.2016 to 02.12.2016 (inclusive) interest applicable for the
+period was USD 123,680.63 for the debt in foreign currency of USD 60,000,0 The
+arbitral Tribunal further finds that the IE in its letter dated 27.09.2017 (Annexure
+C-75 Pg. 657 Vol. C-3)has recommended that as per the certificate from the lead
+bank, the interest on the foreign currency term loan availed towards the project from
+the bank during the period 09.11.2016 to 02.12.2016 is worked out at Rs. 84,04,684.
+On the aforesaid analysis of the facts and the law, the arbitral Tribunal does not
+accept the contention on behalf of the Respondent that Rs. 84.04.684 was part of the
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+9
+debt repayment obligation of the Claimant and cannot be included as Force Majeure
+costs under Article 34.7.2 of the Concession Agreement. The arbitral Tribunal
+therefore holds that the Claimant is entitled to interest of debt amounting to Rs.
+84,04,684 as Force-Majeure Costs for the period 09.11.2016 to 02.12.2016. Point of
+Dispute No. 3 is answered accordingly."
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972
+20. Article 34.7.2 of CA categorically provides that - "For the avoidance of doubt, Force Majeure
+Costs may include interest payments on debt" but does not include "debt repayment obligations".
+The Tribunal therefore, held that the said provision makes no distinction between 'debt' and
+'interest payments on debt' and makes it abundantly clear that while 'debt repayment obligations' is
+not part of Force Majeure Costs, 'interest payments on debt' would be included. [See paragraph No.
+5.3.5 of impugned Award]. The afore-noted interpretation of the terms of CA squarely falls within
+the domain of the Arbitral Tribunal and is reasonable and cannot be interfered with.2 Therefore, the
+Court finds no ground to interfere with the impugned Award and there is no merit in the
+contentions of NHAI qua the afore-noted claim.
+21. NHAI also argued the impugned Award does not consider the letter dated 05th June, 2018. This
+letter never formed part of the arbitral record, as confirmed by Ms. Sharma and noted in the Order
+dated 22nd April, 2022. There is thus no justification to set-aside the impugned Award on the
+strength of the said letter which indeed does not form part of the arbitral record. Accordingly, the
+challenge to the aforesaid claim is rejected.
+III. CLAIM NO. 5/ DISPUTE NO. 4 - WHETHER VTPL IS ENTITLED TO A SUM OF RS. 18,91,455
+ON ACCOUNT OF INTEREST FOR DELAY IN PAYMENT OF RS. 1,37,63,577/- OR FOR ANY
+LESSER AMOUNT?
+22. Ms. Sharma makes the following submissions impugning the afore- said claim: -
+Associate Builders v. Delhi Development Authority, (2015) 3 SCC 49.
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972
+(i) The Competent Authority of NHAI gave approval vide letter dated 02nd August, 2018 for release
+of O&M expenses amounting to Rs. 1,37,63,577/- and extended the 'concession period' by 23.75 days
+(based on the recommendations of the IE vide letter dated 05th June, 2018). Thereafter, the
+Competent Authority issued SoP for immediate relief to be provided to BOT (Toll) Concessions. The
+aforesaid SoP did not stipulate any timelines for release of the claims/ expenses borne by the
+Concessionaires. Accordingly, NHAI released O&M expenses during the actual period of suspension
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+10
+after due certification/ recommendation of IE and approvals of the Competent Authority on 10th
+November, 2018. Therefore, the question of payment of interest under Article 47 of CA does not
+arise.
+(ii) The Arbitral Tribunal failed to appreciate the award of interest to NHAI on account of delayed
+remittance of proportionate toll revenue for the de-linked portion of 14.5 KM in accordance with the
+provisions of Clause 47.5 of CA ('Delayed Payments'). Thus, by relying upon the award of interest for
+delay in release of force majeure relief is contradicting its own findings.
+ANALYSIS
+23. Claim No. 5/ Dispute No. 4 relates to interest qua delayed payments of Rs. 1,37,63,577/-, which
+NHAI released towards O&M expenses during the demonetization period, in terms of Article 47.5 of
+CA.
+24. In respect of the afore-noted claim, the Tribunal held as under: -
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 "5.4.4. The arbitral Tribunal finds that in the office
+order dated 29.11.2016 issued by the Competent Authority of the Respondent on the subject:
+Suspension of user fee at toll plaza on NHS due to demonetisation of Rs. 500 & Rs. 1000 notes-
+immediate relief to be provided to BOP (Toll Concessions) it is provided in Paras 5 & 6 as follows:
+"5. As the payment are to be released urgently, an undertaking will be submitted by
+the Concessionaire that these costs (interest payment on debt and O&M expenses)
+are arising due to the force majeure event and while auditing, if any amounts is found
+due to the Authority, it will be recovered from the Escrow Account of the
+Concessionaire
+6. We may release 90% of the amount so arrived to keep a reconciliation margin."
+5.4.5. The arbitral Tribunal further finds that in the NHAI/Policy Guidelines/SOP dated 13.03.2018
+for providing relief to Concessionaires/2018 (Annexure R-13 Pg. 100 of Statement of Defence), the
+process for release of payment under Clause 34.7 of the Concession Agreement, has been detailed.
+At Page 103 of the Statement of Defence in Annexure R-13 It is stated in Para 5 that the IE will
+within 3 working days certify the claim in line with the definition of O&M Expenses provided in the
+Concession Agreement and as depicted in the SOP dated 13.03.2018. It is further stated in Para 7 at
+Pg. 103 that the Concessionaire will submit the copies of the documents to the RO within 7 working
+days of receipt of the certification of the IE and in Para 7 (i) at Pg. 104 of the Statement of Defence,
+one of the documents to be submitted by the Concessionaire is an undertaking that the claims are
+true and correct and authorised in favour of NHAI to recover from Escrow Account of the
+concessionaire if any amount has been found to be paid excess in comparison to the due amount
+during subsequent audits etc. In Para B at Pg. 104 of the Statement of Defence, It is further stated:
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+11
+"The RO will release 909% of the claim amount of the Concessionaire thin 5 working
+days upon submission of the above documents by the Concessionaire itself"
+Therefore, the contention of the Respondent that no time limit was fixed in the SOP dated
+13.03.2018 of NHAI for release of O&M Expenses to the Concessionaire is not correct. It is thus
+clear that the RO of the Respondent was to release 90% of the claim amount of the Concessionaire
+within 5 working days on submission of the required documents by the Concessionaire.
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 5.4.6. The arbitral Tribunal also finds that the
+Claimant by its letter dated 16.06.2017 (Annexure C-71 Pg. 639 Vol C-31 has submitted its clans for
+D&M Expenses to the Project Director amounting to Rs. 1,47,80,514 and has also stated at Pg. 640
+Vol. C-3 that as the Claimant has to make payments to its creditors and maintain sustainable cash
+flow to meet its ongoing O&M expenditures, 90% of the payment determined under Article 37.4.2 be
+credited to the Escrow Account within 15 days. The arbitral Tribunal further finds that by letter
+dated 16.08.2017 to the IE, Ms. Aarvee Associates (Annexure C-74 Pg. 656 Vol. C-3), the Claimant
+submitted the undertaking to reimburse NHAI any difference that arises on reconciliation of its
+claims and also apprise NHAI to recover the differential amount from Escrow Account by writing to
+the Escrow Bank directly. In the said letter, the Claimant also requested for earlier release of
+payment of compensation as per the Force Majeure clause. Therefore, the contention of the
+Respondent that the Claimant never made a demand for payment of the O&M expenses during the
+period the toll collection was suspended due to demonetisation of Rs. 500 and Rs. 1000 is not
+correct.
+5.4.7. A reading of Clause 47.5 of the Concession Agreement extracted above would show that where
+the Concession Agreement is silent regarding the period in which the payments has to be made from
+one party to the other party and if no period as such is specified in the Concession Agreement then
+the payment has to be made within 15 days of receiving a demand along with necessary particulars.
+Article 47.5 further provides that in the event of delay beyond such period, the defaulting party shall
+pay interest for the period of delay calculated at the rate equal to 5% above the Bank Rate, Article
+34.7.2 of the Concession Agreement only states that upas occurrence of a force majeure event after
+the appointed date the costs incurred and attributed to such event and directly relating to the
+project shall be allocated and paid but does not specify the the limit within which a party has to be
+paid the force majeure costs. In the absence of any specific period mentioned in Clause 34.7.2 of the
+Concession Agreement, the payment of Force Majeure cost has to be made within 15 days from the
+date of demand. In this case, the demand was made by the Claimant by its letter dated 16.06.2017
+(Annexure C-71 Pg. 639 Vol. C-3) but the Claimant submitted the undertaking to reimburse the
+differential amount to the Respondent on 16.08.2017 (Annexure C-74 Pg. 656 Vol. C-3). The 15 days
+period calculated from 16.08.2017 expired on 30.08.2017. The payment of Rs. 1,37,63,577 was made
+on 10.11.2018. The Claimant was therefore entitled to interest at 5% higher than the Bank Rate as on
+16.08.2017 for the period from 30.08.2017 to 10.11.2018 under Article 47.5 of the Concession
+Agreement.
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+12
+The arbitral Tribunal finds that the Bank Rate as on 30.08.2017 was 6.5%. 5% higher than this Bank
+Rate would be 11.5% per annum. Hence, the This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 Claimant will be entitled to interest at the rate of
+11.5% per annum for the period from 30.08.2017 to 10.11.2018 (437 days). The calculation of this
+interest is as follows:
+Principal Amount: Rs. 1,37,63,577 Interest Rate: 11.5% Time: 437 days (1.2 years) Simple Interest:
+Principal Amount x Rate x Time/100 Simple Interest - 1,37,63,577 x 115 x 1.2/100 =18,95,037.16
+Therefore, the Claimant is entitled to an award of interest of Rs. 18,95,037.16."
+25. VTPL submitted their claim on O&M expenses vide letter dated 16th August, 2017. The O&M
+charges were paid by NHAI only on 10th November, 2018. Article 34.7.2 of CA does not specify the
+limit to which the force majeure costs have to be paid to the parties. Accordingly, reference was
+made to Article 47.5 and the Tribunal found that the Force Majeure Costs were payable within 15
+days from the date of demand, which, in the instant case, expired on 30th August, 2017.
+Accordingly, the Tribunal proceeded to award interest of Rs. 18,95,037.16 to VTPL calculated @
+11.5% for a period of 437 days (i.e., 30th August, 2017 to 10th November, 2018). VTPL submitted its
+requisite undertakings vide communication dated 16th August, 2017 and also requested for the
+release of payment of compensation as per force majeure clause. The rate of interest awarded under
+the impugned Award is in consonance with Article 47.5 of CA which stipulates that, in the event of
+delay, the defaulting party shall pay interest for the period of delay calculate at the @ 5% above the
+bank rate.
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972
+26. The afore-noted determination contained in the impugned Award is based on factual events as
+well as correspondence exchanged between the parties. The Tribunal has made purely factual
+determination qua the said claim and the Court does not find any merit in interfering with the
+findings rendered by the Tribunal.3 IV. DISPUTE NO. 6 AND 7 - PRE-AWARD AND POST AWARD
+INTEREST
+27. Ms. Sharma contends that the Arbitral Tribunal erroneously awarded pre-award interest qua
+Dispute No. 3 and post-award interest qua Dispute No. 7, by wrongly placing reliance upon Article
+47.5 of CA.
+ANALYSIS
+28. The Arbitral Tribunal awarded pre-award interest @11% and post- award interest @11.5%
+simple interest on the sum awarded in respect of Dispute No. 3/ Claim No. 4. The said award of
+interest is in consonance with Article 47.5 of CA.
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+13
+29. The interest herein has been awarded as per the contractual rate and the same is reasonable and
+therefore, the Court finds no ground whatsoever to interfere with the same.
+V. DISPUTE NO. 8 - COST OF ARBITRATION
+30. Ms. Sharma argues that since Tribunal partly awarded claims in favour of VTPL as well as NHAI
+- NHAI cannot be said to be the See: Associate Builders (supra) and ONGC (supra).
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001972 unsuccessful party that is liable to bear the
+arbitration costs.
+ANALYSIS
+31. The Tribunal awarded the cost in favour of VTPL as they succeeded in the arbitration
+proceedings. It is certainly the successful party. The award of cost is found to be reasonable and no
+ground whatsoever is made out to interfere with the same.
+32. In view of the above, the Court does not find any merit in the present petition and the same is
+dismissed along with pending applications.
+SANJEEV NARULA, J MAY 13, 2022 akansha/nd (Corrected and released on 21st May,2022) This
+is a digitally signed Judgement.
+National Highways Authority Of ... vs Vijayawada Tollways Pvt. Ltd. on 13 May, 2022
+Indian Kanoon - http://indiankanoon.org/doc/89637259/
+14

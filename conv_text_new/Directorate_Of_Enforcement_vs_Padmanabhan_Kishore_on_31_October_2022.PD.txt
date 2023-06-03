@@ -1,0 +1,195 @@
+Supreme Court of India
+Directorate Of Enforcement vs Padmanabhan Kishore on 31 October, 2022
+Author: Hon'Ble The Justice
+Bench: Hon'Ble The Justice, S. Ravindra Bhat, Hon'Ble Ms. Trivedi
+                                                                       REPORTABLE
+                                 IN THE SUPREME COURT OF INDIA
+                                CRIMINAL APPELLATE JURISDICTION
+                               CRIMINAL APPEAL NO………….. OF 2022
+                             (arising out of SLP (Crl.) No. 2668 OF 2022)
+          DIRECTORATE OF ENFORCEMENT                           …..APPELLANT(S)
+                                               versus
+          PADMANABHAN KISHORE                                  ..RESPONDENT(S)
+                                          JUDGMENT
+Uday Umesh Lalit, CJI
+1. Leave granted.
+2. This appeal challenges the final judgment and order dated 1.3.2021 passed by the High Court of
+Judicature at Madras in Writ Petition No. 25670/2019.
+3. The aforestated writ petition was filed by the respondent herein seeking quashing of proceedings
+initiated against him under the provisions of the Prevention of Money Laundering Act, Signature
+Not Verified 2002 (“PML Act”, for short).
+Digitally signed by BABITA PANDEY Date: 2022.10.31 18:30:43 IST Reason:
+4. The basic facts which led to the filing of said writ petition stand captured in paragraphs 2.1 to 2.3
+of the judgment under appeal, as under: -
+“2.1 One Andasu Ravinder (A1), IRS, was working as Additional Commissioner of
+Income Tax, Chennai. On intelligence, the Central Bureau of Investigation (for
+brevity “the CBI”) checked a car that was parked in front of the premises of the said
+Andasu Ravinder's (A1) house on 29.08.2011 and recovered a sum of Rs.50,00,000/-
+in cash. It is alleged that Andasu Ravinder (A1) and one Uttam Chand Bohra (A3)
+were in that car at that time.
+Directorate Of Enforcement vs Padmanabhan Kishore on 31 October, 2022
+Indian Kanoon - http://indiankanoon.org/doc/58987970/
+1
+2.2 During investigation, it came to light that the sum of Rs.50,00,000/- was handed
+over to the said Andasu Ravinder (A1) by one Padmanabhan Kishore (A2), petitioner
+herein, whose income tax file was pending with Andasu Ravinder (A1) for clearance.
+Since Padmanabhan Kishore (A2) wanted certain benefits, he had allegedly paid the
+sum of Rs.50,00,000/- as bribe to Andasu Ravinder (A1).
+2.3 In connection with this seizure, the CBI registered an FIR in R.C.No.MA1 2011 A
+0033 on 29.08.2011 and after completing the investigation, filed charge sheet in
+C.C.No.3 of 2013 before the Special Court for the CBI Cases, Chennai, for the offences
+under Section 120- B IPC and Sections 7, 12, 13(1)(d) r/w 13(2) of the Prevention of
+Corruption Act, 1988, against Andasu Ravinder (A1), Padmanabhan Kishore (A2),
+Uttam Chand Bohra (A3), Ramakrishnan (A4), T.Banusekar (A5) and
+P.Chandrasekaran (A6). Since the case registered by the CBI disclosed the
+commission of a 'schedule offence' under the Prevention of Money Laundering Act,
+2002 (for brevity “the PML Act”), the Enforcement Directorate registered a case in
+E.C.I.R.No.13 of 2016 and after completing the investigation, filed a complaint in
+C.C.No.60 of 2018 against Everonn Education Limited and three others including
+Padmanabhan Kishore (A2) for the offences under Section 3 r/w 4 of the PML Act,
+for quashing which, Padmanabhan Kishore (A2) is before this Court.”
+5. As is evident from the quoted portion, the respondent had allegedly handed over a sum of
+Rs.50,00,000/- (Rupees fifty lakhs only) to a public servant, which transaction and the surrounding
+circumstances were projected in FIR dated 29.8.2011, leading to registration of crime under Section
+120B, Indian Penal Code, 1860 (“IPC”, for short) and Sections 7, 12, 13(1)(d) read with Section 13(2)
+of the Prevention of Corruption Act, 1988 (“PC Act”, for short). Later, a case was registered by the
+Enforcement Directorate against the accused including the respondent under Sections 3 and 4 of the
+PML Act.
+6. The basic submission advanced on behalf of the respondent was that the amount in question, as
+long as it was in the hands of respondent, could not be said to be tainted money; that it assumed
+such character only after it was received by the public servant; and as such the respondent could not
+be said to be connected with proceeds of crime and could not be proceeded against under the
+provisions of the PML Act. The submission was accepted by the High Court with the following
+observations: -
+“7. For attracting the penal provisions of the PML Act, the accused should have
+projected the proceeds of a crime as untainted money. In this case, the sum of
+Rs.50,00,000/- as long as it was in the hands of Padmanabhan Kishore (A2) could
+not have been stated as a tainted money because it is not the case of the CBI in
+C.C.No.3 of 2013 that Padmanabhan Kishore (A2) had mobilised Rs.50,00,000/- via
+a criminal activity. The sum of Rs.50,00,000/- became the proceeds of a crime only
+when Andasu Ravinder (A1) accepted it as a bribe. Even before Andasu Ravinder (A1)
+could project the sum of Rs.50,00,000/- as untainted money, the CBI intervened and
+seized the money in the car on 29.08.2011.
+Directorate Of Enforcement vs Padmanabhan Kishore on 31 October, 2022
+Indian Kanoon - http://indiankanoon.org/doc/58987970/
+2
+8. Therefore, the prosecution of Padmanabhan Kishore (A2) under the PML Act, in
+our considered opinion, is misconceived.
+7. The High Court thus allowed the writ petition and quashed the proceedings in PML Act against
+the respondent, which decision is presently under challenge before us.
+8. We have heard Mr. Balbir Singh, learned Additional Solicitor General of India in support of
+appeal and Mr. S. Nagamuthu, learned senior counsel for the respondent.
+9. The definition of proceeds of crime, as appearing in Section 2(1)(u) of the PML Act is as under: -
+“2. Definitions. — (1) In this Act, unless the context otherwise requires,— xxx xxx xxx
+(u) “proceeds of crime” means any property derived or obtained, directly or
+indirectly, by any person as a result of criminal activity relating to a scheduled
+offence or the value of any such property or where such property is taken or held
+outside the country, then the property equivalent in value held within the country or
+abroad;
+Explanation.— For the removal of doubts, it is hereby clarified that "proceeds of crime" include
+property not only derived or obtained from the scheduled offence but also any property which may
+directly or indirectly be derived or obtained as a result of any criminal activity relatable to the
+scheduled offence;”
+10. Sections 3 and 4 of the PML Act which are the principal sections for the present purposes, are as
+under: -
+“3. Offence of money-laundering.— Whosoever directly or indirectly attempts to
+indulge or knowingly assists or knowingly is a party or is actually involved in any
+process or activity connected proceeds of crime including its concealment,
+possession, acquisition or use and projecting or claiming] it as untainted property
+shall be guilty of offence of money-laundering. Explanation.—For the removal of
+doubts, it is hereby clarified that,—
+(i) a person shall be guilty of offence of money- laundering if such person is found to
+have directly or indirectly attempted to indulge or knowingly assisted or knowingly is
+a party or is actually involved in one or more of the following processes or activities
+connected with proceeds of crime, namely: —
+(a) concealment; or
+(b) possession; or
+(c) acquisition; or
+Directorate Of Enforcement vs Padmanabhan Kishore on 31 October, 2022
+Indian Kanoon - http://indiankanoon.org/doc/58987970/
+3
+(d) use; or
+(e) projecting as untainted property; or
+(f) claiming as untainted property, in any manner whatsoever;
+(ii) the process or activity connected with proceeds of crime is a continuing activity
+and continues till such time a person is directly or indirectly enjoying the proceeds of
+crime by its concealment or possession or acquisition or use or projecting it as
+untainted property or claiming it as untainted property in any manner whatsoever.
+4. Punishment for money-laundering.— Whoever commits the offence of money-laundering shall be
+punishable with rigorous imprisonment for a term which shall not be less than three years but which
+may extend to seven years and shall also be liable to fine: Provided that where the proceeds of crime
+involved in money-laundering relates to any offence specified under paragraph 2 of Part A of the
+Schedule, the provisions of this section shall have effect as if for the words “which may extend to
+seven years”, the words “which may extend to ten years” had been substituted.”
+11. Paragraph 8 of the Part-A of the Schedule to the PML Act deals with offences under the PC Act
+and said paragraph is to the following effect: -
+“PARAGRAPH 8 OFFENCES UNDER THE PREVENTION OF CORRUPTION ACT,
+1988 (49 of 1988) Section Description of offence
+7. Offence relating to public servant being bribed.
+7A. Taking undue advantage to influence public servant by corrupt or illegal means or
+by exercise of personal influence.
+8. Offence relating to bribing a public servant.
+9. Offence relating to bribing a public servant by a commercial organisation
+10. Person in charge of commercial organisation to be guilty of offence.
+11. Public servant obtaining undue advantage, without consideration from person
+concerned in proceeding or business transacted by such public servant.
+12. Punishment for abetment of offences.
+13. Criminal misconduct by a public servant.
+14. Punishment for habitual offender.”
+Directorate Of Enforcement vs Padmanabhan Kishore on 31 October, 2022
+Indian Kanoon - http://indiankanoon.org/doc/58987970/
+4
+12. The respondent stands charged for having committed offence of conspiracy to commit offences
+punishable under Sections 7, 12, 13(1)(d) read with Section 13(2) of the PC Act. The controversy in
+the instant matter is not with regard to his involvement in the offence punishable under the PC Act,
+but raises a question whether the respondent can be proceeded against under the provisions of the
+PML Act.
+13. The definition of “proceeds of crime” in PML Act, inter alia, means any property derived or
+obtained by any person as a result of criminal activity relating to a scheduled offence. The offences
+punishable under Sections 7, 12 and 13 are scheduled offences, as is evident from paragraph 8 of
+Part-A of the Schedule to the PML Act. Any property thus derived as a result of criminal activity
+relating to offence mentioned in said paragraph 8 of Part-A of the Schedule would certainly be
+“proceeds of crime”.
+14. The further question to be answered is: whether the role played by respondent could come
+within the purview of Section 3 of the PML Act?
+15. Said Section 3 states, inter alia, that whoever knowingly assists or knowingly is a party or is
+actually involved in any process or activity connected with proceeds of crime including its
+concealment, possession, acquisition or use shall be guilty of offence of money-laundering
+(emphasis added by us).
+16. It is true that so long as the amount is in the hands of a bribe giver, and till it does not get
+impressed with the requisite intent and is actually handed over as a bribe, it would definitely be
+untainted money. If the money is handed over without such intent, it would be a mere entrustment.
+If it is thereafter appropriated by the public servant, the offence would be of misappropriation or
+species thereof but certainly not of bribe. The crucial part therefore is the requisite intent to hand
+over the amount as bribe and normally such intent must necessarily be antecedent or prior to the
+moment the amount is handed over. Thus, the requisite intent would always be at the core before
+the amount is handed over. Such intent having been entertained well before the amount is actually
+handed over, the person concerned would certainly be involved in the process or activity connected
+with “proceeds of crime” including inter alia, the aspects of possession or acquisition thereof. By
+handing over money with the intent of giving bribe, such person will be assisting or will knowingly
+be a party to an activity connected with the proceeds of crime. Without such active participation on
+part of the person concerned, the money would not assume the character of being proceeds of crime.
+The relevant expressions from Section 3 of the PML Act are thus wide enough to cover the role
+played by such person.
+17. On a bare perusal of the complaint made by the Enforcement Directorate, it is quite clear that the
+respondent was prima facie involved in the activity connected with the proceeds of crime.
+18. The view taken by the High Court that the respondent cannot be held liable for the offence under
+the PML Act is thus completely incorrect.
+Directorate Of Enforcement vs Padmanabhan Kishore on 31 October, 2022
+Indian Kanoon - http://indiankanoon.org/doc/58987970/
+5
+19. The observations made by us regarding involvement of the respondent are prima facie in nature
+and for considering whether the allegations made by the prosecution if accepted to be true at this
+stage, would make out an offence or not. Needless to say that, on facts, the matter shall be
+considered purely on merits at the appropriate stage(s).
+20. We therefore allow this appeal and set aside the judgment and order passed by the High Court.
+Consequently, the respondent shall continue to be arrayed and proceeded against in accordance
+with law in E.C.I.R. No. 13 of 2016 registered by the Enforcement Directorate.
+21. The appeal is thus allowed.
+……………………………..CJI.
+[Uday Umesh Lalit] ………………………………..J.
+[Bela M. Trivedi] New Delhi;
+October 31, 2022.
+Directorate Of Enforcement vs Padmanabhan Kishore on 31 October, 2022
+Indian Kanoon - http://indiankanoon.org/doc/58987970/
+6

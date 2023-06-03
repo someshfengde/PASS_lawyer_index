@@ -1,0 +1,549 @@
+Supreme Court of India
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Author: Pamidighantam Sri Narasimha
+Bench: Hon'Ble The Justice, Pamidighantam Sri Narasimha, J.B. Pardiwala
+                                                                      REPORTABLE
+                                 IN THE SUPREME COURT OF INDIA
+                                  CIVIL APPELLATE JURISDICTION
+                                   CIVIL APPEAL No. 4778 of 2022
+          NTPC LTD.                                                   ....APPELLANT
+                                                VERSUS
+          M/S SPML INFRA LTD.                                       ...RESPONDENT
+                                            JUDGMENT
+PAMIDIGHANTAM SRI NARASIMHA, J.
+1. The present appeal arises out of a decision of the High Court of Delhi1, allowing the Respondent’s
+application under Section 11(6) of the Arbitration and Conciliation Act, 19962 for the constitution of
+an Arbitral Tribunal. It is the case of Appellant NTPC that there were no subsisting disputes between
+the parties in view of the Settlement Agreement dated 27.05.2020 and that the application for
+arbitration is an afterthought and abuse of the process.
+2. By an order dated 15.07.2022, this Court, while granting leave, stayed all further proceedings
+before the Arbitral Tribunal. Signature Not Verified Digitally signed by Sanjay Kumar Date:
+2023.04.10 13:30:12 IST Reason:
+2 hereinafter ‘the Act’.
+Short facts giving rise to the filing of the petition under Section 11 of the Act and leading to the
+impugned decision of the High Court are as follows.
+3. Facts: The Appellant and Respondent, hereinafter referred to as NTPC and SPML respectively,
+entered into a contract for “Installation Services for Station Piping Package for Simhadri Super
+Thermal Power Project Stage II at NTPC at Simhadri, Vishakapatnam”. In terms of the contract
+agreement, SPML furnished Performance Bank Guarantees and Advanced Bank Guarantees3 for Rs.
+14,96,89,136/- to secure the Appellant.
+4. Pursuant to the successful completion of the project, a Completion Certificate was issued by NTPC
+on 27.03.2019. By its letter dated 10.04.2019, NTPC informed SPML that the final payment under
+the contract would be released upon the receipt of a No-Demand Certificate from SPML. The
+No-Demand Certificate was issued by SPML on 12.04.2019 and NTPC also released the final
+payment amounting to Rs. 1,40,00,000/- in April 2019. The Bank Guarantees were however
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+1
+withheld.
+3 hereinafter referred to as ‘Bank Guarantees’.
+5. On 14.05.2019, NTPC informed SPML that the Bank Guarantees were withheld on account of
+pending liabilities and disputes between the parties with respect to other projects at Bongaigon,
+Barh, and Korba. SPML naturally protested. By its letter dated 15.05.2019, SPML informed NTPC
+that the retention of Bank Guarantees, despite issuance of the Completion Certificate and the
+No-Demand Certificate, by linking them to some other projects, was unjustified. Following the
+protest, SPML raised a demand of Rs. 72,01,53,899/- from NTPC as liabilities recoverable for
+actions attributable to NTPC under this very contract.
+6. By its letter dated 12.06.2019, SPML called upon NTPC to appoint an Adjudicator for resolving
+pending disputes in terms of the General and Special Conditions of Contract. As no action was taken
+by NTPC, SPML moved the Delhi High Court by filing Writ Petition No. 7213 of 2019 under Article
+226 of the Constitution, for the release of the Bank Guarantees. The prayer in the Writ Petition is to:
+“(a) Pass an appropriate Writ, Order or Direction quashing the e-mail dated
+14.05.2019 issued by the Respondent insofar as it pertains to the release of the Bank
+Guarantees being (a) 0040ILG002609, (b) 0040ILG001109, (C) 0040ILG001209,
+(d) 0040ILG001309 and direct the Respondent to release the aforesaid Bank
+Guarantees forthwith, and
+(b) Pass any other order or such other orders as may be necessary in the interests of
+justice, equity and good conscience.”
+7. While issuing notice, the High Court, by its interim order dated 08.07.2019, directed NTPC not to
+encash the Bank Guarantees, and further directed SPML to keep the Bank Guarantees alive.
+8. Pending the Writ Petition, negotiations between the parties culminated in a Settlement
+Agreement on 27.05.2020. Through the Settlement Agreement, NTPC agreed to release the withheld
+Bank Guarantees. SPML also agreed to withdraw its pending Writ Petition and undertook not to
+initiate any other proceedings, including arbitration, under the subject contract.
+9. Following the Settlement Agreement, the Bank Guarantees were released by NTPC on
+30.06.2020. SPML withdrew the Writ Petition, as recorded in the Order of the Delhi High Court
+dated 21.09.2020.
+10. After the aforesaid settlement of the disputes, followed by its implementation, SPML repudiated
+the Settlement Agreement and filed the present application under Section 11(6) of the Act in the
+Delhi High Court on 10.10.20204. In this Arbitration Petition, SPML alleged coercion and economic
+duress in the execution of the Settlement Agreement. The allegation was, that the retention of the
+Bank Guarantees compelled SPML to accept the terms of Settlement Agreement. SPML also averred
+that NTPC had failed to appoint an arbitrator in spite of repeated requests, and therefore the High
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+2
+Court must constitute an Arbitral Tribunal, in exercise of its jurisdiction under the Act.
+11. In its reply to the Arbitration Petition, NTPC raised two-fold objections. Firstly, that SPML failed
+to follow the mandatory pre- arbitration procedure of first referring the disputes to an Adjudicator
+as per the terms of the Dispute Resolution Clause5. 4 Clause 6.2 of the General Conditions of
+Contract is as under:
+“6.2 Arbitration 6.2.1 If either the Employer or the Contractor is dissatisfied with the
+Adjudicator’s decision, or if the Adjudicator fails to give a decision within twenty
+eight (28) days of a dispute being referred to it, then either the Employer or the
+Contractor may, within fifty six (56) days of such reference, give notice to the other
+party, with a copy for information to the Adjudicator of its intention to commence
+arbitration, as hereinafter provided, as to the matter in dispute, and no arbitration in
+respect of this matter may be commenced unless such notice is given.” 5 Dispute
+resolution was provided under clause 6.1 of the General Conditions of Contract and
+clause 3 of Special Conditions of Contract; hereinafter ‘the Dispute Resolution
+Clause’;
+Clause 6.1 of the General Conditions of Contract is as under: “6. Settlement of Disputes 6.1
+Adjudicator 6.1.1 If any dispute of any kind whatsoever shall arise between the Employer and the
+Contractor in connection with or arising out of the Contract, including without prejudice to the
+generality of the foregoing, any question regarding its existence, validity or termination, or the
+execution of the Facilities- whether during the progress of the Facilities or after their completion
+and whether before or after the termination, abandonment or breach of the Contract- the parties
+shall seek to resolve any such dispute or difference by mutual consultation. If the parties fail to
+resolve such a dispute or difference by mutual consultation, then the dispute shall be referred in
+writing by either party to the Adjudicator, with a copy to the other party.” Secondly, that the
+disputes between the parties were settled by virtue of the Settlement Agreement dated 27.05.2020.
+Acting under the Settlement Agreement, NTPC released the Bank Guarantees and SPML also
+proceeded to withdraw the Writ Petition, and therefore, there was discharge of the contract by
+accord and satisfaction. The allegations of coercion and economic duress were denied as false, as all
+events occurred during the subsistence of proceedings before the Delhi High Court, and the parties
+willingly complied with the terms of the Settlement Agreement. Further, the demand of Rs.
+72,01,53,899/- was an afterthought, never raised during the subsistence of the contract. Under these
+circumstances, NTPC submitted that the application under Section 11(6) of the Act must be rejected.
+12. High Court: The High Court examined the correspondence between the parties in detail. It
+rejected the first contention of NTPC that SPML should have first resorted to an alternative dispute
+resolution mechanism under the Dispute Resolution Clause. It noted that such a request was, in
+fact, made by SPML on an earlier occasion, but NTPC failed to respond to the same. On the request
+for arbitration and the allegation of economic duress that allegedly prevailed in signing the
+Settlement Agreement, the High Court observed that:
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+3
+“66. SPML had invoked the arbitration clause and had sought reference of disputes to
+arbitration. It had also approached this Court. Thus, it would be difficult for SPML to
+establish that it was economically coerced to enter into the Settlement Agreement.
+However, this Court is unable to accept that the dispute whether the Contract
+Agreement stood discharged/novated in terms of the Settlement Agreement, is ex
+facie untenable, insubstantial or frivolous.” (emphasis supplied)
+13. After referring to the decisions of this Court in Mayavati Trading (P) Ltd. v. Pradyuat Deb
+Burman6, Vidya Drolia and Ors. v. Durga Trading Corporation7, Duro Felguera, S.A. v. Gangavaram
+Port Ltd.8, Sanjiv Prakash v. Seema Kukreja and Ors.9, and Oriental Insurance Co. Ltd. and Anr. v.
+Dicitex Furnishing Ltd.10, the High Court allowed the Arbitration Petition. It appointed a former
+Judge of the Delhi High Court as the Arbitrator on behalf of NTPC, and directed the respective
+arbitrators to appoint the presiding Arbitrator.
+14. Submissions by the Parties: Shri Adarsh Tripathi, Advocate appearing with and on behalf of the
+Solicitor General, for NTPC, 6 (2019) 8 SCC 714.
+7 (2021) 2 SCC 1. (hereinafter ‘Vidya Drolia’) 8 (2017) 9 SCC 729.
+9 (2021) 9 SCC 732.
+10 (2020) 4 SCC 621.
+submitted that the Settlement Agreement dated 27.05.2020 was arrived at during the pendency of
+the Writ Petition before the High Court. The allegations of coercion and economic duress were,
+therefore, false and unbelievable. He also submitted that SPML never raised claims during the
+subsistence of the contract, before the Completion Certificate was issued, or even before the final
+payment was made. Further, the conduct of SPML, in waiting for the release of the Bank Guarantees
+as per the Settlement Agreement before withdrawing the Writ Petition, and thereafter instituting the
+Arbitration Petition, clearly demonstrated that the allegation of coercion was not bona fide. Finally,
+he submitted that the High Court was under an obligation to undertake a limited scrutiny to
+examine whether a matter is prima facie arbitrable. For this purpose, he relied on a recent decision
+of this Court in Emaar India Ltd. v. Tarun Aggarwal Projects LLP & Anr11.
+15. Shri Jaideep Gupta, Advocate appearing for the Respondent, SPML, has submitted that the legal
+principles governing an application under Section 11(6) of the Act are well-settled following the
+decisions of this Court in Mayavati Trading (supra) and Vidya Drolia (supra). At the pre-referral
+stage, the jurisdiction of the court 11 2022 SCC OnLine SC 1328.
+is restricted to the examination of whether an arbitration agreement exists between the parties. He
+submitted that the decision of the High Court was unexceptionable, since the question as to whether
+the Settlement Agreement was executed under undue influence or coercion could be determined by
+an Arbitral Tribunal.
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+4
+16. Position of Law: In the present case, we are concerned with the pre-referral jurisdiction of the
+High Court under Section 11 of the Act and would like to underscore the limited scope within which
+an application under Section 11(6)12 of the Act has to be considered.
+17. The position of law with respect to the pre-referral jurisdiction, as it existed before the advent of
+Section 11(6A) in the Act, was based on a well-articulated principle formulated by this Court in
+National Insurance Co. Ltd. v. Boghara Polyfab (P) Ltd13. In Boghara Polyfab, this Court held that
+the issue of non-arbitrability 12 Arbitration and Conciliation Act 1996 (Act 26 of 1996), Section
+11(6):
+"(6) Where, under an appointment procedure agreed upon by the parties,—
+(a) a party fails to act as required under that procedure; or
+(b) the parties, or the two appointed arbitrators, fail to reach an agreement expected
+of them under that procedure; or
+(c) a person, including an institution, fails to perform any function entrusted to him
+or it under that procedure, a party may request 1 [the Supreme Court or, as the case
+may be, the High Court or any person or institution designated by such Court]to take
+the necessary measure, unless the agreement on the appointment procedure provides
+other means for securing the appointment.” 13 (2009) 1 SCC 267.
+of a dispute will have to be examined by the court in cases where accord and discharge of the
+contract is alleged. Following the principle in Boghara Polyfab, this Court in Union of India & Ors. v.
+Master Construction Co.14 observed that when the validity of a discharge voucher, no-claim
+certificate or a settlement agreement is in dispute, the court must prima facie examine the
+credibility of the allegations before referring the parties to arbitration. Yet again in New India
+Assurance Co. Ltd. v. Genus Power Infrastructure Ltd.15, this Court observed that allegations of
+fraud, coercion, duress or undue influence must be prima facie substantiated through evidence by
+the party raising the allegations. 14 (2011) 12 SCC 349:
+“18. In our opinion, there is no rule of the absolute kind. In a case where the claimant
+contends that a discharge voucher or no-claim certificate has been obtained by fraud,
+coercion, duress or undue influence and the other side contests the correctness
+thereof, the Chief Justice/his designate must look into this aspect to find out at least,
+prima facie, whether or not the dispute is bona fide and genuine. Where the dispute
+raised by the claimant with regard to validity of the discharge voucher or no-claim
+certificate or settlement agreement, prima facie, appears to be lacking in credibility,
+there may not be a necessity to refer the dispute for arbitration at all.” 15 (2015) 2
+SCC 424:
+“10. In our considered view, the plea raised by the respondent is bereft of any details
+and particulars, and cannot be anything but a bald assertion. Given the fact that there
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+5
+was no protest or demur raised around the time or soon after the letter of
+subrogation was signed, that the notice dated 31-3-2011 itself was nearly after three
+weeks and that the financial condition of the respondent was not so precarious that it
+was left with no alternative but to accept the terms as suggested, we are of the firm
+view that the discharge in the present case and signing of letter of subrogation were
+not because of exercise of any undue influence. Such discharge and signing of letter of
+subrogation was voluntary and free from any coercion or undue influence. In the
+circumstances, we hold that upon execution of the letter of subrogation, there was
+full and final settlement of the claim. Since our answer to the question, whether there
+was really accord and satisfaction, is in the affirmative, in our view no arbitrable
+dispute existed so as to exercise power under Section 11 of the Act. The High Court
+was not therefore justified in exercising power under Section 11 of the Act.”
+18. In a legislative response to these precedents, through the Arbitration and
+Conciliation (Amendment) Act 2015,16 sub-section (6A) was added to Section 11 of
+the Act, which reads as follows:
+“(6-A) The Supreme Court or, as the case may be, the High Court, while considering
+any application under sub- section (4) or sub-section (5) or sub-section (6), shall,
+notwithstanding any judgment, decree or order of any court, confine to the
+examination of the existence of an arbitration agreement.” (emphasis supplied)
+19. Taking cognizance of the legislative change, this Court in Duro Felguera (supra),
+noted that post the 2015 Amendments, the jurisdiction of the court under Section
+11(6) of the Act is limited to examining whether an arbitration agreement exists
+between the parties – “nothing more, nothing less”17.
+20. However, in the year 2019, in United India Insurance Co. Ltd. v. Antique Art Exports Pvt.
+Ltd.18, this Court had nevertheless 16 Arbitration and Conciliation (Amendment) Act 2015 (Act 3 of
+2016); hereinafter referred to as ‘the 2015 Amendments’.
+17 Duro Felguera supra note 7, para 59 (concurring opinion of Kurian Joseph, J). 18 (2019) 5 SCC
+362:
+“21. In the instant case, prima facie no dispute subsisted after the discharge voucher
+being signed by the respondent without any demur or protest and claim being finally
+settled with accord and satisfaction and after 11 weeks of the settlement of claim a
+letter was sent on 27-7-2016 for the first time raising a voice in the form of protest
+that the discharge voucher was signed under undue influence and coercion with no
+supportive prima facie evidence being placed on record in absence thereof, it must
+follow that the claim had been settled with accord and satisfaction leaving no arbitral
+dispute subsisting under the agreement to be referred to the arbitrator for
+adjudication.
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+6
+22. In our considered view, the High Court has committed a manifest error in passing the impugned
+order and adopting a mechanical process in appointing the arbitrator without any supportive
+evidence on record to prima facie substantiate that an arbitral dispute subsisted under the
+agreement which needed to be referred to the arbitrator for adjudication.” accepted an objection of
+‘accord and satisfaction’ in opposition to an application for reference to arbitration.
+21. It did not take much time for this Court to reverse the approach in Antique Art Exports (supra).
+A three-judge bench in Mayavati Trading (supra) expressly overruled the above-referred decision in
+Antique Art Exports, observing that:
+“10. This being the position, it is clear that the law prior to the 2015 Amendment that
+has been laid down by this Court, which would have included going into whether
+accord and satisfaction has taken place, has now been legislatively overruled. This
+being the position, it is difficult to agree with the reasoning contained in the aforesaid
+judgment, as Section 11(6-A) is confined to the examination of the existence of an
+arbitration agreement and is to be understood in the narrow sense as has been laid
+down in the judgment in Duro Felguera, SA.”
+22. The entire case law on the subject was considered by a three- judge bench of this Court in Vidya
+Drolia (supra), and an overarching principle with respect to the pre-referral jurisdiction under
+Section 11(6) of the Act was laid down. The relevant portion of the judgment is as follows:
+“153. Accordingly, we hold that the expression “existence of an arbitration
+agreement” in Section 11 of the Arbitration Act, would include aspect of validity of an
+arbitration agreement, albeit the court at the referral stage would apply the prima
+facie test on the basis of principles set out in this judgment. In cases of debatable and
+disputable facts, and good reasonable arguable case, etc., the court would force the
+parties to abide by the arbitration agreement as the Arbitral Tribunal has primary
+jurisdiction and authority to decide the disputes including the question of jurisdiction
+and non-
+arbitrability.
+154. Discussion under the heading “Who Decides Arbitrability?” can be crystallised as under: 154.1.
+Ratio of the decision in Patel Engg. Ltd. [SBP & Co. v. Patel Engg. Ltd., (2005) 8 SCC 618] on the
+scope of judicial review by the court while deciding an application under Sections 8 or 11 of the
+Arbitration Act, post the amendments by Act 3 of 2016 (with retrospective effect from 23-10-2015)
+and even post the amendments vide Act 33 of 2019 (with effect from 9-8-2019), is no longer
+applicable.
+154.2. Scope of judicial review and jurisdiction of the court under Sections 8 and 11 of the
+Arbitration Act is identical but extremely limited and restricted. 154.3. The general rule and
+principle, in view of the legislative mandate clear from Act 3 of 2016 and Act 33 of 2019, and the
+principle of severability and competence-competence, is that the Arbitral Tribunal is the preferred
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+7
+first authority to determine and decide all questions of non-arbitrability. The court has been
+conferred power of “second look” on aspects of non- arbitrability post the award in terms of
+sub-clauses (i), (ii) or (iv) of Section 34(2)(a) or sub-clause (i) of Section 34(2)(b) of the Arbitration
+Act.
+154.4. Rarely as a demurrer the court may interfere at Section 8 or 11 stage when it is manifestly and
+ex facie certain that the arbitration agreement is non-existent, invalid or the disputes are
+non-arbitrable, though the nature and facet of non-arbitrability would, to some extent, determine
+the level and nature of judicial scrutiny. The restricted and limited review is to check and protect
+parties from being forced to arbitrate when the matter is demonstrably “non-arbitrable” and to cut
+off the deadwood. The court by default would refer the matter when contentions relating to
+non-arbitrability are plainly arguable; when consideration in summary proceedings would be
+insufficient and inconclusive; when facts are contested; when the party opposing arbitration adopts
+delaying tactics or impairs conduct of arbitration proceedings. This is not the stage for the court to
+enter into a mini trial or elaborate review so as to usurp the jurisdiction of the Arbitral Tribunal but
+to affirm and uphold integrity and efficacy of arbitration as an alternative dispute resolution
+mechanism.” (emphasis supplied)
+23. The limited scope of judicial scrutiny at the pre-referral stage is navigated through the test of a
+‘prima facie review’. This is explained as under:
+“133. Prima facie case in the context of Section 8 is not to be confused with the merits
+of the case put up by the parties which has to be established before the Arbitral
+Tribunal. It is restricted to the subject-matter of the suit being prima facie arbitrable
+under a valid arbitration agreement. Prima facie case means that the assertions on
+these aspects are bona fide. When read with the principles of separation and
+competence-competence and Section 34 of the Arbitration Act, the referral court
+without getting bogged down would compel the parties to abide unless there are good
+and substantial reasons to the contrary.
+134. Prima facie examination is not full review but a primary first review to weed out
+manifestly and ex facie non-existent and invalid arbitration agreements and non-
+arbitrable disputes. The prima facie review at the reference stage is to cut the
+deadwood and trim off the side branches in straightforward cases where dismissal is
+barefaced and pellucid and when on the facts and law the litigation must stop at the
+first stage. Only when the court is certain that no valid arbitration agreement exists
+or the disputes/subject-matter are not arbitrable, the application under Section 8
+would be rejected. At this stage, the court should not get lost in thickets and decide
+debatable questions of facts. Referral proceedings are preliminary and summary and
+not a mini trial… … 138…On the other hand, issues relating to contract formation,
+existence, validity and non-arbitrability would be connected and intertwined with the
+issues underlying the merits of the respective disputes/claims. They would be factual
+and disputed and for the Arbitral Tribunal to decide.
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+8
+139. We would not like to be too prescriptive, albeit observe that the court may for legitimate
+reasons, to prevent wastage of public and private resources, can exercise judicial discretion to
+conduct an intense yet summary prima facie review while remaining conscious that it is to assist the
+arbitration procedure and not usurp jurisdiction of the Arbitral Tribunal. Undertaking a detailed full
+review or a long-drawn review at the referral stage would obstruct and cause delay undermining the
+integrity and efficacy of arbitration as a dispute resolution mechanism. Conversely, if the court
+becomes too reluctant to intervene, it may undermine effectiveness of both the arbitration and the
+court. There are certain cases where the prima facie examination may require a deeper
+consideration. The court’s challenge is to find the right amount of and the context when it would
+examine the prima facie case or exercise restraint. The legal order needs a right balance between
+avoiding arbitration obstructing tactics at referral stage and protecting parties from being forced to
+arbitrate when the matter is clearly non-arbitrable.
+140. Accordingly, when it appears that prima facie review would be inconclusive, or on
+consideration inadequate as it requires detailed examination, the matter should be left for final
+determination by the Arbitral Tribunal selected by the parties by consent. The underlying rationale
+being not to delay or defer and to discourage parties from using referral proceeding as a ruse to
+delay and obstruct. In such cases a full review by the courts at this stage would encroach on the
+jurisdiction of the Arbitral Tribunal and violate the legislative scheme allocating jurisdiction
+between the courts and the Arbitral Tribunal. Centralisation of litigation with the Arbitral Tribunal
+as the primary and first adjudicator is beneficent as it helps in quicker and efficient resolution of
+disputes.” (emphasis supplied)
+24. Following the general rule and the principle laid down in Vidya Drolia (supra), this Court has
+consistently been holding that the arbitral tribunal is the preferred first authority to determine and
+decide all questions of non-arbitrability. In Pravin Electricals Pvt. Ltd. v. Galaxy Infra and Engg. Pvt.
+Ltd.19, Sanjiv Prakash v. Seema Kukreja and Ors.20, and Indian Oil Corporation Ltd. v. NCC Ltd.,21
+19 (2021) 5 SCC 671, paras 29, 30.
+20 (2021) 9 SCC 732.
+21 (2022) SCC OnLine SC 896.
+the parties were referred to arbitration, as the prima facie review in each of these cases on the
+objection of non-arbitrability was found to be inconclusive. Following the exception to the general
+principle that the court may not refer parties to arbitration when it is clear that the case is
+manifestly and ex facie non-arbitrable, in BSNL and Anr. v. Nortel Networks India (P) Ltd.22 and
+Secunderabad Cantonment Board v. B. Ramachandraiah & Sons23, arbitration was refused as the
+claims of the parties were demonstrably time-barred.
+25. Eye of the Needle: The above-referred precedents crystallise the position of law that the
+pre-referral jurisdiction of the courts under Section 11(6) of the Act is very narrow and inheres two
+inquiries. The primary inquiry is about the existence and the validity of an arbitration agreement,
+which also includes an inquiry as to the parties to the agreement and the applicant’s privity to the
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+9
+said agreement. These are matters which require a thorough examination by the referral court. The
+secondary inquiry that may arise at the reference stage itself is with respect to the non- arbitrability
+of the dispute.
+22 (2021) 5 SCC 738. (hereinafter ‘Nortel Networks’) 23 (2021) 5 SCC 705.
+26. As a general rule and a principle, the arbitral tribunal is the preferred first authority to
+determine and decide all questions of non-arbitrability. As an exception to the rule, and rarely as a
+demurrer, the referral court may reject claims which are manifestly and ex-facie non-arbitrable24.
+Explaining this position, flowing from the principles laid down in Vidya Drolia (supra), this Court in
+a subsequent decision in Nortel Networks (supra) held25:
+“45.1 ...While exercising jurisdiction under Section 11 as the judicial forum, the court
+may exercise the prima facie test to screen and knockdown ex facie meritless,
+frivolous, and dishonest litigation. Limited jurisdiction of the courts would ensure
+expeditious and efficient disposal at the referral stage. At the referral stage, the Court
+can interfere “only” when it is “manifest” that the claims are ex facie time-barred and
+dead, or there is no subsisting dispute...”
+27. The standard of scrutiny to examine the non-arbitrability of a claim is only prima facie. Referral
+courts must not undertake a full review of the contested facts; they must only be confined to a
+primary first review26 and let facts speak for themselves. This also requires the courts to examine
+whether the assertion on arbitrability is bona fide or not.27 The prima facie scrutiny of the facts
+must lead to a clear conclusion that there is not even a vestige 24 Vidya Drolia supra note 7, para
+154.4.
+25 Nortel Networks supra note 22, para 45.1.
+26 Vidya Drolia supra note 7, para 134.
+27 ibid.
+of doubt that the claim is non-arbitrable.28 On the other hand, even if there is the slightest doubt,
+the rule is to refer the dispute to arbitration29.
+28. The limited scrutiny, through the eye of the needle, is necessary and compelling. It is
+intertwined with the duty of the referral court to protect the parties from being forced to arbitrate
+when the matter is demonstrably non-arbitrable30. It has been termed as a legitimate interference
+by courts to refuse reference in order to prevent wastage of public and private resources31. Further,
+as noted in Vidya Drolia (supra), if this duty within the limited compass is not exercised, and the
+Court becomes too reluctant to intervene, it may undermine the effectiveness of both, arbitration
+and the Court32. Therefore, this Court or a High Court, as the case may be, while exercising
+jurisdiction under Section 11(6) of the Act, is not expected to act mechanically merely to deliver a
+purported dispute raised by an applicant at the doors of the chosen 28 Nortel Networks supra note
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+10
+22, para 47.
+29 Vidya Drolia supra note 7, para 154.4.
+30 ibid para 154.4.
+31 ibid para 139.
+32 ibid.
+arbitrator33, as explained in DLF Home Developers Limited v. Rajapura Homes Pvt. Ltd.
+29. Analysis: We will now proceed to apply these principles to the present case and examine the
+arbitrability of the dispute by undertaking a prima facie review of the basic facts.
+30. SPML duly completed the stipulated work under the subject contract, and a Completion
+Certificate was issued by NTPC on 27.03.2019. SPML sought the release of the final payment, and
+NTPC, by its letter dated 10.04.2019, agreed to release the same.
+31. A No-Demand Certificate was issued by SPML on 12.04.2019, and the final payment was
+released by April 2019. There is nothing on record about any pending claims of SPML during the
+subsistence of the contract or till the release of the final payment. This is evident from the Writ
+Petition as well as the Arbitration Petition under Section 11 of the Act.
+32. While NTPC released the final payment, on 14.05.2019, it justified the withholding of SPML’s
+Bank Guarantees on the 33 DLF Home Developers Limited v. Rajapura Homes Pvt. Ltd 2021 SCC
+OnLine SC 781, paras 18, 20.
+ground that there are certain disputes between the parties with respect to other projects.
+33. Objecting to the stand of NTPC by its letter dated 15.05.2019, SPML stated that linking the Bank
+Guarantees with claims under other projects was unjustified. In turn, SPML raised a claim of Rs.
+72,01,53,899/- against NTPC. At the same time, SPML also sought the appointment of an
+“Adjudicator” to settle these claims.
+34. It is in the above-referred context that SPML filed the Writ Petition before the High Court on
+03.07.2019. The prayer in the Writ Petition, particularly in the context of the huge claim raised on
+15.05.2019, assumes importance. The prayer is reproduced herein below for ready reference:
+“(a) Pass an appropriate Writ, Order or Direction quashing the e-mail dated
+14.05.2019 issued by the Respondent insofar as it pertains to the release of the Bank
+Guarantees being (a)0040ILG002609, (b) 0040ILG001109, (c)0040ILG001209, (d)
+0040ILG001309 and direct the Respondent to release the aforesaid Bank Guarantees
+forthwith, ...”
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+11
+35. There is no reference to the claim of Rs.72,01,53,899/- in the body or the Prayer of the Writ
+Petition. Conspicuously, the Writ Petition is confined to seeking a direction to return the Bank
+Guarantees.
+36. Pending disposal of the Writ Petition, the High Court, by an interim order dated 08.07.2019,
+directed NPTC not to invoke the Bank Guarantees. The interim order was subject to SPML keeping
+the Bank Guarantees alive. The relevant portions of the order are:
+“…
+2. Issue notice. The learned counsel appearing for the respondent accepts notice.
+3. Admittedly, the contract pursuant to which the bank guarantees in question had
+been furnished has been completed and there is no dispute that the petitioner’s
+performance of the contract was satisfactory. The petitioner also claims that it has
+received the entire consideration for the same. The petitioner’s claims that the release
+of the bank guarantees is being withheld contrary to the terms of the contract
+between the parties, in order to pressurize the petitioner in respect of certain disputes
+in relation to other contracts, which are pending adjudication before the Arbitral
+Tribunal.
+…
+6. In the meanwhile, the respondents are restrained from invoking the bank
+guarantees, subject to the petitioner keeping the same alive.”
+37. On 23.07.2019, SPML sent a Notice to NTPC, intimating its intention to invoke Arbitration
+under the Dispute Resolution Clause.
+38. During the pendency of the Writ Petition, the parties engaged themselves in multiple
+discussions about their claims and counter-claims. All that culminated in the Settlement Agreement
+dated 27.05.2020. The Terms of the Settlement Agreement are as follows:
+“NOW THEREFORE, in consideration of the premises and mutual promises contained herein, the
+parties agree as follows:
+1. That the Agency undertakes to withdraw WP No. 7213/2019 filed in the Hon’ble High Court upon
+execution of the present agreement immediately upon receipt of original Bank Guarantees stated
+herein below lying with NTPC as mentioned herein below at Para 4.
+2. That the Agency has agreed not to initiate any further proceedings in relation with the present
+contract agreement and work executed by the Agency, of any nature whatsoever. Further, the
+Agency has undertaken not to raise any claim of any nature whatsoever against the NTPC Ltd. in
+relation with the present contract agreement and work executed by the Agency, be it Arbitration
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+12
+proceedings, civil suit, writ petition, or any other proceedings before any judicial or quasi-judicial
+forum.
+3. That the Agency has confirmed it has received entire payments arising out of the present contract
+and the same stands closed, and no further sum/money is payable to the Agency in any manner
+whatsoever by NTPC Ltd. under the subject contract.
+…
+5. That NTPC Ltd. has further agreed not to raise any contempt proceedings against the Agency for
+not keeping alive the BGs as directed by the Hon’ble High Court of Delhi in pending Writ Petition.”
+39. In compliance with the Settlement Agreement, NTPC released the Bank Guarantees on
+30.06.2020, which were the subject matter of the pending Writ Petition.
+40. It is noteworthy that the Bank Guarantees expired on 19.11.2019 and 16.12.2019, despite the
+specific direction by the High Court to SPML to keep its Bank Guarantees alive. However, in
+compliance with its express undertaking in the Settlement Agreement, NTPC did not file any
+contempt proceedings against SPML.
+41. Following the release of the Bank Guarantees as per the Settlement Agreement, SPML withdrew
+the Writ Petition, as recorded by the High Court in its Order dated 21.09.2020.
+42. One month later, on 10.10.2020, SPML filed the Arbitration Petition under Section 11(6) of the
+Act alleging coercion and economic duress in the execution of the Settlement Agreement. It was also
+alleged that the Settlement Agreement was repudiated on 22.07.2020 through SPML’s letter to
+NTPC, disputing the Settlement Agreement.
+43. In its reply to the Arbitration Petition, NTPC specifically pointed out that SPML never raised any
+claims with respect to the dues amounting to Rs. 72,01,53,899/- during the pendency of the
+contract, and that the allegations of coercion and economic duress are completely false. NTPC
+alleged that the Arbitration Petition lacked bona fide.
+44. A simple narration of the bare facts, as indicated above, leads us to conclude that the allegations
+of coercion and economic duress are not bona fide, and that there were no pending claims between
+the parties for submission to arbitration. The Respondent’s claim fits in the description of an
+attempt to initiate “ex facie meritless, frivolous and dishonest litigation”34. We will endeavor to give
+reasons for our conclusion.
+45. The whole dispute revolves around the solitary act of the Appellant, NTPC, in not returning the
+Bank Guarantees despite the successful completion of work. This continued even after SPML issued
+the No-Demand Certificate and NTPC released the final payment. These undisputed facts led to the
+institution of the Writ Petition before the Delhi High Court. There were no allegations of coercion or
+economic duress compelling SPML to withdraw any pending claims under the subject contract as a
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+13
+condition for the return of the Bank Guarantees. On the contrary, the only allegation by SPML was
+with respect to NTPC’s “illegal” action of interlinking the release of the Bank Guarantees with some
+other contracts. This was precisely the argument before the High Court, and, in fact, this submission
+is recorded by the High Court while issuing notice and injuncting NTPC. This fact clearly indicates
+that 34 Vidya Drolia supra note 7, para 147.11.
+the plea of coercion and economic duress leading to the Settlement Agreement is an afterthought.
+46. We will now examine whether the allegations of coercion and economic duress in the execution
+of the Settlement Agreement are bona fide or not. This inquiry has a direct bearing on the
+arbitrability of the dispute. It was during the subsistence of the Writ Petition and the High Court’s
+interim order, when SPML had complete protection of the Court, that the parties entered into the
+Settlement Agreement. This agreement was comprehensive. It inter alia provided for (i) the release
+of Bank Guarantees by NTPC, (ii) the withdrawal of SPML’s Writ Petition, (iii) restraining NTPC
+from filing contempt proceedings against SPML for letting the Bank Guarantees expire, and finally,
+(iv) restraining SPML from initiating any proceedings under the subject contract, including
+arbitration. The Settlement Agreement also recorded that there were no subsisting issues pending
+between the parties.
+47. The plea of coercion and economic duress must be seen in the context of the execution of the
+Settlement Agreement not being disputed, and its implementation leading to the release of the Bank
+Guarantees on 30.06.2020 also not being disputed. Almost three weeks after the release of the Bank
+Guarantees, a letter of repudiation was issued by SPML on 22.07.2020. This letter was issued about
+two months after the Settlement Agreement was executed and in fact during the subsistence of the
+Writ Petition. After reaping the benefits of the Settlement Agreement, the Writ Petition was
+withdrawn on 21.09.2020. It is thereafter that the present application under Section 11(6) of the Act
+was filed. The sequence of events leads us to conclude that the letter of repudiation was issued only
+to wriggle out of the terms of the Settlement Agreement.
+48. The foregoing clarifies beyond doubt that the claims sought to be submitted to arbitration were
+raised as an afterthought. Further, SPML’s allegations of coercion and economic duress in the
+execution of the Settlement Agreement lack bona fide. They are liable to be knocked down as ex facie
+frivolous and untenable.
+49. In view of the above-referred facts, which speak for themselves, we are of the opinion that this is
+a case where the High Court should have exercised the prima facie test to screen and strike down the
+ex-facie meritless and dishonest litigation. These are the kinds of cases where the High Court should
+exercise the restricted and limited review to check and protect parties from being forced to arbitrate.
+50. Accordingly, we have no hesitation in holding that the High Court has committed an error in
+allowing the application under Section 11(6) of the Act. High Court ought to have examined the issue
+of the final settlement of disputes in the context of the principles laid down in Vidya Drolia (supra).
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+14
+51. For the reasons stated above, the decision of the High Court of Delhi in Arbitration Petition No.
+477 of 2020, dated 08.04.2021, is set aside, and Civil Appeal No. 4778 of 2022 stands allowed.
+52. The parties shall bear their own costs.
+....................................CJI. [Dr Dhananjaya Y Chandrachud] ........................................J.
+[Pamidighantam Sri Narasimha] New Delhi;
+April 10, 2023
+Ntpc Ltd. vs M/S Spml Infra Ltd. on 10 April, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197054318/
+15

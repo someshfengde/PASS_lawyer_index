@@ -1,0 +1,496 @@
+Delhi High Court
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+                                             NEUTRAL CITATION NO: 2022/DHC/001124
+$~28
+*       IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                                     Date of Decision: 17th February, 20
++       O.M.P. (COMM) 215/2019 & I.A. 7620/2019, 7311/2020
+        NATIONAL HIGHWAYS AUTHORITY OF INDIA..... Petitioner
+                                        Through:      Mr. Saurabh          Banerjee,    
+                                                      Counsel.
+                                        versus
+        M/S. C.P. RAMA RAO [PROPRIETOR]           ..... Respondent
+                       Through: Mr. S. Ram Babu and Mr. Angad
+                                Mehta, Advocates.
+        CORAM:
+        HON'BLE MR. JUSTICE SANJEEV NARULA
+                                        JUDGMENT
+[VIA HYBRID MODE] SANJEEV NARULA, J. (Oral):
+1. The present petition under Section 34 of the Arbitration and Conciliation Act, 1996 [hereinafter,
+"the Act"] impugns the Arbitral Award dated 14th February, 2019 passed by the learned Sole
+Arbitrator, whereby claims of the Respondent (Claimant in Arbitration) stand allowed and the
+counter-claims of the Petitioner (Respondent therein) stand rejected.
+BRIEF FACTS
+2. National Highways Authority of India [hereinafter, "NHAI"], entrusted operations of the Toll
+Plaza at Vempadu, Visakhapatnam District, Andhra Pradesh [hereinafter, the "Toll Plaza"] to M/s.
+C.P. Rama Rao vide a Contract Agreement dated 30th July, 2016 [hereinafter, the "Contract This is a
+digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 Agreement"]. During the term of Contract, from 1st
+August, 2016 [08:00 hrs] to 01st August, 2017 [07:59 hrs] Respondent had agreed to pay Rs.
+2,24,40,274/- as weekly remittance from user fee collections at the Toll Plaza.
+3. Disputes arose in relation to collection of user fee at the Toll Plaza, consequent to demonetisation
+policy effectuated by the Union of India, whereby Rs. 500/- and Rs.1000/- notes (the extent of
+which was about 85% of the total currency in circulation) were withdrawn as legal tender w.e.f. 8th
+November, 2016. Respondent sought waiver in remittance of agreed weekly amount, claiming the
+act of demonetisation to be a "force majeure" event - in accordance with Clause 25(b) of the Contract
+Agreement. NHAI, on the other hand, disputed that the event was force majeure, and also the
+Respondent's entitlement for waiver in remittance of agreed weekly charges. The disputes
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+1
+culminated in arbitration before an Arbitral Tribunal, appointed by this Court, on a petition filed by
+the Respondent.
+4. In Arbitration, Respondent (Claimant therein), contended that as a result of demonetisation,
+collection of user fee at the Toll Plaza came to a grinding halt w.e.f. 9th November, 2016 [00:00
+hrs]. NHAI, vide e-mail dated 9th November, 2016, suspended collection of user fee from vehicles
+passing through the Toll Plaza. Nonetheless, before receipt of notice of suspension, for
+approximately 21 hours, commencing from 8th November, 2016 [22:00 hrs], the Respondent could
+not collect user fee at the Toll Plaza, and accordingly, sought waiver of the same during the said
+period. Such suspension continued at the Toll Plaza from 9th November, 2016 [17:30 hrs] This is a
+digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 to 2nd December, 2016 [24:00 hrs] for
+approximately 23.263 days [hereinafter, "toll free period"], on the basis of different circulars issued
+by NHAI and its respective Regional Offices. However, Respondent contended that the effect of
+demonetisation persisted throughout the 'force majeure period' from 9th November, 2016 to 28th
+February, 2017, and thus, sought waiver of user fee during such period to the extent of the difference
+between actual weekly remittance and actual collection (minus the maintenance charges).
+AT ARBITRATION
+5. At Arbitration, the Respondents sought reliefs as follows:
+"i) Waiver of the payment of Rs.6,76,71,317/- out of the liability of Rs.
+8,09,02,416/- considering the period 09.11.2016 to 28.02.2017 as period falling
+under Force Majeure period and;
+ii) Refund for a sum of Rs.1,32,31,099/- (already paid under duress) out of the
+liability of Rs.8,09,02,4161- considering the period 09,11.2016 to 28.02.2017 as
+period falling under Force Majeure period and;
+iii) Interest @ 18% per annum compounded quarterly on the amount of refund of Rs.
+1,32,31,099/-."
+6. NHAI, on the other hand, defended the claims and raised counter- claims against the Respondent
+to the extent of (i) recovery of unpaid balance in terms of Clause 'H' and 19 of the Contract
+Agreement; (ii) liquidated damages; and (iii) costs - all the tune of Rs. 17,29,77,390/-, along with
+interest. NHAI did not dispute the factual position emerging from demonetisation of Rs. 500/- and
+Rs. 1000/- notes, however, it contended that the incident of demonetisation did not come within the
+purview of 'change of law' as defined under Clause 25(b) of the Contract Agreement. NHAI also
+denied that the act of demonetisation had an adverse effect on user fee This is a digitally signed
+Judgement.
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+2
+NEUTRAL CITATION NO: 2022/DHC/001124 collection at the Toll Plazas during the period in
+dispute and argued that Respondent's claim - premised on Clause 25(b) of the Contract Agreement
+- was contrary to the terms of the Contract Agreement and was entirely misconceived.
+7. The learned Arbitrator identified seven issues for adjudication, as noted under paragraph no. 16
+of the impugned Award, which are as follows:
+"16. After perusal of the pleadings and the above clarification rendered by the
+claimant's counsel, the tribunal identified the following points for determination:
+i) Whether the claimant is entitled to grant of waiver of the payment of
+Rs.6,76,71,317/- out of the liability of Rs.8,09,02,416/- considering the period
+09.11.2016 to 28.02.2017 as period falling under Force Majeure period?
+ii) Whether the claimant is entitled to grant of refund for a sum of Rs.1,32,31,099/-
+(already paid under duress) out of the liability of Rs.8,09,02,416/- considering the
+period 09.11.2016 to 28.02.2017 as period falling under Force Majeure period?
+iii) Whether the claimant is entitled to grant of interest @ 18% per annum
+compounded quarterly on the amount of refund of Rs.1,32,31,099/-?.
+iv) Whether the respondent-NHAI is entitled to recover a sum of Rs.15,72,52,173/-
+from the claimant in terms of Clause-H and Clause- 19 of the Contract Agreement?
+v) Whether the respondent is entitled to recover a sum of Rs.1,57,25,217/- towards
+liquidated damages @ 10% of the total unpaid dues from the claimant?
+vi) Whether the parties are entitled to any pendente lite and future interest. in case
+any amounts are awarded in favour of either party and if so, at what rate? (As per
+Tribunal)
+vii) Which party is entitled to the cost of the present proceeding and what would be
+the amount of such cost?
+viii) Relief?"
+8. The parties did not lead any oral evidence and disputes were decided purely on the basis of
+documents placed on record. The learned Arbitrator came to the conclusion that the incidence of
+demonetisation and claim raised This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 thereon, fell within the scope of 'force majeure'
+under Clause 25(b) of the Contract Agreement, and allowed Respondent's claims accordingly, while
+rejecting the counter-claims of NHAI.
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+3
+9. Aggrieved with the Award, the present petition has been filed NHAI under Section 34 of the Act.
+CONTENTIONS OF THE PARTIES ON BEHALF OF NHAI
+10. Mr. Saurabh Banerjee, Standing Counsel for NHAI, has made several submissions and placed
+reliance upon case laws to support his contentions which can be summarised as follows:
+11. The act of demonetisation was not a force majeure event - since it was not an idea novel to India.
+In fact, there have been prior instances of the same viz. in 1946 and 1978. Demonetisation was a
+bona fide policy decision of the Government of India, issued in public interest and is constitutionally
+valid. Demonetisation was not an act of "taking away" legal tender of money, since the same was
+always available and in circulation, albeit in different denominations, and thus, there was no
+violation of any right(s) of any person and/ or party. Further, all previous acts of demonetisation
+challenged in various Courts had been upheld as legal and valid - to this effect, reliance is placed
+upon the judgements in Bimla Devi v. Union of This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 India & Anr.,1 Jayantilal Ratanchand Shah etc. v.
+Reserve Bank of India & Ors.2 and M. Seeni Ahamed v. Union of India.3
+12. Demonetisation was only a 'change in economic policy' and there was no illegality committed in
+execution thereof. The wisdom and advisability of economic policies are ordinarily not amenable to
+judicial review, unless it is demonstrated that such policy is contrary to the Constitution of India
+and/ or any statutory provision. The impugned Award has considered relative merits of the act of
+demonetisation, the correctness whereof could only be questioned in the Parliament. Reliance is
+placed on the judgement in BALCO Employees' Union (Regd.) v. Union of India.4
+13. The act of demonetisation was not a force majeure event as per Clause 25(b) of the Contract
+Agreement as it was too remote a change in circumstances. It was for a short span and of a
+temporary nature, having no material adverse effect upon the obligations of the Respondent,
+causing no hindrance/ stoppage of traffic. It therefore, does not constitute a 'change in law' which
+had a material adverse effect on the Respondent's obligations. Though admittedly there was a
+reduction in traffic flow during the demonetisation period, it did not have any adverse effect on the
+Contract Agreement as the fundamental basis was not dislodged.
+1983 [4] DRJ 236 [See paragraphs no. 13-17].
+1996 SCALE (5) 741 [See paragraphs no. 6-10].
+2016 SCC OnLine Mad 10039 [See paragraphs no. 1, 2.1, 3, 7-9, 11-13 & 15-18].
+(2002) 2 SCC 333 [See paragraphs no. 92-93].
+This is a digitally signed Judgement.
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+4
+NEUTRAL CITATION NO: 2022/DHC/001124
+14. There was no frustration and/ or impossibility of performance of the Contract Agreement. The
+Respondent was always provided with, and in fact, it did avail the alternate means/ remedies. It
+never raised any complaint against insufficiency in respect of remedies made available to it, and
+rather, reaped benefits thereon - for instance, Respondent voluntarily chose not to execute and walk
+out of the 'Supplement and Closeout Agreement' offered to it by NHAI for the reimbursement of
+expenses incurred during the demonetisation period. The Respondent, is therefore, estopped from
+now seeking shelter under the garb of making fresh claims under the 'force majeure' clause - more
+so, for its non-performance of mandatory terms of the Contract Agreement. To this extent, reliance
+is placed on TGV Projects & Investments Private Limited v. National Highways Authority of India.5
+15. The Contract Agreement inter se the parties was a 'commercial contract' for a fixed yearly term
+and with a fixed weekly amount - which was entered into by the Respondent for its business efficacy.
+The Contract Agreement was not a 'performance-based contract' and was in no manner dependent
+upon any vehicular movements or financial implications i.e., decrease or increase in weekly traffic
+and/ or in collection of weekly amounts at any period before, during or after the demonetisation
+period. Although there is no benchmark of minimum traffic flow or minimum weekly collection, the
+learned Arbitrator passed the impugned Award on a mere presumption that the collection of user
+fee was not matching the average fee collection. The Contract Agreement was not frustrated and the
+'force majeure' clause is not applicable to the facts and circumstances of the FAO (OS) 244/ 2018
+dated 11th December, 2018 [See paragraphs no. 18-21].
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 instant case, merely because there was a change in
+circumstances - more so, when the Respondent never challenged the act of demonetisation. In fact,
+Respondent's claim is rather only based upon after effects i.e., financial implications during the
+demonetisation period to somehow escape paying the mandatory weekly remittance of Rs.
+2,24,40,274/- under Clause 'H' of the Contract Agreement. To this extent, reliance is placed on M/s.
+Alopi Prashad & Sons, Ltd. v. Union of India,6 Continental Construction Co. Ltd. v. State of Madhya
+Pradesh,7 Track Innovations India Pvt. Ltd. v. Union of India & Ors.8 Satyabrata Ghosh v.
+Mugneeram Bangur & Co. & Anr.9 and Sri Amuruvi Perumal Devasthanam v. K.R. Sabapathi &
+Anr.10
+16. The Contract Agreement was never abandoned, altered or modified by mutual consent or
+otherwise, and thus, both parties are bound by Sections 91 and 92 of the Evidence Act, 1872. Thus,
+irrespective of the alleged 'change of event' or otherwise, in terms of Clauses 'H' and 19 of the
+Contract Agreement, the Respondent was obliged to pay the mandatory weekly remittance as well as
+interest for non-payment thereof to NHAI. When the Respondent failed to comply with Clause 'H' of
+the Contract Agreement and abruptly stopped making payments to NHAI, the learned Arbitrator -
+in stark contravention of the trite law that 'change in circumstances' would not be tantamount to
+'change/ alteration in a contract' - has wrongly held that change in circumstances (in this case, the
+reduction in the volume of traffic) has altered the contractual obligations of the Respondent as
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+5
+under Clause 1960 (2) SCR 793 [See paragraphs no. 20-20].
+AIR 1988 SC 1166 [See paragraphs no. 5-6, 8-9].
+170 (2010) DLT 424 [DB] [See paragraphs no. 9, 12, 16, 18].
+AIR 1954 SC 44 [See paragraphs no. 21-22, 24-25].
+AIR 1962 Mad 132 [See paragraph no. 15].
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 'H' of the Contract Agreement qua payment of
+weekly remittance. In doing so, the learned Arbitrator has altered/ overlooked the terms stipulated
+under the Contract Agreement and has, in fact, re-written the terms, thereby, rendering the Contract
+Agreement otiose, redundant and frustrated.
+17. The learned Arbitrator has wrongly awarded Rs. 7,41,36,597/- [Rs. 6,76,71,317/- (towards waiver
+of payment w.e.f. 3rd December, 2016 till 28th February, 2017, out of its liability of remittance of
+payment in accordance with Clause 'H' of the Contract Agreement) + Rs. 49,65,280/- (towards
+operation and maintenance w.e.f. 9th November, 2016 till 2nd December, 2016 along with simple
+interest of 14% p.a. w.e.f. 1st April, 2017 till date of payment) + Rs. 15,00,000/- towards cost)].
+18. The learned Arbitrator has wrongly awarded an additional/ imaginary claim of Rs. 49,65,280/-
+to the Respondent as (i) NHAI had already suspended user fee collection at the Toll Plaza during the
+'toll free period';
+(ii) in terms of Clauses 12, 13(i), 15(a), (c), (f) and 23 of the Contract Agreement, the Respondent
+was obligated to carry out the overall work including - the functioning, deployment of personnel,
+infrastructure, maintenance and other operations relating to collection of user fee at the Toll Plaza;
+and (iii) despite recognising that there was no stoppage, and rather, only a reduction in traffic in
+paragraphs no. 25-27 of the impugned Award, the learned Arbitrator proceeded contradictorily hold
+that "the collection of user fee became zero during that period" in paragraphs no. 35-36, and
+subsequently thereto, wrongly proceeds to state that the same is justified.
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 The same has resulted in the double enrichment of
+the Respondent and is beyond the scope of the Contract Agreement.
+19. Respondent never complied with the mandatory stipulations of Clause 25(c)(i)(1) of the Contract
+Agreement on two fronts - in that the Respondent failed to (i) make any 'Notice of Claim' in
+compliance thereof and (ii) provide the requisite particulars in compliance thereof. NHAI had
+already denied Respondent's claim vide letter dated 20th December, 2017 as it was not covered
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+6
+under Clause 25(b) of the Contract Agreement, and was thus, not maintainable.
+20. NHAI's counterclaims, which were for a longer period than that of the Respondent, have been
+completely ignored, and thus, the impugned Award is liable to be set-aside and NHAI's
+counter-claims be allowed.
+ON BEHALF OF THE RESPONDENT
+21. Mr. S. Ram. Babu, counsel for the Respondent, defended the impugned Award and submitted
+that the same suffers from no infirmity as contested by NHAI. The jurisdiction of the Court qua the
+scope of interreference in an arbitral award is extremely restricted under Section 34 of the Act. Since
+NHAI has been unable to show any perversity and/ or illegality in the impugned Award, the Court
+should not interfere with any of the findings made therein under its limited scope for review.
+22. Mr. Ram Babu also argued that the view taken by the learned Arbitrator in coming to the
+conclusion that demonetisation constituted a This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 'force majeure' event - is in consonance with the
+terms of the Contract Agreement. Pertinently, it is a subject-matter falling in the exclusive domain
+of the learned Arbitrator and even if NHAI's arguments were to be accepted, they, at best, can only
+raise a plausible view - which cannot be a basis to impugn the Award.
+23. On merits, Mr. Ram Babu submits that demonetisation was a 'change in law' which cannot be
+disputed, and thus, the findings of the learned Arbitrator to that effect cannot be faulted with. That
+demonetisation had adversely affected the Respondent is beyond any air of controversy, as NHAI
+itself has acknowledged the same by suspending the user fee collection on six different occasions, for
+brief periods, from 09 th November, 2016 to 30th November, 2016 - lasting for nearly 23 days.
+Besides, the impact on the user fee collection owing to demonetisation, and consequently, the
+withdrawal of the Rs. 500/- and Rs. 1000/- notes as legal tender was also successfully established by
+leading evidence before the learned Arbitrator. Therefore, the findings are absolutely correct and the
+petition deserves to be dismissed.
+24. Mr. Angad Mehta, appearing along with Mr. Ram Babu, also placed reliance upon the judgments
+of this Court in National Highways Authority of India v. C.P. Rama Rao (Proprietor) 11 and the
+decision of the Division Bench in the same matter.12 O.M.P. (COMM) 127/2021.
+In F.A.O. (COMM) 116/2021.
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 ANALYSIS
+25. The Court has considered the contentions advanced by the parties. The position in contract law
+relating to force majeure, taken note of by the learned Arbitrator in paragraph no. 20 of the
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+7
+impugned Award is in consonance with the view expressed by the Supreme Court. In Energy
+Watchdog v. CERC & Ors.,13 relying upon the earlier decision Satyabrata Ghosh v. Mugneeram
+Bangur & Co. & Anr.,14 the Supreme Court held that when a contract contains a force majeure
+clause, which on construction is held attracted to the facts of the case, Section 56 of the Indian
+Contract Act 1972 can have no application.
+26. In that light, the learned Arbitrator noticed that Respondent's claim of force majeure was not
+premised on Section 56 of the Indian Contract Act, 1872, but rather, based on contractual terms viz.
+Clause 25(b). He then rightly proceeded to examine whether the 'force majeure event', as claimed by
+the Respondent, could be held to be so, on the basis of the facts and material produced in
+arbitration.
+27. Thus, the short question that arises before the Court pertains to the interpretation of the terms
+of the Contract Agreement viz. whether the act of demonetisation, which forms the basis of the
+Respondent's claim, falls within the scope of 'force majeure event' in terms of the Contract
+Agreement. For this purpose, it is considered apposite to analyse the relevant clause, which reads as
+follows:
+(2017) 14 SCC 80.
+AIR 1954 SC 44.
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 "25(b) FORCE MAJEURE EVENT:
+Except as sated in Clause (a) above, Force Majeure event means an event or circumstances or a
+combination of events and circumstances referred to in this clause which are beyond tf1e reasonable
+control of the Party or parties to this Contract and which party could not have prevented or
+reasonably overcome with the exercise of its reasonable skill and care in relation to performance of
+its obligations pursuant to this Contract and which are in the nature, without limitation of those
+described below:
+        (i)     xx..xxx...xx
+        (ii)    xx..xxx...xx
+        (iii) xx..xxx...xx
+        (iv)    xx..xxx...xx
+        (v)     Any change in law which has a material adverse effect
+                on the obligation of the parties hereto.
+        (vi)    xx..xxx...xx
+        (vii) xx..xxx...xx
+(viii) Any event or circumstances of a nature analogous to the foregoing.
+Either party to this contract shall be entitled to suspend or excuse performance of his obligations,
+including remittance of installments by the Contractor to the Authority for the period of
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+8
+continuance of the Force Majeure event, under this Contract to the extent that such performance IS
+impeded by an event of Force Majeure prevailing continuously for more than 7 (Seven) days at a
+time for continuously for more than 3 (Three) days at a time in case of no user fee collection at all at
+the toll Plaza for reasons not attributable to the Contractor."
+28. It is unassailable that the act of demonetisation was beyond control of the parties - which the
+Respondent could not have prevented or reasonably overcome. The nature of the events described in
+the clause are varied and the relevant sub-clause relied upon by the Respondent uses the expression
+"Any change in law which has a material adverse effect on the obligation of the parties hereto." The
+afore-noted clause is widely worded but spells out pre-conditions for falling within its ambit. The
+first one is that there has to be a 'change in law'. Here, the Court is unable to agree with the
+contention This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 of Mr. Banerjee that the act of demonetisation - was
+only a 'change in economic policy'. On this issue, it must be noted that the learned Arbitrator has
+analysed the legal provisions governing the act of demonetisation. He has traced it to Government of
+India notification viz. S.O. No. 3407(E) dated 8th November, 2016 [hereinafter, the "Notification"]
+and the specified bank notes (Cession of Liabilities) Ordinance, 2016 dated 30 th December, 2016
+issued under Article 123 of the Constitution of India read with Section 24 of the Reserve Bank of
+India Act, 1934 [hereinafter, the "Ordinance"]. The learned Arbitrator has also referred to the
+definition of the term "law" by placing reliance on Article 13 of the Constitution of India, and
+concluded that the afore-noted Notification and Ordinance issued by the Government of India were
+well within the ambit of the definition of "law" - having the effect of bringing change in the existing
+law with regard to the nationwide revocation of the 500/- and 1000/- notes on 8th November, 2016.
+The relevant portion from the findings of the learned Arbitrator on this issue is as follows:
+"22. A bare reading of the above provision of the Constitution makes it amply clear
+that the notification S.O. No.3407(E) dated 08.11.2016 and the above referred
+ordinance are well covered under the term "law" and it had the effect of bringing
+change in the existing law in regard to the GC Notes which were in vogue in the
+Country as on 08.11.2016. [...]"
+The afore-noted analysis is in consonance with the law and the Court finds no infirmity in the view
+taken by the learned Arbitrator.
+29. As regards Mr. Banerjee's contention relating to the legality of execution of demonetisation is
+concerned, the Court finds the submissions to be misconceived. The Respondent did not and was
+not required to assail the This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 act of demonetisation in order to succeed in
+arbitration. This decision was well-within the powers of the Government of India. The question in
+arbitration was not regarding the legality or the merits of such decision, but rather, whether the
+afore-noted Notification and Ordinance would fall within the scope of "change in law" as provided in
+the Contract Agreement. The learned Arbitrator has only discussed the impact of such act to the
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+9
+extent it was necessary for determination of the claims.
+30. Holding the act of demonetisation to constitute a 'change in law', the next aspect dwelled into by
+the learned Arbitrator was qua the effect thereof on the obligations of parties. This was the next
+requisite for falling within the scope of Clause 25(b)(v) of the Contract Agreement, which stipulates
+that the change of law should also have "material adverse effect on the obligations of the parties
+hereto", meaning thereby, that not every change in law can absolve a party to a contract from
+performance of its obligations.
+31. According to the Respondent, there were several practical difficulties at the ground level
+impeding the movement of traffic, resulting in a substantially lower collection of user fee at the Toll
+Plaza due to a visibly reduced number of vehicles passing through the Toll Plaza as compared to the
+period prior to 8th November, 2016 i.e., before the force majeure act of demonetisation. Such
+reduction in vehicular traffic was due to the impact of demonetisation and not attributable to the
+Respondent. The Respondent has claimed the difference in user fee collection per day during the
+force majeure event and the average amount of collection per day arrived at on the agreed weekly
+remittance multiplied by the number of days of the force This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 majeure event. The Respondent contended that the
+force majeure period persisted as late as 28th February, 2017 and requested for relief under Clause
+25(c)(ii)(5) of the Contract Agreement, which reads as follows:
+"5. The relief under force Majeure will be calculated on the basis of average collection
+per day, arrived based on the agreed weekly remittance. The difference in collection
+per day during force majeure and average amount of collection per day, arrived based
+on the agreed weekly remittance multiplied by number of days of force majeure will
+be payable to the contractor."
+On this crucial question as to whether the act of demonetisation resulted in consequences having a
+"material adverse effect on the obligations of the parties", the learned Arbitrator rightly rejected the
+NHAI's contention that there was no situation affecting traffic flow. The Respondent demonstrated
+that the 'change in law' had an effect of drastic reduction in vehicular traffic
+- which resulted in non-performance of the obligations under the Contract Agreement. Concededly,
+post-demonetisation, NHAI recognised the impact on user fee collection at the Toll Plazas, and took
+the decision to lower the Annual Potential Collection valued up to 29% for allotment of contracts
+during the period from 6th January, 2017 to 6th February, 2017 at several of its Toll Plazas. NHAI
+had suspended the collection of user fee during the 'toll free period' from 9th November, 2016 and
+had directed the Toll Plazas to recommence the collection only from 03rd December, 2016.
+32. NHAI had extended the suspension on collection of user fee from time to time. NHAI also does
+not dispute that it had suspended the collection of user fee by Toll Plaza collectors during the 'toll
+free period' from 9th November, 2016 to 2nd December, 2016, yet, it denies that the same resulted
+owing to the occurrence of a 'force majeure event'. That apart, this stand, is This is a digitally signed
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+10
+Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 evidently contrary to NHAI's own circulars. Conduct
+of the parties is a relevant factor and has a bearing in the construction of the obligations under a
+contract. Since NHAI had itself recognised the extraordinary situation arising due to demonetisation
+and had temporarily suspended user fee collection at Tolls Plazas, the only germane question is
+whether the reduction in user fee collection beyond the suspension period was a result of force
+majeure conditions. In other words, did the condition persist as claimed by the Respondent.
+33. In order to prove its claim, Respondent had also relied upon several circulars issued by the
+Reserve Bank of India from time to time, instructing the banks with regard to limits on exchange of
+cash, withdrawals from ATMs and weekly limits for withdrawal from the bank accounts. The
+Respondent placed on record - RBI Reports of 10th November, 2016 and November, 2017 on the
+impact of demonetisation - which spell out that the Government of India demonetised 86.9% value
+of the money in force and categorically explained that remonetisation of the currency could not be
+achieved as on 28th February, 2017. In fact, the November, 2017 report notes that even as late as
+27th October, 2017, the cash in circulation growth was far below said growth as on 07th November,
+2016.
+34. The RBI, had initially, vide notification dated 8th November, 2016, imposed restrictions on the
+afore-mentioned limits, and thereafter, vide circular dated 13th November, 2016, enhanced the
+exchange limit from Rs. 4000/- to Rs. 4500/-. Thereafter, vide circular dated 6th January, 2017, the
+ATM withdrawal limit was enhanced from Rs. 4500/- to Rs. 10,000/-, and This is a digitally signed
+Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 subsequently, vide circular dated 8th February,
+2017, the withdrawal limits of Saving Bank account were enhanced to Rs. 50,000/- per week from
+Rs. 24,000/- w.e.f. 20th February, 2017 - all of which indicate that the shortage of cash in
+circulation continued. Respondent proved that withdrawal of high- value banknotes posed cash-flow
+concerns and resulting in decreased rates of user fee collection at Toll Plazas. These aspects were
+considered by the learned Arbitrator and it was found that Respondent had successfully
+demonstrated that the 'change in law' adversely impacted it during the 'force majeure period', in
+question. This factual determination, arrived at by the learned Arbitrator on the basis of the material
+placed on record, appears to be reasonable and cannot be corrected as an error of fact. The Court is
+therefore, unable to agree with Mr. Banerjee that the 'change in law' did not have any material
+adverse effect on the Respondent's obligations.
+35. Mr. Banerjee also argued that the act of demonetisation did not have any adverse effect on the
+Contract Agreement as the Respondent was provided with alternate modes. This aspect has also
+been considered by the learned Arbitrator, however, he concluded that the adverse impact
+continued for the force majeure period, in question, notwithstanding the options extended by NHAI,
+as has been stated by Mr. Banerjee.
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+11
+36. The Respondent had duly notified the event to NHAI, which has been taken note of by the
+learned Arbitrator. The contention of Mr. Banerjee that the materially adverse effect, as
+contemplated under Clause 25(b)(v) of the Contract Agreement, must be understood to be a case of
+zero collection alone, is also unmerited. The scope under Clause 25(b)(v) of the Contract This is a
+digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 Agreement does not provide for any such
+qualification. It stipulates that "any material adverse effect" resulting from any 'change in law' would
+be sufficient to attract the said provision, and therefore, it would not be permissible to restrict the
+import of the said sub-clause only to such 'changes in law', which result in zero collections of user
+fee at the Toll Plaza.
+37. In somewhat similar facts, a co-ordinate bench of this Court in National Highways Authority of
+India v. M/s C.P. Rama Rao 15 has construed the said clause in relation to the impact of 'change in
+law' brought in by the introduction of the Goods and Service Tax ("GST") which led to a sharp
+reduction of traffic, resulting in lower collection of user fee. The Court therein, considered similar
+contentions as advanced by NHAI, however, found Clause 25(b)(v) of the Contract Agreement not to
+be restrictive in nature.
+38. As regards Mr. Banerjee's contention qua Respondent's failure to notify the claim in compliance
+of Clause 25(c)(i)(1) of the Contract Agreement, it is apposite to note the findings of the learned
+Arbitrator on the same, which read as follows:
+"32. The Ld. Counsel for the respondent has not cited any decision on the question
+which had taken a contrary view, while interpreting clause (b) of Section 28 of the
+Contract Act. The tribunal, is therefore inclined to accept the plea put forth from the
+claimant side and hold that failure of strict non- compliance of the provisions of
+clause 25(c)(1)(1) of the Agreement will not debar the contractor from making a claim
+based on force majeure event. In any case, the Tribunal finds that there has been
+sufficient compliance of the O.M.P. (COMM.) 127/2021 dated 23rd March, 2021.
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 said provision, if we make a conjoint reading of the
+said clause alongwith sub-clauses (4) & (5) of clause (c).
+33. In view of the above findings, point No.1 must be answered in affirmative and in favour of the
+claimant. Since there is no dispute that the as per clause H of the agreement, the liability of the
+claimant to remit the user collection charges between 03.12.2016 to 28.02.2017 was to the tune of
+Rs.28,21,06,264/- calculated at the rate of Rs.2,24,40,274/- (Rupees Two Crore Twenty Four Lac
+Forty Thousand Two Hundred Seventy Four only) per week and the claimant has already remitted a
+sum of Rs.21,44,34,947/- to the respondent, so the claimant is entitled to the waiver of a sum of
+Rs.6,76,71,317/- and the respondent is not entitled to recover the same from the claimant, as there
+has been reduction in the collection of user fee at the toll plaza, due to the force majeure event
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+12
+happening on impact of demonetization of the govt. currency."
+The afore-noted findings are rational and the challenge on this ground is without substance.
+Therefore, the Court finds no infirmity, patent illegality or perversity in the view taken by the
+learned Arbitrator. As already mentioned above, the interpretation of an arbitration clause falls
+within the jurisdiction of the Arbitral Tribunal and may only be interfered on limited grounds as set
+out under Section 34(2) of the Act. The view on facts taken by the learned Arbitrator, who is the
+ultimate master of the quantity and quality of evidence, cannot be a ground of challenge under
+Section 34 of the Act.
+39. Lastly, reliance placed on the judgments in Energy Watchdogs v. Central Electricity Regulatory
+Commission & Ors;16 (ii) Coastal Andhra Power Limited v. Andhra Pradesh Central Power
+Distribution Co. Limited & Ors.;17 (iii) Zee Entertainment Enterprises v. Railtel Corporation of
+(2017) 14 SCC 80.
+2019 SCC OnLine Del 6499.
+This is a digitally signed Judgement.
+NEUTRAL CITATION NO: 2022/DHC/001124 India18 are not applicable to the factual matrix in
+the present case.
+40. It is observed that in Energy Watchdogs (Supra), the Court interpreted the force majeure clause
+as found in Clause 12.4 of the PPA therein and noted that the event claimed as force majeure therein
+- was contrary to the contractual provisions. Similarly, in Coastal Andhra Power Limited (Supra),
+reliance was placed on the judgment in Energy Watchdogs (Supra), to hold that price escalation and
+change in law abroad (in Indonesia) as stipulated under Clause 12.4 of the PPA therein - does not
+amount to force majeure and change in law. Further, in Zee Entertainment Enterprises (Supra), in
+terms of Clause 3.26 of the GCC therein, it was observed that the claim of COVID-19 as a force
+majeure event - would not excuse performance of payment obligations under the contract.
+Therefore, it emerges that if there is a contractual stipulation with respect to the occurrence of a
+'force majeure event', its interpretation has to be in terms of the contractual provisions therein. That
+precisely has been done by the learned Arbitrator on the basis of the material produced before him.
+In absence of any manifest patent illegality in the view taken by the learned Arbitrator, the Court is
+not inclined to interfere with the award.
+41. For the aforesaid reasons, the Court does not find any merit in the contentions of Mr. Banerjee.
+Dismissed.
+SANJEEV NARULA, J FEBRUARY 17, 2022/d.negi (corrected and released on 29th March, 2022)
+2021 SCC OnLine Del 5004.
+This is a digitally signed Judgement.
+National Highways Authority Of ... vs M/S. C.P. Rama Rao [Proprietor] on 17 February, 2022
+Indian Kanoon - http://indiankanoon.org/doc/24931739/
+13

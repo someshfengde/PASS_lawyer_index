@@ -1,0 +1,1269 @@
+Supreme Court of India
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Author: Hon'Ble The Justice
+Bench: Hon'Ble The Justice, Pamidighantam Sri Narasimha, J.B. Pardiwala
+                                                                      Reportable
+                                 IN THE SUPREME COURT OF INDIA
+                           CIVIL APPELLATE/ORIGINAL JURISDICTION
+                                  Civil Appeal No. 7300 of 2022
+          State Bank of India & Ors                               ... Appellants
+                                              Versus
+          Rajesh Agarwal & Ors                                    …Respondents
+                                             With
+                                 Civil Appeal No. 7301 of 2022
+                                             With
+                                 Civil Appeal No. 7302 of 2022
+                                             With
+                                 Civil Appeal No. 7303 of 2022
+                                             With
+                                 Civil Appeal No. 7304 of 2022
+                                             With
+Signature Not Verified           Civil Appeal No. 7305 of 2022
+Digitally signed by
+Sanjay Kumar
+                                             With
+Date: 2023.03.27
+14:35:20 IST
+Reason:
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+1
+                                 Civil Appeal No. 7306 of 2022
+                                              1
+�            With
+Civil Appeal No. 7307 of 2022
+         And With
+Writ Petition No. 138 of 2022
+             2
+�                                                              JUDGMENT
+Dr Dhananjaya Y Chandrachud, CJI
+A.      Background
+.............................................................................................................. 4 B. Facts
+......................................................................................................................... 5 C. Submissions
+............................................................................................................ 10 D. Analysis
+.................................................................................................................. 15 D.1 Regulatory
+Framework..................................................................................................... 15 D.2 Audi Alteram
+Partem ....................................................................................................... 25 D.3 No implied exclusion
+of audi alteram partem ................................................................... 39 D.4 Challenge to constitutional
+validity .................................................................................. 48 E. Conclusion
+.............................................................................................................. 57 A. Background
+1. The civil appeals arise out of a challenge to the Reserve Bank of India (Frauds Classification and
+Reporting by Commercial Banks and Select FIs) Directions 2016. 1 Issued by the Reserve Bank of
+India2, these directions were challenged before different High Courts primarily on the ground that
+no opportunity of being heard is envisaged to borrowers before classifying their accounts as
+fraudulent. The High Court of Telangana has held in the impugned judgment 3 that the principles of
+natural justice must be read into the provisions of the Master Directions on Frauds. The decision
+has been assailed by the RBI and lender banks through these civil appeals.
+2. In this background the court has to consider whether the principles of natural justice should be
+read into the provisions of the Master Directions on Frauds. For the reasons to follow, we hold that
+the principles of natural justice, particularly the rule of audi alteram partem, has to be necessarily
+read into the Master Directions on Frauds to save it from the vice of arbitrariness. Since the
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+2
+classification of an account as fraud entails serious civil consequences for the borrower, the
+directions must be construed reasonably by reading into them the requirement of observing the
+principles of natural justice.
+1 “Master Directions on Frauds” 2 “RBI” B. Facts I. SLP (C) No. 3931 of 2021; SLP (C) No. 4922 of
+2021; SLP (C) No. 5056 of 2021
+3. B S Limited is a company engaged in the business of power transmission and distribution, passive
+telecom infrastructure, renewable energy, and mineral resources. It availed loans amounting to Rs.
+1406 crores from various banks. The company failed to meet its payment obligations to lender
+banks, thereby defaulting in repayment of credit facilities. In accordance with the Master Directions
+on Frauds, all the lender banks formed a Joint Lenders Forum4 with State Bank of India as the lead
+bank.
+4. The JLF declared the company’s assets as Non-Performing Assets 5 on 29 August 2016. The
+lender banks decided to adopt the Sustainable Structuring of Stressed Assets Scheme 6 and
+suggested a forensic audit report and Techno Economic Viability 7 study in its meeting held on 11
+July 2016. Based on the conclusions of the forensic audit report, the JLF closed the issue stating that
+there were no irregularities. However, based on the TEV study it was concluded that the company
+was not eligible for the S4A scheme and requested it to submit an alternative plan for regularization
+of its account. In the meanwhile, IDBI Bank - one of the lender banks - red- flagged the account of
+the company. Additionally, proceedings under the 4 “JLF” 5 “NPA” 6 “S4A Scheme” 7 “TEV”
+Insolvency and Bankruptcy Code, 2016 were also initiated against the company. On 15 February
+2019, the JLF declared the account of the company as fraud by invoking Clause 2.2.1(g) of the
+Master Directions on Frauds. Subsequently, the Fraud Identification Committee 8 passed a
+resolution on 31 July 2019 identifying the company’s account as fraud. The company filed a writ
+petition challenging both the decision of the JLF dated 15 February 2019 and the resolution of the
+FIC dated 31 July 2019 before the High Court of Telangana.
+5. By a judgment dated 10 December 2020, a Division Bench of the High Court allowed the writ
+petition by holding that the principle of audi alteram partem ought to be read into Clauses 8.9.4 and
+8.9.5 of the Master Directions on Frauds. The High Court further directed the lender banks: (i) to
+give an opportunity of a hearing to the borrowers after furnishing a copy of the forensic audit report;
+and (ii) to provide an opportunity of a personal hearing to the borrower before classifying their
+account as fraud. The judgment of the High Court was challenged in SLP (C) No. 3931 of 2021. On
+15 April 2021, this Court, while issuing notice, partially stayed the directions issued by the
+Telangana High Court in the following terms:
+“Meanwhile, the Minutes/Order dated 15.02.2019 passed by the Joint Lenders
+Meeting is not to be acted upon. The High Court insofar as it observed that a personal
+hearing be given is stayed.” II. SLP (C) No. 762 of 2022; SLP (C) No. 873 of 2022;
+and SLP (C) No. 1514 of 2022 8 “FIC”
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+3
+6. The appellant is a company involved in the manufacture of edible oils, fats, rice and semolina
+products in the State of Telangana. From 2003 to 2015, the appellant availed of credit facilities to
+the tune of Rs. 675 crores from a consortium of banks led by the Andhra Bank (now merged with the
+Union Bank of India). The appellant was declared as an NPA on 14 May 2018 with effect from 31
+March 2018. Thereafter, the consortium of lenders in a meeting of the JLF decided to conduct a
+forensic audit of the appellant for the period till 31 March 2019. The appellant participated in the
+audit process and submitted all the information required by the auditor from time to time. In
+September 2019, the appellant learnt that its account has been declared as fraud by the Union Bank
+of India (erstwhile Andhra Bank). Aggrieved by that classification, the appellant filed a writ petition
+before the High Court of Telangana. The High Court declined to deal with the issues pertaining to
+the principles of natural justice and fair play considering the fact that they were pending before this
+Court in SLP (C) No. 3931 of 2021. By its judgment dated 22 December 2021, the High court
+dismissed the writ petitions. The court held that the appellant’s account was rightly classified as
+fraud because the forensic audit report contained adverse findings against the appellant.
+7. On 24 January 2022, this Court, while issuing notice in SLP (C) No. 762 of 2022, directed that the
+matter may not be reported to the Central Bureau of Investigation 9 for the time being. On 28
+March 2022, this Court passed a 9 “CBI” similar ad-interim order in SLP (C) No. 873 of 2022 and
+SLP (C) No. 1514 of 2022.
+III. SLP (C) No. 2980 of 2022
+8. The appellant is a promoter and director of Golden Jubilee Hotels Pvt Ltd. 10 GJHPL availed
+financial assistance from the respondent banks for the construction and development of a hotel in
+Hyderabad. GJHPL’s account was declared as NPA from 31 December 2015 because of its inability
+to service its debts to the respondent banks. At its meeting on 21 April 2016, the JLF decided to
+carry out a special audit of the appellant’s company. Thereafter, the appellant participated in a series
+of meetings between the JLF and was consulted by the forensic auditor during the preparation of the
+audit report. Bank of Baroda red-flagged the appellant’s account on 03 May 2019 based on the
+observations in the forensic audit report. The appellant’s account was classified as fraud on 14
+August 2019. A criminal complaint was also lodged with the CBI. The appellant came to know about
+the classification of their account as fraud in 2021, when they received a copy of the FIR. The
+appellant filed a writ petition before the High Court of Telangana challenging the validity of the
+Master Directions on Frauds. The High Court by its judgment dated 31 December 2021 held that no
+relief could be granted to the appellant on the issue of personal hearing since SLP (C) No. 3931 of
+2021 was pending before this Court. The High Court also held that the appellant’s account was
+rightly classified as fraudulent in view of the adverse findings in the forensic audit report. 10
+“GJHPL” IV. Writ Petition (C) No. 138 of 2022 and SLP (C) No. 3388 of 2022
+9. The appellant is one of the directors of a company called M/s Vimal Oil & Foods Limited. The said
+company availed of loan facilities from various financial institutions over a period of time. In 2015,
+the auditor of the respondent bank flagged certain irregularities in the accounts of the company.
+Based on a special audit, the respondent bank declared the account of the company as NPA on 30
+September 2015. Thereafter, on 05 July 2016, the company’s account was red-flagged by the
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+4
+respondent bank. In the meantime, the Corporate Insolvency Resolution Process 11 was initiated
+against the company on 19 December 2017 and the appellant was suspended as Managing Director
+of the company. Upon suspension, the appellant was not invited to attend the meetings of the JLF.
+The appellant allegedly learnt that the respondent bank had classified their account as fraud on 21
+February 2018 though without any intimation. Further, based on a letter addressed by the
+respondent bank to the CBI, an FIR came to be registered against the appellant. The appellant
+alleges that they acquired knowledge about their account being classified as fraud and registration of
+the FIR only when a search was carried out at their residential premises in pursuance of the FIR.
+The appellant filed a Special Civil Application challenging the actions of the respondent bank, which
+was dismissed by the Single Judge of the High Court of Gujarat. The Division Bench partly allowed a
+Letters Patent Appeal by its judgment dated 23 December 2021 by permitting the appellant to
+address a representation to 11 “CIRP” the respondent bank but declined to allow a personal hearing.
+The appellant/ petitioner has also invoked the writ jurisdiction of this Court by challenging the
+validity of the Master Directions on Frauds. C. Submissions
+10. On behalf of the borrowers, we have heard Dr Abhishek Manu Singhvi, Mr Ranjit Kumar, Mr
+Dhruv Mehta, Mr Arunabh Chowdhury, Mr Navin Pahwa, Senior Advocates and Mr Suraj Prakash,
+learned counsel. The counsel submit that the procedure for classification of an account as fraud
+under the Master Directions on Frauds suffers from illegalities because:
+a. Under Clauses 8.9.4 and 8.9.5 of the Master Directions on Frauds, no notice is
+given to the borrowing company or its promoters, and directors including whole-time
+directors. They are not given an opportunity to present a defense and even a copy of
+the final decision is not provided to them.
+b. The classification of the borrower’s bank accounts as fraud under the Master Directions on Frauds
+carries serious civil consequences. The penal provisions under Clause 8.12 of the Master Directions
+on Frauds are also applicable to the promoters, directors, and other whole-time directors. Once a
+bank account is classified as fraudulent, it carries significant consequences according to the Master
+Directions on Frauds such as filing of a complaint with the CBI and debarment of the promoters and
+directors from accessing institutional finance. Further, the action of the banks of classifying an
+account as ‘fraud’ is stigmatic, akin to blacklisting the borrower, which affects their right to
+reputation. Thus, there is a direct impact on the fundamental rights of the individuals concerned, as
+a consequence of the classification of an account as fraud.
+c. The Master Directions on Frauds are violative of Articles 14, 19, and 21 of the Constitution of India
+as they debar a company and its promoters and directors from accessing financial and credit
+markets for a period of five years without even providing a show cause notice or opportunity of
+being heard.
+d. There are other facets to the principle of audi alteram partem apart from a personal hearing. The
+Master Directions on Frauds does not stand good on other facets of audi alteram partem such as
+notice of allegations levelled and evidence collected, notice of the penalty proposed, among others.
+According to the procedure laid down under the Master Directions on Frauds, a company or its
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+5
+promoters and directors are not even informed that they have been classified as fraud and that a
+penalty has been imposed upon them.
+e. The Master Directions on Frauds are silent on whether or not the borrower is entitled to an
+opportunity of being heard after the receipt of forensic audit report and before deciding whether the
+borrower’s account should be classified as fraud. Since the decision to classify the account as fraud
+entails significant civil consequences, principles of natural justice ought to be read into the Master
+Directions on Frauds.
+f. Clause 8.12.5 of the Master Directions on Frauds expressly stipulates that an opportunity of
+hearing be provided to third parties. The directions are manifestly arbitrary since on the one hand
+they provide an opportunity of hearing to third parties, but such an opportunity is denied to
+borrowers.
+g. Although the purpose and object of the Master Directions on Frauds is speedy detection and
+reporting of fraud to law enforcement agencies, such exigencies cannot be a valid ground to exclude
+the applicability of the principles of natural justice. h. The decision of this Court in State Bank of
+India v. Jah Developers12 read in the requirement of natural justice for the purposes of declaring a
+borrower as a willful defaulter. The principles laid down in Jah Developers (supra) would be
+squarely applicable to the present matters.
+i. The participation of the borrower during the preparation of the forensic audit report does not in
+itself fulfil the requirement of the principles of natural justice under the Master Directions on
+Frauds. Those directions do not expressly provide for the participation or inputs from a borrower
+during the preparation of 12 (2019) 6 SCC 787 the forensic audit report, giving rise to the possibility
+that in some cases, the borrower is completely excluded from the forensic audit process.
+11. On behalf of the RBI and lender banks, we have heard Mr Tushar Mehta, Solicitor General of
+India, Mr Gopal Jain, Senior Counsel and Mr Ramesh Babu M R and Mr G N Reddy, learned
+counsel. Counsel submitted that the challenge to the classification of a loan account as fraudulent on
+the ground of a violation of the principles of natural justice is devoid of merit for the following
+reasons:
+a. The Master Directions on Frauds were necessitated to protect the interests of
+depositors and banks from the growing instances of frauds. RBI is duly empowered to
+take pre-emptive measures in public interest to ensure that fraudulent borrowers are
+brought to justice and loss caused to the banks is mitigated. The clauses of the Master
+Directions on Frauds, therefore, must be interpreted in light of their purpose and
+objective, that is, timely detection and dissemination of information and reporting
+about the fraud.
+b. The provisions of the Master Directions on Frauds must be construed keeping in
+mind the following thresholds: (i) justness; (ii) fairness towards the parties
+aggrieved; (iii) reasonability; and (iv) proportionality between the mischief and the
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+6
+corrective measure.
+Considering that the Master Directions on Frauds is an economic policy decision, this Court must
+exercise greater latitude while construing its provisions.
+c. The procedure for classifying an account as fraud under the Master Directions on Frauds is not
+arbitrary. The classification is done only for reporting the matter to law enforcement agencies. The
+banks already have in place a structured organizational setup to identify and investigate fraudulent
+activities in bank accounts. Banks file complaints before law enforcement agencies, who conduct an
+investigation. The ultimate decision on fraud is rendered by a competent court of law.
+d. Principles of natural justice are not applicable at the stage of setting the process of criminal law in
+motion. Since the lender bank is an injured party in case of fraudulent accounts, it has the right to
+report the crime to the law enforcement agencies without giving an opportunity of being heard to
+the fraudulent borrower. Issuing of a show cause notice to fraudulent borrowers may forewarn them
+and hamper the investigation by law enforcement agencies.
+e. Debarring fraudulent borrowers from availing bank finances is a preventive measure without
+which the Master Directions on Frauds will be rendered toothless. Such a measure is necessary to
+prevent a fraudulent borrower from committing frauds in other banks.
+f. The requirement of notice or prior hearing could be excluded if it impedes the taking of prompt
+action. Further, it is not an inviolable rule that personal hearing ought to be given in all cases. g. The
+process for classification of a borrower as a willful defaulter under the Master Circular on Willful
+Defaulters 13 significantly differs from the process of classification of an account as fraud under the
+Master Directions on Frauds. Therefore, the decision of this Court in Jah Developers (supra) will not
+be applicable to the facts of the present appeal.
+D. Analysis D.1 Regulatory Framework
+12. RBI is a statutory body constituted under Section 3 of the Reserve Bank of India Act, 1934. The
+RBI has been constituted for the purpose of taking over the management of currency from the
+Central Government, regulating the issue of bank notes, keeping of reserves with a view to securing
+monetary stability, and operating the currency and credit system of India. RBI is entrusted with the
+statutory obligation of administering the provisions of the Banking Regulation Act, 1949 14. The BR
+Act vests RBI with various powers with respect to banking companies such as granting licenses,
+conducting inspections and giving directions. 13 Master Circular on Wilful Defaulters, 2015 14 “BR
+Act”
+13. Section 35A of the BR Act empowers RBI to issue directions to banking companies. Such
+directions are statutory in nature. Section 35A is extracted below:
+“35A. Power of the Reserve Bank to give directions – (1) Where the Reserve Bank is
+satisfied that –
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+7
+(a) in the public interest; or (aa) in the interest of banking policy; or
+(b) to prevent the affairs of any banking company being conducted in a manner
+detrimental to the interests of the depositors or in a manner prejudicial to the
+interests of the banking company; or
+(c) to secure the proper management of any banking company generally, it is
+necessary to issue directions to banking companies generally or to any banking
+company in particular, it may, from time to time, issue such directions as it deems fit,
+and the banking companies or the banking company, as the case may be, shall be
+bound to comply with such directions.
+(2) The Reserve Bank may, on representation made to it or on its own motion, modify
+or cancel any direction issued under sub- section (1), and in so modifying or
+cancelling any direction may impose such conditions as it thinks fit, subject to which
+modifications or cancellation shall have effect.”
+14. RBI has been issuing ‘master directions’ on diverse issues since 2016. These directions
+encompass the instructions on that particular subject. The master directions are updated whenever
+there is a change in policy, and such changes get reflected on RBI’s website. In exercise of the power
+conferred by Section 35A, RBI issued the Master Directions on Frauds on 01 July 2016 to
+consolidate and update seven earlier circulars on classification of fraud, reporting and monitoring
+issued between June 2009 and January 2016. The Master Directions on Frauds were updated on 03
+July 2017. The purpose of the Master Directions is extracted below:
+“1.3 Purpose These directions are issued with a view to providing a framework to
+banks to enable them to detect and report frauds early and taking timely consequent
+actions like reporting to the Investigative agencies so that fraudsters are brought to
+book early, examining staff accountability and do effective fraud risk management.
+These directions also aim to enable faster dissemination of information by the
+Reserve Bank of India (RBI) to banks on the details of frauds, unscrupulous
+borrowers and related parties, based on the banks’ reporting so that necessary
+safeguards / preventive measures by way of appropriate procedures and internal
+checks may be introduced and caution exercised while dealing with such parties by
+banks.”
+15. The above directions were issued to achieve specific purposes: (i) early and timely detection and
+reporting of fraud; (ii) early and timely reporting of fraud to investigative agencies; (iii) quicker
+dissemination of information pertaining to details of fraud and fraudulent borrowers to banks; and
+(iv) to facilitate the adoption of preventive measures by banks. These purposes are reflected in
+Clause 2.1.1 of the Master Directions on Frauds:
+“Clause 2.1.1 The Chairmen and Managing Directors/Chief Executive Officers
+(CMD/CEOs) of banks must provide focus on the “Fraud Prevention and
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+8
+Management Function” to enable, among others, effective investigation of fraud
+cases and prompt as well as accurate reporting to appropriate regulatory and law
+enforcement authorities including Reserve Bank of India.” (emphasis supplied)
+16. Clause 2.2.1 classifies frauds based on the provisions of the Indian Penal Code, 1860:
+“Clause 2.2.1 In order to have uniformity in reporting, frauds have been classified as
+under, based mainly on the provisions of the Indian Penal Code:
+a. Misappropriation and criminal breach of trust b. Fraudulent encashment through
+forged instruments, manipulation of books of account or through fictitious accounts
+and conversion of property.
+c. Unauthorised credit facilities extended for reward or for illegal gratification d. Cash
+shortages.
+e. Cheating and forgery f. Fraudulent transactions involving foreign exchange g. Any other type of
+fraud not coming under the specific heads as above.”
+17. Clause 3 advises banks to make full use of the Central Fraud Registry15 (a database created by
+RBI to enable banks to share information on fraudulent accounts) for timely identification, control,
+reporting, and mitigation of risks associated with fraud. Clause 3.3 of the said directions emphasizes
+the need to provide timely information on frauds and penalizes banks for non-adherence to
+timelines:
+“3.3.1 Banks should ensure that the reporting system is suitably streamlines so that
+delays in reporting of frauds, submission of delayed and incomplete fraud reports are
+avoided. Banks must fix staff accountability in respect of delays in reporting fraud
+cases to RBI.
+3.3.2. Delay in reporting of frauds and the consequent delay in alerting other banks
+about the modus operandi and dissemination of information through Caution
+Advice/ CFR against unscrupulous borrowers could result in similar frauds being
+perpetrated elsewhere. Banks should therefore, strictly adhere to the timeframe fixed
+in this circular for reporting of fraud cases to RBI failing which they would be liable
+for penal action prescribed under Section 47(A) of the Banking Regulation Act, 1949.”
+(emphasis supplied)
+18. The Master Directions on Frauds provides a regulatory framework for four types of frauds: (i)
+Chapter IV deals with attempted fraud; (ii) Chapter VII deals with cheque related frauds; (iii)
+Chapter VIII deals with loan frauds; and (iv) Chapter X deals with cases relating to theft, burglary,
+dacoity, and bank robberies. The dispute in the present batch of cases is concerned with Chapter
+VIII dealing with loan frauds.
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+9
+15 “CFR”
+19. Chapter VI states that as a general rule, cases involving fraud/ embezzlement should invariably
+be referred to the state police or CBI. Chapter VIII provides for more robust safeguards which
+ensure that banks report frauds to investigating agencies after forming an informed opinion. The
+framework for dealing with loan frauds was put in place by a circular dated 07 May 2015. The
+objective of the framework has been enumerated in Clause 8.2:
+“8.2 Objective of the framework The objective of the framework is to direct the focus
+of banks on the aspects relating to prevention, early detection, prompt reporting to
+the RBI (for system level aggregation, monitoring & dissemination) and the
+investigative agencies (for instituting criminal proceedings against fraudulent
+borrowers) and timely initiation of the staff accountability proceedings (for
+determining negligence or connivance, if any) while ensuring that the normal
+conduct of business of the banks and their risk taking ability is not adversely
+impacted and no new and onerous responsibilities are placed on the banks. In order
+to achieve this objective, the framework has stipulated time lines with the action
+incumbent on a bank. The time lines / stage wise actions in the loan life-cycle are
+expected to compress the total time taken by a bank to identify a fraud and aid more
+effective action by the law enforcement agencies. The early detection of Fraud and the
+necessary corrective action are important to reduce the quantum of loss which the
+continuance of the Fraud may entail.”
+20. Clause 8.3 deals with Early Warning Signals 16 and Red Flagged Accounts. 17 Under Clause
+8.3.1, a RFA is one where a suspicion of fraudulent activity is thrown up by the presence of one or
+more EWS. EWS which should alert bank officials about wrongdoings in a loan account are set out
+in Annexure II. Some of those enumerated are set out below: 16 “EWS” 17 “RFA” i. a. Default in
+undisputed payment to statutory bodies as declared in the annual report;
+b. Dishonour of high value cheques;
+ii. Delay in payment of outstanding dues;
+iii. Funds coming from other banks to liquidate the outstanding loan amount except in the normal
+course;
+iv. Exclusive collateral charged to a number of lenders without NOCs of existing charge holders;
+v. Dispute on title to collateral securities; and vi. Critical issues in the stock audit report.
+21. EWS provide indications of wrongdoing which may later turn out to be frauds. A bank is put on
+alert by the presence of EWS and must use them to trigger a detailed investigation into the
+concerned bank account. According to Clause 8.3.5, the officer responsible for operations in the
+account should promptly report any manifestation of EWS to the Fraud Monitoring Group18
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+10
+constituted by the bank. The clause directs banks to take cognizance of EWS and launch a detailed
+investigation into an RFA.
+22. Clause 8.8 deals with situations where a bank is the sole lender. In such situations, the FMG is
+entrusted with the responsibility to take a call on whether a bank account in which EWS are
+observed should be classified 18 “FMG” as RFA. The bank is permitted to use external auditors
+before taking a final call on RFA status. However, within six months the bank is required to either
+lift the RFA status or classify the account as fraud in accordance with the investigation or forensic
+audits.
+23. Clause 8.9 deals with lending under consortium or multiple banking arrangements19. Clause
+8.9.2 provides that all banks which have financed a borrower under an MBA should take
+coordinated action based on a commonly agreed strategy for subsequent legal actions, follow-ups,
+exchange of details and information on a consistent basis. Clauses 8.9.4 and 8.9.5 provide the
+procedure for classification of a borrower’s account as fraud:
+“8.9.4 The initial decision to classify any standard account or NPA account as RFA or
+Fraud will be at the individual level and it would be the responsibility of this bank to
+report the RFA or Fraud status of the account on the CRILC platform so that other
+banks are alerted. In case it is decided at the individual bank level to classify the
+account as fraud straightaway at this stage itself, the bank shall then report the fraud
+to RBI within 21 days of detection and also report the case to CBI/Police, as it is being
+done hitherto. Further, within 15 days of RFA/Fraud classification, the bank which
+has red flagged the account or detected the fraud would ask the consortium leader or
+the largest lender under MBA to convene a meeting of the JLF to discuss the issue.
+The meeting of the JLF so requisitioned must be convened within 15 days of such a
+request being received. In case there is a broad agreement, the account should be
+classified as fraud; else based on the majority rule of agreement amongst bank with at
+least 60% share in the total lending, the account should be red flagged by all the
+banks and subjected to a forensic audit commissioned or initiated by the consortium
+leader or the largest lender under MBA. All banks, as part of the consortium of
+multiple-banking arrangement, shall share the costs and provide the necessary
+support for such an investigation.
+19 “MBA” 8.9.5 The forensic audit must be completed within a maximum period of three months
+from the date of the JLF meeting authorizing the audit. Within 15 days of the completion of the
+forensic audit, the JLF shall reconvene and decide on the status of the account, either by consensus
+or the majority rule as specified above. In case the decision is to classify the account as a fraud, the
+RFA status shall be changed to Fraud in all banks and reported to RBI and on the CRILC platform
+within a week of the said decision. Besides, within 30 days of the RBI reporting, the bank
+commissioning/ initiating the forensic audit should lodge a complaint with the CBI on behalf of all
+banks in the consortium/MBA. For this purpose, if the bank initiating the forensic audit is a private
+sector bank, the complaint shall be lodged with the CBI by the PSU bank with the largest exposure
+to the account in the consortium/MBA. If there is no PSU bank in the consortium/MBA or it is a
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+11
+solo bank lending by a private sector bank/ foreign bank, the private bank/foreign bank shall report
+to the Police as per extant instructions. This would be in addition to the complaint already lodged by
+the first bank which had detected the fraud and informed the consortium/MBA.” (emphasis
+supplied)
+24. Clause 8.9.4 stipulates that the initial decision to classify an account as RFA or fraud vests with
+the individual bank. Once the bank classifies the account as fraud, it is the responsibility of that
+bank to report the RFA or fraud status on the account on the Central Repository of Information on
+Large Credits 20 platform to alert other banks. In case the individual bank decides to straightaway
+classify the account as fraud, it is obligated to report the fraud to RBI within 21 days of detection and
+also report the case to CBI/Police. Further, within 15 days the individual bank could ask the
+consortium leader or the largest lender under the MBA to convene a meeting of the JLF to discuss
+the issue. The meeting of the JLF has to be convened within 15 days of the request being received.
+The JLF can classify an account as fraud in case there is a broad consensus. 20 “CRILC” Otherwise,
+the clause indicates that based on an agreement amongst banks with at least a 60 percent share in
+total lending, the account should be red-flagged by all banks and subjected to forensic audit
+commissioned or initiated by the consortium leader or the largest lender under MBA.
+25. Clause 8.9.5 states that the forensic audit has to be completed within 3 months from the date of
+the JLF meeting authorizing the audit. Within 15 days of the completion of the audit, the JLF has to
+decide to classify the account as fraud and report it to the RBI. The clause also requires the bank
+commissioning the audit to lodge a complaint with CBI on behalf of all banks in the consortium
+within 30 days of reporting to RBI.
+26. Clause 8.11 deals with the filing of complaints to law enforcement agencies. Clause 8.11.1
+requires banks to lodge complaints with law enforcement agencies immediately on detecting fraud.
+The clause enjoins banks to avoid delay in filing a complaint as it may result in loss of documents,
+unavailability of witnesses, absconding borrowers, loss of money trail and asset tripping by
+fraudulent borrowers.
+27. The penal measures for fraudulent borrowers are set out in Clause 8.12 which reads as follows:
+8.12 Penal measures for fraudulent borrowers 8.12.1 In general, the penal provisions
+as applicable to wilful defaulters would apply to the fraudulent borrowers including
+the promoter director(s) and other whole time directors of the company insofar as
+raising of funds from the banking system or from capital markets by companies with
+which they are associated is concerned, etc. In particular, borrowers who have
+defaulted and have also committed a fraud in the account would be debarred from
+availing bank finance from Scheduled Commercial Banks, Development Financial
+Institutions, Government owned NBFCs, Investment Institutions, etc., for a period of
+five years from the date of full payment of the defrauded amount. After this period, it
+is for individual institutions to take a call on whether to lend to such a borrower. The
+penal provisions would apply to non-whole time directors (like nominee directors
+and independent directors) only in rarest of cases based on conclusive proof of their
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+12
+complicity.
+8.12.2 No restructuring or grant of additional facilities may be made in the case of
+RFA or fraud accounts. However, in cases of fraud/malfeasance where the existing
+promoters are replaced by new promoters and the borrower company is totally
+delinked from such erstwhile promoters/management, banks and JLF may take a
+view on restructuring of such accounts based on their viability, without prejudice to
+t h e  c o n t i n u a n c e  o f  t h e  c r i m i n a l  a c t i o n s  a g a i n s t  t h e  e r s t w h i l e
+promoters/management.
+8.12.3 No compromise settlement involving a fraudulent borrower is allowed unless
+the conditions stipulate that the criminal complaint will be continued.
+8.12.4 In addition to above borrower – fraudsters, third parties such as builders,
+warehouse/ cold storage owners, motor vehicle/ tractor dealers, travel agents, etc.
+and professionals such as architects, valuers, chartered accountants, advocates, etc.
+are also held accountable if they play a vital role in credit sanction/ disbursement or
+facilitated the perpetration of frauds. Banks are advisable to report to Indian Banks
+Association (IBA) the details of such parties involved in frauds.
+8.12.5 Before reporting to IBA, banks have to satisfy themselves of the involvement of
+third parties concerned and also provide them with an opportunity of being heard. In
+this regard the banks should follow normal procedures and the processes followed
+should be suitably recorded. On the basis of such information, IBA would, in turn,
+prepare caution lists of such third parties for circulation among the banks.”
+(emphasis supplied)
+28. Clause 8.12.1 provides that the penal provisions as applicable to willful defaulters would apply to
+fraudulent borrowers as regards the raising of funds from the banking system and financial
+institutions. Importantly, under the clause, fraudulent borrowers include promoters, directors, and
+other whole-time directors of the borrowing company. It debars fraudulent borrowers from availing
+banking finance from scheduled commercial banks, development financial institutions, government
+owned NBFCs, investment institutions, etc. for a period of five years from the date of full payment of
+the defrauded amount. Even after the completion of the five- year period, it is for the individual
+financial institutions to decide whether to lend to fraudulent borrowers, including directors and
+promoters of the borrowing company. Additionally, under Clause 8.12.2, fraudulent borrowers are
+denied restructuring or grant of additional facilities by banks and other such financial institutions.
+D.2 Audi Alteram Partem
+29. We need to bear in mind that the principles of natural justice are not mere legal formalities.
+They constitute substantive obligations that need to be followed by decision-making and
+adjudicating authorities. The principles of natural justice act as a guarantee against arbitrary action,
+both in terms of procedure and substance, by judicial, quasi-judicial, and administrative authorities.
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+13
+Two fundamental principles of natural justice are entrenched in Indian jurisprudence: (i) nemo
+judex in causa sua, which means that no person should be a judge in their own cause; and (ii) audi
+alteram partem, which means that a person affected by administrative, judicial or quasi- judicial
+action must be heard before a decision is taken. The courts generally favor interpretation of a
+statutory provision consistent with the principles of natural justice because it is presumed that the
+statutory authorities do not intend to contravene fundamental rights. Application of the said
+principles depends on the facts and circumstances of the case, express language and basic scheme of
+the statute under which the administrative power is exercised, the nature and purpose for which the
+power is conferred, and the final effect of the exercise of that power.21
+30. While the borrowers argue that the actions of banks in classifying borrower accounts as fraud
+according to the procedure laid down under the Master Directions on Frauds is in violation of the
+principles of natural justice, the RBI and lender banks argue that these principles cannot be applied
+at the stage of reporting a criminal offence to investigating agencies. At the outset, we clarify that
+principles of natural justice are not applicable at the stage of reporting a criminal offence, which is a
+consistent position of law adopted by this Court. In Union of India v. W N Chadha, a two-judge
+bench of this Court held that that providing an opportunity of hearing to the accused in every
+criminal case before taking any action against them would “frustrate the proceedings, obstruct the
+taking of prompt action as law demands, defeat the ends of justice and make the provisions of law
+relating to the investigation lifeless, absurd, and self-defeating.”22 Again, a two-judge bench of this
+Court in Anju Chaudhary v. State of UP 23 has reiterated that the Code of Criminal Procedure, 1973
+does not provide for right of hearing before the registration of an FIR.
+31. Chapter VIII of the Master Directions on Fraud provides detailed procedures to be followed by
+the banks before forming an opinion to 21 Union of India v. Col. J N Sinha, (1970) 2 SCC 458 22
+1993 Supp (4) SCC 260 23 (2013) 6 SCC 384 proceed with a criminal complaint against the
+borrowers. Under the said chapter, the lender banks have to report a borrower to the CBI after
+classifying the borrower’s account as fraudulent. However, the classification of the borrower’s
+account does not simpliciter lead to reporting of criminal complaint with the enforcement
+authorities; it also entails penal consequences for the borrowers as laid down under Clause 8.12.
+32. The process of forming an informed opinion under the Master Directions on Frauds is
+administrative in nature. This has also been acceded to by RBI and lender banks in their written
+submissions. It is now a settled principle of law that the rule of audi alteram partem applies to
+administrative actions, apart from judicial and quasi-judicial functions. 24 It is also a settled
+position in administrative law that it is mandatory to provide for an opportunity of being heard
+when an administrative action results in civil consequences to a person or entity.
+33. In State of Orissa v. Dr (Miss) Binapani Dei 25, a two-judge bench of this Court held that every
+authority which has the power to take punitive or damaging action has a duty to give a reasonable
+opportunity to be heard. This Court further held that an administrative action which involves civil
+consequences must be made consistent with the rules of natural justice:
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+14
+“9. […] The rule that a party to whose prejudice an order is intended to be passed is entitled to a
+hearing applies alike to 24 A K Kraipak v. Union of India, (1969) 2 SCC 262; Governing Body, St
+Anthony’s College, Shillong and Ors v. Rev. Fr. Paul Petta of Shillong, (1988) Supp SCC 676; Uma
+Nath Pandey and Ors v. State of Uttar Pradesh, (2009) 12 SCC 40.
+25 AIR 1967 SC 1269 judicial tribunals and bodies of persons invested with authority to adjudicate
+upon matters involving civil consequences. It is one of the fundamental rules of our constitutional
+set-up that every citizen is protected against exercise of arbitrary authority by the State or its
+officers. Duty to act judicially would therefore arise from the very nature of the function intended to
+be performed: it need not be shown to be super-added. If there is power to decide and determine to
+the prejudice of a person, duty to act judicially is implicit in the exercise of such power. If the
+essentials of justice be ignored and an order to the prejudice of a person is made, the order is a
+nullity. That is a basic concept of the rule of law and importance thereof transcends the significance
+of a decision in any particular case.”
+34. In Maneka Gandhi v. Union of India 26, a seven-judge bench of this court held that any person
+prejudicially affected by a decision of the authority entailing civil consequences must be given an
+opportunity of being heard. This has been reiterated in a catena of decisions of this Court. In view of
+the settled position of law, the next question that arises before us is the scope and definition of the
+phrase ‘civil consequences’.
+35. In Mohinder Singh Gill v. Chief Election Commissioner, New Delhi27, a Constitution Bench of
+this Court held that ‘civil consequences’ cover infraction of not merely property or personal rights
+but of civil liberties, material deprivations, and non-pecuniary damages. In that case, the Court held
+that denial of a democratic right to cast a vote inflicts civil consequences. In D K Yadav v. J M A
+Industries 28, a three-judge bench of this Court observed that “everything that affects a citizen in his
+civil life inflicts a civil consequence.” 26 (1978) 1 SCC 248 27 (1978) 1 SCC 405 28 (1993) 3 SCC 259
+36. In Canara Bank v. V K Awasthy 29, a two-judge bench of this Court succinctly summarized the
+history, scope, and application of the principles of natural justice to administrative actions involving
+civil consequences in the following terms:
+14. Concept of natural justice has undergone a great deal of change in recent years.
+Rules of natural justice are not rules embodied always expressly in a statute or in
+rules framed thereunder. They may be implied from the nature of the duty to be
+performed under a statute. What particular rule of natural justice should be implied
+and what its context should be in a given case must depend to a great extent on the
+fact and circumstances of that case, the framework of the statute under which the
+enquiry is held. The old distinction between a judicial act and an administrative act
+has withered away. Even an administrative order which involves civil consequences
+must be consistent with the rules of natural justice. The expression “civil
+consequences” encompasses infraction of not merely property or personal rights but
+of civil liberties, material deprivations and non-pecuniary damages. In its wide
+umbrella comes everything that affects a citizen in his civil life.
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+15
+(emphasis supplied) There is a consistent pattern of judicial thought that civil consequences entail
+infractions not merely of property or personal rights, but also of civil liberties, material deprivations,
+and non-pecuniary damages. Every order or proceeding which involves civil consequences or
+adversely affects a citizen should be in accordance with the principles of natural justice.
+37. The next question that requires our consideration is whether the classification of a borrower’s
+account as fraudulent under the Master Directions on Frauds entails civil consequences to
+borrowers. 29 (2005) 6 SCC 321
+38. The RBI and lender banks have argued that the civil consequences contemplated in Clause 8.12.1
+of the Master Directions on Frauds are reasonable. Under the said clause, the borrower, including
+the promoters and directors of the company, are barred from availing credit from financial markets
+and credit markets for a period of five years, and possibly even beyond. According to RBI and lender
+banks, such a restriction has to be perceived from the perspective of public interest. While
+acknowledging that the procedure which has been laid down in the Master Directions on Frauds is
+conceived in public interest, to protect the banking system, we cannot ignore the serious civil
+consequences which emanate to the borrowers.
+39. Clause 8.12 of the Master Directions on Frauds deals with the penal measures for borrowers.
+Clause 8.12.1 provides that penal provisions as applicable to wilful defaulters would apply to
+fraudulent borrowers, including the promoters and directors of the borrower company. The
+consequences that apply to a wilful defaulter under the Master Circular on Wilful Defaulters have
+been culled out in Jah Developers (supra):
+“9. […] serious consequences follow after a person has been classified as a wilful
+defaulter. These consequences are as follows:
+(a) No additional facilities to be granted by any bank/financial institution [para
+2.5(a)].
+(b) Entrepreneurs/Promoters would be barred from institutional finance for a period
+of 5 years [para 2.5(a)].
+(c) Any legal proceedings can be initiated, including criminal complaints [para
+2.5(b)].
+(d) Banks and financial institutions to adopt proactive approach in changing the
+management of the wilful defaulter [para 2.5(c)].
+(e) Promoter/Director of wilful defaulter shall not be inducted by another borrowing
+company [para 2.5(d)].
+(f) As per Section 29-A of the Insolvency and Bankruptcy Code, 2016, a wilful defaulter cannot be a
+resolution applicant.”
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+16
+40. In addition to the above consequences, borrowers are also liable to suffer the following
+consequences under the Master Directions on Frauds:
+a) No restructuring may be made in the case of an RFA or fraud accounts (clause 8.12.2)
+b) No compromise on settlement involving a fraudulent borrower is allowed unless the conditions
+stipulate that the criminal complaint will be continued (clause 8.12.3) The above consequences show
+that the classification of a borrower’s account as fraud under the Master Directions on Frauds has
+difficult civil consequences for the borrower. The classification of an account as fraud not only
+results in reporting the fact to investigating agencies, but has other penal and civil consequences as
+specified in Clauses 8.12.1 and 8.12.3. The borrowers have placed reliance on Jah Developers (supra)
+to submit that debarring them from accessing institutional finance under Clause 8.12.1 of the Master
+Directions affects the fundamental right of the borrower to carry on business. On the other hand, the
+RBI and lender banks have argued that reliance on the observations in Jah Developers (supra) is
+misplaced because the decision dealt with the classification of a borrower as wilful defaulter,
+whereas the present batch of appeals deal with the classification of a borrower’s account as fraud.
+41. The question in Jah Developers (supra) was whether a person who is declared to be a wilful
+defaulter according to the procedure laid down in the Master Circular on Wilful Defaulters is
+entitled to be represented by a lawyer of their choice before such a declaration is made. The Court
+held that a borrower does not have the right to be represented by a lawyer in the course of in-house
+proceedings envisaged in Paragraph 3 of the Master Circular on Wilful Defaulters. Paragraph 3 of
+the Master Circular on Wilful Defaulters provides a two-tier process for identification of a wilful
+defaulter. At the first stage, a First Committee headed by an Executive Director or equivalent and
+consisting of two other senior officers of the bank must, after examining the evidence of wilful
+default and concluding that wilful default has occurred, issue a show-cause notice to the concerned
+borrowers and promoters/ whole-time directors calling for their submissions. The First Committee
+has to consider the submissions before recording the fact of wilful default with reasons. If the
+Committee deems it necessary, it could also provide a personal hearing to the borrower and the
+promoter/ whole-time director of the borrowing company. The second stage is that the order of the
+First Committee is reviewed by another Committee, known as the Review Committee. Thus, it is
+clear that the procedure for declaration of a borrower as a wilful defaulter is different from the
+procedure envisaged under the Master Directions on Frauds for classifying a borrower’s account as
+fraud. However, by virtue of Clause 8.12.1 of the Master Directions on Frauds, the penal provisions
+applicable to wilful defaulters also apply to fraudulent borrowers. Thus, although the procedure
+adopted for declaration of a wilful defaulter is different from that envisaged for classifying the
+borrower’s account as fraud, they will face similar consequences. In fact, as mentioned above, the
+borrowers’ accounts classified as fraud under the Master Directions on Frauds will face certain
+additional consequences which have been laid down in Clauses 8.12.2 and 8.12.3. Since the
+consequences flowing from the two circulars are similar, the observations in Jah Developers (supra)
+on the effect of declaring a borrower as wilful defaulter will be squarely applicable to the present
+case. The observations of the Court are extracted below:
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+17
+24. However, we are of the view that Article 19(1)(g) is attracted in the facts of the
+present case as the moment a person is declared to be a wilful defaulter, the impact
+on its fundamental right to carry on business is direct and immediate. This is for the
+reason that no additional facilities can be granted by any bank/financial institutions,
+and entrepreneurs/promoters would be barred from institutional finance for five
+years. Banks/financial institutions can even change the management of the wilful
+defaulter, and a promoter/director of a wilful defaulter cannot be made promoter or
+director of any other borrower company. Equally, under Section 29-A of the
+Insolvency and Bankruptcy Code, 2016, a wilful defaulter cannot even apply to be a
+resolution applicant. Given these drastic consequences, it is clear that the Revised
+Circular, being in public interest, must be construed reasonably.
+(emphasis supplied) In Jah Developers (supra), this Court construed the Master Circular on Wilful
+Defaulters by harmonizing it with the principles of natural justice. Particularly, it was directed that:
+(i) the First Committee must give its order to the borrower as soon as possible; (ii) the Borrower,
+thereafter, can file a written representation against the order of First Committee to the Review
+Committee; and (iii) the Review Committee must pass a reasoned order which must be provided to
+the borrower.
+42. Classification of the borrower’s account as fraud under the Master Directions on Frauds virtually
+leads to a credit freeze for the borrower, who is debarred from raising finance from financial
+markets and capital markets. The bar from raising finances could be fatal for the borrower leading
+to its ‘civil death’ in addition to the infraction of their rights under Article 19(1)(g) of the
+Constitution. Since debarring disentitles a person or entity from exercising their rights and/or
+privileges, it is elementary that the principles of natural justice should be made applicable and the
+person against whom an action of debarment is sought should be given an opportunity of being
+heard. Indeed, debarment is akin to blacklisting a borrower from availing credit. Black’s Law
+Dictionary 30 explains the term ‘blacklist’ has been defined in the following terms:
+“A list of persons marked out for special avoidance, antagonism, or enmity on the
+part of those who prepare the list or those among whom it is intended to circulate; as
+where a trades-union “blacklists” workmen who refuse to conform to its rules, or
+where a list of insolvent or untrustworthy persons is published by a commercial
+agency or mercantile association.” (emphasis supplied) Similarly, P Ramanatha
+Aiyar’s Law Lexicon 31 defines the term “blacklist” as follows:
+“Black List is a list of persons or firms against whom its compiler would warn the
+public, or some section of the public; a list of persons unworthy of credit, or with
+whom it is not advisable 30 Black’s Law Dictionary, 5th edn (1979) 31 P Ramanatha
+Aiyar, ‘The Law Lexicon: The Encyclopedic Law Dictionary’ (1997 edn) to make
+contracts. Thus the official list of defaulters on the Stock Exchange is a black list. To
+put a man’s name on such a black list without lawful cause is actionable; and the
+further publication of such a list will be restrained by injunction.” (emphasis
+supplied)
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+18
+43. A blacklist is: (i) a list of insolvent or untrustworthy persons published by a
+commercial agency or mercantile association; and (ii) a list of persons unworthy of
+credit, or with whom it is not advisable to make contracts.
+Before this Court, the RBI and lender banks have submitted that debarring borrowers from
+accessing institutional finance is necessary to not only prevent the same persons from committing
+frauds in other banks, but also to proscribe banks from dealing with unscrupulous borrowers in
+public interest. Debarring a borrower under Clause 8.12.1 of the Master Directions on Frauds is akin
+to blacklisting the borrower for being untrustworthy and unworthy of credit by the banks. This
+Court has consistently held that an opportunity of a hearing ought to be provided before a person is
+put on a blacklist.
+44. In Erusian Equipment & Chemicals Ltd v. State of West Bengal32, the issue before this Court
+was whether a person is entitled to a notice to be heard before being blacklisted by the government.
+This Court held that since blacklisting affects the privileges of the blacklisted person, fundamentals
+of fair play require that such a person be provided an opportunity of being heard:
+“20. Blacklisting has the effect of preventing a person from the privilege and advantage of entering
+into lawful relationship with the 32 (1975) 1 SCC 70 Government for purposes of gains. The fact that
+a disability is created by the order of blacklisting indicates that the relevant authority is to have an
+objective satisfaction. Fundamentals of fair play require that the person concerned should be given
+an opportunity to represent his case before he is put on the blacklist.”
+45. In Joseph Vilangandan v. Executive Engineer 33, the issue before the two-judge pertained to
+debarment of a government contractor from seeking any further contract with the government
+without providing an opportunity of being heard. The material sentence of the notice there read as
+follows:
+“You are therefore requested to show cause ... why the work may not be arranged
+otherwise at your risk and loss, through other agencies after debarring you as a
+defaulter....” (emphasis original) This Court applied the position of law in Erusian
+Equipment & Chemicals Ltd (supra) to hold that the Executive Engineer ought to
+have given the contractor adequate opportunity to represent against the proposed
+action of debarment.
+46. In Raghunath Thakur v. State of Bihar 34, a two-judge bench of this Court held that since
+blacklisting entails civil consequences an order of blacklisting should be issued only after following
+the principles of natural justice:
+“4. […] Insofar as the contention that there is no requirement specifically of giving
+any notice is concerned, the respondent is right. But it is an implied principle of the
+rule of law that any order having civil consequence should be passed only after
+following the principles of natural justice. It has to be realised that blacklisting any
+person in respect of business ventures has civil consequence for the future business
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+19
+of the person concerned in any event. Even if the rules do not express so, it is an
+elementary principle of 33 (1978) 3 SCC 36 34 (1989) 1 SCC 229 natural justice that
+parties affected by any order should have right of being heard and making
+representations against the order. […]”
+47. In Gorkha Security Services v. Govt (NCT of Delhi) 35, the issue before this Court pertained to
+the form and content of a show-cause notice that is required to be served before blacklisting the
+noticee. A two-judge bench of this Court observed that that an order blacklisting a person is
+stigmatic. The relevant observation is extracted below:
+16. It is a common case of the parties that the blacklisting has to be preceded by a
+show-cause notice. Law in this regard is firmly grounded and does not even demand
+much amplification. The necessity of compliance with the principles of natural justice
+by giving the opportunity to the person against whom action of blacklisting is sought
+to be taken has a valid and solid rationale behind it. With blacklisting, many civil
+and/or evil consequences follow. It is described as “civil death” of a person who is
+foisted with the order of blacklisting. Such an order is stigmatic in nature and debars
+such a person from participating in government tenders which means precluding him
+from the award of government contracts.
+(emphasis supplied)
+48. Classification of a borrower’s account as fraud has the effect of preventing the borrower from
+accessing institutional finance for the purpose of business. It also entails significant civil
+consequences as it jeopardizes the future of the business of the borrower. Therefore, the principles
+of natural justice necessitate giving an opportunity of a hearing before debarring the borrower from
+accessing institutional finance under Clause 8.12.1 of the Master Directions on Frauds. The action of
+classifying an account as fraud not only affects the business and goodwill of the borrower, but also
+the right to reputation.
+35 (2014) 9 SCC 105
+49. In State of Maharashtra v. Public Concern for Governance Trust 36, a two-judge bench of this
+Court held that a decision taken by any authority affecting the right to reputation of an individual
+has civil consequences. Therefore, in such situations the principles of natural justice would come
+into play. The Court held that any order or decision of the authority adversely affecting the personal
+reputation of an individual must be taken after following the principles of natural justice:
+“41. It is thus amply clear that one is entitled to have and preserve one's reputation
+and one also has a right to protect it. In case any authority in discharge of its duties
+fastened upon it under the law, travels into the realm of personal reputation
+adversely affecting him, it must provide a chance to him to have his say in the matter.
+In such circumstances, right of an individual to have the safeguard of the principles
+of natural justice before being adversely commented upon is statutorily recognised
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+20
+and violation of the same will have to bear the scrutiny of judicial review.”
+50. The RBI and lender banks have relied on Peerless General Finance and Investment Co. Ltd v.
+Reserve Bank of India37, Joseph Kuruvilla Vellukunnel v. Reserve Bank of India38, and Internet
+and Mobile Association of India v. Reserve Bank of India39 to submit that the Master Directions on
+Frauds are akin to a statutory regulation and a decision on economic policy, which must be accorded
+a level of deference.
+51. The competence of the RBI to issue the Master Directions on Frauds is not a bone of contention
+in these appeals. The RBI, in its estimation, has the power to determine and frame economic
+measures in the public interest to ensure the proper management of banking companies. The 36
+(2007) 3 SCC 587 37 (1992) 2 SCC 343 38 AIR 1962 SC 1371 39 (2020) 10 SCC 274 point however is
+that the implementation of a decision to secure the health of banking companies must comport with
+the due process of law. The civil consequences which follow upon a classification of a borrower’s
+account as fraud are serious and prejudicial to the interests of a borrower. Principles of fair play
+require that borrower ought to be given an opportunity of being heard before classifying the account
+as fraud in accordance with the procedure laid down under the Master Directions on Frauds.
+D.3 No implied exclusion of audi alteram partem
+52. The RBI and the lender banks have contended that the Master Directions on Frauds impliedly
+exclude the right to be heard. The objective of the Master Directions on Frauds is to ensure timely
+detection and reporting of cases of fraud to alert other banks and initiate criminal proceedings. The
+Directions contemplate an opportunity of hearing to a third party who is involved in the commission
+of fraudulent activity, but do not explicitly provide for hearing to a borrower. Thus, it is urged that
+hearing to the borrowers is excluded by necessary implication.
+53. The Master Directions on Frauds do not expressly exclude a right of hearing to the borrowers
+before action to class their account as frauds is initiated. The principles of natural justice can be read
+into a statute or a notification where it is silent on granting an opportunity of a hearing to a party
+whose rights and interests are likely to be affected by the orders that may be passed.
+54. In a decision of a three-judge bench of this Court in Swadeshi Cotton Mills v. Union of India 40,
+the issue was whether the Central government was required to comply with the requirements of audi
+alteram partem before it took over the management of an industrial undertaking under Section
+18-AA(1)(a) of the Industries (Development and Regulation) Act, 1951 41. R S Sarkaria, J speaking
+for the majority consisting of himself and D A Desai, J laid down the following principles of law:
+44. In short, the general principle — as distinguished from an absolute rule of
+uniform application — seems to be that where a statute does not, in terms, exclude
+this rule of prior hearing but contemplates a post-decisional hearing amounting to a
+full review of the original order on merits, then such a statute would be construed as
+excluding the audi alteram partem rule at the pre- decisional stage. Conversely, if the
+statute conferring the power is silent with regard to the giving of a pre-decisional
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+21
+hearing to the person affected and the administrative decision taken by the authority
+involves civil consequences of a grave nature, and no full review or appeal on merits
+against that decision is provided, courts will be extremely reluctant to construe such a
+statute as excluding the duty of affording even a minimal hearing shorn of all its
+formal trappings and dilatory features at the pre-decisional stage, unless, viewed
+pragmatically, it would paralyse the administrative progress or frustrate the need for
+utmost promptitude. In short, this rule of fair play “must not be jettisoned save in
+very exceptional circumstances where compulsive necessity so demands”. The court
+must make every effort to salvage this cardinal rule to the maximum extent possible,
+with situational modifications. But, to recall the words of Bhagwati, J., the core of it
+must, however, remain, namely, that the person affected must have reasonable
+opportunity of being heard and the hearing must be a genuine hearing and not an
+empty public relations exercise.
+(emphasis supplied)
+55. The main point for consideration before this Court in Swadeshi Cotton Mills (supra) was
+whether the use of the phrase “immediate action is 40 (1981) 1 SCC 664 41 “IDR Act, 1951”
+necessary” under Section 18-AA(1)(a) of the IDR Act impliedly excluded the application of the audi
+alteram partem rule. Sarkaria, J held that the expression “immediate action”, construed in light of
+the overall context, object and reasons of the legislation, did not necessarily indicate an intention to
+exclude the requirement of prior hearing. The Court held that the use of the phrase does not exclude
+the duty to comply with the audi alteram partem rule:
+“77. The second reason — which is more or less a facet of the first — for holding that
+the mere use of the word “immediate” in the phrase “immediate action is necessary”,
+does not necessarily and absolutely exclude the prior application of the audi alteram
+partem rule, is that immediacy or urgency requiring swift action is a situational fact
+having a direct nexus with the likelihood of adverse effect on fall in production. And,
+such likelihood and the urgency of action to prevent it, may vary greatly in degree.
+The words “likely to affect. . .production” used in Section 18-AA(1)(a) are flexible
+enough to comprehend a wide spectrum of situations ranging from the one where the
+likelihood of the happening of the apprehended event is imminent to that where it
+may be reasonably anticipated to happen sometime in the near future. Cases of
+extreme urgency where action under Section 18-AA(1)(a) to prevent fall in production
+and consequent injury to public interest, brooks absolutely no delay, would be rare.
+In most cases, where the urgency is not so extreme, it is practicable to adjust and
+strike a balance between the competing claims of hurry and hearing.” (emphasis
+supplied) Sarkaria, J observed that that the owner of an undertaking is entitled to a
+fair hearing at the pre-decisional stage because the power of the Central government
+under Section 18AA-(1)(a) to take over is far-reaching and adversely affects the rights
+and interests of owners.
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+22
+56. In Mangilal v. State of Madhya Pradesh 42, a two-judge bench of this Court held that the
+principles of natural justice need to be observed even if the statute is silent in that regard. In other
+words, a statutory silence should be taken to imply the need to observe the principles of natural
+justice where substantial rights of parties are affected:
+10. Even if a statute is silent and there are no positive words in the Act or the Rules
+made thereunder, there could be nothing wrong in spelling out the need to hear the
+parties whose rights and interest are likely to be affected by the orders that may be
+passed, and making it a requirement to follow a fair procedure before taking a
+decision, unless the statute provides otherwise. The principles of natural justice must
+be read into unoccupied interstices of the statute, unless there is a clear mandate to
+the contrary. No form or procedure should ever be permitted to exclude the
+presentation of a litigant's defence or stand. Even in the absence of a provision in
+procedural laws, power inheres in every tribunal/court of a judicial or quasi-judicial
+character, to adopt modalities necessary to achieve requirements of natural justice
+and fair play to ensure better and proper discharge of their duties. Procedure is
+mainly grounded on the principles of natural justice irrespective of the extent of its
+application by express provision in that regard in a given situation. It has always been
+a cherished principle. Where the statute is silent about the observance of the
+principles of natural justice, such statutory silence is taken to imply compliance with
+the principles of natural justice where substantial rights of parties are considerably
+affected. The application of natural justice becomes presumptive, unless found
+excluded by express words of statute or necessary intendment. Its aim is to secure
+justice or to prevent miscarriage of justice. Principles of natural justice do not
+supplant the law, but supplement it. These rules operate only in areas not covered by
+any law validly made. They are a means to an end and not an end in themselves. […]
+(emphasis supplied)
+57. As a counter to the above legal position, the RBI and lender banks have contended that the
+principles of natural justice could be excluded in cases where there is a requirement of promptitude
+or exigent action. In support of 42 (2004) 2 SCC 447 the submission, the RBI and banks have relied
+upon Ajit Kumar Nag v.
+General Manager (PJ), Indian Oil Corp. Ltd 43, which in turn relied on the Constitution Bench
+decision of this Court in Union of India v. Tulsiram Patel. 44 In Tulsiram Patel (supra), this Court
+observed that a right to a prior notice and an opportunity to be heard could be excluded if allowing
+for such a right would obstruct the taking of prompt action:
+101. […] So far as the audi alteram partem rule is concerned, both in England and in
+India, it is well established that where a right to a prior notice and an opportunity to
+be heard before an order is passed would obstruct the taking of prompt action, such a
+right can be excluded. This right can also be excluded where the nature of the action
+to be taken, its object and purpose and the scheme of the relevant statutory
+provisions warrant its exclusion; nor can the audi alteram partem rule be invoked if
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+23
+importing it would have the effect of paralysing the administrative process or where
+the need for promptitude or the urgency of taking action so demands, […]
+58. The borrowers have dwelt on Clause 8.9.6 of the Master Directions on Frauds according to
+which the entire exercise commencing from the detection of fraud by an individual bank upto the
+declaration of fraud by the JLF is to be completed within six months. Clause 8.9.6 provides thus:
+“8.9.6 It may be noted that the overall time allowed for the entire exercise to be
+completed is six months from the date when the first member bank reported the
+account as RFA or Fraud on the CRILC platform.”
+59. In K I Shephard v. Union of India 45, this Court was called upon to decide the validity of
+amalgamation schemes drawn by the RBI, whereunder three private banks were amalgamated with
+nationalized banks. At the time of merger, some employees of the private banks were excluded from
+43 (2005) 7 SCC 764 44 (1985) 3 SCC 398 45 (1987) 4 SCC 431 employment as their services were
+not taken over by the transferee banks in view of allegations of misconduct against them. While
+noting the fact that the entire process of amalgamation was statutorily required to be completed
+within 6 months, this Court held that the said time frame provides scope for granting an opportunity
+of hearing to the affected employees:
+15. […] We do not think in the facts of the case there is any justification to hold that
+rules of natural justice have been ousted by necessary implication on account of the
+time frame. On the other hand we are of the view that the time limited by statute
+provides scope for an opportunity to be extended to the intended excluded employees
+before the scheme is finalised so that a hearing commensurate to the situation is
+afforded before a section of the employees is thrown out of employment.
+60. The decision of this Court in Swadeshi Cotton Mills (supra) and K I Shephard (supra)
+demonstrates that the exigency of a situation is contextual. The Court must lean in favour of reading
+in the principles of natural justice when faced with a regulatory silence. Any exclusion must be
+confined to the narrowest possible limits. The application of the requirement of a prior hearing
+could be excluded only in situations where importing it would have the effect of paralyzing the entire
+process. As mentioned above, Clause 8.9.6 of the Master Directions on Frauds contemplates that the
+procedure for the classification of an account as fraud has to be completed within six months. The
+procedure adopted under the Master Directions on Frauds provides enough time to the banks to
+deliberate before classifying an account as fraud. During this interval, the banks can serve a notice
+to the borrowers, and give them an opportunity to submit their reply and representation regarding
+the findings of the forensic audit report. Given the wide time frames contemplated under the Master
+Directions on Frauds as well as the nature of the procedure adopted, it is reasonably practicable for
+banks to provide an adequate opportunity of a hearing to the borrowers before classifying their
+account as fraud. The exclusion contemplated in the decision of this Court in Tulsiram Patel (supra)
+would not be applicable because giving an opportunity of a hearing to the borrowers will not
+obstruct the taking of prompt action under the Master Directions on Frauds.
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+24
+61. The RBI and lender banks have further submitted that the requirement of natural justice is
+already fulfilled under the Master Directions on Frauds as the borrower is allowed to participate
+during the preparation of the forensic audit report. On the other hand, the borrowers have
+submitted that the Master Directions do not expressly provide for participation of the borrowers
+during forensic audit report. It was also submitted that merely seeking inputs of borrowers during
+the preparation of the forensic audit report does not satisfy the requirements of the principles of
+natural justice as the borrowers should also be heard before classifying them as fraud.
+62. In Keshav Mills Co. Ltd. v. Union of India 46, this Court was dealing with the issue of a takeover
+of a company by the government under the IDR Act, 1951 after completion of a full investigation into
+the affairs of the company. The issue was whether the report of an investigating body appointed by
+an administrative authority should be made available to the person concerned before the authority
+takes a decision upon that report. 46 (1973) 1 SCC 380 While deciding to lay down a general
+principle, this Court observed that there may be certain situations where an investigation report is
+required to be furnished to the concerned party to make an effective representation about the
+proposed action:
+21. In our opinion it is not possible to lay down any general principle on the question
+as to whether the report of an investigating body or of an inspector appointed by an
+administrative authority should be made available to the persons concerned in any
+given case before the authority takes a decision upon that report. The answer to this
+question also must always depend on the facts and circumstances of the case. It is not
+at all unlikely that there may be certain cases where unless the report is given the
+party concerned cannot make any effective representation about the action that
+Government takes or proposes to take on the basis of that report. Whether the report
+should be furnished or not must therefore depend in every individual case on the
+merits of that case. We have no doubt that in the instant case non-disclosure of the
+report of the Investigating Committee has not caused any prejudice whatsoever to the
+appellants.
+(emphasis supplied)
+63. In Swadeshi Cotton Mills (supra), this Court held that a company is entitled to an opportunity to
+explain the evidence collected against it and represent why the proposed action should not be taken:
+85. The contention does not appear to be well founded. Firstly, this documentary
+evidence, at best, shows that the Company was in debt and the assets of some of its
+“units” had been hypothecated or mortgaged as security for those debts. Given an
+opportunity the Company might have explained that as a result of this indebtedness
+there was no likelihood of fall in production, which is one of the essential conditions
+in regard to which the Government must be satisfied before taking action under
+Section 18A-A(1)(a). Secondly, what the rule of natural justice required in the
+circumstances of this case, was not only that the Company should have been given an
+opportunity to explain the evidence against it, but also an opportunity to be informed
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+25
+of the proposed action of take over and to represent why it be not taken.
+(emphasis supplied)
+64. Audi alteram partem has several facets, including the service of a notice to any person against
+whom a prejudicial order may be passed and providing an opportunity to explain the evidence
+collected. In Tulsiram Patel (supra), this Court explained the wide amplitude of audi alteram
+partem:
+96. The rule of natural justice with which we are concerned in these appeals and writ
+petitions, namely, the audi alteram partem rule, in its fullest amplitude means that a
+person against whom an order to his prejudice may be passed should be informed of
+the allegations and charges against him, be given an opportunity of submitting his
+explanation thereto, have the right to know the evidence, both oral or documentary,
+by which the matter is proposed to be decided against him, and to inspect the
+documents which are relied upon for the purpose of being used against him, to have
+the witnesses who are to give evidence against him examined in his presence and
+have the right to cross-examine them, and to lead his own evidence, both oral and
+documentary, in his defence. The process of a fair hearing need not, however,
+conform to the judicial process in a Court of law, because judicial adjudication of
+causes involves a number of technical rules of procedure and evidence which are
+unnecessary and not required for the purpose of a fair hearing within the meaning of
+audi alteram partem rule in a quasi-judicial or administrative inquiry. […] (emphasis
+supplied)
+65. Audi alteram partem, therefore, entails that an entity against whom evidence is collected must:
+(i) be provided an opportunity to explain the evidence against it; (ii) be informed of the proposed
+action, and (iii) be allowed to represent why the proposed action should not be taken. Hence, the
+mere participation of the borrower during the course of the preparation of a forensic audit report
+would not fulfil the requirements of natural justice. The decision to classify an account as fraud
+involves due application of mind to the facts and law by the lender banks. The lender banks, either
+individually or through a JLF, have to decide whether a borrower has breached the terms and
+conditions of a loan agreement, and based upon such determination the lender banks can seek
+appropriate remedies. Therefore, principles of natural justice demand that the borrowers must be
+served a notice, given an opportunity to explain the findings in the forensic audit report, and to
+represent before the account is classified as fraud under the Master Directions on Frauds.
+D.4 Challenge to constitutional validity
+66. The borrowers have argued that the Master Directions on Frauds will have to be struck down as
+arbitrary and unconstitutional for conferring unguided and unbridled powers on banks. To counter
+the submission, the RBI and lender banks have relied upon the decision in Delhi Cloth Mills &
+General Mills v. Union of India 47 to submit that the provisions of the Master Directions on Frauds
+are not arbitrary as they have a reasonable nexus to the object sought to be achieved. It was further
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+26
+argued that the Courts should not interfere with and supplant their wisdom in an economic policy
+decision unless there is blatant perversity, arbitrariness, or mala fides.
+67. The RBI has the right to take all such measures as are necessary to protect the health of the
+banking system. Hence, the Master Directions on Frauds lay down the procedure for banks, who in
+case of a breach of loan agreements by borrowers, can seek appropriate remedies by approaching
+law enforcement agencies and debarring borrowers from accessing further 47 (1983) 4 SCC 166
+institutional finance. However, any policy decision which contemplates serious civil consequences
+for any person will be open to challenge for being arbitrary if the principles of natural justice are not
+applied during the process.
+68. In E P Royappa v. State of Tamil Nadu 48, this Court held that an arbitrary state action is
+violative of Article 14 of the Constitution. Again, in Maneka Gandhi (supra) this court reiterated that
+the principle of non-arbitrariness pervades Article 14. An administrative action can be tested for
+constitutional infirmities under Article 14 on four grounds: (i) unreasonableness or irrationality; (ii)
+illegality; (iii) procedural impropriety; 49 and (iv) proportionality. However, the scope of such
+judicial review is limited to ascertaining the deficiency in the decision-making process, and not the
+correctness of the choice made by the administrator.50
+69. Fairness in action requires that procedures which permit impairment of fundamental rights
+ought to be just, fair, and reasonable. The principles of natural justice have a universal application
+and constitute an important facet of procedural propriety envisaged under Article 14. The rule of
+audi alteram partem is recognized as being a part of the guarantee contained in Article 14. A
+Constitution Bench of this Court in Tulsiram Patel (supra) has categorically held that violation of the
+principles of natural justice is a violation of Article 14. The court held that any state action in breach
+of natural justice implicates a violation of Article 14: 48 (1974) 4 SCC 3 49 State of AP v. McDowell,
+(1996) 3 SCC 709; Om Kumar v. Union of India, (2001) 2 SCC 386 50 Chairman and Managing
+Director, United Commercial Bank v. P C Kakkar, (2003) 4 SCC 364 “95. The principles of natural
+justice have thus come to be recognized as being a part of the guarantee contained in Article 14
+because of the new and dynamic interpretation given by this Court to the concept of equality which
+is the subject-matter of that article. Shortly put, the syllogism runs thus: violation of a rule of
+natural justice results in arbitrariness which is the same as discrimination; where discrimination is
+the result of State action, it is a violation of Article 14: therefore, a violation of a principle of natural
+justice by a State action is a violation of Article 14. Article 14, however, is not the sole repository of
+the principles of natural justice. What it does is to guarantee that any law or State action violating
+them will be struck down. The principles of natural justice, however, apply not only to legislation
+and State action but also where any tribunal, authority or body of men, not coming within the
+definition of State in Article 12, is charged with the duty of deciding a matter. In such a case, the
+principles of natural justice require that it must decide such matter fairly and impartially.”
+(emphasis supplied)
+70. In Cantonment Board v. Taramani Devi 51, a two-judge bench of this Court held that the rule of
+audi alteram partem is a part of Article 14. Similarly, in Delhi Transport Corporation v. DTC
+Mazdoor Congress 52, this Court observed that the rule of audi alteram partem enforces the equality
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+27
+clause in Article 14. Therefore, any administrative action which violates the rule of audi alteram
+partem is arbitrary and violative of Article
+14.
+71. Administrative proceedings which entail significant civil consequences must be read consistent
+with the principles of natural justice to meet the requirement of Article 14. Where possible, the rule
+of audi alteram partem ought to be read into a statutory rule to render it compliant with the
+principles of equality and non-arbitrariness envisaged under Article 14. The Master Directions on
+Frauds do not expressly provide the borrowers an 51 1992 Supp (2) SCC 501 52 1991 Supp (1) SCC
+600 opportunity of being heard before classifying the borrower’s account as fraud. Audi alteram
+partem must then be read into the provisions of the Master Directions on Frauds.
+72. In Olga Tellis v. Bombay Municipal Corporation 53, a Constitution Bench of this Court was
+called upon to adjudge the validity of Section 314 of the Bombay Municipal Corporation Act, 1888.
+The provision enabled the Municipal Commissioner to remove, without notice, any object, structure
+or fixture which was set up in or upon any street. Chief Justice Y V Chandrachud delivering the
+judgment of the Constitution Bench held that the impugned provision must be construed to ensure
+that the procedure contemplated is fair and reasonable. It was further held:
+44. […] What Section 314 provides is that the Commissioner may, without notice,
+cause an encroachment to be removed. It does not command that the Commissioner
+shall, without notice, cause an encroachment to be removed. Putting it differently,
+Section 314 confers on the Commissioner the discretion to cause an encroachment to
+be removed with or without notice. That discretion has to be exercised in a
+reasonable manner so as to comply with the constitutional mandate that the
+procedure accompanying the performance of a public act must be fair and
+reasonable. We must lean in favour of this interpretation because it helps sustain the
+validity of the law. Reading Section 314 as containing a command not to issue notice
+before the removal of an encroachment will make the law invalid.
+(emphasis supplied) 53 (1985) 3 SCC 545
+73. In Union of India v. Col. J N Sinha 54, a two-judge bench of this Court held that an endeavor
+must be made to interpret a statutory provision consistent with the principles of natural justice:
+8. […] It is true that if a statutory provision can be read consistently with the
+principles of natural justice, the courts should do so because it must be presumed
+that the Legislatures and the statutory authorities intend to act in accordance with
+the principles of natural justice. But if on the other hand a statutory provision either
+specifically or by necessary implication excludes the application of any or all the
+principles of natural justice then the court cannot ignore the mandate of the
+Legislature or the statutory authority and read into the concerned provision the
+principles of natural justice. Whether the exercise of a power conferred should be
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+28
+made in accordance with any of the principles of natural justice or not depends upon
+the express words of the provision conferring the power, the nature of the power
+conferred, the purpose for which it is conferred and the effect of the exercise of that
+power.
+(emphasis supplied)
+74. In C B Gautam v. Union of India55, the question before a Constitution Bench of this Court was
+whether a show cause notice must be issued to an intending purchaser and seller of property before
+making a compulsory purchase under Section 269-UD(1) of Chapter XX-C of the Income Tax Act,
+1961. Chief Justice M H Kania speaking for the Constitution Bench held that where the validity of a
+provision would be open to serious challenge for want of an opportunity of being heard, Courts have
+read such a requirement into the provision. In C B Gautam (supra), this Court read the principles of
+natural justice into the provisions of Chapter XX-C to save them from the vice of arbitrariness. The
+Constitution Bench held:
+54 (1970) 2 SCC 458 55 (1993) 1 SCC 78
+30. […] Again, there is no express provision in Chapter XX-C barring the giving of a show-cause
+notice or reasonable opportunity to show cause nor is there anything in the language of Chapter
+XX-C which could lead to such an implication. The observance of principles of natural justice is the
+pragmatic requirement of fair play in action. In our view, therefore, the requirement of an
+opportunity to show cause being given before an order for purchase by the Central Government is
+made by an appropriate authority under Section 269-UD must be read into the provisions of
+Chapter XX-C. There is nothing in the language of Section 269-UD or any other provision in the said
+Chapter which would negate such an opportunity being given. Moreover, if such a requirement were
+not read into the provisions of the said Chapter, they would be seriously open to challenge on the
+ground of violations of the provisions of Article 14 on the ground of non-compliance with principles
+of natural justice. The provision that when an order for purchase is made under Section 269-UD —
+reasons must be recorded in writing is no substitute for a provision requiring a reasonable
+opportunity of being heard before such an order is made.
+(emphasis supplied)
+75. In Sahara India (Firm), Lucknow v. Commissioner of Income Tax, Central-I56, a two-judge
+bench of this Court was called upon to decide whether an opportunity of being heard has to be
+granted to an assesee before any direction could be issued under section 142(2-A) of the Income Tax
+Act, 1961 for special audit of the accounts of the assessee. This Court held that since the exercise of
+power under section 142(2-A) of the Income Tax Act leads to serious civil consequences for the
+assesee, the requirement of observing the principles of natural justice is to be read into the said
+provision.
+76. In Kesar Enterprises Ltd v. State of Uttar Pradesh57, the Court dealt with a challenge to the
+validity of Rule 633(7) of the Uttar Pradesh Excise Manual which allowed the imposition of a
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+29
+penalty for breach of the 56 (2008) 14 SCC 151 57 (2011) 13 SCC 733 conditions of a bond without
+expressly issuing a show-cause notice. D K Jain, J speaking on behalf of the two-judge bench held
+that a show-cause notice should be issued and an opportunity of being heard should be afforded
+before an order under Rule 633(7) is made. The Court held that the rule would be open to challenge
+for being violative of Article 14 of the Constitution unless the requirement of an opportunity to show
+cause is read into it. The Court observed:
+30. Having considered the issue, framed in para 16, on the touchstone of the
+aforenoted legal principles in regard to the applicability of the principles of natural
+justice, we are of the opinion that keeping in view the nature, scope and
+consequences of direction under sub-rule (7) of Rule 633 of the Excise Manual, the
+principles of natural justice demand that a show-cause notice should be issued and
+an opportunity of hearing should be afforded to the person concerned before an order
+under the said Rule is made, notwithstanding the fact that the said Rule does not
+contain any express provision for the affected party being given an opportunity of
+being heard.
+[…]
+32. In our view, therefore, if the requirement of an opportunity to show cause is not
+read into the said Rule, an action thereunder would be open to challenge as violative
+of Article 14 of the Constitution of India on the ground that the power conferred on
+the competent authority under the provision is arbitrary.
+(emphasis supplied)
+77. It has been elucidated in the preceding paragraphs that the classification of a borrower’s account
+as fraud in accordance with the procedure laid down in the Master Directions on Frauds entails
+significant civil consequences for the borrower. Since the Master Directions on Frauds do not
+expressly provide an opportunity of being heard to the borrower before classifying an account as
+fraud, the rule of audi alteram partem has to be read into the provisions of the said directions to
+save them from the vice of arbitrariness.
+78. Before concluding, we also want to address the argument by the borrowers that the requirement
+of passing a reasoned order must be read into the Master Directions on Frauds. The borrowers also
+relied on Jah Developers (supra) where it was held that a final decision of the Review Committee
+declaring the borrower as a ‘wilful defaulter’ must be made by a reasoned order. We agree with this
+contention of the borrowers because:
+(i) a reasoned order allows an aggrieved party to demonstrate that the reasons which persuaded the
+authority to pass an adverse order against the interests of the aggrieved party are extraneous or
+perverse; and (ii) the obligation to record reasons acts as a check on the arbitrary exercise of the
+powers. 58 The reasons to be recorded need not be placed on the same pedestal as a judgment of a
+court. The reasons may be brief but they must comport with fairness by indicating a due application
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+30
+of mind
+79. In light of the legal position noted above, we hold that the rule of audi alteram partem ought to
+be read in Clauses 8.9.4 and 8.9.5 of the Master Directions on Fraud. Consistent with the principles
+of natural justice, the lender banks should provide an opportunity to a borrower by furnishing a
+copy of the audit reports and allow the borrower a reasonable opportunity to submit a
+representation before classifying the account as fraud. A reasoned order has to be issued on the
+objections addressed by the borrower. On perusal of the facts, it is indubitable that the lender banks
+did 58 Kranti Associates (P) Ltd. v. Masood Ahmed Khan, (2010) 9 SCC 496 not provide an
+opportunity of hearing to the borrowers before classifying their accounts as fraud. Therefore, the
+impugned decision to classify the borrower account as fraud is vitiated by the failure to observe the
+rule of audi alteram partem. In the present batch of appeals, this Court passed an ad-interim order
+restraining the lender banks from taking any precipitate action against the borrowers for the time
+being. In pursuance of our aforesaid reasoning, we hold that the decision by the lender banks to
+classify the borrower accounts as fraud, is violative of the principles of natural justice. The banks
+would be at liberty to take fresh steps in accordance with this decision.
+80. Lastly, the borrowers have argued that the Master Directions on Frauds suffer from manifest
+arbitrariness because they stipulate an opportunity of a hearing to third parties, while denying the
+same to borrowers, who face significant civil consequences. Clause 8.12.5 of the Master Directions
+on Frauds provides that banks have to satisfy themselves of the involvement of third parties and
+provide them with an opportunity of being heard before reporting them to Indian Banks’
+Association. We are unable to accept this argument of the borrowers in light of the fact that the
+borrowers and the third parties stand on a different footing because: (i) the borrowers are the main
+perpetrators of fraud, while the third parties are merely facilitators; and (ii) it is the borrowers who
+face the significant civil consequences stipulated under clauses 8.12.1 and 8.12.2, while the third
+party service providers are merely referred to the Indian Banks’ Association which maintains a
+caution list of such service providers. However, this view does not affect our conclusions in view of
+the discussion in the preceding paragraphs.
+E. Conclusion
+81. The conclusions are summarized below:
+i. No opportunity of being heard is required before an FIR is lodged and registered;
+ii. Classification of an account as fraud not only results in reporting the crime to
+investigating agencies, but also has other penal and civil consequences against the
+borrowers;
+iii. Debarring the borrowers from accessing institutional finance under Clause 8.12.1
+of the Master Directions on Frauds results in serious civil consequences for the
+borrower;
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+31
+iv. Such a debarment under Clause 8.12.1 of the Master Directions on Frauds is akin
+to blacklisting the borrowers for being untrustworthy and unworthy of credit by
+banks. This Court has consistently held that an opportunity of hearing ought to be
+provided before a person is blacklisted;
+v. The application of audi alteram partem cannot be impliedly excluded under the Master Directions
+on Frauds. In view of the time frame contemplated under the Master Directions on Frauds as well as
+the nature of the procedure adopted, it is reasonably practicable for the lender banks to provide an
+opportunity of a hearing to the borrowers before classifying their account as fraud; vi. The principles
+of natural justice demand that the borrowers must be served a notice, given an opportunity to
+explain the conclusions of the forensic audit report, and be allowed to represent by the banks/ JLF
+before their account is classified as fraud under the Master Directions on Frauds. In addition, the
+decision classifying the borrower’s account as fraudulent must be made by a reasoned order; and vii.
+Since the Master Directions on Frauds do not expressly provide an opportunity of hearing to the
+borrowers before classifying their account as fraud, audi alteram partem has to be read into the
+provisions of the directions to save them from the vice of arbitrariness.
+82. In the result, the judgment of the Division Bench of the High Court of Telangana dated 10
+December 2020 is upheld. The judgments of the High Court of Telangana dated 22 December 2021
+and 31 December 2021, and of the High Court of Gujarat dated 23 December 2021 are accordingly
+set aside. The Civil Appeals are disposed of. Writ Petition (C) No. 138 of 2022 is also disposed of in
+above terms. There shall be no order as to costs.
+83. Pending application(s), if any, shall stand disposed of.
+…………………………………………CJI [Dr Dhananjaya Y Chandrachud] ….…………………………………………J
+[Hima Kohli] New Delhi;
+March 27, 2023
+State Bank Of India vs Rajesh Agarwal on 27 March, 2023
+Indian Kanoon - http://indiankanoon.org/doc/105925409/
+32

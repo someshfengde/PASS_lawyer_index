@@ -1,0 +1,383 @@
+Supreme Court of India
+Union Of India vs A.B.P Pvt.Ltd. on 12 May, 2023
+Author: S. Ravindra Bhat
+Bench: S. Ravindra Bhat, Dipankar Datta
+                                                                  1
+                                                                                        
+                                       IN THE SUPREME COURT OF INDIA
+                                        CIVIL APPELLATE JURISDICTION
+                                         CIVIL APPEAL NO(S). 986 OF 2011
+          UNION OF INDIA & ORS.                                                         
+                                                            VERSUS
+          A. B. P. PVT. LTD. & ANR.                                                    …
+                                                          JUDGMENT
+S. RAVINDRA BHAT, J.
+1. This civil appeal arises from a judgment 1 of the Calcutta High Court which held the withdrawal of
+a customs notification invalid.
+I
+2. ABP Pvt Ltd (“assessee/respondent”) in October 2003, imported one set of high speed cold set
+(Universal 70) Web Offset printing machine along with the necessary parts and accessories and
+claimed exemption from payment of the duty relying upon the notification dated May 28, 2003
+(hereinafter, “First Notification”).2 The First Notification provided for levy of custom duty on the
+Signature Not Verified Digitally signed by Harshita Uppal Date: 2023.05.12 16:42:44 IST Reason: 1
+Dated December 23, 2008, in Writ Petition No 298/ 2004 2 Notification No 86 of 2003 (Cus)
+Classification 844 311 00. import of High Speed Cold-Set Web Offset Rotary Printing Machines with
+a minimum speed of 70,000 copies per hour (hereafter, “Imported Machine”) at a concessional rate
+of 5 %. Relying upon the first notification, the assessee caused an irrevocable letter of credit3 to be
+issued, for the purchase of the Imported Machine. This First Notification was subsequently
+amended by the Central Government through a fresh notification dated November 11, 2003 4
+(hereafter, “Amended Notification”). The Amended Notification shifted the benefit of the
+concessional rate from “High Speed Cold-Set Web Offset Rotary Printing Machine with minimum
+speed of 70,000 copies per hour” to “High Speed Cold- set Web Offset Rotary Double Width Four
+Plate Wide Printing Machine with a minimum speed of 70,000 copies per hour”.
+Union Of India vs A.B.P Pvt.Ltd. on 12 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/109836817/
+1
+3. On 09.02.2004, the assessee filed a Bill of Entry claiming the benefit of a 5% concession (under
+the First Notification). However, owing to the Amended Notification, the assessee was ineligible for
+the benefit of the previously enjoyed concession, under the First Notification, and was liable to pay
+customs duty at 39.2% on the value of the Imported Machine amounting to ƒ1,92,54,318. Assesee
+filed a writ before the High Court 5 for declaring the Amended Notification ultra vires Section 25(1)
+of the Customs Act 1962 (hereafter, “the Act”) and thus sought, a declaration for withdrawal of the 3
+Dated 18th October, 2003 4 Notification No 164 of 2003 5 Writ Petition No 298/ 2004 Amended
+Notification. On 18.03.2004, a single judge made an interim order 6 directing the release of the
+imported machinery provisionally on payment of a concessional rate of duty against the bank
+guarantee for the differential amount of ƒ1,67,98,410.
+4. On December 5, 2005, a single judge bench 7 set aside the amended notification on the ground
+that no intelligible differentia existed for granting concession on one type of machinery and
+withdrawing concession to other types of machinery. The court therefore, directed that the
+exemption be granted to the imported machinery of the assessee. Aggrieved by the order of the
+single judge bench, the Union preferred an appeal to the Division Bench of the High Court. The
+Union contended that its power to grant exemption also includes the power to modify or alter any of
+the exemption, already granted and that delegation done is within the powers of the legislature. The
+Union further argued before the Division Bench that the subject matter involves economic policy
+over which the legislature has exclusive domain.
+5. The High Court by its impugned judgment upheld the judgment and order of the single judge
+bench. The High Court observed that the imported machine was neither manufactured in any part of
+the country at the relevant point of time nor any copy of representation received from domestic
+manufacturers 6 Order dated 18.03.2004 in WP No 298/ 2004 7 By order dated 5 December, 2005
+in WP No 298/ 2004 questioning the exemption granted to the imported machine was shown by the
+revenue.
+6. The High Court relied upon the affidavit of the Union where it was contended that the imported
+machine has no indigenous angle. The High Court further placed reliance upon the decision of this
+court in Indian Express Newspapers v. Union of India8 (hereafter, “Indian Express Newspapers”)
+and observed that actions of the Government under Section 25(1) of the Act are not immune from
+judicial scrutiny and the power must be exercised reasonably and in furtherance of “public interest”.
+In the absence of any intelligible differentia between the imported machine and newly exempted
+machine (as both have the same capacity of production and neither of them was manufactured in
+the country), no case for exemption in furtherance of ‘public interest’ is made out.
+7. The High Court further noted that the assessee is entitled to claim the benefit of the concessional
+rate of customs duty paid on the imported goods instead of the higher tariff as sought by the
+amended notification. The union is aggrieved by the impugned order and has approached this court.
+II
+Union Of India vs A.B.P Pvt.Ltd. on 12 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/109836817/
+2
+8. Mr. N. Venkatraman, learned Additional Solicitor General for the Union (hereafter, “ASG”)
+submitted that the impugned order challenges the fundamental powers of the government to issue a
+notification under Section 8 [(1985) 2 SCR 287] 25(1) of the Act which may have serious
+implications on their exercise of power in future. The ASG further submitted that the assessee
+cannot claim concessions/exemptions in respect of a commodity as a matter of right as the same
+falls within the policy domain of the government.
+9. Learned counsel further submitted that the commodities granted exemption under the amended
+notification relate to technological advancement and modernization of the industrial sector in the
+country and thus the element of “public interest” is ingrained in the amended notification.
+10. The learned ASG also placed reliance on section 21 of the General Clauses Act, 1897 to argue that
+the Union’s power to issue a notification includes the power to withdraw the same. Section 21 of the
+General Clauses Act, 1897 reads as:
+“21. Power to issue, to include power to add to, amend, vary or rescind notifications,
+orders, rules, or bye-laws .- Where, by any (Central Act) or Regulations, a power to (
+issue notifications) orders, rules, or bye-laws is conferred, then that power includes a
+power, exercisable in the like manner and subject to the like sanction and condition
+(if any), to add to, amend, vary or rescind any (notifications), orders, rules or
+bye-laws so (issued).”
+11. Learned counsel further submitted that there exists merit in excluding single width two plate
+machines from exemption as those were manufactured in the country. There was rationale to
+exclude such machines from the scope of concessions. Moreover, the concession granted was for
+cold-set web offset Rotary Double Width Four Plate Wide Printing Machines with a minimum speed
+of 70,000 copies per hour. Thus, considering the indigenous angle and the representations received
+from the domestic manufacturers of the equipment (i.e. single width two plate machines with 50000
+copies per hour speed) it was necessary to exclude such single width two plate machines, from the
+scope of concessions.
+III
+12. Mr. Kaushik Murali, learned counsel for the assessee submitted that the Union could not
+withdraw or amend the First Notification issued under section 25(1) of the Act without any
+justification. To support the argument, counsel placed reliance on this court’s decision in Kasinka
+Trading & Anr. V. Union of India9 (hereafter, “Kasinka”) and urged that though the Union has the
+power to amend or withdraw an exemption notification granted under section 25(1) of the Act, yet
+the reasons given by the revenue for justifying withdrawal of the exemption notification must be
+“relevant” and “sufficient” to the exercise of the power in “public interest”. In Kasinka (Supra), this
+court had observed that:
+“[..] Thus, the Union of India has disclosed the circumstances under which the
+exemption was initially granted as well as the change of circumstances which
+Union Of India vs A.B.P Pvt.Ltd. on 12 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/109836817/
+3
+warranted the withdrawal of the exemption notification. The reasons given by the
+Union of India justifying withdrawal of the exemption notification, in our opinion,
+are not irrelevant to the exercise of the power in “public interest”, nor are the same
+shown to be insufficient to support the exercise of that power.
+          [..]”
+9      [(1994) Supp 4 SCR 448]
+13. Learned counsel further submitted that the power of the Central Government
+under Section 25(1) of the Act to grant or amend an exemption is not unrestricted
+and the government is duty bound to examine the issue in light of public interest.
+Reliance was placed on this court’s judgment in Indian Express Newspapers (Supra)
+to contend that the power to grant exemption from payment of the customs duty
+under section 25(1) of the Act is not a delegated power to tax but a power expressly
+conferred under the Act and thus principles of administrative law will be applicable.
+14. Learned counsel for the assessee also placed reliance on Dai-ichi Karkaria Limited v. Union of
+India & Ors., (hereafter, “Dai-ichi Karkaria”)10 and MRF Ltd. v. Commissioner of Sales Tax
+(hereafter, “MRF Ltd.”) 11 to argue that in the present case, while amending the First Notification,
+the government failed to discharge its burden of establishing before the court as to what ‘public
+interest’ existed that necessitated government to reduce the extent of exemption and how the
+withdrawal/amendment of the First Notification is in furtherance of “public interest”. In the present
+case, the Union failed to justify the “public interest” in confining the concessional rate of duty to
+rotary printing machines of double width four plate variety and not extending the same to rotary
+printing machines of the single width two plate variety despite both the machines having minimum
+speed of 70,000 copies per hour. It was further argued that the 10 [(2000) 4 SCC 57] 11 (2006) Supp
+6 SCR 417 machined imported by the Respondents was neither manufactured nor sold in India.
+Further, the argument of the Appellant that the Amended Notification was on account of
+representations received from several domestic manufacturers cannot be accepted as the Imported
+Machine was purchased from a foreign country and the same was neither manufactured nor sold by
+any of the domestic manufacturers.
+15. Learned counsel also placed reliance on Shrijee Sales Corporation v. Union of India12 and
+Bannari Amman Sugars Ltd v. CTO 13 to contend that the principle of promissory estoppel is
+applicable against the government and though the government also has the right to resile from its
+promise but it must give a reasonable opportunity to the promisee to restore the status quo ante. In
+the present case, the assessees had paid advances to a French supplier through an irrevocable letter
+of credit prior to the enactment of the amended notification and the issuance of the amended
+notification resulting in the imposition of enhanced custom duty has rendered it impossible for the
+Union Of India vs A.B.P Pvt.Ltd. on 12 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/109836817/
+4
+assessees to revoke the letter of credit and restore the status quo.
+IV
+16. Before proceeding with the merits of the parties’ contentions, it would be worthwhile to notice
+that on 25.03.2004, the Tax Research Unit of the Department of Revenue, Union Ministry of
+Finance had issued a letter, 12 [(1997) 3 SCC 398] 13 (2004) Supp 6 SCR 264 justifying the
+withdrawal of tax exemption. The relevant extract of that letter is as follows:
+“This amendment was done taking into account representations from domestic
+manufacturers of printing machines seeking reconsideration of the said concession.
+The intention was to restrict the concessional customs duty of 5% with Nil CVD and Nil SAD only to
+those high - speed cold - offset printing machines which have no indigenous angle.” The reply, or
+return filed by the Union before the High Court (in the form of a supplementary affidavit) inter alia,
+averred as follows:
+“I further say and submit that the power to grant exemption was utilized in the
+instant case for the purpose of regulation, control and promotion in the public
+interest. It is obvious that no representation was held out to the public that the first
+notification would be continued indefinitely. The tax research unit of the respondent
+authorities considered the relevant facts and market conditions and upon being
+satisfied that the first notification required amendment issued the second notification
+amending the description of the goods in respect of which the exemption was to be
+prospectively allowed as a matter of fiscal policy. It is submitted that the tax research
+unit duly assessed the priorities in the matter of grant of exemption and accordingly
+the second notification was issued. Serial No. 267A of notification
+No.21/2002-Customs was amended vide Notification No.164/2002-Customs was
+amended vide notification no.164/2003- Customs dated 11th November, 2003 so as
+to restrict the benefit of customs duty concession available for·  specified printing
+machinery only to 'high speed cold set web offset rotary double width four plate
+printing machines with a minimum speed of 70,000 copies per hour'. This
+amendment was done as a matter of fiscal policy taking into account several
+representations from domestic manufacturers of printing machines seeking
+reconsideration of the earlier concession. The intention as a matter of policy was to
+restrict the concessional customs duty of 5% with nil CVD and Nil SAD only to those
+high- speed cold offset printing machines which have no indigenous angle. The
+earlier notification, significantly, did not hold out any, far less any unequivocal
+promise that it would be continued indefinitely. Hence, the earlier notification was
+amended after due consideration of the fiscal circumstances warranting the change in
+description in respect of which the benefit was to be provided. The alteration was
+made in the public interest after assessing the circumstances relating to the
+particulars of the machinery covered by the earlier and the later notification.”
+Union Of India vs A.B.P Pvt.Ltd. on 12 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/109836817/
+5
+17. The Union has sought to rely on an Office Memorandum 14 which virtually reiterates the stand
+taken in its counter affidavit before the High Court; it also states that the Central Government had
+received representations from the Indian Printing and Packaging and Allied Machinery
+Manufacturer’s Association (IPPAMMA) for reconsidering the exemption under the first notification
+since the domestic industry had the capacity to produce machines and heat set machines, with
+capacity up to 60,000 copies per hour. The representation also requested that in view of such
+indigenous capacity, concessional duty should not be given to single width two plate wide machines,
+and should be restricted to four plate wide double width high speed offset printing machines.
+18. The assessee had during the hearing opposed the reliance on the additional affidavit and, in
+particular, the office memorandum, contending that these contained reasons given after the
+decision, and could not be the basis of justifying the Amended Notification.
+19. The reasons given by the Union, in its affidavit were considered in the impugned order, which
+rejects the rationale for the amended notification:
+“As said above it is the element of public interest that governs the field. The ground of
+withdrawal of concession, namely several representations from domestic
+manufacturers of the printing machines prompted recalling the concession does not
+appear to be tenable because the Indian products have the capacity nor more than
+60,000 copies per hour and did not have comparable label of automation of 14 Dated
+30th September, 2010 issued by the Tax Research Unit of the Department of
+Revenue, Govt of India the printing quality as that of the foreign machine imported.
+It cannot be said that withdrawal of the concession was to facilitate the indigenous
+manufacturers. Indigenous angle therefore was not germane to withdrawal of
+exemption and this being the position element of public interest which must govern
+in the case of grant or withdrawal of the grant is lost. There could hardly remain any
+distinction between the two types of machines as both were having the same
+technology. No reasonable differentiation could be made between the two types of
+machines as both the machines have the same capacity of production and both were
+to be imported and were not manufactured in the country. Therefore, to our mind the
+Hon'ble Trial Judge did not commit any illegality in holding that element of public
+interest could not be perceived in withdrawal of exemption.”
+20. The assessee is, in the opinion of this court, correct in asserting that every action of the executive
+government, including exercise of its power to grant or withdraw tax exemption, should be suffused
+with public interest. In Indian Express Newspapers (Supra), this court, speaking in the context of a
+customs withdrawal notification [challenged on the ground of violation of the right to freedom of
+speech under Article 19 (1) (a)] stated that:
+“18. In cases where the power vested in the Government is a power which has got to
+be exercised in the public interest, as it happens to be here, the Court may require the
+Government to exercise that power in a reasonable way in accordance with the spirit
+of the Constitution. The fact that a notification issued under Section 25(1) of the
+Union Of India vs A.B.P Pvt.Ltd. on 12 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/109836817/
+6
+Customs Act, 1962 is required to be laid before Parliament under Section 159 thereof
+does not make any substantial difference as regards the jurisdiction of the Court to
+pronounce on its validity.” The court later also said that:
+“19. Section 25 of the Customs Act, 1962 under which the notifications are issued
+confers a power on the Central Government coupled with a duty to examine the
+whole issue in the light of the public interest. It provides that if the Central
+Government is satisfied that it is necessary in the public interest so to do it may
+exempt generally either absolutely or subject to such conditions goods of any
+description from the whole or any part of the customs duty leviable thereon. The
+Central Government may if it is satisfied that in the public interest so to do exempt
+from the payment of duty by a special order in each case under circumstances of an
+exceptional nature to be stated in such order any goods on which duty is leviable. The
+power exercisable under Section 25 of the Customs Act, 1962 is no doubt
+discretionary but it is not unrestricted.”
+21. The court, however, did not strike down the withdrawal notification, but recorded
+that the government failed to consider the impact of the withdrawal, on newspaper
+publishers, and how that would affect the exercise of freedom of speech. Therefore,
+the court required the executive to review the matter, after considering all relevant
+factors. In Dai-Ichi Karkaria (supra), a customs notification which reduced
+exemption from 75% to 25% for a particular period (30-12-1986 to 10-9-1987) was
+held unjustified because the executive had “not taken into account all the relevant
+factors while issuing the impugned notifications reducing the exemption to 25% for
+the aforesaid period” and “failed to discharge its statutory obligation while issuing
+the impugned notifications. Justifications offered, to say the least, is far too naive to
+be accepted.”
+22. In Kasinka (supra), the court again described the power under Section 25 of the Act, and the
+legitimacy of exercise of grant or withdrawal of exemption and observed that:
+“[..] The withdrawal of exemption “in public interest” is a matter of policy and the
+courts would not bind the Government to its policy decisions for all times to come,
+irrespective of the satisfaction of the Government that a change in the policy was
+necessary in the “public interest”. The courts, do not interfere with the fiscal policy
+where the Government acts in “public interest” and neither any fraud or lack of bona
+fides is alleged much less established. The Government has to be left free to
+determine the priorities in the matter of utilisation of finances and to act in the public
+interest while issuing or modifying or withdrawing an exemption notification under
+Section 25(1) of the Act. It needs no emphasis that the power of exemption under
+Section 25(1) of the Act has been granted to the Government by the Legislature with a
+view to enabling it to regulate, control and promote the industries and industrial
+productions in the country. Where the Government on the basis of the material
+available before it, bona fide, is satisfied that the “public interest” would be served by
+Union Of India vs A.B.P Pvt.Ltd. on 12 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/109836817/
+7
+either granting exemption or by withdrawing, modifying or rescinding an exemption
+already granted, it should be allowed a free hand to do so. We are unable to agree
+with the learned counsel for the appellants that Notification No. 66 of 1979 could not
+be withdrawn before 31-3-1981. First, because the exemption notification having
+been issued under Section 25(1) of the Act, it was implicit in it that it could be
+rescinded or modified at any time if the public interest so demands and secondly it is
+not permissible to postpone the compulsions of “public interest” till after 31-3-1981 if
+the Government is satisfied as to the change in the circumstances before that date.
+Since, the Government in the instant case was satisfied that the very public interest
+which had demanded a total exemption from payment of customs duty now
+demanded that the exemption should be withdrawn it was free to act in the manner it
+did. It would bear a notice that though Notification No. 66 of 1979 was initially valid
+only up to 31-3-1979 but that date was extended in “public interest”, we see no reason
+why it could not be curtailed in public interest. Individual interest must yield in
+favour of societal interest.”
+23. In Bannari Amman Sugars Ltd. (supra), the court held that there is no “vested right as to
+tax-holding is acquired by a person who is granted concession. If any concession has been given it
+can be withdrawn at any time and no time-limit should be insisted upon before it was withdrawn.”
+This court also held that promissory estoppel “can be invoked only if on the basis of representation
+made by the Government, the industry was established to avail benefit of exemption.”
+24. The reliance by the assessee, on MRF Ltd (supra), in this court’s opinion, is unfounded. This
+court held that the denial of exemption, through an amendment, effected retrospectively, was
+arbitrary and agreed with view taken by Kerela HC in M.M Nagalingam Nadar Sons v. State of
+Kerela15 wherein it was observed that:
+“[..] Government has also no power to levy a tax with retrospective effect. The
+retrospective cancellation/withdrawal of an exemption or a reduction in rate
+tantamounts to levy of a tax, or tax at a higher rate from a date in the past, for which
+the Government has no power under sub-section (3). [..]”
+25. The decision in Mahabir Vegetable Oils (P) Ltd. v. State of Haryana16 is along the same lines as
+MRF Ltd. (supra), which is that benefits once granted, cannot be divested by a retrospective statute
+or notification. These decisions, in this court’s opinion stand on a different footing, because they
+primarily concern exercise of statutory power, i.e. withdrawal, in a manner that has an extremely
+prejudicial or unreasonable impact, which is retrospective in effect.
+26. So far as the question of promissory estoppel is concerned, a recent decision of this court, in
+Prashanti Medical Services & Research Foundation v. Union of India17 placed the matter in correct
+perspective, when it observed that:
+“26. [..] a plea of promissory estoppel is not available to an assessee against the
+exercise of legislative power and nor any vested right accrues to an assessee in the
+Union Of India vs A.B.P Pvt.Ltd. on 12 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/109836817/
+8
+matter of grant of any tax concession to him. In other words, neither the appellant
+nor the assessee has any right to set up a plea of promissory estoppel against the
+exercise of legislative power such as the one exercised while inserting sub-section (7)
+in Section 35-AC of the Act (see Motilal Padampat Sugar Mills Co. Ltd. [Motilal
+Padampat Sugar Mills Co. Ltd. v. State of U.P., (1979) 2 SCC 409] and other cases
+relied on by the learned counsel for the respondent Revenue). It is more so when we
+find that this sub-
+section was made applicable uniformly to all alike the appellant prospectively.” 15 (1993) 91 STC 61
+16 (2006) 2 SCR 1172 17 (2019) 9 SCR 828
+27. In the present case, the principal, or rather the sole ground which persuaded the High Court, to
+set aside the Amended Notification is that withdrawal of the concession could not be said to
+facilitate indigenous manufacturers. It was also held that “Indigenous angle therefore was not
+germane to withdrawal of exemption” and therefore, “public interest which must govern in the case
+of grant or withdrawal of the grant is lost.” The third ground was that there was no “distinction
+between the two types of machines as both were having the same technology.”
+28. Once it is recognized that it is the executive’s exclusive domain, in fiscal and economic matters
+to determine the nature of classification, the extent of levy to be imposed, and the factors relevant
+for either granting, refusing or amending exemptions, the role of the court is confined to decide if its
+decision is backed by reasons, germane, and not irrelevant to the matter. Judicial scrutiny can also
+extend to consideration of legality, and bona fides of the decision. The wisdom or unwisdom, and
+the soundness of reasons, or their sufficiency, cannot be proper subject matters of judicial review. In
+the present case, the impugned judgment has virtually conducted a merits review of the concerned
+economic measure [Vivek Narayan Sharma (Demonetisation Case-5 J.) v. Union of India18]:
+“13.4.[..] That the court may not undertake a foray into the merits, demerits, sufficiency or lack
+thereof, success in realising the 18 2023 (1) SCR 1 objectives, etc. of an economic policy, as such an
+analysis is the prerogative of the Government in consultation with experts in the field.”
+29. This court is of the opinion, that the High Court, by the impugned judgment, erred in judging
+the merits of the reasons which led the executive government to issue the Amended Notification. No
+mala fides or oblique considerations were pleaded or urged; the exercise of power was in line with
+the provisions of the Act. The indigenous angle, i.e. availability of equipment, cannot be
+characterized as an irrelevant factor or consideration, since grant of exemption to a class of goods,
+which are similar to those manufactured within the country, and its likely adverse impact on such
+manufacturers or producers, is germane and relevant.
+30. For the above reasons, it is held that the impugned judgment cannot be sustained; it is
+accordingly set aside. The appeal is allowed, without order on costs.
+…..................................................J. [S. RAVINDRA BHAT] …..................................................J.
+[DIPANKAR DATTA] NEW DELHI;
+Union Of India vs A.B.P Pvt.Ltd. on 12 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/109836817/
+9
+MAY 12, 2023.
+ITEM NO.1501                   COURT NO.12                    SECTION XVI
+                 S U P R E M E    C O U R T      O F   I N D I A
+                           RECORD OF PROCEEDINGS
+Civil Appeal    No(s).   986/2011
+UNION OF INDIA & ORS.                                        Appellant(s)
+                                    VERSUS
+A.B.P PVT.LTD.    & ANR.                                     Respondent(s)
+([ HEARD BY : HON'BLE S. RAVINDRA BHAT and HON'BLE DIPANKAR DATTA,JJ. ]...... ) Date :
+12-05-2023 This appeal was called on for hearing today.
+For Appellant(s)      Mr. Mukesh Kumar Maroria, AOR
+For Respondent(s)     M/S. Karanjawala & Co., AOR
+UPON hearing the counsel the Court made the following O R D E R Hon’ble Mr. Justice S. Ravindra
+Bhat pronounced the reportable judgment of the Bench comprising His Lordship and Hon’ble Mr.
+Justice Dipankar Datta.
+The appeal is allowed without order on cost in terms of the signed reportable judgment.
+Pending application(s), if any, are disposed of.
+(HARSHITA UPPAL)                                          (MATHEW ABRAHAM)
+SENIOR PERSONAL ASSISTANT                                 COURT MASTER (NSH)
+(Original signed Reportable Judgment is placed on the file)
+Union Of India vs A.B.P Pvt.Ltd. on 12 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/109836817/
+10

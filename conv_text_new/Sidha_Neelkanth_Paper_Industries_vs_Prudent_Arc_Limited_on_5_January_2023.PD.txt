@@ -1,0 +1,478 @@
+Supreme Court of India
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Author: M.R. Shah
+Bench: M.R. Shah, C.T. Ravikumar
+                                                                   REPORTABLE
+                                   IN THE SUPREME COURT OF INDIA
+                                   CIVIL APPELLATE JURISDICTION
+                                   CIVIL APPEAL NO. 8969 OF 2022
+          M/s Sidha Neelkanth Paper Industries
+          Private Limited & Another                                …Appellants
+                                        Versus
+          Prudent ARC Limited & Others                             …Respondents
+                                             WITH
+                                   CIVIL APPEAL NO. 8970 OF 2022
+                                   CIVIL APPEAL NO. 8972 OF 2022
+                                   CIVIL APPEAL NO. 8973 OF 2022
+                                   CIVIL APPEAL NO. 8974 OF 2022
+                                             JUDGMENT
+M.R. SHAH, J.
+1. As common questions of law and fact arise in this group of appeals, namely, interpretation of
+Section 18 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security
+Interest Act, 2002 (hereinafter referred to as the ‘SARFAESI Act’), all these Signature Not Verified
+Digitally signed by Neetu Sachdeva appeals are decided and disposed of together by this common
+judgment Date: 2023.01.05 16:39:17 IST Reason:
+and order.
+2. Feeling aggrieved and dissatisfied with the impugned judgment and order dated 22.12.2020
+passed by the High Court of Delhi at New Delhi in Writ Petition (Civil) No. 6060/2020, both, the
+borrower as well as the secured creditor have preferred Civil Appeal Nos. 8969 and 8970 of 2022.
+3. Civil Appeal Nos. 8972, 8973 and 8974 of 2022 have been preferred against the common
+impugned judgment and order dated 12.04.2022 passed by the High Court of Madhya Pradesh,
+Bench at Indore in respective Writ Petition Nos. 5494/2021, 5470/2021 and 5478/2021, by which
+the High Court has dismissed the said writ petitions preferred by the original writ petitioners –
+auction purchasers and has confirmed the orders passed by the Debt Recovery Appellate Tribunal,
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+1
+Allahabad (for short, ‘DRAT’), by which the DRAT while entertaining the appeals under Section 18
+of the SARFAESI Act held that the borrower is not liable to deposit 50% of the amount of debt as the
+secured property has been sold and the amount is realised as the same was paid by the auction
+purchasers and is to be appropriated towards the amount liable to be deposited as pre-deposit under
+Section 18 of the SARFAESI Act. Factual aspects in Civil Appeal Nos.8969 & 8970 of 2022:
+4. That the appellant in Civil Appeal No. 8969/2022 – Sidha Neelkanth Paper Industries Private
+Limited (hereinafter referred to as the ‘principal borrower’) approached the Andhra Bank for
+sanction of credit facility and in the year 2008, it had approached Standard Chartered Bank for
+taking over the debt taken by it. In the year 2010, the Andhra Bank sanctioned open cash credit limit
+for a sum of Rs. 15.5 crores in favour of the principal borrower. Immovable properties were
+mortgaged by the guarantors and by the borrower to secure the said cash credit facility. After taking
+over the existing cash credit facility, a further ad-hoc open cash credit to the tune of Rs. 3 crores,
+due to the Standard Chartered Bank, was cleared by the Andhra Bank.
+4.1 Since, the principal borrower failed to make the repayment to the Andhra Bank, its account was
+declared as a Non Performing Asset (NPA). A notice dated 10.05.2013 was issued by the Andhra
+Bank under Section 13(2) of the SARFAESI Act, calling upon the borrower to pay the outstanding
+amount of Rs. 16,61,91,174.67 (Rupees sixteen crores sixty one lakhs ninety one thousand one
+hundred seventy four and paise sixty seven only), payable as on 27.04.2013. Objections thereto were
+raised by the principal borrower under Section 13(3A) of the SARFAESI Act. Since the amount
+demanded was not paid under Section 13(2) of the SARFAESI Act, measures under Section 13(4) of
+the SARFAESI Act were initiated by the Bank and possession of one of the mortgaged properties,
+being property bearing No. 170, Deepali, Pitampura, Delhi-110034 was taken. An Appeal was filed
+being SA No. 264/2013 by respondent Nos. 2 & 3 herein challenging the measures taken by the
+Andhra Bank under Section 13(4) of the SARFAESI Act. 4.2 On 25.07.2013, a conditional interim
+stay was granted by the Debt Recovery Tribunal-III (for short, ‘DRT’) and the applicants in SA No.
+264/2013 were directed to deposit a sum of Rs. 2 crores within a period of 30 days. The said
+applicants were also directed to bring a better buyer in respect of the properties in question within a
+period of 60 days along with 10% of the proposed sale consideration. Since the borrower failed to
+comply with the order of the DRT, the mortgaged properties were put to auction. Attempts made by
+the owners of the property to challenge the proposed auction failed inasmuch as the application
+moved before the DRT and the appeal preferred before the DRAT were both dismissed. The writ
+petition filed by the owners before the High Court also came to be dismissed as withdrawn on
+17.02.2016. That thereafter, the property in question was put to auction after getting the property
+valued and obtaining a valuation report of the property in question, namely, property bearing No.
+170, Deepali, Pitampura, Delhi- 110034. In the meantime, the Andhra Bank assigned all its debts
+and underlying securities to Prudent ARC Limited, the appellant in Civil Appeal No. 8970/2022.
+The borrower filed Writ Petition (Civil) No. 12791/2018 before the High Court challenging the
+assignment of debts by Andhra Bank, which came to be dismissed by the High Court on 28.11.2018.
+An intra-court appeal also came to be dismissed. 4.3 That thereafter, the borrower filed an
+interlocutory application before the DRT to prevent the auction scheduled on 05.12.2018. However,
+the DRT allowed the creditor/assignee to proceed with the auction. The auction was conducted on
+05.12.2018 and one M/s Tejswi Impex Pvt. Ltd. (auction purchaser) was the successful highest
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+2
+bidder for an amount of Rs. 12.5 crores. The entire amount was deposited and a sale certificate came
+to be issued in favour of the auction purchaser on 19.12.2018.
+4.4 The borrower filed an appeal before the DRAT being Appeal No. 616/2018 challenging the order
+dated 05.12.2018 passed by the DRT dismissing the application filed by the borrower praying that
+the Bank/assignee be restrained from proceeding with the auction. The DRAT vide order dated
+20.12.2018 directed the borrower to comply with the requirements of making a pre-deposit under
+Section 18 of the SARFAESI Act. The said order was in the nature of an interim order. The order
+dated 20.12.2018 passed by the DRAT was challenged before the High Court by way of Writ Petition
+No. 14066/2018. 4.5 The High Court directed the DRAT to hear the appeal on merits by observing
+that on realising the amount of Rs. 12.5 crores against the debt of Rs. 16.61 crores, it can be said that
+more than 50% of the debt due is secured/recovered and therefore the requirement of making a pre-
+deposit under the second proviso to Section 18 of the SARFAESI Act can be said to have been met.
+That thereafter, the DRAT disposed of the appeal vide order dated 1.8.2019 with a direction to the
+DRT to dispose of the main Securitization Application within a period of three months.
+Subsequently, vide order dated 05.10.2019, the DRT dismissed SA No. 264/2013 filed by
+respondent Nos. 2 & 3 herein. Against the said order, the borrower and the owner of the mortgaged
+property filed Regular Appeal No. 467/2019. The borrower sought waiver of the statutory
+pre-deposit under Section 18 of the SARFAESI Act, relying on the earlier order dated 26.12.2018
+passed in Writ Petition No. 14066/2018 and contending, inter alia, that as Rs. 12.5 crores had
+already been recovered/realised by selling the mortgaged property and the same had been deposited
+by the auction purchaser, which can be said to be more than 50% of the debt of Rs. 16.61 crores and
+therefore the borrower is not required to pay any further amount towards the pre- deposit as
+envisaged under Section 18 of the SARFAESI Act. The DRAT allowed the waiver of the statutory
+pre-deposit by observing that the amount already realised by selling the mortgaged
+property/secured property is required to be adjusted towards the pre-deposit and/or the same can
+be said to be a deposit of 50% of the amount as pre-deposit, as envisaged under Section 18 of the
+SARFAESI Act.
+4.6 Feeling aggrieved and dissatisfied with the order passed by the DRAT allowing waiver of the
+statutory pre-deposit on the aforesaid ground, the secured creditor/assignee filed the subject writ
+petition before the High Court being Writ Petition No. 6060/2020. By the impugned judgment and
+order, the High Court has partly allowed the said writ petition preferred by the secured
+creditor/assignee by directing that the borrower is required to deposit 50% of the remaining 4.1
+crores being debt due (after deducting/adjusting Rs. 12.5 crores realised/recovered by selling the
+mortgaged property). The High Court has also observed that it shall be open to DRAT to reduce the
+said pre- deposit amount to 25%, after recording reasons in writing for the said reduction. The
+aforesaid order is passed by the High Court, after observing and concluding as under:
+“(a) Pre-deposit contemplated under the second proviso of Section 18 of the
+SARFAESI Act, 2002 is mandatory in nature and cannot be waived by the learned
+DRAT.
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+3
+(b) While computing the “amount of debt due”, the amount of debt claimed by he
+secured creditor in its notice issued under Section 13(2) of the Act, shall be relevant
+and any future interest need not be taken into consideration for purposes of
+determining, “the amount of debt due as claimed by the secured credit”, in cases
+where the DRT has not determined the liability of a borrower.
+(c) The interest component shall be ignored only for the purposes of Section 18 of the
+Act. This judgment shall not affect the rights of the secured creditors to claim interest
+from the borrower, for recovery of amounts due under the RDDB Act.
+(d) Any amount that has been repaid by the borrower and/or recovered by a secured creditor after
+filing of the petition under Section 17, shall stand to the benefit of the borrower while computing the
+”amount of debt due” under the second proviso to Section 18 of the SARFAESI Act, 2002.” 4.7
+Feeling aggrieved and dissatisfied with the impugned judgment and order passed by the High Court,
+both, the secured creditor/assignee – Prudent ARC Limited and the original borrower – Sidha
+Neelkanth Paper Industries Pvt. Ltd. have preferred the present appeals. Factual Aspects in Civil
+Appeal Nos.8972, 8973 & 8974 of 2022:
+5. That the respective respondents in the present appeals took financial assistance by way of a Home
+Loan to the tune of Rupees one crore fifty lakhs from Bank of Baroda – the financial creditor. In
+order to secure the loan, the borrowers had mortgaged their property situated at Survey No.
+542/2/2/1, Patwari Halka No. 18, Junior Dewas, District Dewas. Upon committing the default in
+returning the loan amount, the Bank issued a demand notice dated 3.8.2019 under Section 13(2) of
+the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act,
+2002 (hereinafter referred to as the ‘SARFAESI Act’) for a debt of Rs. 1,40,81,936/-. A possession
+notice was issued on 10.10.2019. The borrowers approached the DRT by filing SA No. 652/2019. The
+bank withdrew the said notice and issued a fresh notice dated 13.1.2020 under Section 13(2) of the
+SARFAESI Act for the outstanding amount of Rs. 1,40,81,936/- from the borrowers. That thereafter
+the bank published the possession notice in daily newspapers on 24.03.2020. Subsequently, the
+bank issued a sale notice under Section 8(6) of the Security Interest Enforcement Rules, 2002 and
+put the mortgaged property to auction on 17.08.2020.
+5.1 The borrowers again approached the DRT by way of SA No. 240/2020 on 14.08.2020. The bank
+conducted the auction proceedings on 17.08.2020 in which the appellants herein – original writ
+petitioners before the High Court, as one of the bidders, was declared as a successful highest bidder,
+having bid of Rs. 1,55,10,000/-. That thereafter the auction purchaser deposited the entire bid
+amount. The sale in favour of the auction purchaser came to be finalised and the sale certificate was
+registered on 23.11.2020 in favour of the auction purchaser and he was put in possession of the
+secured asset. 5.2 Vide order dated 13.11.2020, the DRT dismissed SA No. 240/2020. Being
+aggrieved by the order dated 13.11.2020 passed by the DRT, the borrower approached the DRAT by
+way of Appeal No.344/2020 along with an application seeking waiver of the pre-deposit of the
+amount under Section 18 of the SARFAESI Act. By order dated 9.2.2021, the DRAT held that as the
+bank had already recovered the debt by selling the mortgaged property and there was no remaining
+amount of debt due, the requirement of pre-deposit was satisfied and the borrower/appellants were
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+4
+not required to tender any amount towards discharging the condition of pre-deposit for entertaining
+the appeal under Section 18 of the SARFAESI Act .
+5.3 Being aggrieved by the said order, the auction purchaser as well as the Bank filed the subject writ
+petitions before the High Court. By the impugned common judgment and order, the High Court
+dismissed the said writ petitions by observing that the borrower is not liable to deposit 50% of the
+amount of the debt as initially claimed by the secured creditor in view of the recovery of the amount
+by way of an auction sale. Thus, according to the High Court, the amount realised on deposit of the
+sale consideration by the auction purchaser is required to be appropriated and/or adjusted towards
+the amount of pre-deposit required to be deposited by the borrower under Section 18 of the
+SARFAESI Act. 5.4 Feeling aggrieved and dissatisfied with the common impugned judgment and
+order passed by the High Court, the auction purchasers have preferred the present civil appeals.
+Rival submissions in CA Nos.8969 & 8970/2022
+6. Learned counsel appearing on behalf of the principal borrower has vehemently submitted that the
+High Court has materially erred in directing the principal borrower to deposit 50% of the remaining
+sum of Rs. 4.1 crores as pre-deposit under Section 18 of the SARFAESI Act. 6.1 It is further
+submitted that in the present case the secured property was sold in a public auction for a sum of Rs.
+12.5 crores against the original amount of debt of Rs. 16.61 crores. That therefore the amount
+recovered was more than 50% of the original amount of debt of Rs. 16.61 crores and therefore no
+further order could have been passed directing the principal borrower to deposit any amount
+towards pre- deposit as required under Section 18 of the SARFAESI Act. It is contended that the
+amount realised by the financial institution by selling the secured property is required to be
+adjusted/appropriated while considering the “debt due”.
+6.2 It is further contended that while passing the impugned order, the High Court has
+misinterpreted the definition of “debt” defined under Section 2(g) of the Recovery of Debts and
+Bankruptcy Act, 1993 (hereinafter referred to as the ‘Act 1993’). That the “debt due” required to be
+calculated to determine the pre-deposit amount shall have to be calculated deducting the money
+received by the bank/financial institution during the pendency of the proceedings before the DRT.
+6.3 It is next submitted that while passing the impugned judgment and order, the High Court has
+erred in not applying the literal rule of interpretation for construing the second proviso to Section 18
+of the SARFAESI Act for ascertaining true and correct meaning on the expression of “debt due”.
+7. Learned counsel appearing on behalf of the financial institution and the auction purchaser have
+vehemently submitted that the High Court has materially erred in directing the borrower to deposit
+50% of the remaining Rs. 4.1 crores only as pre-deposit. It is contended that the said order is under
+challenge by the financial institution in the present case and it is the case on behalf of the financial
+institution that the High Court ought to have directed the borrower to deposit 50% of the original
+amount of debt of Rs. 16.61 crores.
+7.1 It is submitted that the High Court has very seriously erred in directing that the amount realised
+from auction sale of the secured property shall have to be appropriated for the pre-deposit amount
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+5
+which is to be determined on the balance of the “debt due”, without considering the interest
+component.
+7.2 It is further submitted that as per proviso to Section 18 of the SARFAESI Act, the amount of
+pre-deposit is to be calculated in respect of the amount of “debt due” and the “debt” in SARFAESI
+Act is defined in Section 2(ha). It is submitted that as per section 2(ha) “debt” shall have the same
+meaning as assigned to it in section 2(g) of the Act of 1993. It is submitted that on perusal of Section
+2(g) of the Act of 1993, “debt due” would include liability + interest. It is submitted that in the
+present case the High Court in the impugned judgment and order has observed and held that while
+considering the pre-deposit under Section 18 of the SARFAESI Act, interest component is to be
+ignored. It is submitted that the same is contrary to Section 2(ha) of the SARFAESI Act. 7.3 It is
+further submitted that as the borrower has challenged the notice under Section 13(2) of the
+SARFAESI Act and has also challenged the auction sale, adjustment of the amount recovered from
+sale of the secured assets against the pre-deposit under Section 18 of the SARFAESI Act, could not
+be permitted. Reliance is placed on the decision of the Bombay High Court in the case of Eskays
+Construction Pvt. Ltd. v. Soma Papers & Industries Limited & Others, 2016 SCC OnLine Bom. 9827,
+against which a special leave petition was filed and dismissed. It is submitted that even the proviso
+to Section 18 of the SARFAESI Act does not provide for any such adjustment. It is averred that
+therefore in the present case, the High Court has erred in allowing adjustment of the amount
+recovered from sale of secured assets, the amount which has been deposited by the auction
+purchaser and not borrower while considering pre-deposit under Section 18 of the SARFAESI Act.
+Rival submissions in Civil Appeal Nos.8972 to 8974 of 2022
+8. Shri Vinay Navare, learned Senior Advocate appearing on behalf of the auction purchaser, in
+addition, has vehemently submitted that the requirement of deposit under Section 18 of the
+SARFAESI Act is not for the purpose of securing payment of the creditor. That the objective is to
+require the borrower to prove his bona fides and to discourage frivolous litigation from being
+initiated by the borrower. It is submitted that therefore, this Court in the case of Axis Bank v. SBS
+Organics Private Limited, (2016) 12 SCC 18 has held that the amount of pre-deposit is refundable to
+the borrower after disposal of appeal. 8.1 It is next submitted that the language of Section 18 of the
+SARFAESI Act is very clear and unambiguous. It says that the “borrower shall deposit”, which
+means such amount is required to be brought in by the borrower and the amount standing with
+creditor through auction sale cannot be for the benefit of the borrower. That the borrower can take
+benefit of the amount received by the creditor in an auction sale only if he unequivocally accepts the
+sale. It is submitted that if the borrower wants to question the sale, then he cannot claim the amount
+of deposit for his benefit. The borrower cannot be allowed blow hot and cold.
+8.2 Reliance is placed on the decision of this Court in the matter of M/s Shilpa Shares and Securities
+v. National Cooperative Bank Ltd., (S.L.P (Civil) No. 14717/2022, decided on 21.11.2022) wherein it
+has been held that the amount deposited pursuant to the order of this Court cannot be adjusted in
+pre-deposit. That in the said case, the borrower applied for OTS and the matter reached this Court
+and to show the bona fides of the borrower, while considering its prayer for OTS, this Court directed
+to deposit certain amount. That thereafter the special leave petition came to be dismissed and in an
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+6
+appeal challenging the proceedings under the SARFAESI Act, the borrower wanted to adjust and/or
+appropriate the amount deposited pursuant to the order passed by this Court and that Court
+negatived the same by observing that the amount deposited pursuant to the order of this Court
+cannot be adjusted in pre-deposit.
+8.3 Making above submissions, it is prayed that the impugned judgment and order passed by the
+High Court be set aside and the borrower be directed to deposit 50% of the “debt due” without
+adjusting and/or appropriating the amount realised by selling the secured assets.
+9. Learned counsel appearing on behalf of the original borrowers have supported the impugned
+judgment and order passed by the High Court of Madhya Pradesh and have submitted that the High
+Court has not committed any error in dismissing the writ petitions and confirming the orders passed
+by the DRAT by which the DRAT after adjusting/appropriating the amount realised by sale of the
+secured property held that the borrowers are not required to deposit any further amount towards
+pre-deposit as the amount realised is more than 50% of the ”debt due”.
+Consideration:
+10. We have heard learned counsel appearing on behalf of the secured creditor/assignee, the
+respective auction purchasers and respective borrowers.
+11. The short question which is posed for the consideration of this Court is, “whether, while
+calculating the amount to be deposited as pre- deposit under Section 18 of the SARFAESI Act, 50%
+of which amount the borrower is required to deposit as pre-deposit and whether while calculating
+the amount of “debt due”, the amount deposited by the auction purchaser on purchase of the
+secured assets is required to be adjusted and/or appropriated towards the amount of pre-deposit to
+be deposited by the borrower under Section 18 of the SARFAESI Act?” Another question would be,
+“whether the “debt due” under Section 18 of the SARFAESI Act would include the liability +
+interest?”
+12. While considering the aforesaid issues/questions, Section 18, & 2(ha) of the SARFAESI Act and
+section 2(g) of the Recovery of Debts and Bankruptcy Act, 1993, which would have a direct bearing
+are required to be referred to. The said provisions read as under:
+18. Appeal to Appellate Tribunal.—(1) Any person aggrieved, by any order made by
+the Debts Recovery Tribunal [under section 17, may prefer an appeal along with such
+fee, as may be prescribed] to an Appellate Tribunal within thirty days from the date
+of receipt of the order of Debts Recovery Tribunal.
+[Provided that different fees may be prescribed for filing an appeal by the borrower
+or by the person other than the borrower:] [Provided further that no appeal shall be
+entertained unless the borrower has deposited with the Appellate Tribunal fifty per
+cent. of the amount of debt due from him, as claimed by the secured creditors or
+determined by the Debts Recovery Tribunal, whichever is less:
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+7
+Provided also that the Appellate Tribunal may, for the reasons to be recorded in writing, reduce the
+amount to not less than twenty-five per cent. of debt referred to in the second proviso.] (2) Save as
+otherwise provided in this Act, the Appellate Tribunal shall, as far as may be, dispose of the appeal
+in accordance with the provisions of the Recovery of Debts Due to Banks and Financial Institutions
+Act, 1993 (51 of 1993) and rules made thereunder.
+2(ha) “debt” shall have the meaning assigned to it in clause (g) of section 2 of the Recovery of Debts
+Due to Banks and Financial Institutions Act, 1993 (51 of 1993) and includes—
+(i) unpaid portion of the purchase price of any tangible asset given on hire or financial lease or
+conditional sale or under any other contract;
+(ii) any right, title or interest on any intangible asset or licence or assignment of such intangible
+asset, which secures the obligation to pay any unpaid portion of the purchase price of such
+intangible asset or an obligation incurred or credit otherwise extended to enable any borrower to
+acquire the intangible asset or obtain licence of such asset;
+Section 2(g) of the Recovery of Debts and Bankruptcy Act, 1993 - “debt” means any liability
+(inclusive of interest) which is claimed as due from any person [or a pooled investment vehicle as
+defined in clause (da) of section 2 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956),] by
+a bank or a financial institution or by a consortium of banks or financial institutions during the
+course of any business activity undertaken by the bank or the financial institution or the consortium
+under any law for the time being in force, in cash or otherwise, whether secured or unsecured, or
+assigned, or whether payable under a decree or order of any civil court or any arbitration award or
+otherwise or under a mortgage and subsisting on, and legally recoverable on, the date of the
+application [and includes any liability towards debt securities which remains unpaid in full or part
+after notice of ninety days served upon the borrower by the debenture trustee or any other authority
+in whose favour security interest is created for the benefit of holders of debt securities or;]”
+13. As per Section 2(ha) of the SARFAESI Act, “debt” shall have the same meaning assigned to it in
+clause (g) of Section 2 of the Act 1993. As per section 2(g) of the Act 1993, “debt” means any liability
+inclusive of interest which is claimed as due from any person….., by a bank or a financial institution
+during the course of any business activity undertaken by the bank or the financial institution, in
+cash or otherwise, whether secured or unsecured, or assigned, or whether payable under a decree or
+order of any civil court or any arbitration award or otherwise or under a mortgage and subsisting on,
+and legally recoverable on the date of the application. That the “debt” means any liability inclusive of
+interest.
+As per Section 18 of the SARFAESI Act, any person aggrieved, by any order made by the DRT under
+section 17, may prefer an appeal within thirty days to an appellate Tribunal (DRAT) from the date of
+receipt of the order of DRT. Second proviso to section 18 provides that no appeal shall be
+entertained unless the “borrower” has deposited with the Appellate Tribunal fifty percent of the
+amount of “debt due” from him, as claimed by the secured creditors or determined by the DRT,
+whichever is less and only and only then, an appeal under Section 18 of the SARFAESI Act is
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+8
+permissible against the order passed by the DRT under Section 17 of the SARFAESI Act. Under
+Section 17, the scope of enquiry is limited to the steps taken under Section 13(4) against the secured
+assets. Therefore, whatever amount is mentioned in the notice under Section 13(2) of the SARFAESI
+Act, in case steps taken under Section 13(2)/13(4) against the secured assets are under challenge
+before the DRT will be the ‘debt due’ within the meaning of proviso to Section 18 of the SARFAESI
+Act. In case of challenge to the sale of the secured assets, the amount mentioned in the sale
+certificate will have to be considered while determining the amount of pre-deposit under Section 18
+of the SARFAESI Act. However, in a case where both are under challenge, namely, steps taken under
+Section 13(4) against the secured assets and also the auction sale of the secured assets, in that case,
+the “debt due” shall mean any liability (inclusive of interest) which is claimed as due from any
+person, whichever is higher.
+14. As observed hereinabove and as per the second proviso to Section 18 of the SARFAESI Act, it is
+the “borrower” who has preferred an appeal before the Appellate Tribunal and the “borrower” who
+shall have to deposit 50% of the amount of “debt due” from him. If the words used in the second
+proviso to Section 18 of the SARFAESI Act are “borrower has to deposit”, it is not appreciable how
+the amount deposited by the auction purchaser on purchase of secured assets can be adjusted
+and/or appropriated towards the amount of pre-deposit, to be deposited by the borrower. It is the
+“borrower” who has to deposit the 50% of the amount of “debt due” from him. At the same time, if
+the borrower wants to appropriate and/or adjust the amount realised from sale of the secured assets
+deposited by the auction purchaser, the borrower has to accept the auction sale. In other words, the
+borrower can take the benefit of the amount received by the creditor in an auction sale only if he
+unequivocally accepts the sale. In a case where the borrower also challenges the auction sale and
+does not accept the same and also challenges the steps taken under Section 13(2)/13(4) of the
+SARFAESI Act with respect to secured assets, the borrower has to deposit 50% of the amount
+claimed by the secured creditor along with interest as per section 2(g) of the Act 1993 and as per
+section 2(g), “debt” means any liability inclusive of interest which is claimed as due from any
+person.
+15. An identical question came to be considered by the Bombay High Court in the case of Eskays
+Construction Pvt. Ltd. (supra). Before the Bombay High Court, it was the case on behalf of the
+borrower that though as per Section 18 of the SARFAESI Act, no appeal filed by the borrower can be
+entertained by the DRAT unless the borrower deposits with the DRAT 50% of the amount of “debt
+due” from him, as claimed by the secured creditor or as determined by the DRT, whichever is less,
+however, that does not mean that in a case where the properties of the borrower are sold and the
+entire dues of the bank are recovered from that sale, the borrower still has to deposit 50% as
+contemplated under Section 18 of the SARFAESI Act. While negativing the said submission, the
+Bombay High Court considered the purpose and object of the SARFAESI Act in paragraph 14 as
+under:
+“14. We have heard the learned counsel for the parties at length and perused the
+papers and proceedings in the Writ Petition along with the annexures thereto. Before
+we deal with the rival contentions, it would be necessary to set out the purpose and
+object for which the SARFAESI Act was brought into force. The statements of object
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+9
+and reasons of the SARFAESI Act indicate that the financial sector, being one of the
+key drivers in India's efforts to achieve success in rapidly developing its economy, did
+not have a level playing field as compared to other participants in the financial
+markets of the world. There was no legal provision for facilitating securitisation of
+financial assets of banks and financial institutions, and unlike international banks,
+the banks and financial institutions in India did not have the power to take
+possession of securities and sell them. The Legislature felt that our existing legal
+framework had not kept pace with the changing commercial practices and financial
+sector reforms, which resulted in delays in recovery of defaulting loans. This in turn
+had the effect of mounting levels of non-performing assets of banks and financial
+institutions. In order to bring the Indian Banking Sector on par with International
+Standards, the Government set up two Narasimhan Committees and the
+Andhyarujina Committee for the purposes of examining banking sector reforms.
+These Committees inter alia suggested enactment of a new legislation for
+securitization and empowering banks and financial institutions to take possession of
+the securities and to sell them without the intervention of the Court. Accepting these
+recommendations, the SARFAESI Act was brought into force w.e.f. 21-06-2002.
+There have been several amendments to the SARFAESI Act, the latest being an
+amendment of 2016 that received the assent of the President on 12 August, 2016 and
+was published in the Official Gazette dated 16 August, 2016. It is called the
+Enforcement of Security Interest and Recovery of Debts Laws and Miscellaneous
+Provisions (Amendment) Act, 2016. The preamble of this amending Act indicates
+that the same was intended to further amend the SARFAESI Act, the RDDB Act, the
+Indian Stamp Act, 1899 and the Depository Act, 1996 and for matters connected
+therewith or incidental thereto.” Thereafter, the Bombay High Court considered in
+detail Section 18.
+After considering the decision of this Court in the case of Narayan Chandra Ghosh v. UCO Bank,
+(2011) 4 SCC 548, it was observed and held that provisions of Section 18, more particularly the
+second and the third proviso thereto are mandatory in nature and that the DRAT has no power to
+grant full waiver of deposit. In paragraph 16, it is observed as under:
+“16. Section 18(1) clearly stipulates, any person aggrieved by any order made by the
+DRT under Section 17, may prefer an appeal to the DRAT within 30 days from the
+date of receipt of the order of the DRT. The 2nd proviso to Section 18(1) stipulates
+that no appeal shall be entertained by the DRAT unless the borrower has deposited
+with it 50% of the amount of debt due from him, as claimed by the secured creditors
+or as determined by the DRT, whichever is less. The 3 rd proviso to Section 18(1)
+gives a discretion to the DRAT to reduce the aforesaid amount to not less than 25%,
+provided the DRAT gives reasons for the same which are to be recorded in writing.
+What becomes clear from the aforesaid provisions is that there is a jurisdictional bar
+from entertaining an appeal filed by the borrower from an order passed under
+Section 17, unless the borrower deposits 50% of the amount of debt due from him, as
+claimed by the secured creditors or as determined by the DRT, whichever is less.
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+10
+There is also a discretion granted to the DRAT to reduce this amount to 25% provided
+it finds adequate reasons for doing so and gives reasons, that are recorded in writing.
+If this deposit is not made, then the DRAT has no jurisdiction to entertain the appeal
+of the borrower. The crucial words “debt due from him” have to be interpreted
+consistent with the object and purpose sought to be achieved by the SARFAESI Act.
+Unless the debt due is secured, the borrower cannot be allowed the luxury of
+litigation. If that is permitted, the secured creditors would be engaged in a
+continuous and futile litigation. On a plain reading of the section, it is clear that the
+DRAT has no power or jurisdiction to reduce the deposit amount to less than 25%.
+This is ex-facie clear from the plain and unambiguous language of Section 18 of the
+SARFAESI Act.” That thereafter the Bombay High Court considered the submission
+on behalf of the borrower that as the bank had already sold the secured assets for a
+consideration that fully secured their claim and therefore there was no requirement
+for the borrower to deposit any amount as contemplated under Section 18 of the
+SARFAESI Act. The Bombay High Court did not accept the said submission by
+observing that it would be ludicrous to suggest that the money realised by the bank
+from sale of the secured assets could be used by the borrower to fulfil the condition of
+pre-deposit under Section 18. The Bombay High Court has observed that it would be
+a different matter if the sale is accepted and confirmed by the borrower. The Bombay
+High Court further observed that the borrower cannot be permitted to use the sale
+proceeds received from the sale of the subject properties to be adjusted/given credit
+for in the application for waiver of deposit and at the very same time challenge the
+sale of very same subject properties. The said decision of the Bombay High Court has
+been confirmed by this Court as the special leave petition preferred impugning the
+same, has been dismissed. Even otherwise, we are in full agreement with the view
+taken by the Bombay High Court in the case of Eskays Construction Pvt. Ltd. (supra).
+We are of the firm opinion and view that in a case where the borrower challenges the
+auction sale, thereafter it will not be open for the borrower to pray to use the sale
+proceeds received from the sale of the secured properties to be adjusted/given credit
+in an application for waiver of pre-deposit.
+16. In view of the above and for the reasons stated above, in the present case, the respective High
+Courts have seriously erred in directing to adjust/appropriate the amount realised by auction sale of
+the secured properties/deposited by the auction purchasers while considering the 50% of the
+amount as pre-deposit to be deposited by the borrower, while preferring an appeal before the DRAT.
+Even the High Court of Delhi has erred in excluding the amount payable towards interest while
+considering the “debt due”. As per Section 2(g) of the Act 1993, “debt” means liability inclusive of
+interest as claimed by the bank/financial institution.
+17. In view of the above and for the reasons stated above, the respective appeals preferred by the
+financial institution/assignee and auction purchasers being civil Appeal Nos. 8970, 8972, 8973 and
+8974 of 2022 are hereby allowed. The appeal preferred by the borrower against the judgment and
+order passed by the Delhi High Court being Civil Appeal No. 8969/2022 deserves to be dismissed
+and is accordingly dismissed. It is observed and held that the borrower has to deposit 50% of the
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+11
+amount of “debt due” as claimed by the bank/financial institution/assignee along with interest as
+claimed in the notice under Section 13(2) of the SARFAESI Act and the borrower is not entitled to
+claim adjustment/appropriation of the amount realised by selling the secured properties and
+deposited by the auction purchaser when the auction sale is also under challenge.
+18. Civil Appeal Nos. 8970, 8972, 8973 & 8974 of 2022 are accordingly allowed except Civil Appeal
+No. 8969 of 2022. Consequently, Civil Appeal No. 8969 of 2022 stands dismissed, as observed
+hereinabove. However, in the facts and circumstances of the case, there shall be no order as to costs.
+……………………………………….J.
+                                    [M.R. SHAH]
+NEW DELHI;                          ……………………………………….J.
+JANUARY 05, 2023.                   [B.V. NAGARATHNA]
+Sidha Neelkanth Paper Industries ... vs Prudent Arc Limited on 5 January, 2023
+Indian Kanoon - http://indiankanoon.org/doc/197077609/
+12
