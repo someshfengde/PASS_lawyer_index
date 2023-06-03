@@ -12,6 +12,10 @@ import { OpenAIEmbeddings } from 'langchain/embeddings/openai'
 import { TextLoader } from 'langchain/document_loaders/fs/text'
 import { DirectoryLoader } from 'langchain/document_loaders/fs/directory'
 
+import express from 'express'
+
+const app = express()
+
 dotenv.config()
 
 const a1_loader = new DirectoryLoader('../dataset/summary/A1', {
@@ -86,16 +90,30 @@ const model = new OpenAI({
 	verbose: true,
 })
 
-const chain = loadQAMapReduceChain(model, {
+const chain = loadQAStuffChain(model, {
 	verbose: true,
 	returnSourceDocuments: true,
 })
 
-const relDocs = await vectorStore.similaritySearch('mortgage laws')
-
-const res = await chain.call({
-	input_documents: relDocs,
-	question: 'summarize them',
+app.get('/hello', (req, res) => {
+	res.send({ hello: 'world' })
 })
 
-console.log(res)
+app.get('/query', async (req, res) => {
+	try {
+		const query = req.query.search
+
+		const docs = await vectorStore.similaritySearch(query)
+
+		const response = await chain.call({
+			input_documents: docs,
+			question: 'summarize the above documents',
+		})
+
+		res.send({ docs, response })
+	} catch (error) {
+		res.send(error)
+	}
+})
+
+app.listen(3000, '0.0.0.0', () => console.log('server connected!'))
