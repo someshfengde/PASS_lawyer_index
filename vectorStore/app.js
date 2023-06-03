@@ -33,13 +33,16 @@ dotenv.config()
 // const main_documents = new DirectoryLoader('../converted_text', {
 // 	'.txt': (path) => new TextLoader(path),
 // })
+// const main_documents_new = new DirectoryLoader('../conv_text_new', {
+// 	'.txt': (path) => new TextLoader(path),
+// })
 
 // let docs = []
 
-// docs.push(await a1_loader.load())
-// docs.push(await a2_loader.load())
-// docs.push(await judgement_loader.load())
-// docs.push(await main_documents.load())
+// // docs.push(await a1_loader.load())
+// // docs.push(await a2_loader.load())
+// // docs.push(await judgement_loader.load())
+// docs.push(await main_documents_new.load())
 
 // docs = docs.flat()
 
@@ -55,7 +58,7 @@ dotenv.config()
 // 	const chunks = await splitter.splitDocuments([doc])
 
 // 	const params = doc.metadata.source.match(
-// 		/converted_text\/([^\/]+)_on_(.+)\.txt$/
+// 		/conv_text_new\/([^\/]+)_on_(.+)\.txt$/
 // 	)
 
 // 	let case_name = params[1],
@@ -77,16 +80,24 @@ dotenv.config()
 
 // const vectorStore = await HNSWLib.fromDocuments(
 // 	data,
-// new OpenAIEmbeddings({
-// 	openAIApiKey: process.env.OPENAI,
-// 	// verbose: true,
-// })
+// 	new OpenAIEmbeddings({
+// 		openAIApiKey: process.env.OPENAI,
+// 		verbose: true,
+// 	})
 // )
 
+// await vectorStore.save('../hnswlib_new')
 // await vectorStore.save('../hnswlib')
 
+// const vectorStore = await HNSWLib.load(
+// 	'../hnswlib',
+// 	new OpenAIEmbeddings({
+// 		openAIApiKey: process.env.OPENAI,
+// 		verbose: true,
+// 	})
+// )
 const vectorStore = await HNSWLib.load(
-	'../hnswlib',
+	'../hnswlib_new',
 	new OpenAIEmbeddings({
 		openAIApiKey: process.env.OPENAI,
 		verbose: true,
