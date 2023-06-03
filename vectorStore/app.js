@@ -129,25 +129,58 @@ app.get('/query', async (req, res) => {
 
 		for await (const doc of docs) {
 			const caseDocs = await vectorStore.similaritySearch(
-				'argument of respondent\ncase interpretation',
+				'argument made by the respondent\nwhat is the interpretation of the case\nwhat are the articles used and their description\nwhat is the background of the case\nwhat are the clauses of the case\nwhat are the proven points in case\nwhat are the submissions in the case\nWas the leave granted',
 				10,
 				(document) =>
 					document.metadata.case_name === doc.metadata.case_name
 			)
 
-			const summary = await chain.call({
-				input_documents: caseDocs,
-				question:
-					'list all the important bullet points and the arguments and the interpretations and everything imporant that is mentioned in the chunk',
-			})
+			for await (const chunk of caseDocs) {
+				const parser = StructuredOutputParser.fromNamesAndDescriptions({
+					argument_of_respondent:
+						'what is the argument made by the respondent',
+					case_interpretation:
+						'what is the interpretation of the case',
+					articles_and_description:
+						'what are the articles used and their description',
+					facts_of_case: 'what is the background of the case',
+					case_clause: 'what are the clauses of the case',
+					proof: 'what are the proven points in case',
+					submissions: 'what are the submissions in the case',
+					leave: 'Was the leave granted',
+				})
 
-			response.push({
-				res: summary,
-				case: {
-					date: doc.metadata.case_date,
-					name: doc.metadata.case_name,
-				},
-			})
+				const formatInstructions = parser.getFormatInstructions()
+
+				const prompt = new PromptTemplate({
+					template:
+						"extract all the mentioned things and summarize them in the mentioned document. if the mentioned thing is not mentioned anywhere. don't return anything.\n{format_instructions}\n{case}",
+					inputVariables: ['case'],
+					partialVariables: {
+						format_instructions: formatInstructions,
+					},
+				})
+
+				const input = await prompt.format({
+					case: chunk.pageContent,
+				})
+
+				const res = await model.call(input)
+
+				response.push({
+					res: res,
+					case: {
+						date: chunk.metadata.case_date,
+						name: chunk.metadata.case_name,
+					},
+				})
+			}
+
+			// const summary = await chain.call({
+			// 	input_documents: caseDocs,
+			// 	question:
+			// 		'list all the important bullet points and the arguments and the interpretations and everything imporant that is mentioned in the chunk',
+			// })
 		}
 
 		res.send({ docs, response })
