@@ -1,0 +1,2352 @@
+Supreme Court of India
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Author: Hon'Ble The Justice
+                                                                  Reportable
+                           IN THE SUPREME COURT OF INDIA
+                            CIVIL APPELLATE JURISDICTION
+                              Civil Appeal No 2357 of 2017
+          Government of NCT of Delhi                         …Appellant
+                                        Versus
+          Union of India                                     …Respondent
+Signature Not Verified Digitally signed by CHETAN KUMAR Date: 2023.05.11 12:43:15 IST Reason:
+J U D G M E N T  D r .  D h a n a n j a y a  Y  C h a n d r a c h u d ,  C J I  A .  T h e
+Reference.............................................................................................. 4 B. Submissions
+............................................................................................... 11 C. Interpretation of Article 239AA: The
+2018 Constitution Bench judgment ... 15
+(a) Delhi: A Sui Generis model ..................................................................... 15
+(b) Legislative and executive power of the Legislative Assembly of NCTD .. 19
+(c) “Insofar as any such matter is applicable to Union Territories” ................... 23 D. The ‘class’ of
+Union territories ......................................................................... 30 E. Maintaining the balance of
+local interest and national interest ........................ 35 F. Inclusive interpretation of “insofar as any
+s u c h  m a t t e r  i s  a p p l i c a b l e  t o  U n i o n  t e r r i t o r i e s ”
+............................................................................................................. 38 G. “Subject to the
+provisions”: A limitation? ......................................................... 47 H. The Constitution is not Unitary
+........................................................................ 50 I. Scope of Legislative and Executive Power between
+the Union and NCTD ...... 56 J.Triple chain of accountability: Civil Servants in a Cabinet Form of
+Government ......... 68 (A) Role of civil services in a modern government ........................................ 68
+(b) Accountability of civil servants in a Westminster parliamentary democracy 69
+(c) Accountability of Civil Service Officers in a Federal Polity .......................... 73 K. Balakrishnan
+Committee Report...................................................................... 75 L. Applicability of Part XIV to
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+1
+Union Territories .................................................... 80
+(a) Meaning of “State” for the purpose of Part XIV of the Constitution ......... 80
+(b) Omission in Part XIV by the 1956 Constitution Amendment ................... 87 (c ) Existence of
+power and exercise of power ................................................. 89 M. Exercise of Legislative Power by
+N C T D  o n  E n t r y  4 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9 3  N .  “ S e r v i c e s ”  a n d  N C T D
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9 9  O .
+Conclusion................................................................................................ 103 PART A A. The Reference
+1. This case before us deals with the asymmetric federal model of governance in India, involving the
+contest of power between a Union Territory and the Union Government. The issue is who would
+have control over the “services” in the National Capital Territory of Delhi1: the Government of
+NCTD 2 or the Lieutenant Governor acting on behalf of the Union Government. The question arose
+subsequent to a notification 3 dated 21 May 2015 issued by the Union Ministry of Home Affairs,
+which stated as follows:
+“... in accordance with the provisions contained in article 239 and sub-clause (a) of
+clause (3) of 239AA, the President hereby directs that – subject to his control and
+further orders, the Lieutenant Governor of the National Capital Territory of Delhi,
+shall in respect of matters connected with ‘Public Order’, ‘Police’, ‘Land’ and
+‘Services’ as stated hereinabove, exercise the powers and discharge the functions of
+the Central Government, to the extent delegated to him from time to time by the
+President.
+Provided that the Lieutenant Governor of the National Capital Territory of Delhi may, in his
+discretion, obtain the views of the Chief Minister of the National Capital Territory of Delhi in regard
+to the matter of ‘Services’ wherever he deems it appropriate.” The notification provided that the
+Lieutenant Governor of NCTD shall exercise control “to the extent delegated to him from time to
+time by the President” over 1 “NCTD” 2 “GNCTD” 3 “2015 notification” PART A “services”, in
+addition to “public order”, “police”, and “land.” The Lieutenant Governor may seek the views of the
+Chief Minister of NCTD at his “discretion”.
+2. “Services” are covered under Entry 41 of the State List of the Seventh Schedule to the
+Constitution. The 2015 notification excludes Entry 41 of the State List, which has as its subject,
+“State Public Services; State Public Services Commission”, from the scope of powers of GNCTD. The
+notification stipulates that the rationale for excluding “services” from the ambit of the legislative and
+executive power of NCTD is that NCTD does not have its own State public services:
+“Further, the Union Territories Cadre consisting of Indian Administrative Service
+and Indian Police Service personnel is common to Union Territories of Delhi,
+Chandigarh, Andaman and Nicobar Islands, Lakshadweep, Daman and Diu, Dadra
+and Nagar Haveli, Puducherry and States of Arunachal Pradesh, Goa and Mizoram
+which is administered by the Central Government through the Ministry of Home
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+2
+Affairs; and similarly DANICS and DANIPS are common services catering to the
+requirement of the Union Territories of Daman & Diu, Dadra Nagar Haveli,
+Andaman and Nicobar Islands, Lakshadweep including the National Capital Territory
+of Delhi which is also administered by the Central Government through the Ministry
+of Home Affairs. As such, it is clear that the National Capital Territory of Delhi does
+not have its own State Public Services. Thus, ‘Services’ will fall within this category.
+And whereas it is well established that where there is no legislative power, there is no
+executive power since executive power is co-extensive with legislative power.
+And whereas matters relating to Entries 1, 2 & 18 of the State List being ‘Public Order’, ‘Police’ and
+‘Land’ respectively and Entries 64, 65 & 66 of that list in so far as they relate to Entries 1, 2 & 18 as
+also ‘Services’ fall outside the purview of Legislative Assembly of the National Capital Territory of
+Delhi and consequently the Government of NCT of Delhi PART A will have no executive power in
+relation to the above and further that power in relation to the aforesaid subjects vests exclusively in
+the President or his delegate i.e. the Lieutenant Governor of Delhi.”
+3. The above notification was assailed through a batch of petitions before the High Court of Delhi.
+The validity of the notification was upheld by the High Court as it declared that “the matters
+connected with ‘Services’ fall outside the purview of the Legislative Assembly of NCT of Delhi.” 4 On
+appeal, a two-Judge Bench of this Court was of the opinion that the matter involved a substantial
+question of law about the interpretation of Article 239AA, which deals with “Special provisions with
+respect to Delhi”, and hence referred the issue of interpretation of Article 239AA to a Constitution
+Bench on 15 February 2017.
+4. Article 239AA provides as under:
+“239-AA. Special provisions with respect to Delhi.— (1) As from the date of
+commencement of the Constitution (Sixty-ninth Amendment) Act, 1991, the Union
+Territory of Delhi shall be called the National Capital Territory of Delhi (hereafter in
+this Part referred to as the National Capital Territory) and the Administrator thereof
+appointed under Article 239 shall be designated as the Lieutenant Governor.
+(2)(a) There shall be a Legislative Assembly for the National Capital Territory and the
+seats in such Assembly shall be filled by Members chosen by direct election from
+territorial constituencies in the National Capital Territory.
+(b) The total number of seats in the Legislative Assembly, the number of seats reserved for
+Scheduled Castes, the division of the National Capital Territory into territorial constituencies
+(including the basis for such division) and all other matters relating to the functioning of the
+Legislative 4Government of National Capital Territory of Delhi v. Union of India (“Delhi High Court
+judgment”), (2016) 232 DLT 196.
+PART A Assembly shall be regulated by law made by Parliament.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+3
+(c) The provisions of Articles 324 to 327 and 329 shall apply in relation to the National Capital
+Territory, the Legislative Assembly of the National Capital Territory and the Members thereof as
+they apply, in relation to a State, the Legislative Assembly of a State and the Members thereof
+respectively; and any reference in Articles 326 and 329 to “appropriate legislature” shall be deemed
+to be a reference to Parliament.
+(3)(a) Subject to the provisions of this Constitution, the Legislative Assembly shall have power to
+make laws for the whole or any part of the National Capital Territory with respect to any of the
+matters enumerated in the State List or in the Concurrent List insofar as any such matter is
+applicable to Union Territories except matters with respect to Entries 1, 2 and 18 of the State List
+and Entries 64, 65 and 66 of that List insofar as they relate to the said Entries 1, 2 and 18.
+(b) Nothing in sub-clause (a) shall derogate from the powers of Parliament under this Constitution
+to make laws with respect to any matter for a Union Territory or any part thereof.
+(c) If any provision of a law made by the Legislative Assembly with respect to any matter is
+repugnant to any provision of a law made by Parliament with respect to that matter, whether passed
+before or after the law made by the Legislative Assembly, or of an earlier law, other than a law made
+by the Legislative Assembly, then, in either case, the law made by Parliament, or, as the case may be,
+such earlier law, shall prevail and the law made by the Legislative Assembly shall, to the extent of
+the repugnancy, be void:
+Provided that if any such law made by the Legislative Assembly has been reserved for the
+consideration of the President and has received his assent, such law shall prevail in the National
+Capital Territory:
+Provided further that nothing in this sub-clause shall prevent Parliament from enacting at any time
+any law with respect to the same matter including a law PART A adding to, amending, varying or
+repealing the law so made by the Legislative Assembly.
+(4) There shall be a Council of Ministers consisting of not more than ten per cent of the total number
+of Members in the Legislative Assembly, with the Chief Minister at the head to aid and advise the
+Lieutenant Governor in the exercise of his functions in relation to matters with respect to which the
+Legislative Assembly has power to make laws, except insofar as he is, by or under any law, required
+to act in his discretion:
+Provided that in the case of difference of opinion between the Lieutenant Governor and his
+Ministers on any matter, the Lieutenant Governor shall refer it to the President for decision and act
+according to the decision given thereon by the President and pending such decision it shall be
+competent for the Lieutenant Governor in any case where the matter, in his opinion, is so urgent
+that it is necessary for him to take immediate action, to take such action or to give such direction in
+the matter as he deems necessary.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+4
+(5) The Chief Minister shall be appointed by the President and the other Ministers shall be
+appointed by the President on the advice of the Chief Minister and the Ministers shall hold office
+during the pleasure of the President.
+(6) The Council of Ministers shall be collectively responsible to the Legislative Assembly.
+(7)(a) Parliament may, by law, make provisions for giving effect to, or supplementing the provisions
+contained in the foregoing clauses and for all matters incidental or consequential thereto.
+(b) Any such law as is referred to in sub-clause (a) shall not be deemed to be an amendment of this
+Constitution for the purposes of Article 368 notwithstanding that it contains any provision which
+amends or has the effect of amending, this Constitution.
+(8) The provisions of Article 239-B shall, so far as may be, apply in relation to the National Capital
+Territory, the Lieutenant Governor and the Legislative Assembly, as they apply in relation to the
+PART A Union Territory of Puducherry, the Administrator and its legislature, respectively; and any
+reference in that Article to “clause (1) of Article 239-A” shall be deemed to be a reference to this
+Article or Article 239-AB, as the case may be.”
+5. The Constitution Bench pronounced its judgment 5 on 4 July 2018. The judgment contained three
+judicial opinions. The opinion of the majority was authored by Chief Justice Dipak Misra, in which
+Justice A.K. Sikri, and Justice A.M. Khanwilkar joined. 6 One of us (Dr. D.Y. Chandrachud, J.) and
+Justice Ashok Bhushan delivered separate concurring opinions. The Constitution Bench dealt with
+the constitutional status of NCTD and the modalities of its administration based on the division of
+powers, functions and responsibilities of the elected government of NCTD and the Lieutenant
+Governor, who as the nominee of the President of India, serves as the representative of the Union
+Government. We shall discuss the principles laid down in that judgment in Section C of this
+judgment.
+6. Upon deciding the interpretation of Article 239AA, the appeals were directed to be listed before a
+regular Bench to decide the specific issues. On 14 February 2019, a two-Judge Bench of Justice A.K.
+Sikri and Justice Ashok Bhushan delivered two separate judgments. The judges differed on whether
+“services” are excluded in view of Article 239AA(3)(a) from the legislative and executive domain of
+GNCTD. 7
+7. The matter fell for consideration before a Bench of three Judges. There, the Union argued that the
+2018 Constitution Bench did not analyze two crucial phrases in Article 239AA(3)(a): (i) “in so far as
+any such matter is applicable to Union 5 “2018 Constitution Bench judgment”; (2018) 8 SCC 501 6
+“Judgment of the majority” 7 “2019 split verdict” PART A Territories”; and (ii) “Subject to the
+provisions of this Constitution''. By an order dated 6 May 2022, the three-judge Bench observed
+that:
+“8. From the reference application moved by the Union of India, as well as the rival
+contentions of the parties, the main bone of contention relates to the interpretation of
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+5
+the phrases: “in so far as any such matter is applicable to Union Territories” and
+“Subject to the provisions of this Constitution” as contained in Article 239AA(3)(a) of
+the Constitution. On perusing the Constitution Bench judgment, it appears that all
+the issues except the one pending consideration before this bench, have been
+elaborately dealt with. Therefore, we do not deem it necessary to revisit the issues
+that already stand settled by the previous Constitution Bench.
+9. The limited issue that has been referred to this Bench, relates to the scope of
+legislative and executive powers of the Centre and NCT Delhi with respect to the term
+“services”. The Constitution Bench of this Court, while interpreting Article
+239AA(3)(a) of the Constitution, did not find any occasion to specifically interpret
+the impact of the wordings of the same with respect to Entry 41 in the State List.
+10. We therefore deem it appropriate to refer the above limited question, for an authoritative
+pronouncement by a Constitution Bench in terms of Article 145(3) of the Constitution.” The above
+reference forms the subject of adjudication before this Constitution Bench. The limited issue for the
+consideration of this Constitution Bench only relates to the “scope of legislative and executive
+powers of the Centre and NCTD with respect to the term “Services.” That is to say, whether the
+NCTD or the Union government has legislative and executive control over “services.” We will now
+turn to the arguments made by counsel on opposing sides.
+PART B B. Submissions
+8. Dr. A M Singhvi, learned Senior Counsel appearing for the appellant, made the following
+submissions:
+a. The Legislative Assembly of NCTD has the power to enact laws under Entry 41 of
+List II of the Seventh Schedule. The power cannot be excluded merely because the
+entry uses the term “state public services” and not “Union Territory public services”.
+In fact, the Delhi Legislative Assembly has enacted laws that fall within Entry 41;
+b. Even if it is found that the legislature of NCTD has not exercised legislative power
+related to Entry 41 of List II, it does not imply that the power ceases to exist;
+c. NCTD has legislative power and executive power over all entries in List II other
+than entries 1,2, and 18 which have been expressly excluded by Article 239AA;
+d. The phrase “insofar as such matter is applicable to Union Territories” in Article
+239AA is inclusionary and not exclusionary. Multiple entries in List II and List III use
+the term “State.” The phrase “insofar as such matter is applicable to Union
+Territories” is a facilitative phrase which permits such entries being made available to
+the Union Territory of NCTD without an amendment of the Lists in the Seventh
+Schedule. Without the facilitative phrase, NCTD would not have legislative
+competence over those entries in Lists II and III which use the term “State”;
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+6
+e. NCTD is sui generis. It cannot be brought within the common class of ‘Union
+Territories’;
+PART B f. This Court in Union of India v. Prem Kumar Jain 8 has recognised that the provisions of
+Part XIV of the Constitution extend to Union territories; g. The report of the Balakrishnan
+Committee opined against the inclusion of “services” within the legislative and executive ambit of
+NCTD, does not have any relevance because:
+(i) It preceded the inclusion of Article 239AA, by which three entries from List II have been
+expressly excluded from the legislative competence of NCTD;
+(ii) The conclusion that only States (and not Union territories) can have services is conceptually
+wrong;
+(iii) The judgment of this Court in Prem Kumar Jain (supra) was not considered; and
+(iv) The opinion of the majority in the 2018 Constitution Bench judgment expressly notes that the
+report of the Balakrishnan Committee will not be used as an aid to interpret Article 239AA. h.
+Personnel belonging to All-India Services and Central Government Services are governed by the
+Indian Administrative Service (Cadre) Rules 1954 and the All-India Services (Joint Cadre) Rules
+1972 respectively. In terms of these rules, while it is the prerogative of the Joint Cadre Authority to
+make an officer available to GNCTD, the actual posting of the officer within the departments of
+GNCTD is the prerogative of the latter. Similarly, under DANICS and 8 (1976) 3 SCC 473 PART B
+DANIPS Rules 2003, once an officer is alloted to NCTD, it is the Administrator who appoints that
+officer to a post within NCTD.
+9. Mr. Shadan Farasat, learned counsel appearing for the appellant, provided an overview of the
+control of services in national capital territories across the world. He argued that regardless of the
+level of devolution of power in countries across the world, even in countries with centralized forms
+of government, the power to control “services” has been devolved upon the local government of the
+National Capital Territory.
+10. Mr. Tushar Mehta, learned Solicitor General, made the following submissions on behalf of the
+Union of India:
+a. Entry 41 of List II is not available to Union Territories, as it cannot have either a
+State Public Service or a State Public Service Commission;
+b. The 2018 Constitution Bench judgment did not decide whether NCTD has
+legislative competence over Entry 41 of List II;
+c. Delhi, being the national capital, enjoys a special status which requires the Union
+to have control over services, in the absence of which it would become impossible for
+the Union to discharge its national and international responsibilities;
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+7
+d. The expression “in so far as any such matter is applicable to Union Territories” in Article 239AA
+means that the entries contained in List II are available to NCTD to the limited extent to which they
+are applicable to Union Territories. The legislative powers of NCTD shall extend to only those
+matters which are ‘applicable’ to Union Territories. Since the PART B Constitution uses the term
+‘applicable’ and not ‘relating’ to Union Territories, the legislative power of NCTD will extend to an
+Entry only when that Entry is clearly and unequivocally applicable to Union Territories as a class.
+Consequently, List II has to be read contextually and certain entries can be excluded from the
+domain of GNCTD; e. The control of Union of India over “services” has not led to any issue
+pertaining to the governance of NCTD; and f. The Transaction of Business Rules 1993 provide
+enough powers to Ministers of GNCTD to ensure supervisory and functional control over civil
+services to ensure their proper functioning; the rules applicable to the civil services indicate that
+administrative control vests with the Union.
+11. The arguments advanced indicate that this Constitution Bench is called upon to decide the
+limited question of whether NCTD has the power to legislate under Entry 41 of the State List, and
+the meaning of the term “in so far as any such matter is applicable to Union Territories” in Article
+239AA(3)(a). This Bench will refer to the principles laid down in the 2018 Constitution Bench
+judgment to facilitate the analysis.
+Though both sides relied on the subordinate rules referred to above to argue that they have control
+over postings of officers, we do not deem it appropriate to interpret each of these rules to elucidate
+on the framework of governance in each of the cadres. The reference is limited to the scope of
+executive and legislative power of NCTD over “services” with reference to the interpretation of
+Article 239AA(3)(a).
+PART C C. Interpretation of Article 239AA: The 2018 Constitution Bench judgment
+(a) Delhi: A sui generis model
+12. The 2018 Constitution Bench decision held that NCTD is not similar to other Union Territories.
+The decision elucidates the manner in which the insertion of Article 239AA accorded a “sui generis”
+status to NCTD setting it apart from other Union Territories. The judgment noted that the
+constitutional entrenchment of a Legislative Assembly, Council of Ministers, and Westminster style
+cabinet system of government brought into existence the attributes of a representative form of
+government. As a consequence, the residents of Delhi have been, through their elected
+representatives, afforded a voice in the governance of NCTD, while balancing the national interests
+of Union of India. The majority decision, speaking through Chief Justice Dipak Misra, held:
+“196. Thus, NDMC [NDMC v. State of Punjab, (1997) 7 SCC 339] makes it clear as
+crystal that all Union Territories under our constitutional scheme are not on the same
+pedestal [...] S. Essence of Article 239-AA of the Constitution
+206. It is perceptible that the constitutional amendment conceives of conferring
+special status on Delhi. This has to be kept in view while interpreting Article
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+8
+239-AA…
+207. At the outset, we must declare that the insertion of Articles 239-AA and 239-AB,
+which specifically pertain to NCT of Delhi, is reflective of the intention of Parliament
+to accord Delhi a sui generis status from the other Union Territories as well as from
+the Union Territory of Puducherry to which Article 239-A is singularly applicable as
+on PART C date. The same has been authoritatively held by the majority judgment in
+NDMC case to the effect that the NCT of Delhi is a class by itself…
+209. The exercise of establishing a democratic and representative form of
+Government for NCT of Delhi by insertion of Articles 239-AA and 239-AB would turn
+futile if the Government of Delhi that enjoys the confidence of the people of Delhi is
+not able to usher in policies and laws over which the Delhi Legislative Assembly has
+power to legislate for NCT of Delhi.
+210. Further, the Statement of Objects and Reasons for the Constitution
+(Seventy-fourth Amendment) Bill, 1991 which was enacted as the Constitution
+(Sixty-ninth Amendment) Act, 1991 also lends support to our view as it clearly
+stipulates that in order to confer a special status upon the National Capital,
+arrangements should be incorporated in the Constitution itself.”
+13. The concurring opinion of Justice Chandrachud emphasized the significance legislative and
+constitutional history in interpreting Article 239AA. In that context, the judgment notes:
+“383. Having regard to this history and background, it would be fundamentally
+inappropriate to assign to the NCT a status similar to other Union Territories. Article
+239-AA(4) is a special provision which was adopted to establish a special
+constitutional arrangement for the governance of the NCT, albeit within the rubric of
+Union Territories. In interpreting the provisions of Article 239-AA, this Court cannot
+adopt a blinkered view, which ignores legislative and constitutional history. While
+adopting some of the provisions of the Acts of 1963 and 1966, Parliament in its
+constituent capacity omitted some of the other provisions of the legislative
+enactments which preceded the Sixty-ninth Amendment […]”
+14. Having imparted a purposive interpretation to Article 239AA, the judgment underscores that the
+governance structure which Parliament adopted for NCTD is PART C unique and different from that
+of other Union Territories. It was held that the constituent power of Parliament was exercised “to
+treat the Government of NCT of Delhi as a representative form of Government”. The judgment of the
+majority held:
+“213… Article 239-A gives discretion to Parliament to create by law for the Union
+Territory of Puducherry a Council of Ministers and/or a body which may either be
+wholly elected or partly elected and partly nominated to perform the functions of a
+legislature for the Union Territory of Puducherry.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+9
+214. On the other hand, Article 239-AA clause (2), by using the word “shall”, makes it
+mandatory for Parliament to create by law a Legislative Assembly for the National
+Capital Territory of Delhi. Further, sub-clause (a) of clause (2) declares very
+categorically that the Members of the Legislative Assembly of the National Capital
+Territory of Delhi shall be chosen by direct election from the territorial constituencies
+in the National Capital Territory of Delhi. Unlike Article 239- A clause (1) wherein the
+body created by Parliament by law to perform the functions of a legislature for the
+Union Territory of Puducherry may either be wholly elected or partly elected and
+partly nominated, there is no such provision in the context of the Legislative
+Assembly of NCT of Delhi as per which Members can be nominated to the Legislative
+Assembly. This was a deliberate design by Parliament.
+215. We have highlighted this difference to underscore and emphasise the intention
+of Parliament, while inserting Article 239-AA in the exercise of its constituent power,
+to treat the Legislative Assembly of the National Capital Territory of Delhi as a set of
+elected representatives of the voters of NCT of Delhi and to treat the Government of
+NCT of Delhi as a representative form of Government.
+216. The Legislative Assembly is wholly comprised of elected representatives who are chosen by
+direct elections and are sent to Delhi's Legislative Assembly by the voters of Delhi. None of the
+Members of Delhi's Legislative Assembly are nominated. The PART C elected representatives and
+the Council of Ministers of Delhi, being accountable to the voters of Delhi, must have the
+appropriate powers so as to perform their functions effectively and efficiently…” (emphasis
+supplied)
+15. In his concurring opinion, Justice Chandrachud also held that NCTD is “special class among
+Union Territories”. It was held:
+“384. All Union territories are grouped together in Part VIII of the Constitution.
+While bringing them under the rubric of one constitutional pairing, there is an
+unmistakable distinction created between them by the Constitution…
+388. Delhi presents a special constitutional status Under Article 239AA. This is
+fortified when those provisions are read in contrast with Articles 239A and 240.
+Article 239AA does not incorporate the language or scheme of Article 240(1), which
+enables the President to frame Regulations for peace, progress and good government
+of the Union territories referred to in Article 240(1). This proviso to Article 240(1)
+indicates that once a Parliamentary law has been framed, the President shall not
+frame Regulations for Puducherry. In the case of Delhi, Article 239AA does not leave
+the constitution of a legislature or the Council of Ministers to a law to be framed by
+Parliament in future. Article 239AA mandates that there shall be a legislative
+assembly for the NCT and there shall be a Council of Ministers, with the function of
+tendering aid and advice to the Lieutenant Governor. The "there shall be"
+formulation is indicative of a constitutional mandate. Bringing into being a legislative
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+10
+assembly and a Council of Ministers for the NCT was not relegated by Parliament (in
+its constituent power) to its legislative wisdom at a future date upon the enactment of
+enabling legislation. Clause 7(a) of Article 239AA enables Parliament by law to make
+provisions to give effect to or to supplement the provisions contained in that Article.
+Parliament's power is to enforce, implement and fortify Article 239AA and its
+defining norms.
+389. The above analysis would indicate that while Part VIII brings together a common grouping of
+all Union territories, the Constitution evidently did not intend to use the same brush to paint the
+details of their position, the institutions of governance (legislative or PART C executive), the nature
+of democratic participation or the extent of accountability of those entrusted with governance to
+their elected representatives…” (emphasis supplied)
+16. Thus, it is evident from the 2018 Constitution Bench judgment that the constitutional status of
+NCTD is not similar to other Union Territories, which are covered under Part VIII of the
+Constitution.
+17. The judgment of the majority in the 2018 Constitution Bench decision underscores the
+importance of interpreting the Constitution to further democratic ideals. It was held:
+“284.1. While interpreting the provisions of the Constitution, the safe and most
+sound approach for the constitutional courts to adopt is to read the words of the
+Constitution in the light of the spirit of the Constitution so that the quintessential
+democratic nature of our Constitution and the paradigm of representative
+participation by way of citizenry engagement are not annihilated. The courts must
+adopt such an interpretation which glorifies the democratic spirit of the
+Constitution.” (emphasis supplied) Therefore, in adjudicating the present dispute, it
+becomes imperative to adopt an interpretation which upholds the spirit of the unique
+constitutional democratic mandate provided to the Government of NCTD by the
+inclusion of Article 239AA.
+(b) Legislative and executive power of NCTD
+18. Article 239AA(3)(a) stipulates that the Legislative Assembly of Delhi shall have the power to
+make laws for the whole or any part of NCTD with respect to matters in the State List and the
+Concurrent List “insofar as any such matter is PART C applicable to Union Territories” except for
+certain subjects expressly excluded. The provision expressly excludes entries 1, 2, and 18 of the State
+List, and entries 64, 65 and 66 of List II insofar as they relate to the entries 1, 2, and 18. Article
+239AA(3)(b) confers on Parliament the power “to make laws with respect to any matter” for a Union
+Territory or any part of it. Thus, while the Legislative Assembly of NCTD has legislative competence
+over entries in List II and List III except for the excluded entries of List II, Parliament has legislative
+competence over all matters in List II and List III in relation to NCTD, including the entries which
+have been kept out of the legislative domain of NCTD by virtue of Article 239AA(3)(a). This is where
+there is a departure from the legislative powers of Parliament with respect to States. While
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+11
+Parliament does not have legislative competence over entries in List II for States, it has the power to
+make laws on entries in List II for NCTD. This was the view taken in the 2018 Constitution Bench
+judgment. As the concurring opinion of Justice Chandrachud held:
+“316… Unlike State Legislative Assemblies which wield legislative power exclusively
+over the State List, under the provisions of Article 246(3), the legislative assembly for
+NCT does not possess exclusive legislative competence over State List subjects. By a
+constitutional fiction, as if it were, Parliament has legislative power over Concurrent
+as well as State List subjects in the Seventh Schedule. Sub Clause (c) of Clause 3 of
+Article 239AA contains a provision for repugnancy, similar to Article 254. A law
+enacted by the legislative assembly would be void to the extent of a repugnancy with a
+law enacted by Parliament unless it has received the assent of the President.
+Moreover, the assent of the President would not preclude Parliament from enacting legislation in
+future to override or modify the law enacted by the legislative assembly… ” PART C
+19. The 2018 Constitution Bench judgment held that the executive power of NCTD is co-extensive
+with its legislative power, that is, it shall extend to all matters with respect to which it has the power
+to legislate. Article 239AA(4) provides that the Council of Ministers shall aid and advise the
+Lieutenant Governor in the exercise of the functions of the latter in relation to matters with respect
+to which the Legislative Assembly has the power to make laws. Thus, the executive power of NCTD
+shall extend over entries in List II, except the excluded entries. After analysing the provision of
+Article 239AA(4), it was held in the opinion of the majority in the 2018 Constitution Bench
+judgment that the Union has executive power only over the three entries in List II over which NCTD
+does not have legislative competence, that is, entries 1,2, and 18 in List II. It was held:
+“222. A conjoint reading of Article 239-AA(3)(a) and Article 239-AA(4) reveals that
+the executive power of the Government of NCT of Delhi is coextensive with the
+legislative power of the Delhi Legislative Assembly which is envisaged in Article 239-
+AA(3) and which extends over all but three subjects in the State List and all subjects
+in the Concurrent List and, thus, Article 239-AA(4) confers executive power on the
+Council of Ministers over all those subjects for which the Delhi Legislative Assembly
+has legislative power.
+223. Article 239-AA(3)(a) reserves Parliament's legislative power on all matters in the State List and
+Concurrent List, but clause (4) nowhere reserves the executive powers of the Union with respect to
+such matters. On the contrary, clause (4) explicitly grants to the Government of Delhi executive
+powers in relation to matters for which the Legislative Assembly has power to legislate. The
+legislative power is conferred upon the Assembly to enact whereas the policy of the legislation has to
+be given effect to by the executive for which the Government of Delhi has to have coextensive
+executive powers… PART C
+224. Article 239-AA(4) confers executive powers on the Government of NCT of Delhi whereas the
+executive power of the Union stems from Article 73 and is coextensive with Parliament's legislative
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+12
+power. Further, the ideas of pragmatic federalism and collaborative federalism will fall to the
+ground if we are to say that the Union has overriding executive powers even in respect of matters for
+which the Delhi Legislative Assembly has legislative powers. Thus, it can be very well said that the
+executive power of the Union in respect of NCT of Delhi is confined to the three matters in the State
+List for which the legislative power of the Delhi Legislative Assembly has been excluded under
+Article 239-AA(3)(a). Such an interpretation would thwart any attempt on the part of the Union
+Government to seize all control and allow the concepts of pragmatic federalism and federal balance
+to prevail by giving NCT of Delhi some degree of required independence in its functioning subject to
+the limitations imposed by the Constitution… 284.16. As a natural corollary, the Union of India has
+exclusive executive power with respect to NCT of Delhi relating to the three matters in the State List
+in respect of which the power of the Delhi Legislative Assembly has been excluded. In respect of
+other matters, the executive power is to be exercised by the Government of NCT of Delhi. This,
+however, is subject to the proviso to Article 239-AA(4) of the Constitution. Such an interpretation
+would be in consonance with the concepts of pragmatic federalism and federal balance by giving the
+Government of NCT of Delhi some required degree of independence subject to the limitations
+imposed by the Constitution.”
+20. The judgment of the majority, however, clarified that if Parliament makes a law in relation to
+any subject in List II and List III, the executive power of GNCTD shall then be limited by the law
+enacted by Parliament. It was held:
+“284.15. A conjoint reading of clauses (3)(a) and (4) of Article 239-AA divulges that
+the executive power of the Government of NCTD is coextensive with the legislative
+power of the Delhi Legislative Assembly PART C and, accordingly, the executive
+power of the Council of Ministers of Delhi spans over all subjects in the Concurrent
+List and all, but three excluded subjects, in the State List. However, if Parliament
+makes law in respect of certain subjects falling in the State List or the Concurrent
+List, the executive action of the State must conform to the law made by Parliament.
+(sic)” (emphasis supplied)
+21. The above view was also taken by Justice Chandrachud in his concurring opinion:
+“316.... the provisions of Clause 2 and Clause 3 of Article 239AA indicate that while
+conferring a constitutional status upon the legislative assembly of NCT, the
+Constitution has circumscribed the ambit of its legislative Powers firstly, by carving
+out certain subjects from its competence (vesting them in Parliament) and secondly,
+by enabling Parliament to enact law on matters falling both in the State and
+Concurrent lists. Moreover, in the subjects which have been assigned to it, the
+legislative authority of the Assembly is not exclusive and is subject to laws which are
+enacted by Parliament.”
+22. The 2018 Constitution Bench judgment authoritatively held that the legislative and executive
+power of NCTD extends to all subjects in Lists II and III, except those explicitly excluded. However,
+in view of Article 239AA(3)(b), Parliament has the power to make laws with respect to all subjects in
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+13
+List II and III for NCTD.
+(c) “Insofar as any such matter is applicable to Union Territories”
+23. It has been argued by the Union of India that the phrase ‘in so far as any such matter is
+applicable to Union Territories’ in Article 239AA has not been PART C construed by the
+Constitution Bench, and that the phrase limits the legislative power of NCTD.
+24. However, reference has to be made to the concurring opinion of Justice Chandrachud in the
+2018 Constitution Bench judgment, which dealt with the above phrase. It was held:
+“Insofar as any such matter is applicable to Union Territories
+460. In the State List and the Concurrent List of the Seventh Schedule, there are
+numerous entries which use the expression “State”. These entries are illustratively
+catalogued below:
+[…]
+461. Article 239-AA(3)(a) permits the Legislative Assembly of the NCT to legislate on
+matters in the State List, except for Entries 1, 2 and 18 (and Entries 64, 65 and 66
+insofar as they relate to the earlier entries) and on the Concurrent List, “insofar as
+any such matter is applicable to Union Territories”. In forming an understanding of
+these words of Article 239-AA(3)(a), it has to be noticed that since the decision in
+Kanniyan right through to the nine-Judge Bench decision in NDMC, it has been held
+that the expression “State” in Article 246 does not include a Union Territory. The
+expression “insofar as any such matter is applicable to Union Territories” cannot be
+construed to mean that the Legislative Assembly of NCT would have no power to
+legislate on any subject in the State or Concurrent Lists, merely by the use of the
+expression “State” in that particular entry. This is not a correct reading of the above
+words of Article 239-AA(3)(a). As we see below, that is not how Parliament has
+construed them as well.
+462. Section 7(5) of the GNCTD Act provides that salaries of the Speaker and Deputy Speaker of the
+Legislative Assembly may be fixed by the Legislative Assembly by law. Section 19 provides that the
+Members of the Legislative Assembly shall PART C receive salaries and allowances as determined by
+the Legislative Assembly by law. Section 43(3) similarly provides that the salaries and allowances of
+Ministers shall be determined by the Legislative Assembly. However, Section 24 provides that a Bill
+for the purpose has to be reserved for the consideration of the President. Parliament would not have
+enacted the above provisions unless legislative competence resided in the States on the above
+subject. The subjects pertaining to the salaries and allowances of Members of the Legislature of the
+State (including the Speaker and Deputy Speaker) and of the Ministers for the State are governed by
+Entry 38 and Entry 40 of the State List. The GNCTD Act recognizes the legislative competence of the
+Legislative Assembly of NCT to enact legislation on these subjects. The use of the expression “State”
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+14
+in these entries does not divest the jurisdiction of the Legislative Assembly. Nor are the words of
+Article 239-AA(3)(a) exclusionary or disabling in nature.
+463. The purpose of the above narration is to indicate that the expression “State” is by itself not
+conclusive of whether a particular provision of the Constitution would apply to Union Territories.
+Similarly, it can also be stated that the definition of the expression State in Section 3(58) of the
+General Clauses Act (which includes a Union Territory) will not necessarily govern all references to
+“State” in the Constitution. If there is something which is repugnant in the subject or context, the
+inclusive definition in Section 3(58) will not apply. This is made clear in the precedent emanating
+from this Court. In certain contexts, it has been held that the expression “State” will not include
+Union Territories while in other contexts the definition in Section 3(58) has been applied. Hence,
+the expression “insofar as any such matter is applicable to Union Territories” is not one of exclusion
+nor can it be considered to be so irrespective of subject or context.” (emphasis supplied) It is evident
+that the concurring opinion held that the phrase “insofar as any such matter is applicable to Union
+Territories” is an inclusive term, and “not one of PART C exclusion”. Justice Chandrachud
+interpreted the term to mean that the Legislative Assembly of NCTD shall have the power to
+legislate on any subject in the State or Concurrent Lists, except the excluded subjects.
+25. In his concurring opinion in the 2018 Constitution Bench judgment, Justice Bhushan also
+interpreted the said phrase in the following terms:
+“551. The provision is very clear which empowers the Legislative Assembly to make
+laws with respect to any of the matters enumerated in the State List or in the
+Concurrent List except the excluded entries. One of the issue is that power to make
+laws in State List or in Concurrent List is hedged by phrase "in so far as any such
+matter is applicable to Union territories".
+552. A look of the Entries in List II and List III indicates that there is no mention of
+Union Territory. A perusal of the List II and III indicates that although in various
+entries there is specific mention of word "State" but there is no express reference of
+"Union Territory" in any of the entries. For example, in List II Entry 12, 26, 37, 38,
+39, 40, 41, 42 and 43, there is specific mention of word "State". Similarly, in List III
+Entry 3, 4 and 43 there is mention of word "State". The above phrase "in so far as any
+such matter is applicable to Union Territory" is inconsequential. The reasons are two
+fold. On the commencement of the Constitution, there was no concept of Union
+Territories and there were only Part A, B, C and D States. After Seventh
+Constitutional Amendment, where First Schedule as well as Article 2 of the
+Constitution were amended which included mention of Union Territory both in
+Article 1 as well as in First Schedule. Thus, the above phrase was used to facilitate the
+automatic conferment of powers to make laws for Delhi on all matters including
+those relatable to the State List and Concurrent List except where an entry indicates
+that its applicability to the Union Territory is excluded by implication or any express
+Constitutional provision.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+15
+PART C
+553. Thus, there is no difficulty in comprehending the Legislative power of the NCTD as expressly
+spelled out in Article 239AA…” (emphasis supplied)
+26. Justice Bhushan also agreed that the phrase “in so far as any such matter is applicable to Union
+territories” cannot be used to restrict the legislative power of the Legislative Assembly of Delhi. He
+held that the “phrase was used to facilitate the automatic conferment of powers to make laws for
+Delhi on all matters including those relatable to the State List and Concurrent List” except for
+excluded entries.
+27. The judgment of the majority did not make a direct observation on the interpretation of the said
+phrase. However, the reasoning indicates that the phrase was to be considered in a broader sense.
+As noted previously, the judgment of the majority held that the executive power of NCTD is
+coextensive with its legislative power on subjects except the excluded subjects under Article
+239AA(3)(a). This means that the executive power flows from the legislative power, that is, if NCTD
+has executive power on a subject in List II, it is because it has legislative power under the entries of
+that List. The judgment of the majority held that the Union shall have exclusive executive power
+with respect to NCTD only for “the three matters in the State List in respect of which the power of
+the Delhi Legislative Assembly has been excluded”. It was further held that in respect of “all other
+matters,” executive power is to be exercised by GNCTD. This would mean that NCTD has executive
+power on “all other matters”. This indicates that the judgment of the majority interpreted Article
+239AA(3)(a) and the phrase “in so far as any such matter is applicable to Union Territory” to give
+legislative power to NCTD on “all PART C other matters” except the three matters in the State List in
+respect of which the power of the Legislative Assembly of NCTD has been excluded.
+28. The above discussion implies that all the five Judges in the 2018 Constitution Bench judgment
+did not construe the phrase “in so far as any such matter is applicable to Union Territories” in
+Article 239AA to be exclusionary.
+29. However, in his opinion in the 2019 split verdict, Justice Bhushan was of the contrary view. He
+held that the majority opinion in the 2018 Constitution bench judgment did not interpret the phrase
+“insofar as any such matter is applicable to Union Territories”:
+“187. As noticed above, the Constitution Bench in para 39 extracted above has
+noticed the submissions of the counsel for the respondent that words “insofar as any
+such matter is applicable to Union Territories…” in Article 239-AA(3)(a) restrict the
+legislative power of the Legislative Assembly of Delhi to only those entries which are
+only applicable to Union Territories and not all. The elaborate discussion on its
+answer is not found in the majority opinion expressed by Justice Dipak Misra, C.J.
+(as he then was). The submission having been made before the Constitution Bench
+which submission was considered in other two opinions expressed by Dr Justice D.Y.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+16
+Chandrachud and myself, it is useful to notice as to what has been said in other two
+opinions in the Constitution Bench…
+191. Dr D.Y. Chandrachud, J., thus, held that the expression “State” is by itself not
+conclusive of whether a particular provision of the Constitution would apply to Union
+Territories. His Lordship opined that the expression “insofar as any such matter is
+applicable to Union Territories” is not one of exclusion nor can it be considered to be
+so irrespective of subject or context.
+192. I had also dealt with the above submission in paras 500, 551 and 552 in the
+following words:
+PART C […]
+193. In the above paragraphs, the opinion is expressed that all matters including those relatable to
+the State List and Concurrent List are available to the Legislative Assembly of Delhi except where an
+entry indicates that its applicability to the Union Territory is excluded by implication or by any
+express constitutional provision. The conclusion is, thus, that all entries of List II and List III are
+available to Legislative Assembly for exercising legislative power except when an entry is excluded
+by implication or by any express provision.
+194. The majority opinion delivered by Dipak Misra, C.J. (as he then was) having not dealt with the
+expression “insofar as any such matter is applicable to Union Territories”, it is, thus, clear that no
+opinion has been expressed in the majority opinion of the Constitution Bench…” (emphasis
+supplied)
+30. We are unable to agree with the view of Justice Bhushan in the 2019 split verdict. As indicated
+previously, the majority decision in the 2018 Constitution Bench judgement rendered a broad
+interpretation of Article 239AA(3)(a) to provide NCTD with vast executive and co-extensive
+legislative powers except in the excluded subjects. A combined reading of the majority opinion and
+the concurring opinions of Justice Chandrachud and Justice Bhushan indicates that the phrase “in
+so far as any such matter is applicable to Union Territories” does not restrict the legislative powers
+of NCTD.
+31. While the 2018 Constitution Bench judgment provides sufficient clarity on the interpretation of
+the phrase “in so far as any such matter is applicable to Union Territories”, we find it necessary to
+deal with the arguments made by the Union of India that the phrase must be read in a restrictive
+manner to limit the legislative PART C power of NCTD on certain subjects (in addition to already
+excluded subjects) in List II.
+D. The ‘class’ of Union territories
+32. The opinion of the majority in the 2018 Constitution Bench judgment acknowledged the special
+status of NCTD. A reference to the historical background which led to the conceptualization of
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+17
+Union Territories would be useful to assess the argument of the Union that there exists a class of
+Union territories. When the Indian Constitution was adopted, the States of the Indian Union were
+classified into Part A, Part B, and Part C States. Delhi was a Part C State and was governed by the
+Government of Part C States Act 1951. The Act provided for a Council of Ministers and a legislature
+of elected representatives for Delhi with the power of making laws with respect to any of the matters
+enumerated in the State List or the Concurrent List except for the subjects which were expressly
+excluded. The excluded subjects corresponded to those in Article 239AA along with the subject of
+‘Municipal Corporations.’ These powers were limited in nature and subject to the legislative power
+of Parliament.
+33. The Constitution (Seventh Amendment) Act 1956, 9 based broadly on the recommendations of
+the Fazl Ali Commission and designed to implement the provisions of the States Reorganization Act
+1956, inter alia did away with the erstwhile classification of States into Part A, Part B, and Part C
+States, and Part D territories. Instead, it introduced States and Union Territories. The newly created
+9 “1956 Constitution Amendment” PART D Union Territories were to be administered by the
+President acting through an Administrator in terms of Article 239 of the Constitution.
+34. However, it is important to note that the Fazl Ali Commission was alive to the special needs of
+Delhi and the importance of accounting for local needs and wishes of the residents of NCTD. It
+noted that:
+“593. […] Having taken all these factors into account, we are definitely of the view
+that municipal autonomy in the form of a corporation, which will provide greater
+local autonomy than is the case in some of the important federal capitals, is the right
+and in fact the only solution of the problem of Delhi State.”
+35. Soon thereafter, in 1962, Article 239A was inserted in the Constitution by the Constitution
+(Fourteenth Amendment) Act 1956. This envisaged the creation of local legislatures or a Council of
+Ministers or both for certain Union Territories. Thus, a significant change was introduced in the
+governance structure for Union Territories. Article 239A created a separate category of Union
+Territories since all Union Territories were no longer envisaged to be administered only by the
+President. The introduction of Article 239A was followed by the Government of Union Territories
+Act 1963. Currently, the Union Territory of Puducherry is administered in terms of the governance
+structure envisaged by this enactment.
+36. By the Constitution (Sixty-ninth Amendment) Act 1991 10, Article 239AA was inserted in the
+Constitution. It introduced a unique structure of governance for 10 “1991 Constitution Amendment”
+PART D NCTD vis-à-vis the Union Territories. The Statement of Objects and Reasons of provides as
+follows:
+“1. … After such detailed inquiry and examination, it recommended that Delhi should
+continue to be a Union Territory and provided with a Legislative Assembly and a
+Council of Ministers responsible to such Assembly with appropriate powers to deal
+with matters of concern to the common man. The Committee also recommended that
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+18
+with a view to ensure stability and permanence, the arrangements should be
+incorporated in the Constitution to give the National Capital a special status among
+the Union Territories.” (emphasis supplied)
+37. The 1991 Constitution Amendment brought a fresh dimension to the governance of Union
+Territories. By virtue of the provisions of Article 239AA, NCTD became the only Union Territory
+with a special status of having a constitutionally mandated legislature and Council of Ministers. This
+was a departure from the earlier model of governance for Union territories. Article 239AA, in
+contrast, constitutionally mandates a legislature and prescribes the scope of legislative and executive
+power for NCTD.
+38. Article 239AA creates a wide variation in structures of governance of NCTD as compared to
+other Union Territories, with differences even as regards the manner in which legislative powers
+have been bestowed upon them. For instance, Article 239A provides that Parliament “may” create a
+legislature for Puducherry. On the other hand, for NCTD, the Constitution itself (in terms of Article
+239AA) has created a Legislative Assembly and a Council of Ministers. The constitutionally coded
+status of NCTD results in a creation of a significant degree of variance in the governance structure
+when compared to other States and Union territories. PART D
+39. The concurring opinion of Justice Chandrachud in the 2018 Constitution Bench judgment
+expressly discussed this aspect and held that no single homogeneous class of Union Territories exits.
+Instead, Union Territories fall in various categories:
+“453. The judgment of the majority [New Delhi Municipal Council v State of Punjab]
+also holds that all Union Territories are not situated alike. The first category consists
+of Union Territories which have no legislature at all. The second category has
+legislatures created by a law enacted by Parliament under the Government of Union
+Territories Act, 1963. The third category is Delhi which has “special features” under
+Article 239- AA. Though the Union Territory of Delhi “is in a class by itself”, it “is
+certainly not a State within the meaning of Article 246 or Part VI of the Constitution”.
+Various Union Territories — the Court observed — are in different stages of
+evolution… 475.1. The introduction of Article 239-AA into the Constitution was the
+result of the exercise of the constituent power. The Sixty-ninth Amendment to the
+Constitution has important consequences for the special status of Delhi as the
+National Capital Territory, albeit under the rubric of a Union Territory governed by
+Part VIII of the Constitution.” (emphasis supplied)
+40. This variance in the constitutional treatment of Union Territories as well as the absence of a
+homogeneous class is not unique only to Union Territories. The Constitution is replete with
+instances of special arrangements being made to accommodate the specific regional needs of States
+in specific areas. Therefore, NCTD is not the first territory which has received a special treatment
+through a constitutional provision, but it is another example - in line with the practice of the
+Constitution - envisaging arrangements which treat federal units differently from PART D each
+other to account for their specific circumstances. For instance, Article 371 of the Constitution
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+19
+contains special provisions for certain areas in various States as well as for the entirety of some
+States. The marginal notes to various articles composed under the rubric of Article 371 provide an
+overview of a number of States for which arrangements in the nature of asymmetric federalism are
+made in the spirit of accommodating the differences and the specific requirements of regions across
+the nation:
+“371. Special provision with respect to the States of [* * *] Maharashtra and Gujarat
+371-A. Special provision with respect to the State of Nagaland 371-B. Special
+provision with respect to the State of Assam 371-C. Special provision with respect to
+the State of Manipur 371-D. Special provisions with respect to the State of Andhra
+Pradesh or the State of Telangana] 371-E. Establishment of Central University in
+Andhra Pradesh 371-F. Special provisions with respect to the State of Sikkim 371-G.
+Special provision with respect to the State of Mizoram 371-H. Special provision with
+respect to the State of Arunachal Pradesh 371-I. Special provision with respect to the
+State of Goa 371-J. Special provisions with respect to State of Karnataka”
+41. The design of our Constitution is such that it accommodates the interests of different regions.
+While providing a larger constitutional umbrella to different states and Union territories, it
+preserves the local aspirations of different regions. “Unity in diversity” is not only used in common
+parlance, but is also embedded in our constitutional structure. Our interpretation of the
+Constitution must give substantive weight to the underlying principles.
+PART D
+42. Therefore, we are unable to agree with the argument of the Solicitor General that the legislative
+power of NCTD does not extend to those subjects which are not available to Union Territories as a
+class because Article 239AA employs the term “any such matter is applicable to Union Territories”.
+The analysis in this section clarifies that there is no homogeneous class of Union territories with
+similar governance structures.
+E. Maintaining the balance between local interests and national interests
+43. The Union of India has submitted that the phrase “in so far as any such matter is applicable to
+Union Territories” in Article 239AA cannot be interpreted inclusively as the Union has a
+preponderance of interest in the governance of the national capital and therefore the phrase must be
+read in a narrow manner. It has submitted that as Delhi is the seat of the Union Government,
+national interests take precedence over and beyond the quibbles of local interests. We find that this
+argument does not hold merit in light of the text of Article 239AA(3). This argument was already
+addressed in the 2018 Constitution Bench judgment.
+44. Article 239AA(3)(a) confers legislative power to NCTD. However, it does not confer legislative
+power to NCTD over all entries in List II. Article 239AA(3) provides multiple safeguards to ensure
+that the interest of the Union is preserved. First, sub-clause (a) of clause (3) removes three entries in
+List II from the legislative domain of NCTD. It provides that NCTD shall not have the power to enact
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+20
+laws on “matters with respect to entries 1, 2 and 18 of the State List and entries 64, 65 and 66 of that
+List in so far as they relate to the said entries 1, 2 and 18”. Second, sub- clause (b) of clause (3)
+clarifies that Parliament has the power to legislate on “any PART E matter” for a Union Territory
+(including on subjects with respect to which NCTD has legislative power under Article
+239AA(3)(a)). In other words, Parliament has the plenary power to legislate on a subject in any of
+the three Lists of the Seventh Schedule for NCTD. Third, Article 239AA(3)(c) provides that where
+there is a repugnancy between a law enacted by the Legislative Assembly of NCTD and a law enacted
+by Parliament, the latter will prevail, and the law enacted by the legislative assembly shall, “to the
+extent of the repugnancy, be void”. Unlike Article 254, which provides for the overriding power of
+Parliament only on subjects in the Concurrent List, Parliament has overriding power in relation to
+the NCTD over subjects in both List II and List III. Fourth, the second proviso to Article 239AA(c)
+provides that Parliament may enact “at any time any law with respect to the same matter including a
+law adding to, amending, varying or repealing the law so made by the Legislative Assembly” of
+NCTD. Fifth, under Article 239AA(7)(a), Parliament may by law make provisions for giving effect to,
+or supplementing the provisions in the forgoing clauses of Article 239AA and for “all matters
+incidental or consequential thereto”. Article 239AA(7)(b) stipulates that such law shall not be
+deemed to be an amendment of the Constitution for the purposes of Article 368, which deals with
+the power and procedure to amend the Constitution. Thus, Article 239AA(3) balances between the
+interest of NCTD and the Union of India.
+45. This constitutional balance has been analyzed in the concurring opinion of Justice Chandrachud
+in the 2018 Constitution Bench judgment in the following terms:
+“ While bearing [...] fundamental constitutional principles of a democracy in mind, a
+balance has to be struck with the second of the above elements which recognises the
+special status of the NCT. The PART E NCT represents the aspirations of the
+residents of its territory. But it embodies, in its character as a capital city the political
+symbolism underlying national governance. The circumstances pertaining to the
+governance of the NCT may have a direct and immediate impact upon the collective
+welfare of the nation. This is the rationale for the exclusion of the subjects of public
+order, police and land from the legislative power and necessarily from the executive
+power of the NCT. These considerations would necessarily require a careful balance
+between the two principles.”
+46. Thus, it is evident that the Legislative Assembly of NCTD does not exercise exclusive legislative
+powers over all the entries in the State List. It is only in a demarcated constitutional sphere that it is
+able to exercise its legislative power. Parliament, by virtue of the 1991 Constitution Amedndment,
+has already reserved certain subjects of national importance to itself. Furthermore, Parliament has
+overriding legislative powers in relation to NCTD in terms of sub-clauses (b) and
+(c) of Article 239AA(3) and Article 239AA(7). The intent and purpose of Article 239AA(3(b) and
+Article 239AA(7) is to confer an expanded legislative competence upon Parliament, when it comes to
+GNCTD clearly since it is the capital of the country and therefore, must be dealt with different
+considerations. In this manner, Parliament acting in its constituent power while introducing Article
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+21
+239AA has provided sufficient safeguards and was cognizant of the necessity to protect concerns
+related to national interests. The Constitution confers powers to Parliament to such an extent that it
+would have the effect of amending the Constitution. As discussed, the legislative powers of NCTD
+are limited. If we interpret the phrase “in so far as any such matter is applicable to Union
+Territories” is interpreted in a manner to exclude a greater number of entries than what is already
+excluded by Article 239A(3), it will defeat the very purpose of granting a “special status” to NCTD.
+PART F F. Inclusive interpretation of “insofar as any such matter is applicable to Union territories”
+47. The Union of India submitted that the phrase “insofar as any such matter is applicable to Union
+territories” is specifically a term of exclusion and not a term of inclusion. It argued that the phrase
+was introduced to limit the legislative and executive power over entries in List II over and beyond
+the entries which have been expressly excluded by Article 239AA. We shall now refer to other
+provisions of the Constitution to analyse the above arguments.
+48. The power of Parliament and legislatures of States to legislate upon entries in the Union List,
+State List and Concurrent List flows from Article 246 of the Constitution. Article 246(3) confers
+exclusive power to the legislatures of States to make laws for that State with respect to the matters
+enumerated in the State List. Article 246(4) provides that Parliament has the power to make laws
+with respect to any matter for any part of the territory of India not included in a State
+notwithstanding that such matter is a matter enumerated in the State List.
+49. Article 366 provides meanings of various expressions used in the Constitution, unless the
+context otherwise requires. The provision stipulates that unless the context otherwise requires, the
+expressions defined in an Article shall have the meanings respectively assigned to them in the
+provision. Article 366(26B) provides that ‘State’ with reference to Articles 246A, 268, 269, 269A and
+279A includes a Union Territory with a legislature. Articles 366(26B), incorporated in the
+Constitution by the Constitution (One Hundred and First Amendment) Act 2016, provides the
+meaning of ‘State’ only with reference to five other Articles in the PART F Constitution, to enable the
+proper functioning of the goods and services tax regime. However, a universal definition of ‘State’
+has not been provided under Article 366.
+50. Article 367(1) provides that unless the context otherwise requires, the General Clauses Act 1897
+11, subject to any adaptations and modifications that may be made therein by any Presidential Order
+made under Article 372 to bring it in conformity with the provisions of the Constitution, is to apply
+for the interpretation of the Constitution:
+“367(1): Unless the context otherwise requires, the General Clauses Act, 1897, shall,
+subject to any adaptations and modifications that may be made therein under Article
+372, apply for the interpretation of this Constitution as it applies for the
+interpretation of an Act of the Legislature of the Dominion of India.”
+51. Article 372(2) stipulates that the President may by order make modifications and adaptations to
+the provisions of any law in force in the territory of India to bring it in accordance with the
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+22
+provisions of the Constitution. This power under Article 372(3) was only granted to the President for
+three years and thus, it expired on 25 January 1953.
+52. The 1956 Constitution Amendment was introduced to make necessary amendments to the
+provisions of the Constitution to give effect to the reorganisation of States. Article 372A which was
+introduced pursuant to the 1956 Constitution Amendment confers on the President the power to
+make modifications and adaptations in provisions of law, in force in India immediately before the
+amendment, to bring it in consonance with the provisions of the Constitution. 11 “General Clauses
+Act” PART F
+53. The President amended Section 3(58) of the General Clauses Act by the Adaptation of Laws (No.
+1) Order, 1956. Subsequent to the amendment in 1956. Section 3(58) stipulates that the phrase
+‘State’ with respect to any period before the commencement of the 1956 Constitution Amendment
+shall mean a Part A State, a Part B State, or a Part C State, and with respect to the period after the
+amendment shall include a State specified in the First Schedule to the Constitution and shall include
+a Union Territory:
+“(58) “State”— (a) as respects any period before the commencement of the
+Constitution (Seventh Amendment) Act, 1956, shall mean a Part A State, a Part B
+State or a Part C State; and (b) as respects any period after such commencement,
+shall mean a State specified in the First Schedule to the Constitution and shall
+include a Union territory;]”
+54. In Advance Insurance Corporation Limited v. Gurudasmal, 12 the question before a Constitution
+Bench of this Court was whether the word ‘State’ in Entry 80 of List I could be read to include Union
+territories. Entry 80 read as follows:
+“80. Extension of the powers and jurisdiction of members of a police force belonging
+to any State to any area outside that State, but not so as to enable the police of one
+State to exercise powers and jurisdiction in any area outside that State without the
+consent of the Government of the State in which such area is situated; extension of
+the powers and jurisdiction of members of a police force belonging to any State to
+railway areas outside that State.”
+55. Justice Hidayatullah writing for the Constitution Bench rejected the argument that the amended
+definition of ‘State’ under General Clauses Act will not 12 (1970) 1 SCC 633 PART F apply to the
+interpretation of provisions of the Constitution. He observed that Article 372A provides the
+President with a fresh power of adaptation and this power is equal and analogous to the power that
+the President held under Article 372(2). This Court held that unless the context otherwise requires,
+the definition provided under the General Clauses Act and as modified by the order under Article
+372A shall be applied.
+56. However, a separate Constitution Bench of this Court in Shiv Kirpal Singh v. VV Giri, 13 held
+that definitions under the General Clauses Act as modified by the President under the adaptation
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+23
+order by virtue of the power conferred under Article 372A do not apply to the interpretation of the
+Constitution. In this case, the issue was whether the phrase “elected members of the Legislative
+Assemblies of the States” in Article 54 (which constitutes the electoral college for the election of the
+President) would include the elected members of the Legislative Assemblies of Union territories.
+This Court answered in the negative. This Court held that the modifications under Article 372A was
+limited only to the interpretation of laws of Parliament and would not apply to the interpretation of
+the Constitution because Article 367 stipulates that the General Clauses Act shall apply to the
+interpretation of the Constitution, subject to such adaptations made under Article 372. The
+provision does not provide that the interpretation must also be subject to the adaptation made
+under Article 372A. Parliament responded to the anomaly created by the judgment in Shiv Kirpal
+Singh (supra), and inserted an Explanation to Article 54 by the Constitution (Seventeenth
+Amendment) Act 1992. The Explanation clarifies that the reference to ‘State’ in Articles 54 and 55
+would include 13 AIR 1970 SC 2097 PART F the National Capital Territory of Delhi and the Union
+Territory of Pondicherry for constituting the electoral college for the election of the President. In
+Shiv Kirpal Singh (supra), this Court did not refer to the decision in Advance Insurance (supra).
+Thus, the decision in Shiv Kirpal Singh is per incuriam to the extent of interpretation of Article
+372A.
+57. The provisions of the General Clauses Act as modified by the President in exercise of the power
+under Article 372A shall apply to the interpretation of the Constitution. It cannot be held otherwise
+merely because Article 367 does not refer to Article 372A. To interpret Article 367 in such a manner
+would render Article 372A and the amendments in the Constitution by the 1956 Constitution
+Amendment otiose. The power to make adaptations and modifications was granted to the President
+by Article 372A to bring the provisions of law in accordance with the Constitution, as amended by
+the 1956 Constitution amendment. If Article 367 is interpreted as excluding modifications under
+Article 372A, there would be an apparent inconsistency between the interpretation of the
+Constitution and the interpretation of statutes. While in the case of the former, the definition of
+State prior to the 1956 amendment would apply, in the case of the latter, the definition as amended
+by the 1956 amendment would apply. Thus, a literal interpretation of Article 367 would render the
+Constitution unworkable and would not give effect to the 1956 Constitution Amendment. This Court
+must render a purposive interpretation of Article 367. Article 367 must be read to mean that the
+General Clauses Act, as amended by adaptation and modification orders under Article 372 and
+Article 372A shall apply to the interpretation of the Constitution, unless the context requires. Thus,
+unless the context otherwise requires, the term “State” in PART F the Constitution must be read to
+include Union territories. Accordingly, we agree with the interpretation of Article 367 rendered by
+this Court in Advance Insurance (supra).
+58. The findings in Advance Insurance (supra) were later reiterated by this Court in Prem Kumar
+Jain (supra). In Prem Kumar Jain (supra), a four-Judge Bench of this Court held that Article 372A is
+a special provision introduced to make the 1956 Constitution amendment workable:
+“7. [...] The definition of the expression “State” as it stood before November 1, 1956,
+became unsuitable and misleading on the coming into force of the Constitution
+(Seventh Amendment) Act, 1956, from November 1, 1956, and it will, for obvious
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+24
+reasons, be futile to contend that it should have continued to be applicable for all
+time to come and remained “the final definition of ‘State’” merely because the period
+of three years provided by clause (3)(a) of Article 372 of the Constitution expired and
+was not extended by an amendment of that clause, or because Article 367(1) was not
+amended by the Seventh Amendment Act “to say that adaptations made in the
+General clauses Act otherwise than those made under Article 372(2) would be
+applicable to the interpretation of the Constitution”. [...] It was a special provision,
+and it was meant to serve the purpose of making the Seventh Amendment Act
+workable. As has been held by this Court in Management of Advance Insurance Co.
+Ltd. v. Shri Gurudasmal [(1970) 1 SCC 633 : (1970) 3 SCR 881] , Article 372-A gave a
+fresh power to the President which was equal and analogous to the power under
+Article 372(2).”
+59. We shall now deal with the decisions of this Court which have held that the expression ‘State’ in
+Article 246 does not include a Union Territory. In T.M. Kanniyan v. CIT 14,, a Constitution Bench of
+this Court discussed the applicability 14 (1968) 2 SCR 103 PART F of Section 3(58) of the General
+Clauses Act 1897 to Article 246, and held that the inclusive definition of ‘State’ under the General
+Clauses Act would not apply to Article 246. Such an interpretation, it was held, would be repugnant
+to the subject and context of Article 246:
+“4. Parliament has plenary power to legislate for the Union territories with regard to
+any subject. With regard to Union territories there is no distribution of legislative
+power. Article 246(4) enacts that “Parliament has power to make laws with respect to
+any matter for any part of the territory of India not included in a State
+notwithstanding that such matter is a matter enumerated in the state list.” R.K. Sen
+v. Union it was pointed out that having regard to Article 367, the definition of “State”
+in Section 3(58) of the General clauses Act, 1897 applies for the interpretation of the
+Constitution unless there is anything repugnant in the subject or context. Under that
+definition, the expression “State” as respects any period after the commencement of
+the Constitution (Seventh Amendment) Act, 1956 “shall mean a State specified in the
+First Schedule to the Constitution and shall include a Union territory”. But this
+inclusive definition is repugnant to the subject and context of Article
+246. There, the expression “States” means the State specified in the First Schedule.
+There is a distribution of legislative power between Parliament and the legislatures of
+the States. Exclusive power to legislate with respect to the matters enumerated in the
+State List is assigned to the legislatures of the States established by Part VI. There is
+no distribution of legislative power with respect to Union territories. That is why
+Parliament is given power by Article 246(4) to legislate even with respect to matters
+enumerated in the State List.
+If the inclusive definition of “State” in Section 3(58) of the General Clauses Act were to apply to
+Article 246(4), Parliament would have no power to legislate for the Union territories with respect to
+matters enumerated in the State List and until a legislature empowered to legislate on those matters
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+25
+is created under Article 239-A for the Union territories, there would be no legislature competent to
+legislate on those matters; moreover, for certain territories such as PART F the Andaman and
+Nicobar Islands no legislature can be created under Article 239-A, and for such territories there can
+be no authority competent to legislate with respect to matters, enumerated in the State List. Such a
+construction is repugnant to the subject and context of Article 246.” (emphasis supplied)
+60. The position that Section 3(58) of the General Clauses Act is inapplicable to Article 246 was
+reiterated by a nine Judge Bench of this Court in NDMC v. State of Punjab 15. The Seventh Schedule
+was inserted under Article 246. In view of the position laid down in Kanniyan (supra) and NDMC
+(supra), the word “State” used in entries in the Seventh Schedule would also not include Union
+Territories. Thus, the legislative competence of NCTD would not extend to entries which mention
+‘State’. The usage of the phrase “insofar as such matter is applicable to Union Territories” was
+included to avert such a consequence. The phrase has extended the legislative power of NCTD to all
+the entries in List II, which use the word “State”.
+61. Any amendment to the State List as well as the Concurrent List, being an amendment to the
+Seventh Schedule must be in accordance with Article 368 of the Constitution. The proviso to Article
+368(2) of the Constitution stipulates that an amendment to the Seventh Schedule would need a
+special majority of two-thirds of the members of each House of Parliament present and voting. The
+amendment would also need to be ratified by the legislatures of not less than one-half of the States.
+If the phrase “insofar as such matter is applicable to Union Territories” was not included in Article
+239AA, Parliament and the Legislature of States would have 15 1997 (7) SCC 339 PART F been
+required to amend all entries in the Seventh Schedule where the term “State” is used to “State and
+Union territories”. This would have required a special majority. It was to avoid this time consuming
+process that the expansive phrase of “insofar as such matter is applicable to Union Territories” was
+used in Article 239AA.
+62. Article 239AA expressly excludes entries 1,2, and 18 of List II from the ambit of the legislative
+competence of the Legislative Assembly of NCTD. Article 239AA also stipulates that the legislative
+power of NCTD is excluded with respect to entries 64,65, and 66 of List II insofar as they relate to
+entries 1,2, and 18. Entry 1 deals with public order, Entry 2 deals with police, and Entry 18 deals
+with Land. Entry 64 deals with “offences against laws with respect to any of the matters in this List”,
+Entry 65 states “jurisdiction and powers of all courts, except the Supreme Court, with respect to any
+of the matters in this List”, and Entry 66 states “fees in respect of any of the matters in this List, but
+not including fees taken in any court”. The exclusion of entries 64,65, and 66 to the extent that it
+relates to entries 1,2, and 18 from the legislative competence of NCTD indicates that the governance
+structure envisaged in Article 239AA for NCTD was only to exclude the specific entries 1, 2, and 18
+from its legislative competence. To read the phrase “insofar as such matter is applicable to the
+Union Territories” as introducing an implied exclusion of the legislative powers of NCTD with
+respect to certain other entries would be contrary to the plain meaning of the provision.
+63. Article 239AA establishes a Legislative Assembly for NCTD. The seats in the Assembly are filled
+by a direct election from the constituencies of NCTD. The Legislative Assembly of NCTD embodies
+the constitutional principle of PART F representative democracy similar to the Legislative Assembly
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+26
+of the State. The members of the Legislative Assembly of NCTD are selected by the electorate of
+Delhi to represent their interests. Article 239AA must be interpreted to further the principle of
+representative democracy.16 To interpret the phrase “insofar as any such matter is applicable to
+Union territories” in a restrictive manner would limit the legislative power of the elected members
+of the assembly. The members of the Legislative Assembly have been chosen by the electorate to act
+in their stead. Thus, the legislative competence of NCTD must be interpreted to give full impetus to
+the will of the electorate.
+64. We find that the phrase ‘insofar as any such matter is applicable to Union Territories’ in Article
+239AA(3) cannot be read to further exclude the legislative power of NCTD over entries in the State
+List or Concurrent List, over and above those subjects which have been expressly excluded by the
+provision.
+G. “Subject to the provisions”: A limitation?
+65. It has been emphasized by the Union of India that Article 239AA not only restricts the powers of
+the Legislative Assembly of NCTD through the phrase “insofar as any such matter is applicable to
+Union Territories” but also through the restrictive phrase of “Subject to the provisions of this
+Constitution”.
+66. The phrase “Subject to the provisions of this Constitution” is not unique to Article 239AA. It has
+been used in twenty-two provisions of the Constitution. Notably, the phrase has also been used in
+the provisions dealing with the 16 See Justice Chandrachud’s opinion in the 2018 Constitution
+Bench PART G legislative power of Parliament and the State Assemblies (Article 245) 17 as well as in
+the provisions dealing with the executive power of the Union (Article 73(2)) 18 and of the States
+(Article 162(3))19. The phrase is used to indicate that the legislative power and competence
+exercised by a legislature must be within the limits circumscribed by the Constitution. Those
+boundaries may differ on a case to case basis. For instance, a law made by a legislature cannot
+violate the fundamental rights of citizens. Another instance is that Parliament can only enact laws
+on subjects within its legislative competence. Furthermore, any law made by Parliament or a State
+Legislature shall be subject to the power of judicial review under Article 32 or Article 226. A
+Constitution Bench of this Court in the case of Rajendra Diwan v. Pradeep Kumar Ranibala 20 held:
+“Parliament and the State Legislatures derive their power to make laws from Article
+245(1) of the Constitution of India and such power is subject to and/or limited by the
+provisions of the Constitution. While Parliament can make law for the whole or any
+part of the territory of India, the State Legislature can only make laws for the State or
+any part thereof, subject to the restrictions in the Constitution of India… While
+Parliament has exclusive power Under Article 246(1) of the Constitution to make
+laws with respect to the matters enumerated in the Union List, the State Legislature
+has exclusive power to make laws with respect to matters enumerated in the State
+List, subject to Clauses (1) and (2) of Article 246. Along with the Union Legislature,
+the State Legislature is also competent to enact laws in respect of the 17 245. Extent
+of laws made by Parliament and by the Legislatures of States - (1) Subject to the
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+27
+provisions of this Constitution, Parliament may make laws for the whole or any part
+of the territory of India, and the Legislature of a State may make laws for the whole or
+any part of the State. […] 18 73. Extent of executive power of the Union - (1) Subject
+to the provisions of this Constitution, the executive power of the Union shall extend –
+[…].
+19 162. Extent of executive power of State - Subject to the provisions of this Constitution, the
+executive power of a State shall extend to the matters with respect to which the Legislature of the
+State has power to make laws: […] 20 [2019] 17 SCR 1089 PART G matters enumerated in the
+Concurrent List, subject to the provisions of Article 246(1)… While the widest amplitude should be
+given to the language used in one entry, every attempt has to be made to harmonize its contents with
+those of other Entries, so that the latter may not be rendered nugatory.” (emphasis supplied) The
+judgment indicates that the law-making power of even Parliament and State legislatures under
+Article 245(1) is not absolute. It has to be within the confines of the Constitution. DD Basu, in the
+Commentary on the Constitution of India discusses the constitutional limitations upon legislative
+power: 21 “As the opening words of Art. 245(1) say, the legislative powers of both the Union and
+State Legislatures are subject to the other provisions of the Constitution, even though their powers
+are plenary within the spheres assigned to them respectively by the Constitution… Whether a law
+has transgressed any of these limitations is to be ascertained by the Court and if it is found so to
+transgress, the Court will declare the law to be void.
+These limitations fall under various categories:
+I. The first and foremost is the question of vires or legislative competence… II. Apart from want of
+legislative competence, a law may be invalid because of contravention of some positive limitation
+imposed by the Constitution. In such cases, even though the Legislature had the competence to
+make a law with respect to the subject-matter of the impugned law, it became invalid because of
+contravention of some specific prohibition or limitation imposed by the Constitution.
+Such limitations fall under two heads-
+(i) The Fundamental Rights contained in Part III. The effects of the contravention of
+a Fundamental Right have been fully discussed under Art. 13.
+21 Dr DD Basu, Commentary on the Constitution of India, 8th Edn., 2012, Vol. 8, pp. 8749-8753
+PART G […]
+(ii) Not merely the provisions included in Part III, but any other provision contained in the
+Constitution (even though it does not confer any fundamental right) constitutes a limitation upon
+legislative power on two conditions:
+(a) That the provision in question is justiciable, that is to say, intended to be and
+capable of being judicially enforced.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+28
+(b) That the provision is mandatory, e.g., Arts. 255: 286, 301, 303-4.
+III. In the case of State legislation, there are further limitations, viz., that (a) its operation cannot
+extend beyond the boundaries of the State, in the absence of a territorial nexus; Another limitation
+on the legislative power or a ground of unconstitutionality is that the Legislature concerned has
+abdicated its essential legislative function as assigned to it by the Constitution and has made an
+excessive delegation of that power to some other body. (b) it must be for the purposes of the State.”
+The same meaning as referred above has to be applied to the usage of the phrase “Subject to the
+provisions of this Constitution” in Article 239AA.
+67. We therefore hold that the legislative power of NCTD under Article 239AA(3) is to be guided by
+the broader principles and provisions of the Constitution. The said phrase in Article 239AA(3) must
+be interpreted to give effect to the underlying principles in the Constitution. It is in this backdrop
+that we shall consider the next submission made by the Union.
+H. The Constitution is not Unitary
+68. The Union of India has argued that the Indian Constitution is often referred to as a federal
+Constitution with a strong unitary bias, and as far as Union Territories are concerned, the
+Constitution is unitary in form and in spirit. It is submitted that the generic concept of federalism,
+as applicable to States cannot PART H apply to Union Territories. Thus, it is argued that the phrases
+“Subject to the provisions of this Constitution” and “in so far as any such matter is applicable to
+Union territories” are to be interpreted accordingly.
+69. To analyse the above argument, it is imperative to understand the concept of federalism as the
+members of the Constituent Assembly envisioned. Dr. B.R. Ambedkar in one of his seminal speeches
+before the Constituent Assembly explained the dual polity federal model established under the
+Constitution 22:
+“Dual Polity under the proposed Constitution will consist of the Union at the Centre
+and the States at the periphery each endowed with sovereign powers to be exercised
+in the field assigned to them respectively by the Constitution… the Indian
+Constitution proposed in the Draft Constitution is not a league of States nor are the
+States administrative units or agencies of the Union Government.” (emphasis
+supplied)
+70. Further, when Dr. Ambedkar was questioned in the Constituent Assembly on the centralizing
+tendency of the Constitution, he responded by saying that: 23 “The States, under our Constitution,
+are in no way dependent upon the Centre for their legislative or executive authority. The Centre and
+the States are co-equal in this matter... It may be that the Constitution assigns to the Centre too
+large a field for the operation of its legislative and executive authority than is to be found in any
+other Federal Constitution. It may be that the residuary powers are given to the Centre and not to
+the States. But these features do not form the essence of federalism. The chief mark of federalism, as
+I said lies in the partition of the legislative and executive authority between the Centre and the 22
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+29
+Constituent Assembly Debates, Vol. 7 at p. 33 (4 November 1948) 23 Constituent Assembly Debates,
+Vol. 11 at p. 976 (25 November 1949) PART H Units by the Constitution. This is the principle
+embodied in our Constitution.” (emphasis supplied)
+71. It emerges from the speeches of Dr Ambedkar in the Constituent Assembly that India adopted a
+federal model, in which the Union and the States were meant to operate within their assigned
+legislative domains. The States are not subservient to the Union. The legislative domain of the States
+was exclusive, and cannot be interfered with by the Union. This principle has been reiterated in
+judgments of this Court.
+72. Justice B.P. Jeevan Reddy, in his separate opinion, in S R Bommai v. Union of India 24, where
+federalism was held to be part of the basic structure, held that, the States were independent and
+supreme in the sphere allotted to them, even if the Constitution has a centraizing drift:
+“276. The fact that under the scheme of our Constitution, greater power is conferred
+upon the Centre vis-à-vis the States does not mean that States are mere appendages
+of the Centre. Within the sphere allotted to them, States are supreme. The Centre
+cannot tamper with their powers. More particularly, the courts should not adopt an
+approach, an interpretation, which has the effect of or tends to have the effect of
+whittling down the powers reserved to the States.”
+73. In terms of the above discussion in the Constituent Assembly and the judgment of this Court, it
+is clear that the Constitution provides States with power to function independently within the area
+transcribed by the Constitution. The 24 (1994) 3 SCC 1 PART H States are a regional entity within
+the federal model. The States in exercise of their legislative power satisfy the demands of their
+constituents and the regional aspirations of the people residing in that particular State. In that
+sense, the principles of federalism and democracy are interlinked and work together in synergy to
+secure to all citizens justice, liberty, equality and dignity and to promote fraternity among them. The
+people’s choice of government is linked with the capability of that government to make decisions for
+their welfare.
+74. The principles of democracy and federalism are essential features of our Constitution and form a
+part of the basic structure. 25 Federalism in a multi-cultural, multi-religious, multi-ethnic and
+multi-linguistic country like India ensures the representation of diverse interests. It is a means to
+reconcile the desire of commonality along with the desire for autonomy and accommodate diverse
+needs in a pluralistic society. Recognizing regional aspirations strengthens the unity of the country
+and embodies the spirit of democracy. Thus, in any federal Constitution, at a minimum, there is a
+dual polity, that is, two sets of government operate: one at the level of the national government and
+the second at the level of the regional federal units. These dual sets of government, elected by “We
+the People” in two separate electoral processes, is a dual manifestation of the public will. The
+priorities of these two sets of governments which manifest in a federal system are not just bound to
+be different, but are intended to be different.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+30
+75. While NCTD is not a full-fledged state, its Legislative Assembly is constitutionally entrusted with
+the power to legislate upon the subjects in the State 25 SR Bommai v. Union of India, (1994) 3 SCC 1
+PART H List and Concurrent List. It is not a State under the First Schedule to the Constitution, yet it
+is conferred with power to legislate upon subjects in Lists II and III to give effect to the aspirations
+of the people of NCTD. It has a democratically elected government which is accountable to the
+people of NCTD. Under the constitutional scheme envisaged in Article 239AA(3), NCTD was given
+legislative power which though limited, in many aspects is similar to States. In that sense, with
+addition of Article 239AA, the Constitution created a federal model with the Union of India at the
+centre, and the NCTD at the regional level. This is the asymmetric federal model adopted for NCTD.
+While NCTD remains a Union Territory, the unique constitutional status conferred upon it makes it
+a federal entity for the purpose of understanding the relationship between the Union and NCTD.
+The majority in the 2018 Constitution Bench judgment held that while NCTD could not be accorded
+the status of a State, the concept of federalism would still be applicable to NCTD:
+“122. We have dealt with the conceptual essentiality of federal cooperation as that has
+an affirmative role on the sustenance of constitutional philosophy. We may further
+add that though the authorities referred to hereinabove pertain to the Union of India
+and the State Governments in the constitutional sense of the term “State”, yet the
+concept has applicability to the NCT of Delhi regard being had to its special status
+and language employed in Article 239AA and other articles.” (emphasis added)
+76. Our model of federalism expects a sense of cooperation between the Union at the centre, and the
+regional constitutionally recognised democratic units. The spirit of cooperative federalism requires
+the two sets of democratic governments to iron out their differences that arise in the practice of
+governance and collaborate PART H with each other. The Union and NCTD need to cooperate in a
+similar manner to the Union and the States. Our interpretation of the Constitution must enhance
+the spirit of federalism and democracy together. This approach of interpretation is located in the
+2018 Constitution Bench judgment, wherein the opinion of the majority held as follows:
+“284.7. Our Constitution contemplates a meaningful orchestration of federalism and
+democracy to put in place an egalitarian social order, a classical unity in a
+contemporaneous diversity and a pluralistic milieu in eventual cohesiveness without
+losing identity. Sincere attempts should be made to give full- fledged effect to both
+these concepts”
+77. In the spirit of cooperative federalism, the Union of India must exercise its powers within the
+boundaries created by the Constitution. NCTD, having a sui generis federal model, must be allowed
+to function in the domain charted for it by the Constitution. The Union and NCTD share a unique
+federal relationship. It does not mean that NCTD is subsumed in the unit of the Union merely
+because it is not a “State”. As the opinion of the majority in 2018 Constitution Bench judgement
+held:
+“Such an interpretation would be in consonance with the concepts of pragmatic
+federalism and federal balance by giving the Government of NCT of Delhi some
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+31
+required degree of independence subject to the limitations imposed by the
+Constitution.” The interpretation of Article 239AA(3)(a) in an expansive manner
+would further the basic structure of federalism.
+PART I I. Scope of Legislative and Executive Power between the Union and NCTD
+78. Article 239AA(3)(a) indicates that the Legislative Assembly of Delhi shall have the power to
+make laws for the whole or any part of NCTD with respect to matters in the State List and the
+Concurrent List, except for entries 1, 2, and 18 of the State List, and entries 64, 65 and 66 insofar as
+they relate to the entries 1, 2, and 18. Therefore, the legislative power of NCTD is limited to entries it
+is competent to legislate on.
+79. Article 239AA(3)(b) provides that Parliament can “make laws with respect to any matter” for a
+Union Territory or any part of it. Therefore, the legislative power of Parliament shall extend to all
+subjects in the State List and the Concurrent List in relation to NCTD, besides of course the Union
+List. In case of a repugnancy between a law enacted by Parliament and a law made by Legislative
+Assembly of NCTD, the former shall prevail in terms of Article 239AA(3)(d).
+80. The position that emerges from Article 239AA(3) is that NCTD has legislative power over entries
+in List II with limits (as excluded by the provision) but Parliament’s legislative power extends to
+subjects in all three lists relation to NCTD. As noted previously, the scope of division of legislative
+and executive powers between the Union and NCTD fell for the consideration in the 2018
+Constitution Bench judgment. Interpreting Article 239AA(4), the 2018 Constitution Bench
+judgment held that the executive power of GNCTD was co-extensive with the legislative power of
+NCTD.
+81. Article 73(1) of the Constitution stipulates that the executive power of the Union shall extend to
+matters with respect to which Parliament has the power to PART I make laws. The proviso to Article
+73(1) provides that the executive power of the Union shall not extend “in any State” to matters with
+respect to which the Legislature of the State also has power to make laws unless expressly provided
+in the Constitution or by a law made by Parliament:
+“Article 73. Extent of executive power of the Union- (1) Subject to the provisions of
+this Constitution, the executive power of the Union shall extend-
+To the matters with respect to which Parliament has power to make laws;
+[...] Provided that the executive power referred in sub- clause (a) shall not, save as
+expressly provided in this Constitution, or in any law made by Parliament, extend to
+any State to matters with respect to which the Legislature of the State has also power
+to make laws.”
+82. Article 162 provides that subject to the provisions of the Constitution, the executive power of a
+State shall extend to the matters with respect to which the Legislature of the State has the power to
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+32
+make laws. The proviso stipulates that with respect to matters which both the Legislature of a State
+and Parliament have legislative competence, the executive power of the State shall be limited by the
+Constitution or by any law made by Parliament:
+“Article 162. Extent of executive power of State.- Subject to the provisions of this
+Constitution, the executive power of a State shall extend to the matters with respect
+to which the Legislature of the State has power to make laws.
+Provided that in any matter with respect to which the Legislature of a State and Parliament have
+power to make laws, the executive power of the State shall be subject to, and limited by, the
+executive power expressly conferred by this Constitution or by any PART I law made by Parliament
+upon the Union or authorities thereof.”
+83. A combined reading of Articles 73 and 162 indicates that the Union has exclusive executive
+power over entries in List I. The States have exclusive executive power over entries in List II. With
+respect to List III, that is, the concurrent list, the Union shall have executive power only if provided
+by the Constitution or by a law of Parliament. The States shall have executive power over the entries
+in List III. However, if a Central legislation or a provision of the Constitution confers executive
+power to the Union with respect to a List III subject, then the executive power of the State shall be
+subject to such law or provision. The executive power of the Union “in a State” over matters on
+which both States and the Union of India can legislate (that is, the concurrent list) is limited to
+ensure that the governance of States is not taken over by the Union. This would completely abrogate
+the federal system of governance and the principle of representative democracy. It is with this
+objective in mind that the members of the Constituent Assembly thought it fit to limit the executive
+power of the Union in a State over matters on which the State also has legislative competence.
+84. The principle in Articles 73 and 162 would equally apply to the scope of executive power over
+matters which are within the legislative competence of both the Union and the GNCTD. This is
+because the objective of the provisions is to limit the executive power of the Union in the territorial
+limits where there is an elected government of a federal unit.
+PART I
+85. Both Parliament and the Legislature of NCTD have legislative competence over List II and List
+III. For the purposes of NCTD, both List II and List III are “concurrent lists”. Thus, the delimitation
+of executive power between Parliament and Government of NCTD with respect to entries in List II
+and List III are guided by these principles. Both Parliament and the legislature of NCTD have the
+power to enact laws with respect to List II (subject to the caveat that entries 1,2,and 18; and entries
+64, 65, and 66 in as much as they relate to entries 1, 2, and 18 are carved out of the domain of the
+Legislative Assembly of GNCTD) and List III. The executive power of NCTD shall extend to all
+entries in List II and List III, other than the entries expressly excluded in Article 239AA(3). Such
+power shall be subject to the executive power of the Union (through the Lieutenant Governor) only
+when the Union has been granted such power by the Constitution or a law of Parliament. Therefore,
+the executive power of NCTD, in the absence of a law by Parliament, shall extend to all subjects on
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+33
+which it has power to legislate.
+86. It was held in the 2018 Constitution Bench judgment that the Lieutenant Governor is bound by
+the aid and advice of the Council of Ministers under Article 239AA(4) while exercising executive
+powers in relation to matters falling within the legislative domain of the legislative assembly of
+NCTD except where he exercises the limited route provided under the proviso to Article 239AA(4).
+This limited discretionary power under the proviso, as the Constitution Bench held, ought to be
+exercised in a careful manner in rare circumstances such as on matters of national interest and
+finance. The Lieutenant Governor could not refer every matter to the President. 26 After analysing
+the provisions of Article 239AA(4), Government of 26 Para 284.18 (opinion of the majority); Para
+475 (concurring opinion of Justice Chandrachud) PART I NCTD Act 1991 27, and the applicable
+Transaction of Business Rules 1993, it was held by the majority that:
+“284.16. As a natural corollary, the Union of India has exclusive executive power with
+respect to NCT of Delhi relating to the three matters in the State List in respect of
+which the power of the Delhi Legislative Assembly has been excluded. In respect of
+other matters, the executive power is to be exercised by the Government of NCT of
+Delhi. This, however, is subject to the proviso to Article 239AA(4) of the
+Constitution… 284.17. The meaning of “aid and advise” employed in Article 239AA(4)
+has to be construed to mean that the Lieutenant Governor of NCT of Delhi is bound
+by the aid and advice of the Council of Ministers and this position holds true so long
+as the Lieutenant Governor does not exercise his power under the proviso to clause
+(4) of Article 239-AA. The Lieutenant Governor has not been entrusted with any
+independent decision-making power. He has to either act on the “aid and advice” of
+Council of Ministers or he is bound to implement the decision taken by the President
+on a reference being made by him.
+284.18. The words “any matter” employed in the proviso to clause (4) of Article
+239-AA cannot be inferred to mean “every matter”.”
+87. In matters which fall outside the legislative powers of NCTD, the doctrine of “aid and advice”
+does not apply. In those matters, the GNCTD Act and the Transaction of Business Rules of the
+Government of National Capital Territory of Delhi 1993 28 shall act as a guide for the exercise of
+power. Under Section 41 of the GNCTD Act, the Lieutenant Governor may be required to act in his
+discretion in respect of which powers or functions which have been delegated to him by the 27
+“GNCTD Act” 28 “Transaction of Business Rules” PART I President under Article 239, or where he
+is required to act in his discretion under a specific provision of law or where he exercises judicial or
+quasi-judicial functions. Section 41, dealing with the discretion of the Lieutenant Governor, provides
+that:
+“41. Matters in which Lieutenant Governor to act in his discretion.
+(1) The Lieutenant Governor shall act in his discretion in a matter—
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+34
+(i) which falls outside the purview of the powers conferred on the Legislative
+Assembly but in respect of which powers or functions are entrusted or delegated to
+him by the President; or
+(ii) in which he is required by or under any law to act in his discretion or to exercise
+any judicial or quasi-judicial functions.
+(2) If any question arises as to whether any matter is or is not a matter as respects
+which the Lieutenant Governor is by or under any law required to act in his
+discretion, the decision of the Lieutenant Governor thereon shall be final.
+(3) If any question arises as to whether any matter is or is not a matter as respects
+which the Lieutenant Governor is required by any law to exercise any judicial or
+quasi-judicial functions, the decision of the Lieutenant Governor thereon shall be
+final.”
+88. Accordingly, the Lieutenant Governor may act in his discretion only in two classes of matters.
+firstly, where the matter deals with issues which are beyond the powers of the Legislative Assembly
+and where the President has delegated the powers and functions to the Lieutenant Governor in
+relation to such matter; and secondly, matters which by law require him to act in his discretion or
+where he is exercising judicial or quasi-judicial functions.
+89. Section 44 of the GNCTD Act confers the President the power to make rules regarding the
+allocation of business to Ministers wherein the Lieutenant Governor is required to act on the aid and
+advice of his Council of Ministers. It also provides for rules to ensure convenient transaction of
+business with the Ministers, including PART I the procedure to be adopted in case of a difference of
+opinion between the Lieutenant Governor and the Council of Ministers or a Minister. In exercise of
+the power under Section 44, the President framed the Transaction of Business Rules of the
+Government of National Capital Territory of Delhi 1993. In his concurring opinion in the 2018
+Constitution Bench judgment, Justice Chandrachud held that these Rules provide a mechanism to
+be followed in matters relating to the executive functions of GNCTD. It was held:
+“428. A significant aspect of the Rules is that on matters which fall within the ambit
+of the executive functions of the Government of NCT, decision-making is by the
+Government comprised of the Council of Ministers with the Chief Minister at its
+head… Rule 24 deals with an eventuality when the Lieutenant Governor may be of the
+opinion that any further action should be taken or that action should be taken
+otherwise than in accordance with an order which has been passed by a Minister. In
+such a case, the Lieutenant Governor does not take his own decision. He has to refer
+the proposal or matter to the Council of Minister for consideration… the Lieutenant
+Governor has not been conferred with the authority to take a decision independent of
+and at variance with the aid and advice which is tendered to him by the Council of
+Ministers. If he differs with the aid and advice, the Lieutenant Governor must refer
+the matter to the Union Government (after attempts at resolution with the Minister
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+35
+or Council of Ministers have not yielded a solution). After a decision of the President
+on a matter in difference is communicated, the Lieutenant Governor must abide by
+that decision. This principle governs those areas which properly lie within the ambit
+and purview of the executive functions assigned to the Government of the National
+Capital Territory.” (emphasis added) The above interpretation indicates that in
+matters in the executive domain of NCTD, it is the elected government of NCTD
+which is empowered to take decisions. The PART I Lieutenant Governor may request
+the Minister or the Council of Ministers to reconsider its decision. It is only if
+difference persists even after attempts at resolution that he may refer the matter to
+the President, and await the decision.
+90. Rule 45 of the Transaction of Business Rules also indicates that the Lieutenant Governor must
+act within the confines of clauses (3) and (4) of Article 239AA in exercising his executive functions,
+that is, he shall abide by the “aid and advice” of the Council of Ministers on matters in respect of
+which NCTD has legislative power. Rule 45 provides:
+“The Lieutenant Governor, may by standing orders in writing, regulate the
+transaction and disposal of the business relating to his executive functions:
+Provided that the standing orders shall be consistent with the provisions of this
+Chapter, Chapter V and the instructions issued by the Central Government for time
+to time.
+Provided further that the Lieutenant Governor shall in respect of matters connected
+with ‘public order’, ‘police’ and ‘land’ exercise his executive functions to the extent
+delegated to him by the President in consultation with the Chief Minister, if it is so
+provided under any order issued by the President under article 239 of the
+Constitution.
+Provided further that ‘standing orders’' shall not be inconsistent with the rules
+concerning transaction of business.” (emphasis supplied)
+91. The Rule provides that the Lieutenant Governor may issue standing orders relating to “his
+executive functions”, which must be consistent with the Rules of Business as a whole. As an
+exception to the Rule, only “in respect of matters connected with ‘public order’, ‘police’ and ‘land’”,
+which are matters outside the legislative domain of NCTD under Article 239AA(3)(a), he may
+“exercise his PART I executive functions to the extent delegated to him by the President”. The
+second part of this proviso further indicates that in matters outside the legislative domain of NCTD,
+the Lieutenant Governor may be required to consult with the Chief Minister, if it is so provided
+under any order issued by the President under Article 239 of the Constitution. This Rule thus
+clarifies that the Lieutenant Governor may exercise his executive function in relation to matters
+outside the legislative purview of NCTD only “to the extent delegated to him by the President”. As a
+matter of principle, in the discharge of executive functions within the domain of NCTD, the
+Lieutenant Governor must abide by the “aid and advice” of the Council of Ministers in the manner
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+36
+indicated in the Rules. Rule 46 thus needs to be construed accordingly.
+92. Rule 46 deals with the power of the Lieutenant Governor with respect to persons serving in
+connection with the “administration” of NCTD. Rule 46 provides that:
+“46. (1) With respect to persons serving in connection with the administration of the
+National Capital Territory, the Lieutenant Governor shall, exercise such powers and
+perform such functions as may be entrusted to him under the provisions of the rules
+and orders regulating the conditions of service of such persons or by any other order
+of the President in consultation with the Chief Minister, if it is so provided under any
+order issued by the President under Article 239 of the Constitution.
+(2) Notwithstanding anything contained in sub-rule (1) the Lieutenant Governor shall consult the
+Union Public Service Commission on all matters on which the Commission is required to be
+consulted under clause (3) of Article 320 of the Constitution; and in every such case he shall not
+make any order otherwise than in accordance with the advice of the PART I Union Public Services
+Commission unless authorised to do so by the Central Government.
+(3) All correspondence with Union Public Service Commission and the Central Government
+regarding recruitment and conditions of service of persons serving in connection with the
+administration of National Capital Territory shall be conducted by the Chief Secretary or Secretary
+of the Department concerned under the direction of the Lieutenant Governor.” (emphasis supplied)
+The Rule provides that the Lieutenant Governor shall exercise such powers and functions with
+respect to persons serving in the “administration” of NCTD, “as may be entrusted to him under the
+provisions of the rules and orders regulating the conditions of service of such persons or by any
+other order of the President”. The term “administration” in this Rule must be considered in the
+context of Article 239AA(3) and Section 41 of the GNCTD Act. The executive administration by the
+Lieutenant Governor, in his discretion, can only extend to matters which fall outside the purview of
+the powers conferred on the Legislative Assembly but it extends to powers or functions entrusted or
+delegated to him by the President” or “in which he is required by or under any law to act in his
+discretion or to exercise any judicial or quasi-judicial functions”. The term “administration” cannot
+be understood as the entire administration of GNCTD. Otherwise, the purpose of giving powers to a
+constitutionally recognised and democratically elected government would be diluted.
+93. Therefore, the phrase “persons serving in connection with the administration of the National
+Capital Territory” in Rule 46 shall refer only to those persons, whose PART I administration is
+linked with “public order”, “police”, and “land” which are subjects outside the domain of NCTD.
+94. However, as noted in the concurring opinion of Justice Chandrachud in the 2018 Constitution
+Bench judgment, Section 49 of the GNCTD Act confers an overriding power of general control to the
+President. According to Section 49, “the Lieutenant Governor and his Council of Ministers shall be
+under the general control of, and comply with such particular directions, if any, as may from time to
+time be given by, the President.” The directions of the President are in accordance with the “aid and
+advice” of the Council of Ministers of the Union of India.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+37
+95. Thus, the scope of the legislative and executive powers of the Union and NCTD that has been
+discussed under this section is multi-fold. Under Article 239AA(3)(a), the legislative power of NCTD
+extends to all subjects under the State List and the Concurrent List, except the excluded entries. As
+the 2018 Constitution Bench judgment held, the executive power of GNCTD is coextensive with its
+legislative power. In other words, the executive power of GNCTD extends to all subjects on which its
+Legislative Assembly has power to legislate. The legislative power of the Union extends to all entries
+under the State List and Concurrent List, in addition to the Union List. The executive power of the
+Union, in the absence of a law upon it executive power relating to any subject in the State List, shall
+cover only matters relating to the three entries which are excluded from the legislative domain of
+NCTD. As a corollary, in the absence of a law or provision of the Constitution, the executive power of
+the Lieutenant Governor acting on behalf of the Union Government shall extend only to matters
+related to the three entries PART I mentioned in Article 239AA(3)(a), subject to the limitations in
+Article 73. Furthermore, if the Lieutenant Governor differs with the Council of Ministers of GNCTD,
+he shall act in accordance with the procedure laid down in the Transaction of Business Rules.
+However, if Parliament enacts a law granting executive power on any subject which is within the
+domain of NCTD, the executive power of the Lieutenant Governor shall be modified to the extent, as
+provided in that law. Furthermore, under Section 49 of the GNCTD Act, the Lieutenant Governor
+and the Council of Ministers must comply with the particular directions issued by the President on
+specific occasions.
+96. Now, we turn to the present reference before us regarding the scope of the legislative and
+executive powers of NCTD and the Union over “services” under Entry 41 of the State List. Based on
+the discussion in this section, NCTD shall have legislative power to make laws on “services”. This is
+because “services” (that is, Entry 41) is not expressly excluded in Article 239AA(3)(a). As it has
+legislative power, it shall have executive power to control “services” within NCTD. However, we will
+need to address the argument of the Union of India that the provisions of the Constitution exclude
+“services” from the legislative and executive control of NCTD to form a conclusive opinion on the
+issue. The subsequent sections of this judgment deal with the above questions.
+PART J J. Triple chain of accountability: Civil Servants in a Cabinet Form of Government
+97. Before discussing the question regarding the applicability of Part XIV to NCTD, it would be
+appropriate to discuss the principles which will guide our analysis on Part XIV. A discussion on the
+role of civil services in a Westminster- style Cabinet Form of Government is necessary to understand
+the issues at stake.
+(a) Role of civil services in a modern government
+98. Civil services form an integral part of modern government. Professor Herman Finer, in his
+classic work titled “The Theory and Practice of Modern Governance”, states that “the function of
+civil service in the modern state is not merely an improvement of government; for without it,
+indeed, government itself would be necessarily impossible.” 29 The efficacy of the State and the
+system of responsible government to a large part depend upon professionals, who embody the
+institution of a competent and independent civil service.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+38
+99. The policies of the government are implemented not by the people, Parliament, the Cabinet, or
+even individual ministers, but by civil service officers. Elaborating on the indispensable position of
+civil services in a parliamentary system of government, DD Basu in his commentary on the
+Constitution of India states:
+“A notable feature of the Parliamentary system of government is that while the policy
+of the administration is determined and laid down by ministers responsible to the
+Legislature, the policy is carried out and the administration of the country 29
+Herman Finer, The Theory and Practice of Modern Governance (New York: The Dial
+Press, 1932) at page PART J is actually run by a large body of officials who have no
+concern with politics.”30
+100. A Constitution Bench of this Court in Union of India v. Tulsiram Patel 31 dwelt on the
+ubiquitous nature of the civil service and observed:
+“34. The concept of civil service is not new or of recent origin. Governments —
+whether monarchial, dictatorial or republican — have to function; and for carrying on
+the administration and the varied functions of the government age number of
+persons are required and have always been required, whether they are constituted in
+the form of a civil service or not.”
+101. In the Indian Constitution, an entire Part, Part XIV, is dedicated to ‘services’, indicating the
+great significance which the members of the Constituent Assembly reposed in the civil service
+officers. During the Constituent Assembly Debates, the civil services were referred to as the “soul of
+administration” and it was said that the “importance of the civil services cannot be gainsaid.” 32
+Part XIV deals with “Services under the Union and the States”. Chapter I comprising of Articles 308
+to 313 deals with services, and Chapter II comprising of Articles 315 to 323 deals with Public Service
+Commissions for the Union and the States. The effectiveness of the elaborate provisions of Part XIV
+is to a large extent dependent upon the relationship between the ministers and civil service officers.
+(b) Accountability of civil servants in a Westminster parliamentary democracy
+102. In a democracy, accountability lies with the people who are the ultimate sovereign. The
+parliamentary form of government adopted in India essentially 30 Dr DD Basu, Commentary on the
+Constitution of India, 9th Edn., 2018, Vol. 13, page 13991 31 (1985) 3 SCC 398 32 Muniswamy Pillai
+and BN Munavalli in Constituent Assembly Debates, Vol. 9 (22nd August 1949) PART J requires
+that Parliament and the government, consisting of elected representatives, to be accountable to the
+people. The Cabinet consisting of elected representatives is collectively responsible for the proper
+administration of the country and is answerable to the legislature for its actions. The Constitution
+confers the legislature the power to enact laws and the government to implement laws. The conduct
+of the government is periodically assessed by the electorate in elections conducted every five years.
+The government is formed with the support of a majority of elected members in the legislature. The
+government responsible to the legislature is assessed daily in the legislature through debates on
+Bills, or questions raised during Question Hour, resolutions, debates and no-confidence motions.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+39
+The government is responsible for the decisions and policies of each of the ministers and of their
+departments. This creates a multi-linked chain of accountability, where the legislature is
+accountable to the people who elected them, and the government is collectively responsible to the
+legislature. This establishes a link between the electorate and the government. The government is
+collectively responsible for its actions. The Council of Ministers is accountable to both the legislature
+and to the electorate. Collective responsibility is an important component of parliamentary
+democracies.33
+103. Civil servants are required to be politically neutral. The day-to-day decisions of the Council of
+Ministers are to be implemented by a neutral civil service, under the administrative control of the
+ministers. In order to ensure that the functioning of the government reflects the preferences of the
+elected ministers, and through 33 Krishna Kumar Singh v. State of Bihar, (2017) 3 SCC 1; Amarinder
+Singh v. Punjab Vidhan Sabha, (2010) 6 SCC 113; 2018 Constitution Bench judgment.
+PART J them the will of the people, it is essential to scrutinize the link of accountability between the
+civil service professionals and the elected ministers who oversee them. Since civil service officers
+constituting the permanent executive exercise considerable influence in modern welfare state
+democracies, effective accountability requires two transactions: “one set of officials, such as the
+bureaucracy, who give an account of their activity, to another set, such as legislators, who take due
+account and feed their own considered account back into the political system and, through that
+mechanism, to the people.”34
+104. In Secretary, Jaipur Development Authority v. Daulat Mal Jain, 35 this Court held that an
+individual minister is answerable and accountable to people for the acts done by the officials
+working under him. This Court observed that:
+“The Government acts through its bureaucrats, who shape its social, economic and
+administrative policies to further the social stability and progress socially,
+economically and politically…The Minister is responsible not only for his actions but
+also for the job of the bureaucrats who work or have worked under him. He owes the
+responsibility to the electors for all his actions taken in the name of the Governor in
+relation to the Department of which he is the head… he bears not only moral
+responsibility but also in relation to all the actions of the bureaucrats who work
+under him bearing actual responsibility in the working of the department under his
+ministerial responsibility.”
+105. In the concurring opinion in the 2018 Constitution Bench decision, Justice Chandrachud
+highlighted the intrinsic link between government accountability and the principle of collective
+responsibility. The judgment underscored the 34 Adam Przeworski, Susan C. Stokes, Bernard
+Manin, Democracy, Accountability, and Representation (Cambridge University Press 2012), at page
+298.
+35 (1997) 1 SCC 35 PART J responsibility of an individual minister to the legislature for any and
+every action undertaken by public officials in the department which the minister oversees:
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+40
+“327. Collective responsibility also exists in practice in situations where ministers
+have no knowledge of the actions taken by the subordinate officers of their respective
+departments…
+343. … Modern government, with its attendant complexities, comprises of several
+components and constituent elements. They include Ministers who are also elected as
+members of the legislature and unelected public officials who work on issues of daily
+governance... All Ministers are bound by a decision taken by one of them or their
+departments. ”
+106. Civil service officers thus are accountable to the ministers of the elected government, under
+whom they function. Ministers are in turn accountable to Parliament or, as the case may be. the
+state legislatures. Under the Westminster parliamentary democracy, civil services constitute an
+important component of a triple chain of command that ensures democratic accountability. The
+triple chain of command is as follows:
+a. Civil service officers are accountable to Ministers;
+b .  M i n i s t e r s  a r e  a c c o u n t a b l e  t o  P a r l i a m e n t / L e g i s l a t u r e ;  a n d  c .
+Parliament/Legislature is accountable to the electorate.
+107. An unaccountable and a non-responsive civil service may pose a serious problem of governance
+in a democracy. It creates a possibility that the permanent executive, consisting of unelected civil
+service officers, who play a decisive role in the implementation of government policy, may act in
+ways that disregard the will of the electorate.
+PART J
+(c) Accountability of Civil Service Officers in a Federal Polity
+108. Our Constitution is federal in character. In a federal polity, a fundamental question which
+arises is which would be the more appropriate authority to whom the civil service officers would be
+accountable.
+109. As discussed before, a paramount feature of a federal Constitution is the distribution of
+legislative and executive powers between the Union and the regional units. The essential character
+of Indian federalism is to place the nation as a whole under the control of a Union Government,
+while the regional or federal units are allowed to exercise their exclusive power within their
+legislative and co-extensive executive and administrative spheres. 36
+110. In a democratic form of Government, the real power of administration must reside in the
+elected arm of the State, subject to the confines of the Constitution. 37 A constitutionally entrenched
+and democratically elected government needs to have control over its administration. The
+administration comprises of several public officers, who are posted in the services of a particular
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+41
+government, irrespective of whether or not that government was involved in their recruitment. For
+instance, an officer recruited by a particular government may serve on deputation with another
+government. If a democratically elected government is not provided with the power to control the
+officers posted within its domain, then the principle underlying the triple-chain of collective
+responsibility would become redundant. That is to say, if the government is not able to control and
+hold to account the officers posted in its service, then its responsibility towards the legislature as
+well as the public is 36 SR Bommai v. Union of India, (1994) 3 SCC 1 37 2018 Constitution Bench
+PART J diluted. The principle of collective responsibility extends to the responsibility of officers,
+who in turn report to the ministers. If the officers stop reporting to the ministers or do not abide by
+their directions, the entire principle of collective responsibility is affected. A democratically elected
+government can perform, only when there is an awareness on the part of officers of the
+consequences which may ensue if they do not perform. If the officers feel that they are insulated
+from the control of the elected government which they are serving, then they become unaccountable
+or may not show commitment towards their performance.
+111. We have already held that the relationship between the Union and NCTD resembles an
+asymmetric federal model, where the latter exercises its legislative and executive control in specified
+areas of the State List and the Concurrent List. Article 239AA, which conferred a special status to
+NCTD and constitutionally entrenched a representative form of government, was incorporated in
+the Constitution in the spirit of federalism, with the aim that the residents of the capital city must
+have a voice in how they are to be governed. It is the responsibility of the government of NCTD to
+give expression to the will of the people of Delhi who elected it. Therefore, the ideal conclusion
+would be that GNCTD ought to have control over “services”, subject to exclusion of subjects which
+are out of its legislative domain. If services are excluded from its legislative and executive domain,
+the ministers and the executive who are charged with formulating policies in the territory of NCTD
+would be excluded from controlling the civil service officers who implement such executive
+decisions.
+PART K
+112. In the backdrop of the above discussion on the necessity to provide the control of “services” to
+GNCTD, we consider the next argument of the Union of India that Part XIV does not envisage
+“services” for Union Territories.
+K. Balakrishnan Committee Report
+113. The Union of India relied on the report of the Balakrishnan Committee which led to the 1991
+Constitution Amendment and the insertion of Article 239AA to argue that “services” are not
+available to Union territories. The Statement of Objects and Reasons of the Amending Act referred
+to the Committee’s Report:
+“Statement of Objects and Reasons The question of reorganisation of the
+administrative set-up in the Union Territory of Delhi has been under the
+consideration of the Government for some time. The Government of India appointed
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+42
+on 24-12-1987 a Committee [Balakrishnan Committee] to go into the various issues
+connected with the administration of Delhi and to recommend measures inter alia for
+the streamlining of the administrative set-up. The Committee went into the matter in
+great detail and considered the issues after holding discussions with various
+individuals, associations, political parties and other experts and taking into account
+the arrangements in the National Capitals of other countries with a federal set-up and
+also the debates in the Constituent Assembly as also the reports by earlier
+Committees and Commissions. After such detailed inquiry and examination, it
+recommended that Delhi should continue to be a Union Territory and provided with
+a Legislative Assembly and a Council of Ministers responsible to such Assembly with
+appropriate powers to deal with matters of concern to the common man. The
+Committee also recommended that with a view to ensure stability and permanence
+the arrangements should be incorporated in the Constitution to give the National
+Capital a special status among the Union Territories.
+PART K
+2. The Bill seeks to give effect to the above proposals.”
+114. The Balakrishnan Committee specifically dealt with Entry 41 (relating to services) of the State
+List. Its report notes that Entry 41 is not available to the Union Territories, as (i) the Entry only
+mentions ‘State’ and not ‘Union Territory’; (ii) Part XIV of the Constitution only refers to services in
+connection with the affairs of the State and services in connection with the affairs of the Union; and
+(iii) administration of the Union Territories is the responsibility of the Union and thus it falls within
+the purview of ‘affairs of the Union’. The Report stated:
+                “8.1 PUBLIC SERVICES               IN   THE    DELHI
+                ADMINISTRATION
+8.1.2. Entry 41 of the State List mentions “State Public Services: State Public Services Commission”.
+Obviously, this Entry is not applicable to Union territories because it mentions only “State” and not
+“Union territories”. This view is reinforced by the fact that the Constitution divides public services in
+India into two categories, namely, services in connection with the affairs of the Union and services
+in connection with the affairs of the State as is clear from the various provisions in Part XIV of the
+Constitution. There is no third category of services covering the services of the Union territories. The
+obvious reason is that the administration of the Union territory is the constitutional responsibility of
+the Union under Article 239 and as such comes under “affairs of the Union”. Consequently, the
+public services for the administration of any Union territory should form part of the public services
+in connection with the affairs of the Union.”
+115. The Balakrishnan Committee opined that the setting up of a Legislative Assembly with a
+Council of Ministers will not disturb the position discussed above. According to the Report:
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+43
+PART K “Services 9.3.4. By virtue of the provisions in the Constitution, services in connection with
+the administration of the Union Territory of Delhi will be part of the services of the Union even after
+the setting up of a Legislative Assembly with a Council of Ministers. This constitutional position is
+unexceptionable and should not be disturbed. There should, however, be adequate delegation of
+powers to the Lt. Governor in respect of specified categories of services or posts. In performing his
+functions under such delegated powers the Lt. Governor will have to act in his discretion but there
+should be a convention of consultation, whenever possible, with the Chief Minister.”
+116. The extracts from the Balakrishnan Committee Report were relied upon by Justice Bhushan in
+his 2019 split judgment to hold that the Legislative Assembly of NCTD does not have the power to
+make laws under Entry 41 of List II.
+117. We do not agree with the reliance on the Balakrishnan Committee Report to rule out the scope
+of legislative power of NCTD over Entry 41 (services). We reiterate the view expressed in the opinion
+of the majority in the 2018 Constitution Bench that there is no necessity to refer to the Report to
+interpret Article 239AA because the judgment authoritatively dealt with the scope of the said Article.
+It was held:
+“277. There can be no quarrel about the proposition that the reports of the
+Committee enacting a legislation can serve as an external aid for construing or
+understanding the statute. However, in the instant case, as we have elaborately dealt
+with the meaning to be conferred on the constitutional provision that calls for
+interpretation, there is no necessity to be guided by the report of the Committee.”
+(emphasis supplied) PART K
+118. Contrary to the suggestion in the report, the 2018 Constitution Bench judgment provided that
+NCTD shall have legislative power over all subjects in List II, except the excluded subjects provided
+in Article 239AA(3)(c).
+119. The report of the Balakrishnan Committee was referred to in the Statement of Objects and
+Reasons of 1991 Constitution Amendment. The Statement of Objects and Reasons can only be
+referred to the limited extent of understanding the background, the antecedent state of affairs, the
+surrounding circumstances in relation to the amendment, and the purpose of the amendment.38 In
+RS Nayak v. AR Antulay 39,a Constitution Bench of this Court held that the reports of a committee
+which preceded the enactment of a legislation, reports of joint parliamentary committees, a report of
+a commission set up for collecting information leading to the enactment are permissible external
+aids to construction. Thus, the report of the Balakrishnan Committee can be relied on by this Court
+to understand the intent behind the introduction of Article 239AA. However, this Court is not bound
+by the report of a committee to construe specific phrases. It is for this reason that the 2018
+Constitution Bench construed the text of Article 239AA contextually with reference to the
+constitutional structure envisaged for NCTD without relying on the Report of the Balakrishnan
+Committee.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+44
+120. Moreover, the arguments made in the Balakrishnan Committee Report against the inclusion of
+“services” for NCTD have been rejected by this Court. The argument in the Balakrishnan Committee
+Report that the use of the word ‘State’ in 38 State of West Bengal v. Subodh Gopal Bose, AIR 1954
+SC 92; Bhaiji v. Sub-divisional Officer Thandla, (2003) 1 SCC 692 39 (1984) 2 SCC 183 PART K an
+Entry leads by itself to that Entry not being available to the legislature of a Union Territory has been
+specifically rejected in the concurring opinion of Justice Chandrachud in the 2018 Constitution
+Bench in the following terms:
+“461. […] The expression “insofar as any such matter is applicable to Union
+Territories” cannot be construed to mean that the Legislative Assembly of NCT would
+have no power to legislate on any subject in the State or Concurrent Lists, merely by
+the use of the expression “State” in that particular entry. This is not a correct reading
+of the above words of Article 239-AA(3)(a).” The concurring opinion refers to Entries
+38 and 40 of List II which read thus:
+“38. Salaries and allowances of Members of the legislature of the State, of the Speaker
+and Deputy Speaker of the Legislative Assembly and, if there is a Legislative Council,
+of the Chairman and Deputy Chairman thereof.
+[…]
+40. Salaries and allowances of Ministers for the State.” (emphasis supplied) Referring
+to the provisions of the GNCTD Act which deal with these entries, Justice D.Y
+Chandrachud in his concurring opinion observed that even Parliament did not
+construe the use of the word ‘State’ in an Entry to mean that it was not available to
+Union Territories, as it acknowledged the power of the Legislative Assembly of
+GNCTD to deal with said issues. We agree with the above observations. The mere use
+of the word ‘state’ in the entries will not exclude the legislative competence of NCTD.
+By that logic, all the entries in List II would be PART L impliedly excluded from the
+legislative competence of NCTD because list II of the Seventh Schedule is titled ‘State
+list’.
+121. Furthermore, the conclusion of the Balakrishnan Report that Entry 41 of the State List of the
+Seventh Schedule is not available to Union Territories because the Constitution does not envisage a
+third category of services covering the services of Union territories is contrary to the judgment of
+this Court in Prem Kumar Jain (supra), which had upheld services for NCTD. The judgment in Prem
+Kumar Jain (supra) was rendered prior to the Balakrishnan Committee Report of December 1989.
+The Balakrishnan Committee did not refer to the said judgment. Thus, the report of the
+Balakrishnan Committee cannot be relied upon determine if “Services” is available to NCTD.
+L. Applicability of Part XIV to Union Territories
+122. The Union of India has submitted that NCTD does not have legislative competence over Entry
+41 of List II because Part XIV of the Constitution does not contemplate any services for Union
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+45
+Territories. It has been argued that the legislative power of NCTD can be restricted if Part XIV does
+not contemplate services to Union Territories since Article 239AA begins with the phrase “Subject to
+the provisions of the Constitution”.
+(a) Meaning of “State” for the purpose of Part XIV of the Constitution
+123. It needs to be seen if the phrase “State” in Part XIV of the Constitution includes Union
+Territory. Article 308 provides the definition of ‘State’ for Part XIV PART L of the Constitution.
+Article 308 as it stood prior to the Constitution (Seventh amendment) Act 1956 40 provides as
+follows:
+“308. In this part, unless the context otherwise requires the expression ‘State’ means
+a State specified in Part A or Part B of the First Schedule.”
+124. The States Reorganization Act 1956 and the consequential 1956 amendment altered the
+provisions of the First Schedule. Prior to the amendment in 1956, States were divided into three
+categories as specified in Parts A, B and C of the First Schedule of the Constitution. By the seventh
+amendment, Article 308 was amended and State for the purposes of Part XIV was defined as
+follows:
+“308. In this Part, unless the context otherwise requires, the expression "State" does
+not include the State of Jammu and Kashmir.”
+125. In terms of unamended Article 308, the definition of ‘State’ included Part A and Part B states of
+the First Schedule and did not include Part C States, since they were administered by the Union.
+After the 1956 Constitutional Amendment, Article 308 provides an exclusionary definition of ‘State’
+by only excluding the State of Jammu and Kashmir. Article 308 does not provide any clarity on
+whether “State” includes Union Territories for the purposes of Part XIV.
+126. Article 366 defines “State” with reference to Articles 246-A,268, 269-A and Article 279-A to
+include a Union Territory with Legislature. Article 366 does not apply for the interpretation of any
+of the provisions in Part XIV of the Constitution. Thus, we must fall back on Article 367. Article 367
+stipulates that unless the context 40 “1956 amendment” PART L otherwise requires, the General
+Clauses Act shall apply for the interpretation of the Constitution. Section 3(58) of the General
+Clauses Act defines “State” to mean a State specified in the First Schedule and includes a Union
+Territory.
+127. GNCTD contends that this Court in Prem Kumar Jain (supra) has expressly sanctified the
+existence of services of a Union Territory by holding that the definition of “State” would include
+Union territories for the purpose of Article 312 of the Constitution. The Union has argued that the
+decision in Prem Kumar Jain was limited for the purpose of the IAS (Cadre) Rules 1954 41 read with
+the All-India Services Act 1951. Furthermore, it was argued that the reference to Article 312 made
+therein has been made without any reference to the import of Article 308. It is the contention of the
+Union that interpreting the ratio of Prem Kumar Jain in a broad sense would cause violence to the
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+46
+machinery envisaged in Part XIV of the Constitution.
+128. In Prem Kumar Jain, the judgment of the High Court of Delhi setting aside the establishment of
+a joint cadre exclusively for the Union Territories in the IAS was challenged. Article 312 stipulates
+that Parliament may by law create “All India Services” common to the Union and the States. A joint
+cadre of all the Union Territories was created under Rule 3(1) of the Indian Administrative Service
+(Cadre) Rules 1954.42 The creation of a new joint cadre was challenged before the High Court on
+the ground that it was contrary to Article 312 of the Constitution and the All-India Services Act 1951.
+It was argued that Article 312 does not contemplate an all-India service common to Union territories
+because the term “State” in the 41 1954 Cadre Rules 42 “1954 Cadre Rules” PART L provision does
+not include Union territories. The definition of “State” under Rule 2(c) of the 1954 Cadre Rules,
+which provides that a State means a “State specified in the First Schedule to the Constitution and
+includes a Union Territory” was also challenged.
+129. In that context, the High Court held that Union territories could not be said to be “States”, and
+held the definition of “State” under Rule 2(c) of the Cadre Rules to be ultra vires the Constitution
+and the All India Services Act 1951. The High Court held that the Union Territories were not “States”
+for the purpose of Part XIV of the Constitution, in view of the definition of “State” in Article 308,
+which did not include Part C states before its amendment. The High Court reasoned that Union
+territories are successors of Part C States, and accordingly Union Territories were excluded from the
+definition of ‘State’ in Part XIV. The High Court declined to place any reliance on the definition of
+the word ‘State’ in Section 3(58)(b) of the General Clauses Act, as amended in 1956. The High Court
+reasoned that only the adaptations made in the General Clauses Act under Article 372(2) applied to
+the interpretation of the Constitution in view of Article 367(1), and accordingly the adaptations
+made later, by Article 372A, were inapplicable. The High Court observed that:
+‘(7) The next question, therefore, is whether the Union Territories are "State" for the
+purpose of Article 312(1). Article 312 is a part of Chapter XIV of the Constitution,
+which is significantly entitled ''Services under the Union and the States". Part XIV
+does not create an All India Service. [...] The key to the meaning of the word "State"
+used in Part XIV including Articles 309 and 312(1) is provided by the interpretation
+clause in Article 308. Before the Constitution (VII Amendment) Act, 1956 Article 308
+was as follows:
+PART L "IN this part. unless the context otherwise requires the expression "State" means a State
+specified in Part A or Part B of the I Schedule".
+This definition, thus, made it clear that the word "State" in Part XIV was not to include part C States.
+Union Territories are the successors of the Part C States. It follows, therefore, that they are also
+expressly excluded from the definition of "State" in Part XIV. There is nothing particular in the
+context of Article 313 which would require the word "State" therein to include a Union Territory.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+47
+… Article 367(1) of the Constitution applies to the interpretation of the Constitution the provision of
+the General Clauses Act as adapted under Article 372(2) of the Constitution. In view of Article
+372(2)(a) such an adaptation had to be made within three years from the commencement of the
+Constitution. The definition of a "State" in section 3(58) of the General Clauses Act as adapted by
+the Adaptation of laws Order, 1950 issued under Article 372(2) of the Constitution [...]” (emphasis
+supplied)
+130. In appeal, this Court set aside the judgment of the High Court of Delhi. Firstly, this Court held
+that in view of the amended definition of the expression “State” under Section 3(58) of the General
+Clauses Act, as adapted by the Adaptation of Laws Order 1956, there was nothing repugnant to the
+subject or context to make that definition inapplicable to Part XIV of the Constitution. This Court
+reasoned that Article 372A was incorporated in the Constitution since Parliament felt the necessity
+of giving a power akin to Article 372 to the President for the purpose of bringing the provisions of
+any law in force immediately before the commencement of the 1956 Constitution Amendment in
+accordance with the provisions of the Constitution, as amended by the 1956 Constitution
+Amendment. This Court relied on Advance Insurance (supra) to hold that Article 372-A gave a PART
+L fresh power to the President which was equal and analogous to the power under Article 372(2).
+This Court held that:
+“8. It follows therefore that, as and from November 1, 1956, when the Constitution
+(Seventh Amendment) Act, 1956, came into force, the President had the power to
+adapt the laws for the purpose of bringing the provisions of any law in force in India
+into accord with the provisions of the Constitution. It was under that power that the
+President issued the Adaptation of Laws (No. 1) Order, 1956, which, as has been
+shown, substituted a new clause (58) in Section 3 of the General clauses Act
+providing, inter alia, that the expression “State” shall, as respects any period after the
+commencement of the Constitution (Seventh Amendment) Act, 1956, mean “a State
+specified in the First Schedule to the Constitution and shall include a Union
+Territory”. It cannot be said with any justification that there was anything repugnant
+in the subject or context to make that definition inapplicable. By virtue of Article
+372A(1) of the Constitution, it was that definition of the expression “State” which had
+effect from the first day of November, 1956, and the Constitution expressly provided
+that it could “not be questioned in any court of law”. The High Court therefore went
+wrong in taking a contrary view and in holding that “Union territories are not ‘States’
+for purposes of Article 312(1) of the Constitution and the preamble to the Act of
+1951”. That was why the High Court erred in holding that the definition of “State” in
+the Cadre Rules was ultra vires the All India Services Act, 1951 and the Constitution,
+and that the Union territories cadre of the service was “not common to the Union and
+the States” within the meaning of Article 312(1) of the Constitution, and that the
+Central Government could not make the Indian Administrative Service (Cadre)
+Rules, 1954 in consultation with the State Governments as there were no such
+governments in the Union territories.” (emphasis supplied) PART L
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+48
+131. In Prem Kumar Jain (supra), this Court did not find anything repugnant to the subject or
+context of Part XIV of the Constitution or Article 312 specifically to make the definition of ‘State’ in
+terms of amended Section 3(58)(b) of the General Clauses Act inapplicable. Hence, the expression
+‘State’ as occurring in Part XIV was held to include Union Territories. In the preceding section of
+this judgment, we have approved the decision in Advance Insurance (supra) and held that the
+definition of “State” in Section 3(58) of the General Clauses Act as amended by Adaptation of Laws
+(No. 1) Order, 1956 must be applied for the interpretation of the Constitution unless the context
+otherwise requires.
+132. The definition provided in the definition clause article should be applied and given effect to for
+the purposes of the relevant Part of the Constitution. However, when the definition clause is
+preceded by the phrase ‘unless the context otherwise requires’, there may be a need to depart from
+the normal rule if there is something in the context in which such expression occurs to show that the
+definition should not be applied.43 Section 3(58) of the General Clauses Act, by virtue of Article
+367(1) of the Constitution, applies to the construction of the expression ‘State’ in the Constitution,
+unless there is something repugnant in the subject or context of a particular provision of the
+Constitution. The burden is on the party opposing the application of the definition under the
+General Clauses Act to the interpretation of a constitutional provision to prove that the context
+requires otherwise. The Union of India has been unable to suggest that the context of Part XIV
+suggests otherwise. There is nothing in the subject or context of Part XIV of the Constitution 43 SK
+Gupta v. KP Jain, (1979) 3 SCC 54; Ichchapur Industrial Coop. Society Ltd. v. Competent Authority,
+Oil & Natural Gas Commission, (1997) 2 SCC 42; Ratnaprova Devi v. State of Orissa, (1964) 6 SCR
+301 PART L which would exclude its application to Union territories. Rather, the application of the
+inclusive definition of “State” as provided under Clause 3(58) would render the constitutional
+scheme envisaged for Union Territories workable.
+(b) Omission in Part XIV by the 1956 Constitution Amendment
+133. The Union of India has argued that services for a Union Territory are not contemplated in Part
+XIV of the Constitution because of the conscious omissions by the 1956 Constitution Amendment in
+Part XIV. There are two prongs to this argument: (i) the words “Part A States” and “Part B States” in
+Article 308 were substituted by the word “State”, simpliciter, instead of States and Union territories;
+and (ii) while the term ‘Raj Pramukh’ was omitted in different Articles in Part XIV, the term
+‘Administrator’ was not added.
+134. Under erstwhile Article 239, the President occupied in regard to Part C States, a position
+analogous to that of a Governor in Part A States and of a Rajpramukh in Part B States. Unamended
+Article 239 envisaged the administration of Part C States by the President through a Chief
+Commissioner or a Lieutenant Governor to be appointed by them or through the Government of a
+neighbouring State.
+135. The 1956 Constitution amendment was adopted to implement the provisions of the States
+Re-organization Act 1956. The Seventh Amendment abrogated the constitutional distinction
+between Part A, B and C States, and abolished the institution of the Rajpramukh on the abrogation
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+49
+of Part B States. In terms of Section 29 of the 1956 Constitution amendment, Parliament provided
+for “consequential and minor amendments and repeals in the Constitution'' as directed PART L in
+the Schedule. One of the amendments made in terms of the Schedule was to omit the phrase “Part A
+or Part B of the First Schedule '', and “Rajpramukh”, as occurring in the Constitution. It is necessary
+to note that the expressions “Part A”, “Part B” and “Rajpramukh” were not necessarily substituted
+by another expression by Parliament.
+136. Article 239 as it was amended by the 1956 Constitution Amendment states that subject to any
+law enacted by Parliament every Union Territory shall be administered by the President acting
+through an Administrator appointed by them with such designation as they may specify. It is
+relevant to note that the term ‘administrator’, at the time of the amendment was not added to any
+provision of the Constitution other than Article 239. Even within Article 239, the provision did not
+use the term ‘administrator’ as a designation. Instead, Article 239 provides that:
+“239. Administration of Union Territories (1) Save as otherwise provided by
+Parliament by law, every Union territory shall be administered by the President
+acting, to such extent as he thinks fit, through an administrator to be appointed by
+him with such designation as he may specify.
+(2) Notwithstanding anything contained in Part VI, the President may appoint the
+Governor of a State as the administrator of an adjoining Union territory, and where a
+Governor is so appointed, he shall exercise his functions as such administrator
+independently of his Council of Ministers.”
+137. Furthermore, it is important to note that Articles 239A and 239AA were inserted much later
+after the 1956 Constitution Amendment. In 1962, Article 239A was inserted through the
+Constitution (Fourteenth Amendment) Act 1962, which gives discretion to Parliament to create by
+law, local legislatures or a Council of PART L Ministers or both for certain Union Territories. In
+1991, Article 239AA was inserted through the 1991 Constitution Amendment to accord NCTD a sui
+generis status from the other Union Territories, including the Union Territories to which Article
+239A applies. Parliament could not have envisaged when the 1956 Constitution Amendment was
+adopted that Union Territories would have been accorded diverse governance models. Therefore,
+the argument of the Union on legislative intent by drawing upon the omissions in the Seventh
+Amendment is not persuasive. (c ) Existence of power and exercise of power
+138. It is not in contention that presently, a Public Service Commission for NCTD does not exist.
+However, the existence of power and the exercise of the power are two different conceptions, and
+should not be conflated. It is settled law that whether a power exists cannot be derived from whether
+and how often it has been exercised.
+139. In State of Bihar v. Maharajadhiraja Sir Kameshwar Singh,44 the Constitution Bench of this
+Court rejected the argument that the power to enact a law under Entry 42 of the Concurrent List was
+a power coupled with a duty. It was held that the Legislature does not have an obligation to enact a
+law in exercise of its power under the Seventh Schedule:
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+50
+“19. It was further contended that the power to make a law under entry 42 of List III
+was a power coupled with a duty, because such law was obviously intended for the
+benefit of the expropriated owners, and where the Legislature has authorised such
+expropriation, it was also bound to exercise the power of making a law laying down
+the principles on 44 1952 SCR 889 PART L which such owners should be
+compensated for their loss. …While certain powers may be granted in order to be
+exercised in favour of certain persons who are intended to be benefited by their
+exercise, and on that account may well be regarded as coupled with a duty to exercise
+them when an appropriate occasion for their exercise arises, the power granted to a
+legislature to make a law with respect to any matter cannot be brought under that
+category, It cannot possibly have been intended that the legislature should be under
+an obligation to make a law in exercise of that power, for no obligation of that kind
+can be enforced by the court against a legislative body.” (emphasis supplied)
+140. Similarly, in State of Haryana v. Chanan Mal,45 while upholding the constitutional validity of
+the Haryana Minerals (Vesting of Rights) Act, 1973, after noticing the declaration made in Section 2
+of the Mines and Minerals (Regulation and Development) Act, 1957, as envisaged by Entry 54 of the
+Union List, it was held that exercise and existence of power cannot be conflated:
+“24. In the two cases discussed above no provision of the Central Act 67 of 1957 was
+under consideration by this Court. Moreover, power to acquire for purposes of
+development and regulation has not been exercised by Act 67 of 1957.
+The existence of power of Parliament to legislate on this topic as an incident of
+exercise of legislative power on another subject is one thing. Its actual exercise is
+another. It is difficult to see how the field of acquisition could become occupied by a
+Central Act in the same way as it had been in the West Bengal case even before
+Parliament legislates to acquire land in a State.
+Atleast until Parliament has so legislated as it was shewn to have done by the statute considered by
+this Court in the case from West Bengal, the field is free for State legislation falling under the
+express provisions of entry 42 of List III.” (emphasis supplied) 45 (1977) 1 SCC 340 PART L
+141. Article 309 of the Constitution provides for recruitment and conditions of service of persons
+serving the Union or a State. In terms of Article 309, subject to the provisions of the Constitution, an
+appropriate legislature may enact a legislation to regulate the recruitment and conditions of service
+of persons appointed to public services and posts in connection with affairs of the Union or any
+State. The legislative field indicated in this provision is the same as indicated in Entry 71 the Union
+List or Entry 41 of the State List of the Seventh Schedule . In terms of the proviso to Article 309, the
+President for the Union of India or the Governor of the State respectively or such person as they may
+direct, have the power to make similar rules as a stopgap arrangement until provisions in that behalf
+are made by the appropriate legislature. The proviso to Article 309 is only a transitional provision
+46, as the power under the proviso can be exercised only so long as the appropriate legislature does
+not enact a legislation for recruitment to public posts and other conditions of service relating to that
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+51
+post. If an appropriate legislature has enacted a law under Article 309, the rules framed under the
+proviso would be subject to that Act. 47 Article 309 provides that:
+“309. Recruitment and conditions of service of persons serving the Union or a State
+Subject to the provisions of this Constitution, Acts of the appropriate Legislature may
+regulate the recruitment, and conditions of service of persons appointed, to public
+services and posts in connection with the affairs of the Union or of any State:
+Provided that it shall be competent for the President or such person as he may direct in the case of
+services and posts in connection with the affairs of the Union, and for the Governor 2 *** of a State
+or 46 A.B. Krishna v. State of Karnataka, (1998) 3 SCC 495 47 B.S. Vadera v. Union of India, (1968)
+3 SCR 575 PART L such person as he may direct in the case of services and posts in connection with
+the affairs of the State, to make rules regulating the recruitment, and the conditions of service of
+persons appointed, to such services and posts until provision in that behalf is made by or under an
+Act of the appropriate Legislature under this article, and any rules so made shall have effect subject
+to the provisions of any such Act.”
+142. The rule-making function under the proviso to Article 309 is transitional. The President with
+respect to the posts in connection with the affairs of the Union, and the Governor in connection with
+the affairs of State shall have the power to make rules under the proviso only until a statute is
+enacted in this connection. Any rule that is made by the President or the Governor shall be “Subject
+to the provisions of any such Act” made by the appropriate legislature. The exercise of power by the
+President and the Governor under Article 309 does not in any way restrict the power that is
+otherwise available under Article 309. The exercise of rule making power by the President under
+Article 309 does not substitute the legislative power granted.
+143. In Tulsiram Patel (supra), a Constitution Bench of this Court held that the appropriate
+legislature, to enact laws under Article 309, would depend upon the provisions of the Constitution
+with respect to legislative competence and the division of powers. This Court further held that the
+rules framed by the President or the Governor under Article 309 must conform with a statute
+enacted in exercise of power under Entry 70 of List I and Entry 41 of List II:
+“51. Which would be the appropriate Legislature to enact laws or the appropriate
+authority to frame rules would depend upon the provisions of the Constitution with
+respect to legislative competence PART L and the division of legislative powers. Thus,
+for instance, under Entry 70 in List I of the Seventh Schedule to the Constitution,
+Union Public Services, all-India Services and Union Public Service Commission are
+subjects which fall within the exclusive legislative field of Parliament, while under
+Entry 41 in List II of the Seventh Schedule to the Constitution, State public services
+and State Public Service Commission fall within the exclusive legislative field of the
+State Legislatures. The rules framed by the President or the Governor of a State must
+also, therefore, conform to these legislative powers.” (emphasis supplied)
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+52
+144. The above discussion demonstrates that even if the President has made relevant rules in
+exercise of his power under the proviso to Article 309, the power of NCTD to legislate on “services”
+is not excluded. Infact in the next section, we shall be dealing with instances of exercise of legislative
+power by NCTD under Entry 41 of List II, that is, “services”.
+145. In view of the above reasons, we hold that Part XIV is applicable to Union territories as well.
+M. Exercise of Legislative Power by NCTD on Entry 41
+146. It has been argued on behalf of NCTD that numerous laws have been enacted by the Legislative
+Assembly of Delhi relating to creation of posts and terms and conditions of service. Reliance was
+placed upon different state services, such the Delhi Fire Services under the Delhi Fire Service Act
+2007, Delhi Commission for Safai Karamcharis Act, 2006, Delhi Minorities Commission Act, 1999,
+Delhi Finance Commission Act, 1994, Delhi Lokayukta and UpaLokayukta Act, 1995, Delhi
+Commission for Women Act, 1994, and Delhi Electricity Reform Act, 2001. It PART M was argued
+that these statutes which inter alia, create posts and details of salary, was enacted in exercise of the
+subject referable to Entry 41 of the State List.
+147. However, Justice Ashok Bhushan in the 2019 split verdict rejected this argument related to
+Delhi Fire Service Act 2007, as he held that the statute falls under Entry 5 of the State List and not
+under Entry 41 of the State List. Justice Bhushan held:
+“208. We may first notice that the word “services” used in the Act has been used in a
+manner of providing services for fire prevention and fire safety measures. The word
+“services” has not been used in a sense of constitution of a service. It is to be noted
+that fire service is a municipal function performed by local authority. Delhi Municipal
+Council Act, 1957 contains various provisions dealing with prevention of fire etc.
+Further fire services is a municipal function falling within the domain of
+municipalities, which has been recognised in the Constitution of India. Article
+243(W) of the Constitution deals with functions of the municipalities in relation to
+matters listed in the 12th Schedule. Entry 7 of the 12th Schedule provides for “Fire
+Services” as one of the functions of the municipalities. The nature of the enactment
+and the provisions clearly indicate that Delhi Fire Services Act falls under Entry 5 of
+List II and not under Entry 41 of List II.”
+148. Article 243W of the Constitution read with Entry 7 of the Twelfth Schedule provides that the
+legislature of a state may, by law, endow on the municipalities responsibilities with respect to ‘fire
+services’. Under Entry 5 of List II, an appropriate legislature may enact a law related to ‘local
+government, that is to say, the constitution and powers of municipal corporations, improvement
+trusts, districts boards, mining settlement authorities and other local authorities for the purpose of
+local self-government or village administration’. PART M
+149. The test to determine whether a legislation creates a service under Entry 41 or not has been laid
+down by this Court. In the Constitution Bench judgment in State of Gujarat v. Raman Law Keshav
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+53
+Lal, 48 while holding that Panchayat Service contemplated under Section 203(1) of the Gujarat
+Panchayats Act 1961 was a State civil service, it was held that the administration of a service under a
+State broadly involves the following functions: (i) the organisation of the Civil Service and the
+determination of the remuneration, conditions of service, expenses and allowances of persons
+serving in it; (ii) the manner of admitting persons to the civil service; (iii) exercise of disciplinary
+control over members of the service and power to transfer, suspend, remove or dismiss them in
+public interest as and when occasion to do so arises. This Court noted:
+“21. […] In the instant case, we feel that there is no compelling reason to hold that the
+Panchayat Service is not a Civil Service under the State. It is seen that further
+recruitment of candidates to the Panchayat Service has to be made by the Gujarat
+Panchayat Service Selection Board constituted by the State Government. Entry 41 of
+List II of the Seventh Schedule to the Constitution, as mentioned earlier, also refers
+to State Public Services suggesting that there can be more than one State Public
+Service under the State…... We have indeed a number of such services under a State
+e.g. police service, educational service, revenue service etc. State Public Services may
+be constituted or established either by a law made by the State legislature or by rules
+made under the proviso to Article 309 of the Constitution or even by an executive
+order made by the State Government in exercise of its powers under Article 162 of the
+Constitution. The recruitment and conditions of service of the officers and servants of
+the State Government may also be regulated by statute, rules or executive orders. The
+administration of a service under a State involves broadly the following functions: (i)
+the organisation of the Civil Service and the determination of the remuneration,
+conditions of 48 (1980) 4 SCC 653 PART M service, expenses and allowances of
+persons serving in it; (ii) the manner of admitting persons to civil service; (iii)
+exercise of disciplinary control over members of the service and power to transfer,
+suspend, remove or dismiss them in the public interest as and when occasion to do so
+arises. […]” (emphasis supplied)
+150. Thus, to determine whether the power to enact a legislation is traceable to Entry 41 of the State
+List, it is necessary to examine whether that legislation contains provisions regulating the
+recruitment, conditions of service, and exercise of control including power to transfer, and suspend.
+It is with this approach in mind that we need to examine the Delhi Fire Service Act 2007.
+151. The Delhi Fire Service Act 200749 was enacted by the Legislative Assembly of NCTD to provide
+for “maintenance of a fire service and to make more effective provisions for the fire safety
+prevention and fire safety measures in certain buildings and premises in the National Capital
+Territory of Delhi and the matters connected therewith.” The Delhi Fire Service Act 2007 is a
+comprehensive Act which replaced three legislations or, as the case may be, rules which operated in
+NCTD:
+a. The United Provinces Fire Safety Act 1944, as extended to Delhi. The Act was notified by the
+Governor of the United Provinces in exercise of the powers assumed by him under a Proclamation
+issued under Section 93 of the Government of India Act 1935. The Act was enacted to constitute and
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+54
+49 Delhi Fire Service Act 2007, Delhi Act 2 of 2009 PART M maintain a provincial fire service in the
+United Provinces for staffing and operating the fire brigades;
+b. The Delhi Fire Service (Subordinate Services) Rules 1945 framed under Section 241(1)(b) and
+Section 241(2)(b) of the Government of India Act 1935 50; and c. The Delhi Fire Prevention and Fire
+Safety Act 1986. The Act which was enacted by Parliament focused on making effective provisions
+for fire prevention and fire safety measures in the Union Territory of Delhi. It did not contain any
+provision related to maintenance of a ‘fire service’.
+152. The purpose of the Delhi Fire Service Act 2007 is to provide for “maintenance of a fire service”.
+Section 2(l) defines ‘Fire Service’ to mean the Delhi Fire Service constituted under Section 5 of the
+Act. Section 5 stipulates the constitution of a fire service. In terms of Section 5(a), the Fire Service
+shall consist of such numbers in several ranks and have such organization and such powers,
+functions and duties as the Government may determine. In terms of Section 5(b), the recruitment
+to, and the pay, allowances and all other conditions of service of the members of the Fire Service
+shall be such as may be prescribed. Section 3 stipulates that there would be one fire service for the
+whole of Delhi and all officers and subordinate ranks of the fire service shall be liable for posting to
+any branch of the Fire Service. Chapter II of the Act provides for the organization, superintendence,
+control and maintenance of the fire service. Chapter III provides for the control and discipline of the
+fire service.
+50 Section 65, The Delhi Fire Service Act 2007 PART M
+153. The Delhi Fire Service is constituted under the Delhi Fire Service Act 2007, enacted by the
+Legislative Assembly of NCTD. Provisions relating to administration, recruitment and conditions of
+service have been provided in the framework of the Act. In terms of Section 4, the superintendence
+of, and control over, the Fire Service vests in the Government, as defined in the Act. Section 6
+provides for the classification of posts of the Fire Service into Group A, B, C and D posts. Section 7
+stipulates that the Government shall make appointments to any Group A or Group B posts after
+consultation with the Union Public Service Commission. Section 8 stipulates the appointment of a
+Director of the Delhi Fire Service for the direction and supervision of the Fire Service in Delhi.
+Section 14 stipulates that the Central Civil Services (Conduct) Rules 1964 and the Central Civil
+Services (Classification, Control and Appeals) Rules 1965 and the Central Civil Services (Pension)
+Rules 1972, as amended, shall be extended mutatis mutandis to all employees of the Delhi Fire
+Service.
+154. Furthermore, under the powers conferred by Section 63 of the Act, the Lieutenant Governor has
+notified the Delhi Fire Service Rules 2019, regulating the establishment, organization, and
+management on the Services. Rule 9 provides that the recruitment to various ranks in Fire Service
+shall be made in accordance with the recruitment rules notified by the Government. Rule 10
+provides that the pay and allowances for various ranks in Fire Service shall be in accordance with
+the recommendations of the Pay Commission or any other authority as may be appointed by the
+Government.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+55
+PART M
+155. On an analysis of the provisions of the Delhi Fire Service Act 2007 and the Rules of 2019, it is
+clear that the statute includes posts, their recruitment process, salary and allowance, disciplinary
+power and control – all of which are constituents of a “service” under Entry 41 of the State List, as
+held in Raman Law Keshav Lal (supra). Thus, the Delhi Fire Service Act 2007 was enacted by the
+Legislative Assembly of NCTD in exercise of its power under Entry 41 of the State List.
+156. NCTD has already exercised its legislative power relating to Entry 41 of the State List. However,
+the contours of “services” are very broad, and may be related to even “public order”, “police”, and
+“land” – which are outside the legislative domain and executive domain of NCTD. The question that
+then emerges is what “services” are within the domain of NCTD.
+N. “Services” and NCTD
+157. Now that we have held that NCTD has legislative and executive power with respect to “services”
+under Entry 41, a natural question that arises is as to the extent of control of NCTD over “services”.
+The question becomes pertinent because the three entries (public order, police, land), which are
+excluded from the scope of NCTD’s legislative power, also have some relation with “services”. This
+Court must create a distinction between “services” to be controlled by NCTD and the Union in
+relation to NCTD. The distinction must be drawn keeping in mind the ambit of legislative and
+executive power conferred upon NCTD by the Constitution, and the principles of constitutional
+governance for NCTD laid down in the 2018 Constitution Bench judgment.
+PART N
+158. This Court has laid down that the scope of an Entry in the Seventh Schedule needs to be read
+widely. In IK Saksena v. State of Madhya Pradesh51, a four judge Bench of this Court held that the
+entries in Schedule VII have to be read in their widest possible amplitude. The Bench held that the
+area of legislative competence defined by Entry 41 is far more comprehensive than that covered by
+Article 309:
+“32. It is well settled that the entries in these legislative lists in Schedule VII are to be
+construed in their widest possible amplitude, and each general word used in such
+entries must be held to comprehend ancillary or subsidiary matters. Thus considered,
+it is clear that the scope of Entry 41 is wider than the matter of regulating the
+recruitment and conditions of service of public servants under Article 309. The area
+of legislative competence defined by Entry 41 is far more comprehensive than that
+covered by the proviso to Article 309.” (emphasis added)
+159. But, in our context, we may not be able to read Entry 41 in relation to NCTD in the widest
+possible sense because all entries in List II (including Entry 41) need to be harmonized with the
+limitation laid down in Article 239AA(3)(a) on NCTD’s legislative and executive power by excluding
+matters related to ‘public order’, ‘police’, and ‘land’.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+56
+160. The legislative and executive power of NCTD over Entry 41 shall not extend over to services
+related to “public order”, “police”, and “land”. However, legislative and executive power over
+services such as Indian Administrative Services, or Joint Cadre services, which are relevant for the
+implementation of policies and vision of 51 (1976) 4 SCC 750 PART N NCTD in terms of day-to-day
+administration of the region shall lie with NCTD. Officers thereunder may be serving in NCTD, even
+if they were not recruited by NCTD. In such a scenario, it would be relevant to refer, as an example,
+to some of the Rules, which clearly demarcate the control of All India or Joint-Cadre services
+between the Union and the States. NCTD, similar to other States, also represents the representative
+form of government. The involvement of the Union of India in the administration of NCTD is
+limited by constitutional provisions, and any further expansion would be contrary to the
+constitutional scheme of governance.
+161. We shall take the example of the Indian Administrative Service (Cadre) Rules, 1954, which deal
+with the posting of IAS Officers. Rule 2(a) defines ‘cadre officer’ to mean a member of IAS. Rule 2(b)
+defines ‘Cadre post’ as any post specified under item I of each cadre in the schedule to the Indian
+Administrative Service (Fixation of Cadre Strength) Regulations, 1955. Rule 2(c) defines ‘State’ to
+mean a State specified in the First Schedule of the Constitution and includes a Union Territory. Rule
+2(d) defines ‘State Government concerned’, in relation to a Joint cadre, to mean the Joint Cadre
+Authority. The constitution and composition of a ‘Joint Cadre Authority’ is understood with
+reference to the All India Services (Joint Cadre) Rules 1972. The 1972 Rules apply to a “Joint Cadre
+constituted for any group of States other than the Joint Cadre of Union Territories.” 52 Rule 3 of the
+IAS (Cadre) Rules 1954 provides for the constitution of cadres for each State or group of States “as a
+‘State Cadre’ or, as the case may be, a ‘Joint Cadre’”. Rule 5 empowers the Central Government to
+allocate cadre officers to various cadres. In terms of Rule 5(1), the allocation of cadre officers to the
+various cadres shall be 52 Section 1(i), All India Services (Joint Cadre) Rules 1972 PART N made by
+the Central Government in consultation with the State Government or the State Government
+concerned. Rule 7 stipulates that all appointments to cadre posts shall be made “on the
+recommendation of the Civil Services Board” — by the State Government “in the case of a state
+cadre”, and by the State Government concerned, as defined in Rule 2(d), “in the case of a joint
+cadre”. Under Rule 11A, the “Government of that State” is provided with powers to take decisions
+under Rule 7 (and other mentioned rules) in relation to the members of the Joint Cadre Service
+“serving in connection with the affairs of any of the Constituent States”. A combined reading of
+Rules 2, 7, and 11A indicates that the postings within the State Cadre as well as Joint Cadre of a
+Constituent State shall be made by the “Government of that State”, that is, by the duly elected
+government. In our case, it shall be the Government of NCTD. We accordingly hold that references
+to “State Government” in relevant Rules of All India Services or Joint Cadre Services, of which
+NCTD is a part or which are in relation to NCTD, shall mean the Government of NCTD.
+162. We reiterate that in light of Article 239AA and the 2018 Constitution Bench judgment, the
+Lieutenant Governor is bound by the aid and advice of the Council of Ministers of NCTD in relation
+to matters within the legislative scope of NCTD. As we have held that NCTD has legislative power
+over “services” (excluding ‘public order’, ‘police’, and ‘land’) under Entry 41 in List II, the Lieutenant
+Governor shall be bound by the decisions of GNCTD on services, as explained above. To clarify, any
+reference to “Lieutenant Governor” over services (excluding services related to ‘public order’, ‘police’
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+57
+and ‘land’) in relevant Rules shall mean Lieutenant Governor acting on behalf of GNCTD.
+PART O
+163. The division of administrative powers between the Union and the NCTD as explained in this
+section must be respected.
+O. Conclusion
+164. In view of the discussion above, the following are our conclusions:
+a. There does not exist a homogeneous class of Union Territories with similar
+governance structures;
+b. NCTD is not similar to other Union Territories. By virtue of Article 239AA, NCTD
+is accorded a “sui generis” status, setting it apart from other Union Territories;
+c. The Legislative Assembly of NCTD has competence over entries in List II and List
+III except for the expressly excluded entries of List II. In addition to the Entries in
+List I, Parliament has legislative competence over all matters in List II and List III in
+relation to NCTD, including the entries which have been kept out of the legislative
+domain of NCTD by virtue of Article 239AA(3)(a);
+d. The executive power of NCTD is co-extensive with its legislative power, that is, it
+shall extend to all matters with respect to which it has the power to legislate;
+e. The Union of India has executive power only over the three entries in List II over
+which NCTD does not have legislative competence;
+PART O f. The executive power of NCTD with respect to entries in List II and List III shall be subject
+to the executive power expressly conferred upon the Union by the Constitution or by a law enacted
+by Parliament; g. The phrase ‘insofar as any such matter is applicable to Union Territories’ in Article
+239AA(3) cannot be read to further exclude the legislative power of NCTD over entries in the State
+List or Concurrent List, over and above those subjects which have been expressly excluded; h. With
+reference to the phrase “Subject to the provisions of this Constitution” in Article 239AA(3), the
+legislative power of NCTD is to be guided, and not just limited, by the broader principles and
+provisions of the Constitution; and i. NCTD has legislative and executive power over “Services”, that
+is, Entry 41 of List II of the Seventh Schedule because:
+(I) The definition of State under Section 3(58) of the General Clauses Act 1897 applies to the term
+“State” in Part XIV of the Constitution. Thus, Part XIV is applicable to Union territories; and (II)
+The exercise of rule-making power under the proviso to Article 309 does not oust the legislative
+power of the appropriate authority to make laws over Entry 41 of the State List.
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+58
+PART O
+165. We have answered the issue referred to this Constitution Bench by the order dated 6 May 2022.
+The Registry shall place the papers of this appeal before the Regular Bench for disposal after
+obtaining the directions of the Chief Justice of India on the administrative side.
+..…………..……………………………….CJI.
+[Dr Dhananjaya Y Chandrachud] …………………….………………………….J.
+[MR Shah] …………………….………………………….J.
+[Krishna Murari] …………………….………………………….J.
+[Hima Kohli] …………………….………………………….J.
+[Pamidighantam Sri Narasimha] New Delhi;
+May 11, 2023
+Govt. Of Nct Of Delhi vs Union Of India on 11 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/196253171/
+59

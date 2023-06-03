@@ -1,0 +1,752 @@
+Supreme Court of India
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Author: S. Ravindra Bhat
+Bench: S. Ravindra Bhat, Dipankar Datta
+                                                        1
+                                                                              REPORTABLE
+                                    IN THE SUPREME COURT OF INDIA
+                                    CIVIL APPELLATE JURISDICTION
+                                  CIVIL APPEAL NO(S). 2338-2339 OF 2010
+          HEINZ INDIA LIMITED                                                ...APPELLAN
+                                                    VERSUS
+          THE STATE OF KERELA                                              ...RESPONDENT
+                                                      WITH
+                                     CIVIL APPEAL NO(S). 6633 OF 2012
+                                     CIVIL APPEAL NO(S). 6635 OF 2012
+                                                JUDGMENT
+S. RAVINDRA BHAT, J.
+1. The issue which this court has to deal with had placed the courts in a prickly pickle, on several
+occasions- whether medicated talcum powder is medicine or drug, or a cosmetic, or in terms of the
+statutes in question, medicated talcum powder? The present appeals, by special leave, concern two
+Signature Not Verified Digitally signed by NEETA SAPRA Date: 2023.05.04 sets of appeals: one,
+from the State of Kerala and the other from the State of 18:00:34 IST Reason:
+Tamil Nadu. The Kerala High Court, by its judgment1 rejected the revisions filed by the
+appellant/assessee (hereafter “Heinz”) aggrieved by the Kerela Sales Tax Appellate Tribunal’s orders
+holding that its product “Nycil Prickly Heat Powder” was classifiable not under Entry 79 of the First
+Schedule to Kerala General Sales Tax Act, 1963 (hereafter “KGST Act”) [as “medicine” but as
+“Medicated Talcum Powder”].
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+1
+2. In the second set of appeals, M/s Glaxo Smithkline Pharmaceuticals Ltd (“GSK” hereafter) is
+aggrieved by the judgment of the Madras High Court 2 where the court rejected its contention that
+the prickly heat powder was “medicinal formulation or preparation ready for use internally or
+externally for treatment or mitigation or prevention of diseases or disorders in human being or
+animals” [under Entry 20-(A) of Part C of First Schedule to the Tamil Nadu General Sales Tax Act,
+1959 - hereafter “TNGST Act”] and held it to be toilet powder [under Entry 1(iii) of Part-F of First
+Schedule of the TNGST Act]. The High Court so held because the Explanation to the said entry
+stated that:
+“Any of the items listed above even if medicated or as defined in Section 3 of the
+Drugs and Cosmetics Act, 1940 (Central Act XXIII of 1940) or manufactured on the
+license issued under the said Act will fall under this item.” I
+3. Heinz’s appeal from the Kerala High Court is concerned with assessment years 1999-2000 and
+2000-2001. For the assessment year 1999-2000, Heinz Dated 29 September 2008 in S.T. Rev. Nos.
+164/ 2007 and 172/ 2008 By judgment dated 01.03.2012, in Tax Case (Revision) Nos. 742/ 2006
+and 301/ 2011 filed its annual return which was accepted by the assessing officer; the tax payable on
+the taxable turnover was 8%, and the treatment on the sale of Nycil prickly heat powder was
+accepted to be an item falling under Entry 79 of the First Schedule to KGST Act, by order dated
+18-11-2005. The revisional authority was of the view that the order of assessment passed by the
+assessing authority was prejudicial to the interest of the revenue; it initiated proceedings under
+Section 35 of the KGST Act, proposing to set aside the assessment of the assessing authority on the
+premise that levy of tax at 8% on ‘Prickly heat powder’ by treating it as medicine by the assessing
+authority was prejudicial to the interest of the revenue and the rate of tax at 20% was to be applied
+as applicable to “Medicated Talcum Powder”. Heinz objected to this. However, the revisional
+authority by order dated 16-2-2006 set aside the assessment order for the assessment year
+1999-2000 and remanded the matter to the assessing authority to pass fresh assessment order by
+levying tax at 20%. Aggrieved, Heinz carried the matter before the Appellate Tribunal, which
+affirmed the revisional order and rejected its appeal.3 The High Court, on further revision,
+concurred with the classification adopted by the revenue.
+4. The Kerala High Court noticed the judgment of this court Puma Ayurvedic Herbal Pvt Ltd v
+Collector of Central Excise 4 (hereafter “Puma Ayurvedic Herbal”); Hamdard (Wakf) Laboratories v.
+Deputy Commissioner5 Order dated 14.11.2006 in IA No 311/2006 (2006) 2 SCR 1120 2007 (5) SCR
+873 (hereafter “Hamdard (Wakf) Laboratories”); Ponds India Ltd. v. Commissioner of Trade Tax6
+(hereafter “Ponds India”); Muller & Phipps (India) Ltd v. Collector of Central Excise7 (hereafter
+“Muller & Phillips (India) Ltd”) and several other decisions cited by the parties. The court was of the
+opinion that the product was not of common use by consumers as a daily use talcum powder, but
+normally used for the “specific purpose of treating prickly heat” and its use discontinued after the
+ailment ceased. This meant it has ingredients containing preventive and curative effects making it
+effective for the treatment of ailments. The court observed that:
+“We would definitely say that ‘Nycil Powder’ is not an ordinary talcum powder as
+understood in common or commercial parlance, but has a medicinal value and is
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+2
+used for treatment of prickly heat and other skin ailments. But then, under which
+entry we should classify the commodity in question. In our view, if not for the
+inclusive definition under Entry 127 of the first schedule to the KGST Act, we would
+not had any hesitation in classifying the commodity in question as a medicine. In our
+view, the legislature consciously immediately after the expression talcum powder, by
+employing the expression ‘including’ has thought it fit to include "medicated talcum
+powder" under Entry 127 of first schedule to the Act. In view of this inclusive
+definition, though the nycil powder has all the qualities and ingredients of medicines
+and since the same is basically a talcum powder which has preventive and curative
+power, the same requires to be brought under the special entry rather than the
+general entry.”
+5. The High Court further held that Entry 127 of the First Schedule immediately after the expression
+talcum powder has used the word ‘including’. The word includes/including, “is used in
+interpretation clause to enlarge the meaning of the word in the statute. When such word is used in
+an interpretation clause, it must be construed as comprehending, not only such things as they 2008
+(9) SCR 496 2004 Supp (2) SCR 39 signify according to their natural import, but also those things
+which the interpretation clause declares that they shall include.” It was, therefore held that since
+Entry 127 is a specific entry in a fiscal statute, the general entry (Entry 79) had to give way to the
+specific entry. The court observed that:
+“though the Nycil Prickly Heat Powder is used for the care of the skin and not cure of
+the skin and though it contains a small quantity of Chlorphenesin, which has curative
+effect; in view of the specific entry, it has to be classified only under Entry 127 of First
+Schedule to the KGST Act and not under Entry 79 of the Act which speaks of
+medicines and drugs.
+Heinz is aggrieved by these findings.
+II
+6. GSK appeals against the judgment of the Madras High Court. They are in relation to two
+assessment years, i.e., 1993-94 and 1994-95. In both these cases, the assessing officer levied tax at
+the rate of 16 % under Entry 1(iii) of Part F of the First Schedule to the TNGST Act, rejecting the
+assessee’s (which was Heinz, initially) claim to levy tax at the rate of 5 % for the first sale of Nycil
+prickly heat powder on the ground that it is a medicine or drug under Entry 20- A of Part C of the
+First Schedule to the TNGST. The Appellate Assistant Commissioner affirmed the view of the
+assessing officer.8 Heinz approached the Appellate Tribunal, which accepted its plea, and held that
+the product was a medicine or drug, and classifiable as such. 9 The revenue’s appeal to the Madras
+High Court succeeded. Heinz’s unit was during the interregnum, taken over by GSK.
+Vide order dated 19.02.2001 Vide order dated 30.08.2001 in STA No 616/99
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+3
+7. The High Court, by its impugned judgment, noted that the product is subject to license under the
+Drugs and Cosmetics Act, 1940 [hereafter “Drugs Act”]. The court also noticed the Kerala judgment
+and remarked that the difference between the two enactments (KSGST Act and TNGST Act) is that
+in the latter, it is the explanation which clarifies that any of the items even if medicated or as defined
+in Section 3 of the Drugs and Cosmetics Act will fall under the Entry I(iii) of Part ‘F’ of the First
+Schedule. The Madras High Court was of the opinion that the wording of the two enactments did not
+make any difference, even though one had an inclusive definition and another includes the product,
+through explanation. The Madras High Court, therefore held that Nycil prickly heat powder “is a
+toilet powder” though the manufacturer held a license under the Drugs Act and that such a
+circumstance fell within the mischief of the Explanation to Entry I (iii) to Part F of the First
+Schedule.
+8. The impugned judgment of the Madras High Court relied on the decision of the Kerala High
+Court which had considered medicated talcum powder after going through the various definitions of
+“drug”, “medicine”, “cosmetic” and “talc”, and ultimately holding that medicated talcum powder
+includes prickly heat powder. The Kerela High Court had observed that:
+“34. The ingredients of Nycil powder are chlorphenesin B.P. one percent, zinc oxide
+I.P. 16 per cent, boric acid I.P. 16 per cent, starch I.P. 51 per cent, talc 100 per cent.
+Chlorphenesin is contained in Nycil powder to the extent of only one per cent and the
+other antiseptic medicinal agents are comprised to the extent of 32 per cent and the
+rest of the materials which go into the making of Nycil powder are composed of
+starch and talc. Nycil prickly heat powder contains chlorphenesin, a product
+specifically meant for treatment of skin disease. The inclusion of this medicine in the
+composition makes all the difference. It is this addition of medicine which changes its
+basic character. Therefore, the product in question is not merely talcum powder in
+view of the presence of chlorphenesin, though in a small quantity, though the base
+was purified talc.
+Relying upon the findings of the Kerela High Court, Madras High Court further observed that:
+16. The Kerala High Court rejected the contention as to the theory of medicine and
+also after considering the basic ingredients of prickly heat powder, came to the
+conclusion that the base product is only a purified talc. We are also of the view that
+after considering the explanation to the main entry, it is only a medicated talcum
+powder and it certainly includes prickly heat powder also. We agree with the
+reasoning of the Kerala High Court and hold that the nycil prickly heat powder is not
+a “drug” and it is only a medicated talcum powder. We are also informed that M/s
+Heinz India Limited, the petitioner-assessee before the Kerala High Court, had
+purchased the manufacturing unit of the respondent- assessee before us in respect of
+prickly heat powder. Accordingly, we answer the issue in favor of the Revenue and
+against the assessee. Even though number of judgments were cited by both the
+counsel in support of their contentions, it is seen that the Kerala High Court has
+considered all those judgments in detail under the various enactments like Central
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+4
+Excise Act and the various State Sales Tax Act enactments. Therefore, it is not
+necessary to once again consider all those judgments cited by both the learned
+counsel, since the issue is already settled by the judgment of the Kerala High Court in
+the case of Heinz India Limited. Under these circumstances, we set aside the orders
+of the Tribunal and restore the orders of the assessing authority. The tax case
+revisions are allowed.” III
+9. On behalf of Heinz, Mr. S.K. Bagaria, learned senior counsel, argued that “Nycil” is the trade
+name under which the manufacturer markets the substance known as ‘Chlorphenesin’. The Nycil
+powder contains zinc oxide and boric acid and they form 32% of the total contents of Nycil powder.
+The rest of the material is starch and talc. Nycil powder is devised so as to retain skin cleanliness in
+order to protect it against prickly heat and infection. It also gives freshness and comfort. It
+consequently falls under Entry 79 of the first schedule to KGST Act.
+10. Learned senior counsel relied on B.Shah & Company v State of Gujarat 10 (hereafter “Shah &
+Co”), and urged that Chlorphenesin is a potent antifungal, antibacterial and trichomonicidal
+substance of low toxicity. It is effective against common dermatophytes causing tinea pedis
+(Athelet’s foot) and other dematomycoses, epidermophyton, floccosum and the various
+trichophyton, species such bacteria as streptococci, staphyloccocci, coliform organisms and
+clostridii. Nycil is effective in eliminating pruritus ani and pruritus vulvae. Pruritus ani and pruritus
+vulvae are frequently of bacterial or fungal origins, or the lesions may become infected with bacterial
+or fungi, and Nycil is effective in eliminating such organisms.
+11. In Shah & Co (supra), it was held that Nycil as powder or ointment is recommended for the
+treatment of prickly heat and dhobie itch and active skin protection during ringworms and other
+fungicidal infections. It was submitted that Nycil powder is suitable for the initial treatment of acute
+mycotic infection since it is an absorbant, in addition to exercising its fungicidal action. It was
+argued that the ingredients of Nycil powder are Chlorphenesin B.P. 1%; Zinc Oxide I.P. 16%; Boric
+Acid 16% Starch I.P. 51% and Talc. Thus, about one- third (33%) of its ingredients are medicinal
+products. It was pointed out that the (1971) 28 STC 5 (Guj) face of the container, in which the
+product is sold, contains the following description:
+“Nycil contains chlorphenesin the antibacterial and antifungal agent. It actively
+prevents prickly heat and protects the skin from sores, dhobie itch, and athlete’s
+foot.”
+12. It was argued that under Section 3(b) of the Drugs Act, “drug” is defined as “including all
+medicines used for internal or external use of human beings or animals intended to be used for
+mitigation or prevention of any disease or disorder”. “Cosmetics” under Section 3(aaa) of the said
+Act means, “any article intended to be sprinkled or sprayed or introduced or otherwise applied to a
+human body for cleansing, beautifying, promoting attractiveness or altering the appearance”, which
+also includes any article intended for use as a component of cosmetic. To bring or classify an article
+under Entry 79 of the First Schedule, the article must be a medicinal formulation or preparation
+which is ready for use either internally or externally for treatment or mitigation or prevention of
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+5
+diseases or disorders in human beings or animals. “Treatment” relates to diseases or disorders.
+Though medicinal formulations or preparation, can be used internally or externally, unless such use
+is by way of treatment of a disease or disorder in human beings or animals, it cannot be brought
+under the category of medicine. Clearly, in this case, Nycil powder is used to treat several
+dermatological conditions, including prickly heat. In fact, there is no medical treatment for that
+condition other than the use of Nycil.
+13. It was argued that having regard to the above circumstances, Nycil prickly heat powder, which is
+used only to absorb sweat and moisture from the body and to keep away rashes in human beings,
+should be considered to be either a “drug” or “medicine” -in view of the composition, it is nothing
+but a medicinal preparation used as such and for the purpose for which talcum powder is used.
+14. Learned senior counsel urged this court to follow the decision in Puma Ayurvedic Herbal (supra)
+where the assessee’s claim that its various products, including herbal powders, were medicaments,
+was considered. The court adopted a twin test to consider whether any item is a drug, or
+medicament, or cosmetic. The first is whether, the item is commonly understood as a medicament
+i.e. the common parlance test. If a product falls in the category of medicament it will not be an item
+of common use. A user will use it only for treating a particular ailment and will stop its use after the
+ailment is cured. The approach of the consumer is crucial. The second is, whether the ingredients
+are described in the medical literature, as necessary for healing.
+15. Learned senior counsel submitted that in B.P.L Pharmaceuticals v. Collector of Central Excise11
+(hereafter “B.P.L Pharmaceuticals Ltd.”), “Selsun Shampoo” was under consideration for purposes
+of Central Excise classification. The manufacturers claimed that the shampoo was a medicated one,
+meant to treat dandruff, a scalp disease. This court took note of the (1995) 3 SCR 1235 preparation,
+label, literature, character, common and commercial parlance and held the product was classifiable
+as a medicament, as it was not an ordinary shampoo of common use but was meant to cure a
+particular scalp or hair disease. After the cure, it was not meant to be used in the ordinary course.
+Muller & Phipps (India) Ltd (supra) was next relied on to urge that similar to this case, “Johnson
+Prickly Heat Powder” was held to be a medicament as it was “not an ordinary talcum powder but a
+powder to be used to get rid of the problem of prickly heat”.
+16. In Ponds India (supra), the court had to consider whether white or yellow petroleum jelly
+(non-perfumed) sold as “Vaseline” was a “drug” or a “cosmetic”. It was urged that the court took
+note of the fact that the assessee was a licensee under the Drugs Act and that cosmetics within the
+meaning of the provisions were not covered in the Schedule to the exemption notification. It was
+pointed out that this court had held that while interpreting an entry in a taxing statute, the court’s
+role is to consider the effect of the law, upon considering it from different angles. Different tests are
+laid down for the interpretation of an entry in a taxing statute namely dictionary meaning, technical
+meaning, users point of view, popular meaning etc. While the purpose of a statute i.e. of collection of
+tax is important, yet that itself would not mean that an assessee would be made to pay tax although
+he is not liable therefor, or to pay a higher rate of tax when he is liable to pay at a lower rate. The
+court held that Vaseline was a drug, in that case. Learned senior counsel also relied on Union of
+India v Vicco Laboratories12 where the claim was that ‘Vicco Vajrudanti’ and ‘Vicco Termeric’
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+6
+(dental powder and turmeric powder) were ‘ayurvedic medicines’. The issue had been decided by the
+Supreme Court in favour of the assessee, initially, which was sought to be re-opened. The court held
+that to be impermissible, as the goods had been declared as drugs.
+17. Learned senior counsel relied heavily on Commissioner of Central Excise v Hindustan Lever
+Ltd13 (hereafter “Hindustan Lever”) and urged that merely because a particular product is
+substantially for the care of skin and simply because it contains subsidiary pharmaceutical or
+antiseptic constituents or is having subsidiary curative or prophylactic value, it would not become
+medicament and would still qualify as the product for the care of the skin. It was stressed that the
+onus is on the revenue that the classification sought by it (if it claims the product not to be a drug or
+medication, but a cosmetic), to discharge it with proof.
+18. It was urged, lastly by relying on Collector of Central Excise v Wockhardt Life Sciences Ltd14.,
+(hereafter “Wockhardt Life Sciences Ltd”) that the “common parlance test” or the “commercial
+usage test” is most appropriate. Learned counsel relied on the following observations:
+“33. There is no fixed test for classification of a taxable commodity.
+This is probably the reason why the ‘common parlance test’ or the ‘commercial usage test’ are the
+most common (see A. Nagaraju Bros. v. State of A.P. [1994 Supp (3) SCC 122] ). Whether a
+particular article will fall within a particular tariff heading or not has 2007 (12) SCR 534 2015 (10)
+SCC 742 (2012) 5 SCC 585 to be decided on the basis of the tangible material or evidence to
+determine how such an article is understood in ‘common parlance’ or in ‘commercial world’ or in
+‘trade circle’ or in its popular sense meaning. It is they who are concerned with it and it is the sense
+in which they understand it that constitutes the definitive index of the legislative intention, when the
+statute was enacted.
+19. The submissions of learned senior counsel, in Heinz were substantially adopted on behalf of
+GSK, in the Tamil Nadu case. In addition, Ms. Charanya Laxmikumaran, learned counsel urged that
+the statute in TGST Act is different, because in the Entry, relied on by the revenue, is dependant
+solely on the Explanation [to Entry I (iii) of Part F of the First Schedule]. However, the product, by
+its description, purpose, and application of the common parlance test, squarely fell within Entry
+20A of Part C of the First Schedule, which were medical preparations, to be used internally or meant
+for external use or application “for treatment of diseases or disorders”. It was underlined that the
+exclusion from this entry was of products capable of use as creams, hair oils, tooth pastes, tooth
+powders, cosmetics, toilet articles, soaps and shampoos. Learned counsel submitted that the specific
+mention of one class of powders, i.e. tooth powder, and use of “cosmetic” with other expressions,
+clarifying that if the use of the product was only or predominantly as cosmetic, would it not fall
+under Entry 20A. It was submitted that having regard to the literature and the essential purpose of
+Nycil powder, it did not fit the description as a cosmetic [which is excluded], even if the Explanation
+to Entry I (iii) of Part F were taken into account. Thus, it has to be treated as a medicine.
+20. Learned counsel relied on S. Sundaram Pillai v V. R. Pattabiraman15 and urged that the
+Explanation, to Entry I (iii) has to be considered in the context of the established rule that while a
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+7
+proviso excepts something out of the enactment which would otherwise be within its purview yet, if
+the text, context or purpose so require a different rule may apply. Likewise, an explanation is to
+explain the meaning of words of the section but if the language or purpose so require, the
+explanation can be so interpreted. All that the explanation did was to say that if the exclusion of
+cosmetic articles from Entry 20 per se did not result in its falling within the Entry relating to
+cosmetics, i.e. Entry I of Part F. It continued to be essentially a medicine, for prickly heat.
+21. Next, Share Medical Care v Union of India 16 was relied upon, to urge that if two interpretations
+are possible, that favouring the assessee should be adopted. Pappu Sweets and Biscuits v. Commr.
+Of Trade Tax, U.P17 (hereafter “Pappu Sweets and Biscuits”) and Collector of Excise v. M/s Parle
+Exports (P) Ltd18 were cited for the argument that the words used in the provision, imposing taxes
+or granting exemption should be understood in the same way for which they are understood in
+ordinary parlance in the area in which the law is in force or by the people who ordinarily deal with
+them.
+[1985] 2 SCR 643 2007 (3) SCR 44 1998 (Suppl) (2) SCR 119 1988 (Suppl) (3) SCR 933 IV
+22. Mr. Pallav Sisodia, learned senior counsel appearing on behalf of the State of Kerala, urged that
+the correct test to be applied is whether the product is capable of use as a medication. He relied on
+Collector of Central Excise v CIENS Laboratories19 (hereafter “CIENS Laboratories”) to say that this
+court had elaborately considered all relevant factors, and devised the following test:
+“19. Thus, the following guiding principles emerge from the above discussion. Firstly,
+when a product contains pharmaceutical ingredients that have therapeutic or
+prophylactic or curative properties, the proportion of such ingredients is not
+invariably decisive. What is of importance is the curative attributes of such
+ingredients that render the product a medicament and not a cosmetic. Secondly,
+though a product is sold without a prescription of a medical practitioner, it does not
+lead to the immediate conclusion that all products that are sold over across the
+counter are cosmetics. There are several products that are sold over-the-counter and
+are yet, medicaments. Thirdly, prior to adjudicating upon whether a product is a
+medicament or not, Courts have to see what the people who actually use the product
+understand the product to be. If a product's primary function is "care" and not "cure",
+it is not a medicament. Cosmetic products are used in enhancing or improving a
+person's appearance or beauty, whereas medicinal products are used to treat or cure
+some medical condition. A product that is used mainly in curing or treating ailments
+or diseases and contains curative ingredients even in small quantities, is to be
+branded as a medicament.”
+23. It was submitted that the expression “medicated” has great significance, because it implies that a
+substance is filled with, or covered in medicine, or medication. Learned counsel relied on the
+judgment of this court, in Union of India (UOI) & Ors v Leukoplast Private Limited & Ors 20 where
+the assessee’s contention that a surgical pad medicated with Nitrofurozone was not a patent or 2013
+(14) SCR 38 1994 (1) SCR 343 proprietary medicine, was rejected. The court noted that the addition
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+8
+of a small quantity of Nitrofurozone after rendering the pad sterile, made it a medicine.
+24. It was submitted that the intention of the legislature was to ensure that the article fell within the
+cosmetic class of products while classifying it. Therefore, the expression “medicated” was used, in
+conjunction with “talcum powder”. When consciously the law classified the goods and grouped them
+together as part of one entry, the court has to give effect to their plain intendment. Thus, the
+inclusion of “talcum powder” and “medicated talcum powder” under the same entry, i.e. Entry 127
+was by design, to ensure that the product was not classified elsewhere. It was submitted that mere
+use of “powder” or “talcum powder” would not have covered Nycil powder as a cosmetic, because it
+had certain ingredients that could be preventive and curative. However, pre-fixing “medicated” to
+“talcum powder” rendered the issue, beyond debate.
+25. It was submitted that products which are sold over the counter are sometimes hybrid in nature,
+such as lozenges, cough drops, which double up both as curative of certain ailments, as well as
+sweets or eatables. Likewise, Nycil powder has dual use: it can be used as a cosmetic, but has a
+medicinal use as well. However, the statute in this case, clearly requires its classification as a
+cosmetic, along with others, in view of the specific and unambiguous use of the term “medicated
+talcum powder”.
+26. Learned counsel for the revenue relied on Hamdard (Wakf) Laboratories (supra) and N.D.P.
+Namboodripad (Dead) by LRs. v. Union of India 21 and submitted that when an interpretation
+clause uses the word "includes", it is meant to be extensive. The term 'and includes' is intended to
+rope in items which would not be part of the meaning, but for the definition the words 'includes'
+thus, means 'comprises' or 'consists of’.
+27. Mr. K. Radhakrishna, learned senior counsel appearing for the revenue, in the Tamil Nadu case,
+contended that the history of the legislation is a decisive factor to be taken into account, while
+determining the proper classification of a product. It was pointed out that two factors are important:
+one, that the entry (entry 20, Part C of the First Schedule which deals with “medicines”) was
+amended in 1994. Before amendment (on 01.04.1994), the entry clearly stated that preparations or
+formulations that were “capable of being used as creams, hair oils, tooth pastes, tooth powders,
+cosmetics, toilet articles, soaps and shampoos” were to be “excluded”. For the same period,
+cosmetics (described as scents, hair oils etc, and falling in Entry 1 of Part F of the First Schedule)
+included talcum powder. Two, the placement of talcum powder, with lipsticks, lip salve, nail polish,
+nail varnishes, nail brushes, toilet powders, baby powders, talcum powders, powder pads, etc.
+clearly established that all manner of talcum powder fell within the entry, i.e. Entry 1(iii). After
+amendment, with effect from 01.04.1994, the matter was placed beyond any controversy, by the
+explanation, 2007 (3) SCR 769 which was added. The explanation specifically stated that items
+“listed above” “even if medicated or as defined in Section 3” (of the Drugs Act) “or manufactured on
+the license issued under the said Act will fall under this item”. The explanation clearly brought
+within the fold of Entry 1, Part F medicated talcum powder, regardless that the license to
+manufacture it, was under the Drugs Act.
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+9
+28. Learned senior counsel highlighted that the Madras High Court, in the impugned judgment, had
+considered the meaning of the expressions “drug” and “cosmetic” under the Drugs Act, and also
+taken note of the dictionary meanings of those terms. Learned senior counsel relied on Dattatraya
+Govind Mahajan & Ors v. State of Maharashtra & Anr 22 and Mrs. Zakiya Begum & Ors v. Mrs.
+Shanaz Ali & Ors23 and urged that though a provision may be termed as an explanation, the court
+must construe it according to its plain language, to give effect to legislative intent. Learned senior
+counsel’s submission was that the impugned judgment correctly inferred and found that the
+product, Nycil prickly heat powder, on the plain terms of the statute, was a cosmetic, especially in
+view of the Explanation which particularly referred to whether the product “is medicated” or not,
+and irrespective of whether it is under a license issued under the Drugs Act.
+V The Provisions: KGST Act 1977 (2) SCR 790 2010 (9) SCR 692
+29. In terms of Section 5 (c) of the KGST Act, goods specified in the First Schedule, were subject to
+sale at first point. The revenue alleged that Nycil prickly heat powder, the article in question is
+subject to levy as a cosmetic. Heinz, on the other hand, contended that it is a drug, or medication.
+30. Entry 79 of the First schedule to the KGST Act reads as under:
+“Medicines and Drugs including allopathic, ayurvedic, homeopathic, siddha and unani preparations
+and glucose IP.”
+31. Entry 127 of the First Schedule to the KGST Act reads thus:
+“Shampoo, Talcum Powder including medicated talcum powder, Sandalwood Oil,
+Ramacham Oil, Cinnamon Oil, other perfurmeries and cosmetics not falling under
+any other entry in this Schedule”.
+The Provisions: TNGST Act
+32. In terms of Section 3 of the TNGST Act, every dealer [other than the dealer, casual trader or
+agent of a non- resident dealer referred to in clause
+(ii)], whose total turnover for a year exceeds „  3 lakhs is subjected to sales tax levy.
+33. GSK, the assessee, contends that the product, Nycil prickly heat powder is a medication or drug,
+classifiable under Entry 20 of Part C, which reads as follows:
+“Part C of the First Schedule.
+“Entry 20(A) (A) Medicines conforming to the following description: Any medicinal
+formulation or preparation ready for use internally or externally for treatment or
+mitigation or prevention of diseases or disorders in human being or animals
+(excluding products capable of being used as creams, hair oils, tooth pastes, tooth
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+10
+powders, cosmetics, toilet articles, soaps and shampoos), but including
+(i) Allopathic medicine.
+(ii) Other medicines and drugs including ayurvedic, homeopathic, siddha and unani
+preparations.
+(iii) Medicinal mixtures or compounds, the components of which have not already
+suffered tax.
+(iv) Surgical dressing which expression shall include adhesive plasters, adhesive
+plaster dressing, gypsona plaster of paris and bandages, velroc pop bandages, elastro
+crape bandages, gauze, wadding gauze, lint and cotton wool poultices and similar
+articles impregnated or coated with pharmaceutical substances put up in forms or
+packing for surgical purposes which have been sterilized and conform to the accepted
+standards of the medical profession.
+(v) Pharmaceutical and surgical products of plastic and rubber including gloves,
+aprons and caps.” Cosmetics fall in Entry 1 of Part F of First Schedule:
+“Part F 1 (i) Scents and perfumes in any forms excluding doop and agarbathis but
+including aragaja, javvadu and punugu.
+(ii) Hair oils, hair creams, hair dyes, hair darkeners, hair tonics, brilliantines,
+pomades and vaselines and all hair applicants other than shampoos mentioned in
+item 4 of the Sixth Schedule.
+(iii) Lipsticks, lip-salve, nail polishes, nail varnishes, nail brushes, beauty boxes, face
+powders, toilet powders, baby powders, talcum powders, powder compacts, powder
+pads and puffs, toilet sets made of all materials (with or without contents) toilet
+sponges, scent spray, depilatories, blemish removers, eye liners all sorts, eye shadow,
+eyebrow pencils, eyelash brushes, eau de cologne, solid colognes, lavender water,
+snows, face creams, all purpose creams, cold creams, cleaning creams, make-up
+creams, beauty creams, beauty milk, cleaning milk, hair foods, skin tonics,
+complexion rouge, nail cutters, sanitary towels and napkins, astringent lotions,
+pre-shave and aftershave lotions and creams, moisturisers of all sorts and personal
+(body) deodorant.” By amendment to the TNGST Act, in 1994, the following
+explanation was added, below Item I (iii), Part F, of the First Schedule:
+“Explanation- Any of the items listed above even if medicated or as defined in section
+3 of the Drugs and Cosmetics Act, 1940 (Central Act XXIII of 1940) or manufactured
+on the licence issued under the said Act will fall under this item.” VI
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+11
+34. The assessees contends that the product is sold under the trade name Nycil
+powder. They market the substance known as ‘Chlorphenesin’. Nycil powder contains
+zinc oxide and boric acid. They constitute 32% of the total contents of Nycil. The rest
+is starch and talc. Nycil powder, it is said, is designed to keep the skin clean and offer
+protection against prickly heat and infection besides giving comfort and freshness.
+Therefore, it would fall under Entry 79 of the First Schedule to the KGST Act. The
+nature, composition and property of Nycil powder, was set out by the Gujarat High
+Court in the case of Shah & Co (supra):
+“Nycil Powder has the following features and attributes: (1) Chlorphenesin, being a
+medical substance was introduced as a result of original work in the British Drug
+House Research Laboratories. “Nycil” is the trade name under which the British Drug
+House product of chlorphenesin is manufactured and marketed. (2) Chlorphenesin is
+a potent antifungal, antibacterial and trichomonicidal substance of low toxicity.
+Organisms against which it is effective include the common dermatophytes causing
+tinea pedis (Athelct's foot) and other dematomycoses, epidermophyton, floccosum
+and the various trichophyton species such bacteria as streptococci, staphyloccocci,
+coliform organisms and clostridii. Nycil is effective in eliminating pruritus ani and
+pruritus vulvae. Pruritus ani and pruritus vulvae are frequently of bacterial or fungal
+origins, or the lesions may become infected with bacterial or fungi, and Nycil is
+effective in eliminating such organisms.
+(3) Nycil in the form of powder or ointment is recommended for the treatment of
+prickly heat and dhobie itch and active skin protection during ringworms and other
+fungicidal infections. Nycil powder is particularly suitable for the initial treatment of
+acute mycotic infection as it absorbs in addition to exercising its fungicidal action. (4)
+The ingredients of Nycial powder are as under:
+         (i)          Chlorphenesin B.P.                                     1%
+         (ii)         Zinc Oxide I.P                                        16%
+         (iii)               Boric Acid                                            16%
+         (iv)         Starch I.P.                                          51%
+         (v)          Talc                                                100%
+The above composition of Nycil powder shows that it contains medicinal articles to
+the extent of 33 per cent.
+(5) On the sample bottle of Nycil powder, produced before the lower au thorities, on
+its one side the following was found printed: “nycil for Prickly Head and Active Skin
+Protection”. On the other side, the following was found to have been printed: “Nycil
+contains chlorphenesin the antibacterial and antifungal agent. It actively prevents
+prickly heat and protects the skin from sores, dhobie itch, and athlete's foot.” The
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+12
+formula of Nycil powder is also printed on the container. The Tribunal has made the
+following pertinent observations as regards the container of the Nycil powder:
+“It will be noticed that the article is not called medicated or talcum powder or
+powder. No name is given except ‘Nycil’ which as stated above is only a trade name of
+the different products manufactured by British Drug House. The article
+manufactured is packed in a long and round container of plastic. It has a separate
+cover of plastic. The contents are also covered by a small plastic cover which contains
+spaces for making holes. The powder is white in colour and perfumed and in general
+appearance is not different from the white talcum or such other powders.” (6) The
+medical substances used as ingredients in the manufacture of Nycil powder are
+Indian Pharmaceutical or British Pharmaceutical articles for the use of which licence
+is necessary. Licence is also necessary under the Indian Drugs Control Act for
+manufacturing, stocking or selling Nycil powder and the licence has accordingly been
+issued. The Government of India, Ministry of Finance, has held and directed that
+Nycil powder should be assessed to duty as “P. and P. Medicines” under item No. 14E
+of the Central Excise Tariff.”
+35. The revenue contends - in the Kerala case, that Nycil prickly heat powder is
+“medicated talcum powder” since there is a separate entry for medicated talcum
+powder (Entry 127). It, therefore, has to be classified under Entry 127 of the First
+Schedule to the KGST Act. In the Tamil Nadu case, it is contended that the exclusion
+of products capable of being used as cosmetics from Entry 20 in Part C, on the one
+hand, and the inclusion of talcum powder, in Entry 1 of Part F, as cosmetics, read
+with the explanation to Entry 1, is decisive that the proper classification of the
+product is as a cosmetic.
+36. In Hindustan Lever (supra) the product, Vaseline Intensive Care Heel Guard, was held to be a
+medicament under Chapter 30 of Central Excise Tariff Act, 1985 (“CETA”) (Item 3003.10, as a
+patent or proprietary medicine). The court took note of the definition of medicament (Note 2(i) to
+Chapter 30) which were goods “other than foods or beverages such as diabetic, or fortified foods or
+beverages” not falling in Chapter heading 30.03 or 30.04 comprising of two or more constituents for
+“therapeutic or prophylactic uses” or “unmixed products” suitable for such uses. The court also
+noticed that “patent or proprietary medicaments” were drug or medicinal preparations in any form
+to prevent, or treat ailments which bears a name on the container a name “note specified in a
+monograph” in a pharmacopoeia, formulator or other publications or whose brand name is
+registered as a medicine. The court took note of a number of previous judgments, especially CIENS
+Laboratories (supra), Muller and Phipps (India) Ltd (supra); Puma Ayurvedic Herbal (supra) and
+B.P.L Pharmaceuticals (supra) and, after considering that the product in question was developed
+specially to treat fungal infection, having antifungal properties, held it to be classifiable as
+medicinal, meant for therapeutic use, to treat cracked heels.
+37. In CIENS Laboratories (supra) too, the proper classification of a moisturising cream – whether it
+was a drug, a medicament, under Chapter 30, CETA, or a beauty or skin care product under Chapter
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+13
+34 was involved. The court concluded that having regard to the product’s ingredients, it was not a
+mere skin care product, but meant to treat skin complaints like “fissure feet, dry scaly skin
+conditions, ichthyosis etc”, and that it had therapeutic or prophylactic values. The court had
+followed B.P.L Laboratories (supra).
+38. The context of B.P.L. Laboratories (supra) was again whether the Selenium Sulphide lotion was
+a medicament under Chapter 30 CETA (sub heading 3003.19) or a cosmetic (Chapter 33, sub
+heading 3305.90). The court rejected the revenue’s contentions, holding that the article was a
+medicament used to treat Seborrheic dermatitis (dandruff); manufactured under drug license, the
+drug controller had held its ingredient, i.e., Selenium Sulphide to be in therapeutic concentration
+and that it was included as a drug in the National Formulatory, USA. The court resolved the issue of
+interpretation, having regard to the Chapter Notes and General Rules of Interpretation, as well as
+the language of the specific entries in question. Other factors, such as that it was manufactured
+under a drug licence; the Food and Drugs Administration had certified it as a drug; that the Drug
+Controller had categorically opined that Selenium Sulphide present in Selsun was in a therapeutic
+concentration; that the brand name “Selsun” was derived from the name of the drug Selenium
+Sulfide, all weighed into the conclusion recorded by the court.
+39. In Muller & Phipps (India) Ltd (supra), the dispute was with respect to prickly heat powder sold
+under the brand “Johnson’s Prickly Heat Powder” – whether it was medicament covered under
+Chapter 30 CETA, or beauty and skin care item. This Court noted the previous ruling in B.P.L.
+Pharmaceuticals Ltd. (supra) and after noting the ingredients of the product as well as the
+Harmonised System of Nomenclature (HSN) concluded that as to the manner in which the goods
+had been treated earlier - as medicament on the basis of commercial parlance and understanding, -
+it had to be classified as such. This court also noticed the judgment in Collector of Central Excise v.
+Wood Crafts Products Ltd.24 and held that Central Excise Tariffs are based on internationally
+accepted nomenclature in HSN; consequently, disputes relating to classification had to, as far as
+possible, accord with the nomenclatures in HSN.
+40. The decisions relied on have substantially been on the basis of classification under the CETA.
+Central Excise classifications are elaborate; the General notes, and Chapter notes, together with the
+exclusions, [and further explanations] are developed interpretive tools. Plus, this court has striven,
+to the extent possible, to interpret such entries, in line with HSN classification. In the present case,
+the distinguishing feature of both the KGST Act and TGST Act, is that neither have general or
+chapter notes. This sets the statutes apart from decisions based on CETA, to a large extent. The
+court has to, as a principle, interpret the concerned statutes, in the light of their plain words, and
+having regard to their internal guides or aids.
+(1995) 3 SCC 454
+41. In CIENS Laboratories (supra), the court had indicated a three-step test to determine, if a
+product were a medicament or not. Other tests have been indicated in different judgments. All these
+may be summarized as follows:
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+14
+(i) When a product contains pharmaceutical ingredients with therapeutic/
+prophylactic or curative properties, the proportion of the ingredients is not decisive.
+The curative attributes of the ingredients render it a medicament and not a cosmetic.
+(CIENS Laboratories)
+(ii) A product can be sold without a prescription from a medical practitioner. Yet it
+does not lead to the conclusion that the sale of over- the-counter products are
+cosmetics. Several products are sold over-the- counter and are yet, medicaments.
+(CIENS Laboratories)
+(iii) Before adjudicating whether a product is a medicament or not, courts have to
+consider what the people who use the product understand it to be. If a product's
+primary function is "care" and not "cure", it is not a medicament. Cosmetic products
+are used in enhancing or improving a person's appearance or beauty, whereas
+medicinal products are used to treat or cure some medical condition. A product that
+is used mainly in curing or treating ailments or diseases and contains curative
+ingredients even in small quantities, is to be branded as a medicament. (CIENS
+Laboratories)
+(iv) Products cannot be classified as cosmetics solely on the basis of their outward
+packing. (Meghdoot Gramodyog Sewa Sansthan, UP. v. Commissioner of Central
+Excise, Lucknow25)
+(v) Mixing medical ingredients with other products, or preservatives, does not alter
+its character as a medicament (Amrutanjan Ltd. v. Collector Central Excise26) [2005]
+4 SCC 15 [1996] 9 SCC 413
+(vi) That a license under the Drugs Act is necessary is not a determinative or decisive
+factor always.
+42. The formulation of the tests, in all the above decisions was specific to the products involved and
+the rival or competing revenue entries (and in some cases, exemption notifications).
+43. In CIENS Laboratories (supra), the product was a cream prescribed by dermatologists to treat
+dry skin conditions and was also available in pharmaceutical shops in the market and not primarily
+intended for the protection of the skin. Its pharmaceutical ingredients showed that it was used for
+prophylactic and therapeutic purposes. The court noted that Heading 33.04 of CETA (dealing with
+beauty or make-up preparations and preparations for skin care) specifically excluded medicaments
+and medicinal preparations used to treat certain complaints, meant to be under Heading 30.03
+(medicaments) or 30.04 (products containing pharmaceutical substances used for the medical,
+surgical, dental or veterinary purpose). This court held that the product is a medicament classifiable
+under Heading 30.03 (medicament) and not a cosmetic preparation.
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+15
+44. In Wockhardt Life Sciences Ltd (supra) the products were an “Iodine Cleansing Solution USP”
+and “Wokadine Surgical Scrub”. This court rejected the revenue’s argument that they were
+cosmetics, and held that products, comprising two or more constituents which were compounded
+together either for therapeutic or prophylactic uses, were “Medicaments”. The products in question
+were primarily used for the external treatment of human-beings for the purpose of prevention of
+disease. The court said that Medicaments are products which can be used either for therapeutic or
+prophylactic usage. As the products were basically and primarily used for prophylactic uses, their
+classification was proper under chapter sub-heading 3402.90 and, the classification under chapter
+sub-heading 3003 was not correct.
+45. In Pappu Sweets and Biscuits (supra), the issue was whether “toffees” were “sweetmeats” in the
+context of an exemption notification. The court ruled that having regard to the object of the
+notification and the application of the common parlance test, the term “sweetmeats” had to be seen
+in the context, as confections available in sweetmeat shops and that toffees were not products to be
+found in such premises, as they were produced on an industrial scale. In Puma Ayurvedic Herbal,
+several products were considered, of which neem facial pack (Neemal), anti-pimple herbal powder
+(Pimplex), herbal facial pack (Herbaucare), herbal remedy for facial blemishes, hair tonic powder
+(Sukeshi), anti-dandruff oil (Dandika), shishu rakshan tel and neem tulsi were held to be medicinal
+whereas other products were cosmetic. In Muller & Phipps (India) Ltd (supra), the product was
+Johnson’s prickly heat powder. The revenue contended that it was a cosmetic falling under Chapter
+33, CETA; the assessee contended that it was a drug or medication, under Chapter 30. This court
+went by the official opinion of the drug administration (“when throughout the meaning given to
+products in question not only by the department itself but also by other departments like Drug
+Controller and the Central Sales Tax authorities is that the product in question is a medicinal
+preparation should be accepted”). Also, the HSN classification was largely influential in the outcome
+of the case.
+46. In Ponds India Ltd. (supra), the question was whether petroleum jelly, under the brand
+“Vaseline” was held to be a drug, as it was used for various skin disorders, and not a cosmetic, as
+contended by the state. This court noted the previous litigation history and ruled that the consistent
+classification of the same product, for a number of years, was as a drug, and not a cosmetic, and the
+revenue’s conduct in trying to change the classification without any reason, was unjustified.
+47. In all the cases cited, the contest, by and large was whether the product was a cosmetic, or a
+drug, under Chapters 30 and 33, CETA. The phraseology of the articles grouped together, in one
+chapter differs from the phraseology of the other chapters, in that statute. Moreover, to avoid
+ambiguity, General Rules of Interpretation, besides chapter notes have been prescribed. The court
+went by those rules, and also adopted the common parlance test. A noteworthy feature is that the
+court had no occasion to consider an entry which was as specific as “medicated Talcum Powder”.
+Undeniably, talcum powder is made from talc27, which is a “common silicate material that is
+distinguished from almost all other https://www.britannica.com/science/talc (last accessed on 02
+May 2023 at 9.30 PM) minerals by its extreme softness” According to the literature made available
+to the court, there are medicinal ingredients in Nycil prickly powder, which is also manufactured
+under a Drug License. Yet, the State Legislature, in Entry 127, thought it fit to include, while dealing
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+16
+with cosmetics, such as shampoos, “talcum Powder including medicated talcum powder.” There can
+be no two opinions that talcum powder ipso facto is classifiable as a cosmetic. Yet, the expression
+“including” used in Entry 127 has the effect of bringing in [or “pulling in”] an entirely different
+product, which ordinarily may not have been in the same class, i.e. medicated powder. To rule out
+any ambiguity, the legislature specifically referred to a sub class of medicated powders, i.e.
+medicated talcum powder. Such specific entries have not come up for consideration, before this
+court; as noticed, predominantly, the courts have ruled that in the context of broad descriptions
+such as cosmetics or medications, if there are medical ingredients, in a product, which is meant as a
+curative or prophylactic product, it would be classifiable as drugs or medicines. However, the
+specificity employed by the legislature in this case, rules out that possibility. Besides, “includes” has
+been construed as broadening the sweep of a provision, and at the same time restricting its
+amplitude to the meanings ascribed in the statute. This proposition was enunciated in Hamdard
+(Wakf) Laboratories (supra), where it was held that:
+“34. When an interpretation clause uses the word "includes", it is prima facie
+extensive. When it uses the word "means and includes", it will afford an exhaustive
+explanation to the meaning which for the purposes of the Act must invariably be
+attached to the word or expression.” The court, in Hamdard (Wakf) Laboratories
+relied on N.D.P.
+Namboodripad (Dead) by LRs. v. Union of India & Ors.28:
+“15. The word "includes" has different meanings in different contexts. Standard
+dictionaries assign more than one meaning to the word "include". Webster's
+Dictionary defines the word "include" as synonymous with "comprise" or "contain".
+Illustrated Oxford Dictionary defines the word "include" as: (i) comprise or reckon in
+as a part of a whole; (ii) treat or regard as so included. Collins Dictionary of English
+Language defines the word "includes" as: (i) to have as contents or part of the
+contents; be made up of or contain; (ii) to add as part of something else; put in as
+part of a set, group or a category; (iii) to contain as a secondary or minor ingredient
+or element. It is no doubt true that generally when the word "include" is used in a
+definition clause, it is used as a word of enlargement, that is to make the definition
+extensive and not restrictive. But the word "includes" is also used to connote a
+specific meaning, that is, as "means and includes" or "comprises" or "consists of."
+48. The use of the term “includes” after talcum powder, followed by “medicated talcum powder” in
+this court’s opinion can lead to only one inference, which is that the clear legislative intent was that
+all kinds of talcum powders, which contained medications (irrespective of the proportion, or at any
+rate, not containing predominant proportions) should necessarily be treated as cosmetics, falling
+under Entry 127. The pointed phraseology in fact concludes the issue, leaving no scope for the court
+to interpret the Entry as including any class of goods, other than such as Nycil prickly heat powder,
+which is a talcum powder that is also medicated. A salutary rule for fiscal legislation interpretation is
+that words used in the statute must be given their plain meaning. The court’s function is not to give
+a strained and unnatural meaning to the provision. The 2007 (3) SCR 769 intention of the
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+17
+legislature, manifested in plain words, must be accepted. In the decision of A.V. Fernandez v. State
+of Kerala29, the Constitution Bench stated the principle of strict interpretation in construing a
+taxing statute, in the following manner:
+“[..] In construing fiscal statutes and in determining the liability of a subject to tax
+one must have regard to the strict letter of the law. If the revenue satisfies the court
+that the case falls strictly within the provisions of the law, the subject can be taxed. If,
+on the other hand, the case of not covered within the four corners of the provisions of
+the taxing statue, no tax can be imposed by inference or by analogy or by trying to
+probe into the intentions of the Legislature and by considering what was the
+substance of the matter.[..]”
+49. In the present case, the clear legislative intent, of inserting a carefully worded entry, which was a
+“hybrid” one, i.e. describing an article that contained medicinal ingredients, as well as those used for
+cosmetics, and yet placing such a creature (“neither beast nor fowl” so to say) in the category of
+cosmetics, ruled out altogether any interpretive scope of classifying it as a medicinal preparation, or
+drug or medicine. Therefore, this court cannot fault the High Court for drawing the conclusion that
+it did.
+50. Turning next to the Tamil Nadu case, the legislative history of the entry is telling. Talcum
+powder, lipsticks, lip salve, nail polish, nail varnishes, nail brushes, toilet powders, baby powders,
+talcum powders, powder pads, etc. clearly showed that all manner of talcum powder fell within
+Entry, i.e. Item 1. After the amendment, with effect from 01.04.1994, the explanation was added.
+The explanation specifically stated that items “listed above” “even if medicated 1957 (1) SCR 837 or
+as defined in Section 3” (of the Drugs Act) “or manufactured on the license issued under the said Act
+will fall under this item”. The explanation included, in Item 1, Part F medicated talcum powder,
+regardless that the license to manufacture it, was under the Drugs Act. The pointed reference to
+toilet powders, baby powders, talcum powders, powder pads, along with the additional words “even
+if medicated” again, like in the Kerala case, is decisive.
+51. In a decision of this court, Oblum Electrical Industries Pvt. Ltd., Hyderabad v Collector of
+Customs, Bombay30 the function of an explanation was stated to be thus:
+“It is a well settled principle of statutory construction that the Explanation must be
+read so as to harmonise with and clear up any ambiguity in the main provision.”
+52. In Union of India (UOI) and Ors. vs. Godfrey Philips India Ltd. 31 this court had to deal with an
+explanation that expanded the meaning of “packing”. The court observed that explanations are also
+used to widen terms:
+“[..] The Explanation to Section 4(4)(d)(i) provides an exclusive definition of the term
+"packing" and it includes not only outer packing but also what may be called inner
+packing. Ordinarily bobbin, pirl, spool, reel and warp beam on which yarn is wound
+would not be regarded as packing of such yarn, but they are brought within the
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+18
+definition of "packing" by the Explanation. The Explanation thus extends the
+meaning of the word "packing" to cover items which would not ordinarily be regarded
+as forming part of packing. The Explanation then proceeds to say that "packing"
+means wrapper, container or any other thing in which the excisable goods are
+wrapped or contained. It is apparent from the wide language of the Explanation that
+every kind of container in which it can be said that the excisable goods are contained
+would be "packing" within the meaning of the Explanation and this would necessarily
+include a fortiori corrugated fibre board containers in which the cigarettes are 1997
+Supp (3) SCR 68 1985 Supp (3) SCR 123 contained. When Bombay Tyre International
+case was argued before us, it was at one stage sought to be contended, though rather
+faintly, that it is only the immediate packing in which the excisable goods are
+contained, that is primary packing alone, which would be liable to be regarded as
+"packing" within the meaning of the Explanation. But this argument was given up
+when it was pointed out that even secondary packing would be within the terms of
+the Explanation, because such secondary packing would also constitute a wrapper or
+a container in which the excisable goods are wrapped or contained. [..]”
+53. In the present case, the TNGST was consciously amended to include talcum powder, whether or
+not medicated in the specific entry or class of entries, enumerating cosmetics. Hence, like in the
+Kerala case, the plain meaning of that taxation head or entry had to be given, as there was no
+ambiguity. Consequently, the findings recorded by the High Courts are justified.
+54. For these reasons, this court is of the view that both sets of appeals have to fail. They are
+dismissed, but in the circumstances, without order on costs.
+...............................................J. [S. RAVINDRA BHAT] ..............................................J. [DIPANKAR
+DATTA] NEW DELHI;
+MAY 04, 2023.
+Heinz India Limited vs The State Of Kerala on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/107445190/
+19

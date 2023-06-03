@@ -1,0 +1,1816 @@
+Supreme Court of India
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Author: Dinesh Maheshwari
+Bench: Dinesh Maheshwari, Vikram Nath
+                                                                                        
+                                          IN THE SUPREME COURT OF INDIA
+                                           CIVIL APPELLATE JURISDICTION
+                                              CIVIL APPEAL NO. 9525 OF 2018
+                 COMMISSSIONER OF CUSTOMS, CENTRAL
+                 EXCISE AND SERVICE TAX, HYDERABAD                                      
+                                                                VERSUS
+                 ASHWANI HOMEO PHARMACY                                                 
+                                                               JUDGMENT
+DINESH MAHESHWARI, J.
+Table of Contents Preliminary and brief outline .......................................................................2 The
+Background: Show-Cause Notice and Reply ......................................4 Before the Commissioner of
+Customs and Central Excise ........................9 Before the Customs, Excise and Service Tax Appellate
+Tribunal ............18 Rival Submissions ....................................................................................24 Points
+for determination ...........................................................................31 The principles in the cited
+decisions.........................................................33 Application of the principles and twin test
+................................................55 Whether re-look at classification of the product in question justified
+........72 Conclusion ................................................................................................76 Signature Not
+Verified Digitally signed by Neetu Khajuria Date: 2023.05.03 14:04:16 IST Reason:
+Preliminary and brief outline
+1. This appeal is directed against the common judgment and order dated 31.01.2018, as passed by
+the Customs, Excise and Service Tax Appellate Tribunal1, insofar as relating to Appeal No.
+E/30050/20162, whereby the Tribunal has disapproved and reversed the order dated 16.10.2015, as
+p a s s e d  b y  t h e  C o m m i s s i o n e r  o f  C u s t o m s  a n d  C e n t r a l  E x c i s e ,  H y d e r a b a d 3  i n
+HYD-EXCUS-004-COM-042-15-16. 1.1. By the aforesaid order dated 16.10.2015 in relation to the
+period from December 2013 to November 2014, the Adjudicating Authority held that the product in
+question, known as “Aswini Homeo Arnica Hair Oil”4 could not be classified as ‘medicament’ under
+Tariff Item 3003 90 14 or under any item stated in Chapter 30 of the First Schedule to the Central
+Excise Tariff Act, 19855-6; and that the product in question, being “Hair oil”, was required to be
+classified as ‘cosmetic’ under Tariff Item 3305 90 19. Accordingly, the Adjudicating Authority
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+1
+confirmed the demand to the tune of Rs.2,72,14,266/- on the respondent for the differential duty
+payable in terms of Section 11-A (10) of the Central Excise Act, 19447; ordered payment of interest
+on the said differential duty in terms of Section 11-AA 1 Hereinafter also referred to as ‘the Tribunal’.
+2 The order bearing No. 30121 of 2018.
+3 Hereinafter also referred to as ‘the Adjudicating Authority’. 4 For short, ‘AHAHO’.
+5 Hereinafter also referred to as ‘the Act of 1985’.
+6 In the discussion hereinafter, reference to the relevant Chapter or the relevant Tariff Item is
+always pertaining to the ‘First Schedule to the Act of 1985’, unless indicated otherwise. 7 Hereinafter
+also referred to as ‘the Act of 1944’.
+of the Act of 1944; and imposed penalty in the sum of Rs.54,00,000/- under Rule 25 of the Central
+Excise Rules, 2002.
+1.2. However, the appeal preferred by the respondent was allowed by the Tribunal by its impugned
+order dated 31.01.2018 and the aforesaid order dated 16.10.2015 passed by the Adjudicating
+Authority was set aside. The Tribunal held that the product in question, AHAHO, fell in the category
+of ‘medicament’ and hence, was rightly classified under Chapter 30 of the First Schedule to the Act
+of 1985.
+1.3. An ancillary but intertwined aspect of the matter had been that the product in question was
+being classified as ‘medicament’ under the said Chapter 30 since the year 1994. According to the
+respondent, this classification was regularly accepted by the Department in the past with at least two
+successive orders of the Commissioner (Appeals) and hence, there was no justification in
+re-examining the issue. The Adjudicating Authority expressed the view that because of material
+amendment of the tariff entries in Chapters 30 and 33 in the year 2012, classification of the product
+in question required re-examination. The Tribunal, however, did not approve of this proposition of
+the Adjudicating Authority. 1.4. The appellant is aggrieved of the order so passed by the Tribunal
+and hence, has preferred this appeal while asserting that the product in question had rightly been
+classified by the Adjudicating Authority as ‘cosmetic’ in terms of Chapter 33 and hence, the demand
+in question deserves to be maintained. On the other hand, the respondent supports the order
+impugned while asserting that the product in question has rightly been classified as ‘medicament’ in
+terms of Chapter 30.
+2. In view of the above, the primary question in this appeal is as to whether the product in question,
+AHAHO, would be classified as ‘medicament’ under Chapter 30 or as ‘cosmetic’ under Chapter 33 of
+the First Schedule to the Act of 1985. The other question is as to whether because of amendment of
+the entries in the said Chapters 30 and 33 in the year 2012, classification of the product in question
+required re-examination, even though the same was classified as ‘medicament’ under the said
+Chapter 30 since the year 1994.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+2
+2.1. With reference to the aforementioned questions, we may take note of the relevant background
+aspects and stand of the respective parties with reference to the show-cause notice to the respondent
+and its reply. The Background: Show-Cause Notice and Reply
+3. The respondent, having registration number ADHPB1884HEM003 under the central excise, is
+engaged in the manufacture of the product in question, AHAHO, in its units at Moosapet (since the
+year 1994), Maheshwaram and Bala Nagar. Further, the respondent had classified the product under
+Tariff Item 3003 90 14 as ‘medicament’ and paid the excise duty at concessional rate accordingly.
+This classification of the product in question was examined as many as four times during the period
+1994-2004 and, according to the respondent, was duly accepted by the Department.
+4. It appears that even when classification of the product in question as ‘medicament’ had been
+accepted during the period 1994-2004, this classification remained in doubt and, particularly after
+changes in the Act of 1985 in the year 2012, the respondent was served with different show- cause
+notices pertaining to different periods of consideration, essentially to the effect that the product in
+question was classifiable as ‘cosmetic or toilet preparations’ under Chapter 33, Tariff Item 3305 09
+19. In the show-cause notice dated 26.12.2014, which forms the subject-matter of this appeal, the
+Adjudicating Authority, inter alia, stated as under: -
+“02. The assessees are engaged in the manufacture of 'Aswini Homeo Arnica Hair Oil'
+which was classified by them under Tariff Item No. 3003 9014 of the First Schedule
+to the Central Excise Tariff Act, 1985. However, as per Chapter 33 of the Central
+Excise Tariff Act, 1985, preparations for use on the hair are rightly classifiable under
+Chapter Sub Heading No. 33050919 and shall be liable for assessment under Section
+4A of the Central Excise Act, 1944 @12% adv. creating them as 'Cosmetic or Toilet
+preparations'. Accordingly, show cause notices as under were issued to the assessees.
+        Sr.       O.R. No.                  Period         Duty
+        No.
+        1         O.R. No. 21/2013-         April’ 2012    Rs. 73,71,267/-
+                  Adjn (Commr) CE           to     Sept’
+                  dt. 31.1.2013 OC          2012
+                  No.        33/2013
+                  (GGP/S-II)
+        2         O.R. No. 170/2013-        Sept’ 2012     Rs. 1,33,21,827/-
+                  Adjn (Commr) CE,          to March’
+                  dt. 6.9.2013 C. No.       2013
+                  V/15/14/CE/Adjn/2
+                  013 Divn. M)
+        3         O.R. No.49/2014 –         April’ 2013    Rs. 1,73,17,151/-
+                  Adjn (Commr) CE,          to     Nov’
+                  dt. 14.3.2014 C.          2013
+                  No.
+                  V/15/02/CE/Adjn/2
+                  014-CE(Divn-M)
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+3
+03. The present show cause notice is a statement under Section 11A (7A) of the Act
+covering the demand of duty for the subsequent period, and the grounds are the same
+as are mentioned in the earlier show cause notices. The details of the short payment
+of duty for the period from December, 2013 to November, 2014 are as under: -
+(Amount in Rs.) Quantity Assessable Duty Duty paid @ Duty short cleared (MI)
+Value payable 6.18% paid @ 12.36% 1,18,95,973 44,03,60,296 5,44,28,532
+2,72,14,266 2,72,14,266
+04. It appears that the assessees have contravened the provisions of Rule 4, 6, 8, 10 and 11 of the
+Central Excise Rules, 2002 in as much as they have wrongly classified 'Aswini Homeo Arnica Hair
+Oil' and short the duty of Rs. 2,72,14,266/- which appears to be recoverable from them under
+Section 11A of the Central Excise Act, 1944. It also appears that they are liable for payment of
+interest on the said amount of Central Excise duty under Section 11AA of the Central Excise Act,
+1944. It also appears that they are liable for penal action under Rule 25 of the Central Excise Rules,
+2002 for adopting incorrect classification and thus resorting to short payment of duty and for
+contravening the provisions of the Central Excise Act, 1944, and the rules made there under with
+intention to evade payment of duty.
+05. Now, therefore, M/s Aswini Homeo Pharmacy, 6-48,49,6-50 Aswini Homeo Pharmacy Unit,
+Balanagar Hyderabad are hereby required to show cause to the Commissioner of Customs & Central
+Excise, Hyderabad-IV Commissionerate, Ground Floor, Posnett Bhavan, Tilak Road, Hyderabad
+within thirty (30) days of receipt of this notice, as to why;
+i) Central Excise duty of Rs. 2,72,14,266/ (Rupees Two Crores seventy two lakhs fourteen thousand
+two hundred sixty six only), should not be demanded from them under sub section (7A) of Section
+11A read with sub section (1)(a) of Section 11A of the Central Excise Act, 1944- for the period from
+December, 2013 to November, 2014.
+ii) Interest on the amount of duty mentioned at SI. N. (i) above, should not be demanded from them
+at applicable rates, in terms of Section 11AA of the Central Excise Act 1944-and
+iii) Penalty under Rub 25 of the Central Excise Rules, 2002 should not be imposed on them for
+contravention of the Central Excise-Rules, 2002 mentioned supra.
+06. M/s Aswini Homeo Pharmacy are further required to produce all the evidence upon which they
+intend to rely in support of their defense at the time of showing the cause. They are further required
+to mention in their written reply whether they wish to be heard in person before the case is
+adjudicated. If no cause is shown within the stipulated period or if they do not appear before the
+adjudicating authority when the case is posted for hearing, the case will be decided on merits on the
+basis of the evidence available on record.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+4
+07. The Department reserves its right to amend, modify or supplement or do addition to this notice
+on the basis of further evidence made available to it prior to the adjudication of this case. This notice
+is issued without prejudice to any other action that may initiated under the provisions of the Central
+Excise Act, 1944 and the rules made there under or any other law for the time being in force in
+India.
+08. Reliance for the issuance is based on ER-1 returns furnished by the assessees during the period
+from December, 2013 to November, 2014 and Labels affixed to the containers cleared by the
+assessees.”
+5. The respondent-assessee, in its reply dated 07.04.2015, stated that the product was classified as
+‘medicament’ under Chapter 30 by two successive Commissioner (Appeals) and two subordinate
+officers during 1994-2004; and the said orders were accepted by appellant, which had attained
+finality.
+5.1. The respondent, inter alia, stated the following reasons for which its product, AHAHO, was
+required to be, and had rightly been, classified as ‘medicament’:
+(i) That the manufacturing process would indicate the presence of four homeopathic drugs namely,
+Arnica Montana, Cantharis, Pilocarpine and Cinchona in its preparation, which is to be applied to
+the scalp and not consumed orally.
+(ii) That its label indicated the words “Homeopathic Medicine" under Schedule K to the Drugs and
+Cosmetics Rules, 19458; that the product 8 Hereinafter also referred to as ‘the Rules of 1945’. would
+cure/prevent the lack of blood circulation to the hair roots, hair fall (alopecia), dandruff, headache
+and lack of sleep (insomnia); and that healing from the said diseases would lead to good health in
+terms of growth and maintenance of natural colour in the hair.
+(iii) That AHAHO was a medicament in terms of market parlance, evidenced by its use over a period
+of nearly 19 years; by its manufacturing license issued by the Drug Controller and by the Directorate
+of Ayush; and from listing of the drugs used, in authoritative text books like Materia Medica of
+Homeopathic Drugs. Thus, the twin tests as accepted by this Court for classification of the product
+as ‘medicament’ were duly satisfied. 5.2. The respondent further elaborated in its reply that the
+product was not ‘cosmetic’, as the ingredients used had prophylactic properties and it was not
+applied for cleansing or beautifying or promoting attractiveness or altering the appearance. The
+depiction of a lady with long flowing hair on its label was only subjective and could be interpreted as
+indicative of good health evidenced by the long flowing hair upon being treated for hair fall and
+dandruff.
+5.3. It was further submitted that a close look at Circular No.333/49/97- CX dated 10.09.1997 would
+show that in popular parlance, AHAHO was a medicament in the light of its advertisement,
+marketing and claims on the label and, therefore, the said circular did not justify revising its
+classification to that of ‘cosmetic or toilet preparations’. The respondent asserted that due to the
+absence of any change in its tariff description, ingredients, process of manufacture and use, the
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+5
+question would not arise of re- classification of the product in question. The respondent also
+requested that the proceedings be dropped or be kept pending until the Tribunal had adjudicated on
+the pending issues concerning classification of the product in question.
+5.4. The respondent, in order to support its assertion that AHAHO is a medicament, placed reliance
+on a decision of the Tribunal in Bakson Homeo Pharmacy (P) Ltd. v. Collector of Central Excise,
+New Delhi: (2001) 136 ELT 485, wherein a similar product named “Sunny Arnica Hair Oil” was held
+to be a medicament.
+Before the Commissioner of Customs and Central Excise
+6. The Adjudicating Authority framed two issues for its adjudication as follows: -
+“(i) Whether the notice has disturbed the settled position of law by reagitating the
+classification matter, and if not
+(ii) whether the impugned product viz. AHAHO merits classification as a medicament
+under chapter sub-heading 30039014 or as Hair oil under chapter sub-heading
+33059019.” 6.1. In the first issue, it was observed by the Adjudicating Authority that
+the notices were not issued on account of any given judgment but those judgments
+were mentioned to point out that the classification would need a revision. It was
+further observed that the changes incorporated in the Act of 1985 from the year 2012
+strengthened the view that the classification required reconsideration. The
+Adjudicating Authority proceeded to reproduce the old tariff entries and the new
+tariff entries under Chapters 30 and 33 as under: -
+“OLD ENTRIES (as per Central Excise Tariff, 2004): Chapter 30:
+30.03 Medicaments (including veterinary medicaments). 3003.10 – Patent or
+proprietary medicaments, other than those medicaments which are exclusively
+Ayurvedic Unani, Siddha, Homeopathic or Bio-chemic 3003.20 – Medicaments
+(other than patent or proprietary) other than those which are exclusively Ayurvedic,
+Unani, Siddha, Homeopathic or Biochemic systems:
+3003.31 -- Manufactured exclusively in accordance with the formulae described in
+the authoritative books specified in the First Schedule to the Drugs and Cosmetics
+Act, 1940 (23 of 1940) or Homeopathic Pharmacopeia of India or the United States of
+America or the United Kingdom or the German Homeopathic Pharmacopeia, as the
+case may be, and sold under the name as specified in such books or pharmacopeia
+3003.32 -- Medicaments (including veterinary medicaments) used in bio-chemic
+system and not bearing a brand name 3003.39 -- Other Chapter 33:
+       33.05           Preparations for use on the hair
+       3305.10 -       Perfumed hair oils
+                 -     Other
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+6
+       3305.91 --      Hair fixer
+       3305.99 --      Other
+PRESENT TARIFF HEADINGS (as per Central Excise Tariff, 2012);
+3003 MEDICAMENTS (EXCLUDING GOODS OF HEADING 3002, 3005 OR 3006)
+CONSISTING OF TWO OR MORE CONSTITUENTS WHICH HAVE BEEN MIXED
+TOGETHER FOR THERAPEUTIC OR PROPHYLACTIC USES, NOT PUT UP IN
+MEASURED DOSES OR IN FORMS OR PACKINGS FOR RETAIL SALE 3003 90 - -
+Other :
+- - - Ayurvedic, Unani, Siddha, Homoeopathic or Bio-chemic systems medicaments:
+3003 90 14 - - - - Of Homeopathic system 3305 PREPARATIONS FOR USE ON THE
+HAIR 3305 10 – Shampoos:
+3305 10 10 - - - Containing spirit 3305 10 90 - - - Other 3305 20 00 – Preparations
+for permanent waving or straightening 3305 30 00 – Hair lacquers 3305 90 - Other:
+- - - Hair oil:
+3305 90 11- - - - Perfumed 3305 90 19 - - - - Other 3305 90 20 - - - Brilliantines (spirituous) 3305 90
+30 --- Hair cream 3305 90 40 --- Hair dyes (natural, herbal or synthetic) 3305 90 50 --- Hair fixers
+3305 90 90 - - - Other” 6.2. At this juncture, we may also take note of a few other contents of
+Chapter 30, which carries the heading ‘Pharmaceutical Products’. 6.2.1. Note 1 of Chapter 30
+specifies the items not covered thereunder. Clause (e) of this Note 1 has been referred to by the
+Adjudicating Authority, which reads as under: -
+“Notes:
+1. This Chapter does not cover :
+-----
+(e) preparations of headings 3303 to 3307, even if they have therapeutic or
+prophylactic properties;
+-----” 6.2.2. In this Chapter 30, apart from heading 3003, medicaments have also been specified
+under heading 3004, the relevant contents whereof read as under: -
+“3004 Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of
+mixed or unmixed products for therapeutic or prophylactic uses, put up in measured
+doses (including those in the form of transdermal administration systems) or in
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+7
+forms or packings for retail sale 3004 90 - - Other :
+- - - Ayurvedic, Unani, Homoeopathic, Siddha or Bio-chemic systems medicaments,
+put up for retail sale :
+3004 90 14 - - - - Of Homeopathic system” 6.3. Reverting to the analysis by the Adjudicating
+Authority, it is noticed that the Adjudicating Authority referred to the changes made in Chapters 30
+and 33 and proceeded to hold that the notice did not suffer from any imperfection while observing
+as under: -
+“10.6 It can be seen that there is substantial change in the tariff headings requiring a
+relook into the classification of the impugned product. Particularly, Chapter 30 came
+to be reworded so as to remove the distinction between Patent/proprietary and
+generic medicaments and classify them according to whether they are put up in unit
+containers for retail sale or not. Secondly, the mention about the Drugs and
+Cosmetics Act and the various Pharmacopeia came to be deleted. Similarly, under
+Chapter 33 also, the phrase Hair Oil became prominent under which, subsidiary
+headings of "perfumed hair oil" and "others" came to be specified. All these changes
+certainly merit interpretation of the new entries vis-à-vis the product in question,
+than what was decided or settled earlier. Thus, even by applying the very ratio of
+Vicco Laboratories judgment, a different interpretation of tariff can lead to change of
+classification of a product even though the constituents and use of the product has
+not undergone any change. Secondly, the additional evidence adduced in the notices
+certainly merit consideration. Accordingly, I hold that the impugned notice do not
+suffer from any imperfection on account of the said judgment.
+Hence the first question is answered in the negative” 6.4. The Adjudicating Authority also observed
+that the impugned notice had been issued in the normal period and it was not a case where issue
+was sought to be reopened for the period for which it was settled. However, according to the learned
+Adjudicating Authority, the criteria and ideology in the matter of classification of such products was
+dynamic in character and hence, revision of classification in view of fresh facts coming to light could
+not be held to be improper.
+6.5. As regards second issue, the Adjudicating Authority in the first place observed that classification
+of the product in question under Tariff Item 3003 90 14 was itself questionable inasmuch that item
+covered only the medicaments not put up in measured doses or packing whereas AHAHO was
+indisputably put up for sale in packing of 50ml, 100ml, 200ml and 400ml bottles for retail sale. The
+Adjudicating Authority observed that the claim of the respondent for classifying the product in
+question under the said heading remained baseless. However, the Adjudicating Authority proceeded
+to observe that Tariff Item 3004 90 14 was covering similar goods put up in measured doses and
+packings and hence, the matter required consideration vis-à-vis Tariff Item 3305 90 19. Thereafter,
+the Adjudicating Authority pointed out that the main prerequisite for the classification as a
+‘medicament’ was that the product must be for ‘therapeutic’ or ‘prophylactic’ use; and with reference
+to the dictionary meaning, observed that a medicament with ‘therapeutic’ or ‘prophylactic’ use
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+8
+would mean that it was for healing or for preventing a disease. The Adjudicating Authority also
+referred to Circular No. 333/49/97-CX dated 10.09.1997 issued by the Central Board of Excise and
+Customs9, which laid down certain criteria for the classification of products under the Act of 1985,
+which are claimed by the manufacturers as ayurvedic medicines whereas claimed by Department as
+cosmetics. The Board gave overriding effect to this circular over all previous circulars/instructions
+unless specified otherwise by Courts/Tribunal. The Adjudicating Authority made reference 9
+Hereinafter also referred to as ‘the Board’.
+to the basis laid down by the Board to decide the classification of product to be a medicament or not
+in the following terms: -
+“- whether the product has substantial therapeutic or prophylactic properties and
+whether it is prescribed as a medicine by a Medical Practitioner for curing of a
+disease and is prescribed for a limited time & use;
+- how the product is construed in the popular sense i.e., how it is advertized and how
+it is understood by the people who normally sell it or use it;
+- the drug license is only a guiding factor and not a decisive one since in terms of Chapter note under
+Chapter 33, goods falling under sub-headings 3303 to 3307 would merit classification under these
+headings, irrespective of the subsidiary therapeutic properties of the product.” 6.6. The Adjudicating
+Authority was of the view that AHAHO did not qualify the first criteria as specified by the Board as,
+though availability of AHAHO in General Stores cannot be sole criteria but, it was common
+knowledge that one was not required to go to Homeo Stores or Homeo Physician to buy AHAHO; it
+did not contain the mandatory conditions as prescribed under the Drugs and Cosmetics Act, 194010
+on contents of the label; there were no specifications relating to its dosage and duration of use and
+no contra-indications were stated irrespective of quantum or duration of use, which was against the
+basic concept of a medicament whose overdose result in contra-indications like diarrhoea, acidity,
+ulceration, rashes, etc.; and it did not claim to cure any particular diseases like alopecia or insomnia
+but only claimed to be able to prevent and control such diseases.
+10 Hereinafter also referred to as ‘the Act of 1940’.
+6.7. The analysis of the learned Adjudicating Authority in relation to the ingredients of the product
+in question and its properties, leading to the finding that it cannot be categorised as medicament,
+read as under: -
+“11.6 I have perused the labels of the product which are on record. The contents are
+declared on the label as follows:
+i) Arnica Mont Q 0.5 ml
+ii) Cantharis Q 0.5 ml
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+9
+iii) Cinchona Q 0.2 ml
+iv) Piocarpine Q 0.2 ml (Q= lX in pure coconut oil q.s. Alcohol 0.9°/o V/V) 11.7 On
+perusal of the label of AHAHO, it was observed that the front side of the label, there
+is a caption which reads "controls hair fall"; "prevents dandruff". On the reverse of
+the label i.e. the bottle hind side, it is mentioned that "Indication: Improves blood ,
+circulation to the hair roots, thereby stops hair fall and promotes hair growth. Also
+controls dandruff, removes headache, induces good sleep and maintains natural color
+of the hair; "Contra Indications:
+NIL". "Directions for use: Massage directly on the scalp, for best results leave it on
+overnight." The label also reads "Aswini Homeo Arnica Hair Oil". It does not contain
+any condition like "to be sold by authorized medical distributor or retailer under
+prescription from medical practitioner" even though such mention is a mandatory
+requirement under Section 97(1) of the Drugs & Cosmetics Act, 1940. Secondly, it
+does not contain any specification regarding the dosage to be used and the duration
+for which it is to be used, which is the norm for a medicament. In case of a drug or
+medicament, we certainly find a direction with regard to prescribed amount of
+dosage to be used and in addition a direction that " ... or as directed by the
+physician". These specifications are not to be found on the product labels in this case.
+Thirdly, it does not claim that it can cure any particular disease like Alopecia (loss of
+hair). Medical conditions like Alopecia actually tend to happen all of a sudden with
+patches of baldness not only on the head but anywhere on the body. Similarly lack of
+sleep i.e. Insomnia is a medical condition which results in sleeplessness emanating
+from stress and other neurological disorders. Non-mention of Alopecia or Insomnia
+on the labels indicates that the product is not meant for any substantial curative
+purpose. Further, the kind of prevention or control claimed by AHAHO indicates a
+clear non-connection between the diseases and the product in question. Moreover, by
+mentioning that there are no contra indications, it implies that irrespective of the
+quantum or duration of usage, there is no adverse effect on the scalp or skin, which is
+against the basic concept of a medicament, which is prescribed or used for a limited
+period and overdose of a medicament is known to result in contra indications like
+diahorrea, acidity, ulceration, rashes etc. Even a medically prescribed skin cream or
+ointment has a limited use for the particular indication or symptom. We normally
+find a warning on such creams that prolonged usage will result or cause irritational
+symptoms, which if persist, should be remedied by a consultation with the Doctor.
+Nothing of that sort is found herein. In any case, the point that becomes clear is that
+AHAHO is a neither a prescribed medicament of a medical practitioner nor it is
+claimed to have any substantial therapeutic or prophylactic properties. I also find
+that as regards labels, Hon'ble Supreme court observed in the case of Ishaan
+Laboratories (supra) that "Further it was obvious from the labels of the products
+which we have ourselves inspected in the court that there is a claim made in each of
+the label of the medicinal properties of the product. It is also found that there was a
+specific claim that this is not a cosmetic product." Though in that case, the products
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+10
+were held to be medicaments, the label description on the basis of which such a
+conclusion was drawn (apart from other factors) indicates that the product should be
+projected and marketed in I such a manner so as to express the intention of the
+manufacturer that the product is a medicament and not a cosmetic. Such a situation
+does not exist in the present case inasmuch as the labels neither contain a positive
+indication that it is a medicament nor a negative indication that it is not a cosmetic.
+However, it is certainly labeled as a Hair Oil, prominently. If the intention is to
+identify the product as medicament, there was no need to label it is Hair Oil.
+Hence following the finding in the said case, I am inclined to hold that AHAHO cannot be
+categorized as a medicament but has to be classified as a Hair Oil. Accordingly, AHAHO does not fit
+into the first criteria prescribed under the said Circular.” 6.8. As regards the common parlance
+criteria i.e., the way the product was marketed, it was observed that AHAHO was accessible in both
+Medical and General Stores and could be bought across the counter. Moreover, depiction of a lady
+with long, black flowing hair on its label indicated its categorisation as cosmetic and not as a
+medicament. The Adjudicating Authority even proceeded to observe that ‘Hair growth is at best a
+cosmetic necessity rather than a disease requiring immediate attention or treatment’; and held that
+the product in question failed on the second criteria of common parlance too.
+6.9. The Adjudicating Authority also observed that the drug licenses issued by respective authorities,
+per se did not make AHAHO a preparation of homeopathic medicine, thereby failing the third
+criteria also. While referring to Materia Medica, the Adjudicating Authority expressed his
+reservations about one ingredient (Pilocarpine) and observed that there was no nexus of the said
+ingredient with Homeopathy.
+6.10. While referring to the significance of general rules of interpretation as regards the Notes
+attached to the respective Chapters/Tariff Items in the First Schedule to the Act of 1985, the
+Adjudicating Authority observed that as per Note 1(e) to Chapter 30, the said Chapter did not cover
+preparation of the headings of Chapter 3303 to 3307, even if they have therapeutic or prophylactic
+properties.
+6.11. The Adjudicating Authority also referred to the Board Circular No. 890/10/2009-CX dated
+03.06.2009, clarifying its stance that coconut oil packaged in containers up to 200ml had to be
+classified as “Hair oil” due to the general view of public; and observed that AHAHO packed in
+bottles of 50ml, 100ml and 200ml, was to be treated as “Hair oil” and the 400ml pack cannot
+surpass this classification, merely because it was not fast-moving. 6.12. Hence, the Adjudicating
+Authority was of the view that the product in question could not be classified under Tariff Item 3003
+90 14 or under any item stated in Chapter 30. The Adjudicating Authority further observed that
+when the intention of the framers of the legislation was to tax “Hair oil” at a particular rate, any
+attempt to evade the same would result in disregarding the law. Accordingly, the Adjudicating
+Authority, by its order dated 16.10.2015, confirmed the demand and levied interest and penalty on
+the respondent, as noticed hereinbefore.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+11
+6.13. It may be observed, in all fairness to the learned Adjudicating Authority, that in his elaborate
+order dated 16.10.2015 (pp. 96-253 of paper-book), several passages from a large number of
+decisions have also been reproduced, which we have not indicated hereinabove. The relevant of
+those decisions, as cited on behalf of the parties, shall be referred to and examined at the relevant
+stage hereafter.
+Before the Customs, Excise and Service Tax Appellate Tribunal
+7. The assessee’s appeal11 against the aforesaid order dated 16.10.2015 was taken up for
+consideration by the Tribunal along with a bunch of its other appeals involving the same issues but
+pertaining to different periods of consideration.
+7.1. The respondent-assessee (appellant before the Tribunal) made various submissions, including
+that the product was made of four homeopathic medicines in coconut oil base with therapeutic use
+for curing alopecia (loss of hair) and insomnia (lack of sleep) amongst other diseases; that the
+product was being manufactured under the drug license issued by the Director, Indian Medicine and
+Homeopathy, subsequently renewed as a medicament by the Additional Director & Drug Controller
+(Homeo), Department of Ayush, Government of Telangana; that AHAHO was mentioned at Serial
+No. 35 of Schedule K to the Rules of 1945, which contains only drugs; that the label clearly listed the
+ingredients and composition, indications and contra-indications as also mode of use; that the
+product was commonly understood as homeopathic medicament by its users as well as dealers; that
+the issue had squarely been decided in Bakson Homeo Pharmacy (supra); and that there were no
+such changes, be it in the Act of 1985 or in the ingredients of the product or the manufacturing
+process, which would warrant a revision of its classification. On the other hand, the Department
+reiterated the findings of the Adjudicating Authority in opposition to the appeal. 7.2. The Tribunal
+summarised the substance of the order passed by the Adjudicating Authority as follows: -
+“6. We find that the adjudicating authority has mainly confirmed demand on the
+ground that since the AHAHO is not prescribed by a medical practitioner for the
+purpose of curing any disease and it is available in the medical shops as well as
+general stores and any persons desirous using it can purchase across the counter,
+hence the same is not Homeopathic medicine. He also held that the label does not
+indicate the condition of sale by the authorized medical distributor or retailer under
+prescription from medical practitioner even though it is mandatory requirement
+under section 97 (1) of the Drugs & Cosmetic Act, 1940. It also does not contain the
+dosage to be used or that the dosage as directed by the physician. That it does not
+contain any that it can cure any particular disease like alopecia (loss of hair) or
+insomnia (sleep loss). Further he also held that previous orders passed by the
+Appellate Authority were on the basis of tariff entry before 2012 and after the said
+period the entries has changed hence needs relook.” 7.3. Having taken note of the
+background aspects of the case, the findings of the Adjudicating Authority, and
+various decisions cited by the parties in support of their respective contentions, the
+Tribunal found no reason for which the classification of the product in question was
+sought to be changed by the Adjudicating Authority.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+12
+7.4. In the course of its analysis, the Tribunal, inter alia, observed and held that only for the reason
+of being sold over the counter and not on a medical prescription would not take the product out of
+the category of medicine; that when different branches of medicine and licensing authority
+recognized baldness or hair fall as disease, the Adjudicating Authority was not entitled to take a
+different view; that the product clearly mentioned its use for other ailments like sleep loss; that the
+contents of its label clearly mentioned the product as homeopathic medicine and the same was
+understood as such by its users and traders; and that the product in question indeed passed the
+common parlance test. The Tribunal further referred to the four homeopathic medicines as being
+the ingredients of products and the same being covered by Serial No. 35 of Schedule K to the Rules
+of 1945, which only related to drugs and not cosmetics. The Tribunal yet further observed that the
+Adjudicating Authority had not been adopting a uniform approach and referred to the fact that the
+respondent had been issued show-cause notices in the past too and the Adjudicating Authority,
+upon examining the common parlance test as also the contents and usage of product, had accepted
+AHAHO as a homeopathic medicine. The Tribunal observed that the product remained the same
+and its classification as previously accepted was not required to be altered. The Tribunal also
+observed that on one hand, the Adjudicating Authority noted that the classification made before the
+amendment had to be re-looked but on the other hand, relied upon the decisions before 2012 along
+with the circular issued by the Board in 1997.
+7.5. Thus, in sum and substance, the Tribunal found no reason for the classification now sought to
+be adopted by the Department; and proceeded to disapprove the order so passed by the
+Adjudicating Authority. For ready reference, we may reproduce the relevant parts of the findings of
+the Tribunal as follows: -
+“9. The above judgments of the Hon'ble Apex Court and the Tribunal clearly spells
+out that even though the goods are sold over the counter and not on a medical
+prescription, it would not lead to the goods being out of the category of medicine. The
+adjudicating authority has held that since the hair growth is cosmetic necessity and
+the product label shows the lady with long hair the goods are cosmetic product. We
+are not in agreement with the above views of the adjudicating authority. Firstly when
+the different branches of medicine and the Licensing authorities recognize the
+baldness or hairfall as disease in that case the adjudicating authority cannot take a
+different view which is not recognized by the branches of medicine. Secondly the
+product clearly mentions that the product in question is used for other ailments also
+such as sleep loss, increase of blood circulation and it nowhere depicts itself as for
+hair care or enhancing beauty of hair. The label indicates the product as
+Homeoptahic medicine under schedule K, ingredients and their composition,
+indications, contra indications and mode of application. The content of label thus
+itself shows that even in common parlance it is understood by the users and the
+traders as Homeopathic medicine. There is no advice on the label nor does it suggests
+that it can be used as hair oil. It is not disputed about the fact that the product is
+made of four Homeopathic medicines as ingredients namely Arnica Mount,
+Cantharis, Pilocarpin and Cinchona and is used to treat the hair loss, insomnia,
+dandruff, headache and other ailments. It is manufactured under Drug Licence
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+13
+issued under Rule 25 C of Drugs & Cosmetic Rules 1945 and in terms of Rules 85D by
+the Director, Indian Medicine & Homeopathy. The licence has been renewed from
+time to time by the Additional Director & Drug Controller (Homeo), Department of
+Ayush, Government of Telangana State. Even as per analysis report & Drug
+Controller, Department of Ayush the product is medicine. The product is covered by
+serial no. 35 of Schedule K of Drugs and Cosmetic Rules (Homeopathic Hair oils
+having active ingredients upto 3X potency) and the said schedule covers only drugs
+and not Cosmetics. The product has already been held to be Drug by the Hon'ble
+Andhra Pradesh High Court in reference to APGST as well as Commercial taxes. The
+Advance Ruling authority of Commercial Taxes, Government of Tamilnadu for the
+purpose of TNVAT Act 2006 held that product to be a homeopathic medicine.
+We find that even before the subject cases, on many occasions in the past, Appellant were issued
+show cause notices for classification of goods as cosmetic and the Appellate Authority after going
+into all the aspects of common parlance as well as contents of the product and its usage held that the
+product is Homeopathic medicine. The adjudicating authority has relied upon the judgment of
+Hon'ble Supreme Court in case of CCE, Nagpur Vs. M/s Shree Baidyanath Ayurved Bhavan Ltd.
+2009 (237) E.L.T. 225 (S.C.) to state that the product in question does not satisfy the common
+parlance test. We find that the ratio of said judgment is not applicable as in the said case, the
+product Lal Dant Manjan was known as toilet preparation in common parlance and not as
+Ayurvedic medicine. Whereas in the present case the facts are entirely different as the Appellant has
+sold the goods as Homeopathic medicine and it is known as Homeopathic medicine in the common
+parlance. Even as apparent from facts the label of the product clearly shows the product as
+Homeopathic medicine, its content and usage. It also says that it should be left overnight. We are of
+the view that when the product is being sold as Homeopathic medicine and known as homeopathic
+medicine in the market the goods pass test of common parlance test as Homeopathic medicine. In
+the light of our observations made in preceding paras, we hold that the reliance placed upon the
+judgment of Shree Baidyanth case supra is misplaced as the facts are entirely different. Further the
+adjudicating authority reliance upon the order of the Tribunal in case of Naturence Research Labs
+(P) LTD. Vs. CCE, DELHI-II. 2003 (154) E.L.T. 672 (Tri. -Del.) is not correct as in said case the
+product Forest Flower was sold as nourishment to the scalp and hair roots as per the matter
+mentioned on the packing and it also helped control hair loss and prevents scalp infection,
+encourages luxurious growth of hairwhereas in the present case the Drug/ licensing Authorities and
+even the Honble High Court, the Vat authorities and the medical practitioners all have certified the
+product to be falling under the category of schedule K as Drug and even the product is sold as
+medicine as known as medicine in common parlance, The judgment of Alpine Industries 2003 (152)
+E.L.T. 16 (S.C.) as relied upon by the revenue is also not applicable as in the said case the drug
+licence obtained by the assessee under the Drugs and Cosmetics Act, 1940, itself mentioned that it is
+a licence for ointment and cream for external application as a non- pharmacopoeia item whereas in
+the present case the product is registered as Homeoptahic Medicine by the Additional Director,
+Indian Medicine and Homeopathy Department, Government of Andhra Pradesh. Even the Hon'ble
+High Court of Andhra Pradesh held the product to be falling under the category of Drug and
+Medicine and is sold as medicine. The ratio of judgment in case of CCE Vs. ZANDU
+PHARMACEUTICAL WORKS LTD. 2006 (204) E.L.T. 18 (S.C.) is also not applicable as the product
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+14
+label clearly shows the product as Homeopathic medicine The Judgment of Hon'ble Apex Court in
+case of Sujanil Chemco Industries Vs. CCE, Pune 2005 (181) ELT 206 (SC) and Tribunal order in
+case of Bakson Homeo Pharmacy (P) Ltd. Vs. CCE, New Delhi 2001 (136) ELT 485 (TR- DEL) are
+absolutely applicable to the present case in view of our above findings and we do not find any reason
+to differ with those decisions.
+10. We also find that the adjudicating authority at the one hand has held that the classification done
+before amendment in Central Excise Tariff in the year 2012 would require relook into the
+classification of the product in question and thus refused to accept the settled classification of goods
+under chapter 30 in terms of Appellate Orders passed in favour of Appellant. However on the other
+hand the adjudicating authority has relied upon the judgments rendered in the context of Central
+Excise Tariff before year 2012 and the Board Circular issued in year 1997 which clearly shows that
+there is no uniformity adopted by him to decide the issue. The adjudicating authority has relied
+upon the Circular No. 333/49/97 CX dt. 10.09.1997 to hold that the medicine is prescribed by a
+medical practitioner, used for limited time and not every day unless it is prescribed to deal with
+specific disease. He also relied upon the judgments in case of Alpine Industries Vs. CCE, Delhi 1997
+(92) ELT 53 (TRI), CCE, Mumbai Vs. M/s Muller & Phipps, Richardson Hindustan Ltd. 1998 (35)
+ELT 424 (TRI) to hold that the word must be construed in popular sense i.e the meaning as
+understood by the people conversant therewith. The adjudicating authority has held that though the
+there is no rationale behind applying the 1997 circular in the year 2012 but since the said circular
+has not been withdrawn or held to be inapplicable in these matter by any court or law, the same
+would be applicable as it was relied upon by the Courts of law in numerous cases and in the light of
+said circular the product is not prescribed by a medical practitioner for any disease. We find that the
+adjudicating authority has chosen to apply pick and choose approach wherever it suited him for
+confirming demand against Appellant. We are not in agreement with the above approach and views
+of the adjudicating authority. We find that the Appellant were earlier issued demand notice on four
+different occasions and on each occasion the issue stands decided in favour of Appellant by the
+Appellate Authorities holding the goods to be Homeopathic medicine and liable to duty accordingly.
+The revenue has placed its reliance upon the judgment of Hon'ble Apex Court in case of M/s Shree
+Baidynath case supra to confirm the demands. However it is to be observed that the Honble Apex
+Court in said case has relied upon its judgment in case of B.P.L.
+PHARMACEUTICALS LTD. Vs. COLLECTOR OF C. EXCISE, VADODARA 1995 (77) E.L.T. 485
+(S.C.). wherein it was held that Merely because there is some difference in the tariff entries, the
+product will not change its character. Something more is required for changing the classification
+especially when the product remains the same. In the present appeals the product has remained
+same and the classification issue stands decided in favour of the Appellant in all four previous
+proceedings against the Appellant. In case of CCE Nagpur Vs. Vicco Laboratories 2005 (179) ELT 17,
+the Honble Apex Court has held that classification cannot be changed without a change in the nature
+of a product or a fresh interpretation of the tariff heading by such decision. In the present case the
+goods in question has remained same and there is no change of tariff heading. Thus the contention
+of the Ld. Adjudicating authority that the change in tariff entry would require relook into
+classification is absolutely erroneous as the product has remained same and it would remain
+classified as Homeopathic medicine.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+15
+11. After careful appreciation of the facts as narrated above we find no reason to classify the product
+as Cosmetic under Chapter 33 of the CETA, 1985. We thus hold that the goods are classifiable under
+chapter 30 of the Central Excise Tariff as Homeopathic medicine and liable to duty accordingly.
+There is no reason to demand the duties and penalties adjudged against the Appellant.” Rival
+Submissions
+8. In the present appeal, the learned Additional Solicitor General Mr. Vikramjit Banerjee has
+assailed the impugned judgment and order dated 31.01.2018 on a variety of grounds while asserting
+that the Tribunal has erred in holding that the product in question would fall under Chapter 30 and
+not under Chapter 33 of the First Schedule to the Central Excise Tariff Act, 1985 as amended in the
+year 2012.
+8.1. Learned ASG has stressed upon the necessity for re-look into the classification of the product in
+question with the submissions that due to the change in tariff structure, the orders prior to 2012 had
+lost their precedential value. The learned ASG would submit that Chapter 30 has been reworded to
+remove the distinction between patent/proprietary and generic medicaments and to classify them in
+terms of whether they are put in unit containers for retail sale or not; and the mention about the Act
+of 1940 as also various pharmacopeia has also been deleted. The learned ASG would further submit
+that “Hair oil” under Chapter 33 garnered focus because of the subsidiary headings of “perfumed
+hair oil” and “others” having been specified. The learned ASG has supported his submissions with
+reference to the decision in Collector of Central Excise, Guntur v. Andhra Sugar Ltd.
+Venkataraypuram: 1989 Supp (1) SCC 144 that the change in entries from 2012 of the Act of 1985
+showed the legislative intent to bring the product within taxation bracket as “Hair oil”, which was
+added under Chapter 33 as a distinct category.
+8.2. Learned ASG has strenuously argued that the product in question does not meet the criteria laid
+down under Chapter 30. It has been submitted that on a reading of the relevant Notes, even if the
+product is stated to possess certain curative or prophylactic value, it would still be cosmetic, as it
+excludes those with subsidiary curative and prophylactic value. The learned ASG would submit that
+the respondent has classified the product under Tariff Item 3003 90 14 but, the said entry provides
+for medicaments not put in measured doses or packaging whereas, AHAHO is admittedly sold in
+packaging of 50ml, 100ml, 200ml and 400ml bottles. According to learned ASG, Tariff Item 3305
+90 19, specifically meant for “Hair oils”, directly covers the product in question, AHAHO. 8.3.
+Learned ASG has also argued that a specific entry would take precedence over a general entry, as
+held by this Court in Commissioner of Central Excise, Nagpur v. Shree Baidyanath Ayurved Bhavan
+Ltd.: (2009) 12 SCC 419; and when “Hair oil” is specifically mentioned in Chapter 33 and when
+AHAHO’s common parlance is that of a general cosmetic requisite, classifying it as a ‘medicament’ is
+a far-fetched proposition. 8.4. In the other limb of submissions, learned ASG has contended that the
+common parlance test of the product is not in favour of the respondent, as the product is not
+prescribed by any medical practitioner, is available freely without any prescription in Medical and
+General Stores, and could be purchased across the counter, as admitted by the respondent.
+Additionally, the label does not indicate the condition of sale by authorised medical distributor or
+retailer under prescription as mandated under the Act of 1940; it does not cure any particular
+disease; and the claims on the label are for marketing purposes only. Learned ASG has relied upon
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+16
+the decision in Alpine Industries v. Collector of Central Excise, New Delhi: (2003) 3 SCC 111 to
+submit that any subsidiary therapeutic or prophylactic use of the product would not change its
+nature as “Hair oil”, if in the common parlance, it is treated as a cosmetic. Another decision of this
+Court in Sunny Industries (P) Ltd. v. Collector of Central Excise, Calcutta: (2003) 4 SCC 280 has
+also been relied upon.
+8.4.1. Learned ASG has again referred to common parlance test to submit that the product is
+advertised as hair oil and not a medicament; and is perceived by the public who purchase and sell
+the product as a hair oil (cosmetic) and not as medicament. For the purpose of construing the words
+in a statute, the learned ASG has referred to the decision in Commissioner of Customs, Calcutta v.
+G.C. Jain and Anr.: (2011) 12 SCC 713 to submit that unless the statute defined the words and
+expressions, they ‘have to be construed in the sense in which persons dealing with them understand
+i.e., as per trade and understanding and usage.’ Further the decision in Commissioner of Central
+Excise v. Wockhardt Life Sciences Limited: (2012) 5 SCC 585 has been relied upon to submit that for
+classifying a taxable commodity, there is no fixed test and the decision on the classification of a
+particular article would depend on the tangible material or as to how it is comprehended in
+“common parlance” or “commercial world” or “trade circle”, or in its popular sense.
+9. On the other hand, learned senior counsel for the respondent Mr. V.V.S. Rao has emphasised on
+the submissions that AHAHO’s classification has attained finality, having been examined four times;
+its composition is of four homeopathic medicines in a base oil medium; it has been licensed for
+manufacture and sale as a homeopathic medicine by the Director, Indian Medicines and
+Homeopathy, Government of Andhra Pradesh; it cures/prevents alopecia, dandruff, hair fall, etc.,
+due to its therapeutic and prophylactic properties; and its label indicates the nature of the product
+as a homeopathic medicine under Schedule K to the Rules of 1945 with ingredients, composition,
+indications, contra-indications and mode of application.
+9.1. Learned senior counsel would submit that although there were changes in the tariff structure in
+the year 2012 but then, notwithstanding the amendments, AHAHO has remained classifiable under
+Chapter 30, as its ingredients or manufacturing process did not undergo any change warranting its
+classification as a cosmetic under Chapter 33. Elaborating on these aspects, learned senior counsel
+has submitted that until 2004-05 the tariff entry was only 3003 39 for Homeopathic medicines and
+from 2005-06, 3003.39 was divided into 3003 for wholesale and 3004 for retail sale. Consequent to
+amendment of the First Schedule to the Central Excise Tariff Act, 1985 during the year 2005-06
+introducing eight-digit classification system, the product became classifiable under Chapter heading
+3004 90 14 (Medicaments consisting of two or more constituents which have been mixed together
+for Therapeutic or Prophylactic uses put up in doses or in forms or packings suitable for retail sale).
+It has been argued with reference to the decisions in BPL Pharmaceuticals v. Collector of Central
+Excise, Vadodara: 1995 Supp (3) SCC 1 and Commissioner of Central Excise, Nagpur v. Vicco
+Laboratories: (2005) 4 SCC 17 that some differences in the tariff entries would not change its
+character when the product remains the same. According to the learned counsel, insertion of
+Sub-Headings in Chapter 33 makes no difference as the product in question does not fit into any of
+the revised descriptions of “Hair oil” in Chapter 33, for AHAHO is clearly covered by the definition
+of ‘medicament’.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+17
+9.1.1. In regard to the question of re-look at the classification, it has also been submitted that the
+contention on the part of appellant that the respondent classified the product under 3003 90 14,
+which provides for medicaments not put up in measured doses or packaging, whereas admittedly
+AHAHO is sold in packaging of 50ml, 100ml etc., is a new ground which was not a part of the
+show-cause notice; rather the respondent was never called upon to show-cause as to why the
+classification should not be changed. Therefore, all the proceedings are vitiated. It has, however,
+been submitted that even in relation to the assertions of the appellant, AHAHO would still remain
+under Chapter 30 (Traffic Item 3004 90 14) which is meant for Homeopathic Medicament packed in
+packages for retail sale and, in any case, it would not fall under Chapter 33 (Tariff Item 3305 90 15);
+and, notwithstanding the change in sub-classification, the rate of duty would not change and the
+situation would remain revenue neutral.
+9.2. It has further been argued that the observations in Shree Baidyanath Ayurved Bhawan (supra)
+rather support the respondent’s case, because the ingredients, process of manufacture and uses of
+AHAHO having undergone no change from the beginning despite change in group of individual
+tariff entries. According to the learned counsel, no case is made for treating AHAHO as ‘cosmetic’ by
+ignoring its recognition as drug/medicament by the Government authorities as well as by this Court
+on 27.02.2019 in Commissioner of Commercial Taxes v. M/S Aswini Homeo Pharmacy: Civil Appeal
+No.9494-9495 of 2011.
+9.3. Learned senior counsel has submitted that there is no need for invoking the common parlance
+test as the nature of the product is certified by competent authority as a medicament and that the
+appellant had not made any market enquiries to establish that the product is a cosmetic besides not
+disproving the factual evidence in favour of the respondent. 9.4. Learned senior counsel has relied
+upon the decision in Commissioner of Central Excise, Calcutta v. Sharma Chemical Works: (2003) 5
+SCC 60 to submit that merely because a product is sold across counters and without a prescription,
+it would not per se lead to the conclusion of it being not a medicament. The method of usage of
+AHAHO is clearly stated on its label; and Materia Medica clearly states the therapeutic properties of
+ingredients used. It has also been submitted that several drugs like Anacin, Dolo 650, Cough syrups,
+etc. are available across the counter; and none of the Homeo drugs require any prescription for
+purchasing. Another decision of this Court in the case of Meghdoot Gramodyog Sewa Sansthan, U.P.
+v. Commissioner of Central Excise, Lucknow: (2005) 4 SCC 15 has also been relied upon.
+9.5. Learned senior counsel has distinguished the facts of the present case from the case of Alpine
+Industries (supra), as AHAHO is a therapeutic/prophylactic medicament in the medium of oil for
+the diseases relating to the scalp. The product is not advertised as “Hair Oil” but is marketed only as
+“Aswini Homeo Arnica Hair Oil”.
+9.6. With reference to the majority decision of the Tribunal in the case of Bakson Homeo Pharmacy
+(supra) in respect of a similar product, “Sunny Arnica Hair Oil”, learned senior counsel has
+submitted that the said decision having attained finality, and in the case of respondent itself, the
+Department having four times accepted the classification of the product as medicament, the attempt
+to revisit the classification had been wholly unjustified and has rightly been disapproved by the
+Tribunal 9.7. It has, thus, been contended on behalf of the respondent that in the impugned order
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+18
+dated 31.01.2018, the Tribunal has rightly set aside the demands raised by the Department after
+appreciating the facts and the law applicable to the case inasmuch as, during the relevant period,
+there was no change in the said Chapter 30; and there was no change in the manufacturing process
+or ingredients of AHAHO. As such, the product remained a medicament under Chapter 30 of the
+First Schedule to the Central Excise Tariff Act, 1985 prior to 2012 and even thereafter. Hence, this
+appeal deserves to be dismissed.
+Points for determination
+10. For what has been noticed hereinabove, the point essentially arising for determination in this
+case is as to whether the product in question, AHAHO, merits classification as ‘medicament’ under
+Chapter 30 or as ‘cosmetic or toilet preparations’ under Chapter 33 of the First Schedule to the
+Central Excise Tariff Act, 1985; and the interlaced point is as to whether the change in tariff
+structure by way of amendment brought about in the year 2012 justified a re-look into the
+classification of the product in question.
+11. As noticed, it remains undeniable that the product in question, AHAHO, was classified as
+‘medicament’ under Chapter 30 on at least four different occasions by the Department, including
+two orders passed by the successive Commissioner (Appeals) during 1994-2004; and the said orders
+had attained finality. The respondent, in order to support its assertion that AHAHO is a
+medicament, also placed reliance on the decision of the Tribunal in the case of Bakson Homeo
+Pharmacy (supra) wherein a similar product marketed in the name of “Sunny Arnica Hair Oil” was
+held to be medicament, covered under Chapter 30. However, the Department attempted to rely on
+the amendment of the tariff entries in the year 2012 as its justification for re-examination of the
+classification of the product in question.
+12. We have closely examined the divergent findings recorded by the Adjudicating Authority and the
+Tribunal and have also taken note of the competing stands taken by the parties. In order to examine
+the root question as to whether the product in question is classifiable as ‘medicament’ under
+Chapter 30 or would fall in the classification of ‘cosmetic or toilet preparations’ under Chapter 33 as
+also the other question as regards justification for re-examination of the previous classification of
+the product in question, we may, in the first place, take note of the principles discernible from the
+cited decisions. The principles in the cited decisions
+13. As regards justification for re-examination of the classification of the product in question, the
+Adjudicating Authority observed that there were substantial changes in the tariff entries,
+particularly when Chapter 30 came to be reworded so as to remove the distinction between
+patent/proprietary and generic medicaments and classify them according to whether they are put up
+in unit containers for retail sale or not; the mention about the Act of 1940 and the various
+Pharmacopeia came to be deleted; and under Chapter 33, the phrase “Hair oil” became prominent
+under which, subsidiary headings of "perfumed hair oil" and "others" came to be specified. Learned
+ASG has also relied upon the reasons adopted by the Adjudicating Authority in support of his
+contentions and has cited the decision in Andhra Sugar Ltd. (supra) as regards construction of
+statute with reference to the legislative intent.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+19
+13.1. In the case of Andhra Sugar Ltd. (supra), essentially, the issue involved had been as to whether
+acetic anhydride manufactured by the respondent and sold to drug manufacturers was eligible to
+benefit of exemption as drug intermediate. This Court held, having regard to the language and
+purpose of exemption Notification, that the said product acetic anhydride was covered by the
+expression ‘drug intermediate’ in the Notification. In that context, this Court, observed in the
+referred paragraph as follows: -
+"5. …It is well settled that the meaning ascribed by the authority issuing the
+notification, is a good guide of a contemporaneous exposition of the position of law.
+Reference may be made to the observations of this Court in K. P. Varghese v. ITO
+[(1981) 4 SCC 173]. It is a well settled principle of interpretation that courts in
+construing a statute will give much weight to the interpretation put upon it at the
+time of its enactment and since, by those whose duty has been to construe, execute
+and apply the same enactment."
+13.2. In the case of BPL Pharmaceuticals (supra), cited on behalf of the respondent, the issue before
+this Court was regarding the classification of “selenium sulfide lotion USP” manufactured and sold
+by the assessee under the brand name “Selsun Shampoo”. This Court, inter alia, held that for a
+product to fall under Chapter 33, in terms of Note 2 therein, it must first be cosmetic and suitable to
+be used as such. This Court also examined the active ingredient of the product (albeit very small in
+quantity) and held that having regard to the preparation, label, literature, character, common and
+commercial parlance, the product was liable to be classified as a medicament. Further, this Court
+accepted the submission on behalf of the assessee that merely because of some difference in the
+tariff entries, the product will not change its character; and something more is required for changing
+the classification, especially when the product remains the same. The relevant observations and
+expositions of this Court read as under: -
+“29. The contention based on chapter notes is also not correct. One of the reasons
+given by the authorities below for holding that Selsun would fall under Chapter 33
+was that having regard to the composition, the product will come within the purview
+of Note 2 to Chapter 33 of the Schedule to Central Excise Tariff Act, 1985 is without
+substance. According to the authorities the product contains only subsidiary
+pharmaceutical value and. Therefore, notwithstanding the product having medicinal
+value will fall under Chapter 33. We have already set out Note 2 to Chapter 33. In
+order to attract Note 2 to Chapter 33 the product must first be cosmetic, that the
+product should be suitable for use as goods under Headings Nos. 33.03 to 33.08 and
+they must be put in packing as labels, literature and other indications showing that
+they are for uses cosmetic or toilet preparation. Contrary to the above in the present
+case none of the requirements are fulfilled.
+Therefore, Note 2 to Chapter 33 is not attracted. Again it is without substance the reason given by
+the authorities that the product contains 2.5% w/v of Selenium Sulfide which is only of a subsidiary
+curative or prophylactic value. The position is that therapeutic quantity permitted as per technical
+differences including US Pharmacopoeia is 2.5%. Anything in excess is likely to harm or result in
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+20
+adverse effect. Once the therapeutic quantity of the ingredient used, is accepted, thereafter it is not
+possible to hold that the constituent is subsidiary. The important factor is that this constituent
+(Selenium Sulfide) is the main ingredient and is the only active ingredient.
+30. As rightly contended by the learned Senior Counsel for the appellants that merely because there
+is some difference in the tariff entries, the product will not change its character. Something more is
+required for changing the classification especially when the product remains the same…… *** ***
+***
+33. The labels which give the warning, precaution and directions for use do make a difference from
+that of ordinary shampoo which will not contain such warning or precautions for use. Further no
+individual would be prepared to say in a social gathering that he or she is using Selsun to get rid of
+dandruff or other similar diseases whereas nobody would hesitate to state in a similar gathering that
+he or she is using a particular brand of shampoo for beautifying his or her hair. Thus there are lot of
+favourable materials to treat the product in question as a medicine rather than cosmetic. In this
+connection the reliance placed by the learned counsel for the appellants on a decision of this Court
+report in case Indian Metals & Ferro Alloys Ltd. v. CCE [(1991) 51 ELT 165 (SC)] can be usefully
+referred to. In that case this Court held:
+“It (the Tribunal) seems to say that, even if the goods manufactured by the appellant
+had been rightly classified under manufactured by the appellant had been rightly
+classified under Item 26-AA before 1-3-1975, the introduction of Item 68 makes a
+difference to the interpretation of Item 26-AA. This is not correct. Item 68 was only
+intended as a residuary item. It covers goods not expressly mentioned in any of the
+earlier items. If, as assumed by the Tribunal, the poles manufactured were rightly
+classified under Item 26-AA, the question of revising the classification cannot arise
+merely because Item 68 is introduced to bring into the tax net items not covered by
+the various items set out in the Schedule. It does not and cannot affect the
+interpretation of the items enumerated in the Schedule. This logic of the Tribunal is,
+therefore, clearly wrong.”
+34. This judgment supports the case of the appellant when it is contended that there is no good
+reason to change the classification merely on the ground of coming into force of the new Central
+Excise Tariff Act, 1985 without showing more that the product has changed its character.
+35. The learned counsel also placed reliance on a number of judgments to support his argument that
+in common and commercial parlance the product is known as medicine rather than cosmetic. As
+pointed out already and in support of that submission, affidavits and letters from chemists, doctors
+and customers are filed to show that the product is sold under prescription only in chemists' shops
+unlike shampoos sold in any shop including provision shops. This conclusion, namely, that the
+product is understood in the common and commercial parlance as a patent and proprietary
+medicine was also found by the Central Board of Excise and Customs as early as in 1981 and
+accepted by the Excise authorities and in the absence of any new material on the side of the
+respondents there is no difficulty in accepting this contention without referring to decision cited by
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+21
+the counsel for the appellants.
+36. Yet another reason given by the CEGAT for not accepting the case of the appellants was that the
+product is sold with a pleasant odour and, therefore, it must be treated as a cosmetic. Selenium
+Sulfide has an unpleasant odour and to get rid of it insignificant amount of perfume is used and
+make it acceptable to the consumers. A medicine, for example, sugar-coated pill will nevertheless be
+medicine notwithstanding the sugar-coating. Likewise the addition of insignificant quantity of
+perfume to suppress the smell will not take away the character of the product as a drug or medicine.
+Again one other reason given by the Tribunal is regarding the packing. The Tribunal has held that
+the product is cosmetic because it is packed in an attractive plastic bottle. This by itself will not
+change the character, as cosmetic is put up for sale with some indication on the bottle or label that it
+is to be used as cosmetic or it is held out to be used as a cosmetic. As already noted the label here
+gives warnings. The fact that it is packed in a plastic bottles is a wholly irrelevant criteria.
+37. On a perusal of the entire material we are satisfied that the product in question, having regard to
+the preparation label, literature, character, common and commercial parlance understanding and
+the earlier decisions of the Central Board of Excise and Customs, would fall under Sub-heading No.
+3003.19 and there is no justifiable reason for changing the classification. As we have reached the
+above conclusion with reference to the materials placed before us on facts, we do not think it
+necessary to go into other decisions cited at the Bar. In the result the appeals are allowed holding
+that the product ‘Selsun’ will fall under Tariff Item 3003.19.” (emphasis supplied) 13.3. In Vicco
+Laboratories (supra), this Court was dealing with the question of classifying turmeric skin cream,
+vajradanti toothpaste and tooth powder as under Chapter 30 with pharmaceutical products or as
+under Chapter 33 with essential oils and resinoids, perfumery, cosmetics or toilet preparations.
+After applying the common parlance test of classification, and while relying on BPL Pharmaceuticals
+(supra) and other decisions, this Court held against the attempt at re-classification in the following
+words: -
+“4. The mere decision of a court of law without more cannot be justification enough
+for changing the classification without a change in the nature of a product or a
+change in the use of the product, or a fresh interpretation of the tariff heading by
+such decision.”
+14. At this juncture, it shall be apposite to refer to the two decisions pertaining to the assessee Shree
+Baidyanath Ayurved Bhavan Ltd. 14.1. In the decision rendered on 13.04.2009, which has been
+referred to by the learned counsel for the parties [reported in (2009) 12 SCC 419], extensive
+reference has been made to the previous decision rendered on 30.03.1995 in relation to the same
+assessee and concerning the classification of the same product namely Dant Manjan Lal12. In the
+said previous decision, being the case of Shree Baidyanath Ayurved Bhavan Ltd. v. Collector of
+Central Excise, Nagpur: (1996) 9 SCC 402, the issue 12 ‘DML’, for short.
+was as to whether DML manufactured by the assessee was falling within the meaning of an
+Ayurvedic Medicine to qualify for exemption from payment of excise duty under Notification No.
+62/78-CE dated 01.03.1978 issued in exercise of power conferred by Rule 8(1) of the Central Excise
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+22
+Rules, 1944. The relevant entry introduced by amendment was reading as ‘all drugs, medicines,
+pharmaceuticals and drug intermediates not elsewhere specified’. The appellant contended that the
+product in question was a scientific medicine which would attract the aforesaid entry and would,
+therefore, be exempt from the payment of excise duty. The Tribunal disagreed with these
+submissions and held that the product in question could rightly be described as a toilet preparation.
+In that regard, after noticing that the ingredient for the product was stated to be Geru (red earth) to
+the extent of 70% having a cooling quality, the Tribunal observed that the same was largely used as a
+filler or coloring agent and was not described as a medicine in common parlance. After going
+through various texts, definition of ‘drug’ under the Act of 1940 and ayurvedic books as well as
+opinion of experts in this behalf, the Tribunal concluded that the product in question could not be
+described as a medicinal preparation and, accordingly, rejected the claim of the appellant. This
+Court approved the reasoning and findings of the Tribunal while observing, inter alia, as under:-
+“3. …. The Tribunal rightly points out that in interpreting statutes like the Excise Act
+the primary object of which is to raise revenue and for which purpose various
+products are differently classified, resort should not be had to the scientific and
+technical meaning of the terms and expressions used but to their popular meaning,
+that is to say the meaning attached to them by those using the product.
+It is for this reason that the Tribunal came to the conclusion that scientific and technical meanings
+would not advance the case of the appellants if the same runs counter to how the product is
+understood in popular parlance. That is why the Tribunal observed in para 86 of the judgment as
+under:
+“So certificates and affidavits given by the Vaidyas do not advance the case of Shri
+Baidyanath Ayurved Bhawan Limited in the absence of any evidence on record to
+show and prove that the common man who uses this Dant Manjan daily to clean his
+teeth considers this Dant Manjan as a medicine and not a toilet requisite.” It is this
+line of reasoning with which we are in agreement. The Tribunal rejected the claim of
+the appellant holding that ordinarily a medicine is prescribed by a medical
+practitioner and it is used for a limited time and not every day unless it is so
+prescribed to deal with a specific disease like diabetes. We are, therefore, of the
+opinion that the Tribunal applied the correct principles in concluding that the
+product in question was not a medicinal preparation (‘Ayurvedic’) and, therefore, the
+appellant was not entitled to the benefit of the exemption notification. Having heard
+the learned counsel at length and having perused the line of reasoning adopted by the
+Tribunal with which we are in general agreement, we see no reason to interfere with
+the conclusion reached by the Tribunal and, therefore, we dismiss these appeals, but
+make no order as to costs.” 14.2. The aforesaid case related to the Rules framed under
+the Act of 1944 and the Notification issued thereunder. During the pendency of
+appeal before this Court, the Act of 1985 was enacted which replaced the Schedule to
+the Act of 1944; and Chapter 30 of the Act of 1985 dealt with pharmaceutical
+products. With reference to the new enactment and its amendments in the year
+1996-1997, the assessee approached the Board with a plea that now, there was
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+23
+specific definition of Ayurvedic medicines and hence, its product DML should be
+classified on the basis of that definition. This led to the Board sending
+communication to the Commissioner of Central Excise, Nagpur concerning the
+classification of DML. These propositions led to different decisions where the
+assessee contended that the product DML was a medicament under Chapter Sub-
+Heading 3003.31 of the Act of 1985 whereas, stand of the Department had been that the said
+product was a cosmetic/toiletry preparation/tooth powder classifiable under Chapter Heading
+3306. West Regional Bench of the Tribunal decided the classification in favour of the assessee and
+held that DML was classifiable under Chapter Sub-Heading 3003.31. A similar view was taken by
+East Regional Bench of the Tribunal. However, the Larger Bench of the Tribunal, to which the issue
+of classification of DML was referred, held that DML was classifiable under Chapter Sub-Heading
+3306.10.
+14.3. In the above backdrop, the second decision concerning the assessee Shree Baidyanath Ayurved
+Bhavan Ltd. was rendered by this Court, which has been referred to by the learned counsel for the
+parties. Therein, this Court took note of the said previous decision rendered on 30.03.1995
+[mentioned as the decision of Baidyanath I] and held that since the product in its composition,
+character and uses continued to be the same, even after insertion of new Sub-Heading 3301.30,
+change in classification was not justified. This Court elaborated on the twin test for determination of
+classification of products (common parlance test being one of them) and also held that specific
+heading shall prevail over the general one. The relevant observations and expositions of this Court
+could be usefully reproduced as under: -
+“46. As a matter of fact, this Court has consistently applied common parlance test as
+one of the well-recognised tests to find out whether the product falls under Chapter
+30 or Chapter
+33. In a recent decision in Puma Ayurvedic Herbal (P) Ltd. v. CCE [(2006) 3 SCC
+266] this Court observed that in order to determine whether a product is a cosmetic
+or medicament, a twin test (common parlance test being one of them) has found
+favour with the courts. This is what this Court observed: (SCC pp. 269-70, para 2) “2.
+… In order to determine whether a product is a cosmetic or a medicament a twin test
+has found favour with the courts. The test has approval of this Court also vide CCE v.
+Richardson Hindustan Ltd. [(2004) 9 SCC 156] There is no dispute about this as even
+the Revenue accepts that the test is determinative for the issue involved. The tests
+are:
+I. Whether the item is commonly understood as a medicament which is called the
+common parlance test. For this test it will have to be seen whether in common
+parlance the item is accepted as a medicament. If a product falls in the category of
+medicament it will not be an item of common use. A user will use it only for treating a
+particular ailment and will stop its use after the ailment is cured. The approach of the
+consumer towards the product is very material. One may buy any of the ordinary
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+24
+soaps available in the market. But if one has a skin problem, he may have to buy a
+medicated soap. Such a soap will not be an ordinary cosmetic. It will be medicament
+falling in Chapter 30 of the Tariff Act. II. Are the ingredients used in the product
+mentioned in the authoritative textbooks on ayurveda?” *** *** ***
+48. Applying the twin tests for determination of classification of products (including common
+parlance test), this Court in Puma Ayurvedic Herbal (P) Ltd. [(2006) 3 SCC 266] held that Items 1,
+2, 3, 4, 7, 9, 10 and 11 were medicaments while Items 5, 6 and 8 were liable to be classified as
+cosmetics under Chapter Sub-Heading 33.04. We endorse the view that in order to determine
+whether a product is covered by “cosmetics” or “medicaments” or in other words whether a product
+falls under Chapter 30 or Chapter 33 the twin tests noticed in Puma Ayurvedic Herbal (P) Ltd.
+[(2006) 3 SCC 266] continue to be relevant.
+49. The primary object of the Excise Act is to raise revenue for which various products are
+differently classified in the new Tariff Act. Resort should, in the circumstances, be had to popular
+meaning and understanding attached to such products by those using the product and not to be had
+to the scientific and technical meaning of the terms and expressions used. The approach of the
+consumer or user towards the product, thus, assumes significance. What is important to be seen is
+how the consumer looks at a product and what is his perception in respect of such product. The
+user's understanding is a strong factor in determination of classification of the products.
+*** *** ***
+52. The approach of the West Regional Bench is fallacious in what we have indicated above as it
+overlooks and ignores common parlance test which is one of the well-recognised tests to determine
+whether the product is classifiable as medicament or cosmetic and that has been consistently
+followed by this Court including with regard to this very product. It also overlooks the well-settled
+legal position that without a change in the nature or a change in the use of the product and in the
+absence of a statutory definition, the product will not change its character. The product DML
+remains the same in its composition, character and uses. We have already held above that
+Sub-Heading 3003.31 does not define ayurvedic medicine and, therefore, there cannot be any
+justification enough for changing the classification of the product DML which has not been held to
+be ayurvedic medicine by this Court.
+*** *** ***
+56. There is no doubt that a specific entry must prevail over a general entry. This is reflected from
+Rule 3(a) of the general Rules of interpretation that states that Heading which provides the most
+specific description shall be preferred to Headings providing a more general description. DML is a
+tooth powder which has not been held to be ayurvedic medicine in common parlance in Baidyanath
+I [(1996) 9 SCC 402].
+57. We have already observed that common parlance test continues to be one of the determinative
+tests for classification of a product whether medicament or cosmetic. There being no change in the
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+25
+nature, character and uses of DML, it has to be held to be a tooth powder – as held in Baidyanath 1.
+DML is used routinely for dental hygiene. Since tooth powder is specifically covered by Chapter
+Sub-Heading 3306, it has to be classified thereunder. By virtue of Chapter Note 1(d) of Chapter 30
+even if the product DMLhas some therapeutic or medicinal properties, the product stands excluded
+from Chapter 30.
+58. The learned Senior Counsel for Baidyanath relied upon the judgment of this Court in Vicco
+Laboratories [(2005) 4 SCC 17 : (2005) 179 ELT 17] to show that in Baidyanath I [(1996) 9 SCC
+402], no tests for classification were laid down. First, in Baidyanath I [(1996) 9 SCC 402] common
+parlance test applied by the Tribunal has been approved. Second, and more importantly, with regard
+to the very same product (DML), this Court held that it could not be classified as ayurvedic medicine
+and rather the product is a toilet requisite. Baidyanath I [(1996) 9 SCC 402] , no doubt relates to the
+old Tariff period i.e. prior to enactment of the new Tariff Act but since the product in its
+composition, character and uses continues to be the same, even after insertion of new Sub- Heading
+3301.30, we have already held that change in classification is not justified as common parlance test
+continues to be relevant for classification. Vicco Laboratories [(2005) 4 SCC 17: (2005) 179 ELT 17]
+is of no help to the assessee.” (emphasis supplied)
+15. As regards the test to be applied for determination of the proper classification of a product and
+construction of the tariff entries with reference to a product, we may refer to the other cited
+decisions as infra. 15.1. The case of Alpine Industries (supra) essentially related to the question of
+classification of the product ‘Lip Salve’, manufactured in accordance with the defence services
+specifications and supplied entirely to military personnel, as a ‘medicament’ under Chapter 30 or as
+‘a preparation for care of skin’ under Chapter 33. This Court, while dealing with common parlance
+theory, held that the entries are not to be understood in their scientific or technical sense, but by
+their popular meaning for the purpose of interpretation. This Court said: -
+“5. It is well established that in interpreting tariff entries in taxation statute like the
+Excise Act, where the primary object is to raise revenue and for that purpose various
+products are differently classified, the entries are not to be understood in their
+scientific and technical meaning. The terms and expressions used in tariff have to be
+understood by their popular meaning that is the meaning that is attached to them by
+those using the product. See the decision of the Supreme Court on the dispute
+regarding classification for excise duty, the product — Lal Dant Manjan
+manufactured by Shree Baidyanath Ayurved Bhavan Ltd. reported in the case of
+Shree Baidyanath Ayurved Bhavan Ltd. v. CCE [(1996) 9 SCC 402]. The
+manufacturer claimed the product to be an Ayurvedic medicinal preparation product
+for dental care. The view of the Tribunal was upheld by this Court by holding (at SCC
+pp. 404-05, para 3) that “ordinarily a medicine is prescribed by a medical
+practitioner and it is used for a limited time and not every day unless it is so
+prescribed to deal with a specific disease like diabetes”.
+*** *** ***
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+26
+7. ….. It is firmly established that on the question of classification of a product under
+the Central Excise Tariff Act, “commercial parlance theory” has to be applied. It is
+true that the entire supply by the appellant of its product “Lip Salve” has been to the
+Defence Department for use of military personnel but that would also not be
+determinative of the nature of the product for classifying it. It is not disputed that the
+product “Lip Salve” is used for the care of the lips. It is a product essentially for “care
+of skin” and not for “cure of skin”. It is, therefore, classifiable as a skin-care cream
+and not a medicament. From the nature of the product and the use to which it is put,
+we do not find that the claim of the appellant is acceptable that it is primarily for
+therapeutic use. What we find from the material produced before the Tribunal is that
+essentially the product is a protective/preventive preparation for chapping of lips. It
+is not a curative product, maybe, that incidentally on cracked and chapped lips, it has
+some curative effect. It is also not denied that the product “Lip Salve” is not suitable
+for use only for soldiers operating in high-altitude areas but it is of use for everyone
+as protection from dry, cold weather or sunrays. The product, therefore, essentially is
+protective of skin of lips. It is a lip-
+care product and not a “medicament”. It is neither prescribed by any doctor nor obtainable from the
+chemist or pharmaceutical shops in the market.
+8. The appellant seeks classification of the product as a pharmaceutical product under Chapter 30
+and as a “medicament” under Heading 30.03. Under the Rules for Interpretation of the Schedule
+under the Central Excise Tariff Act, 1985, for the purpose of classification chapter notes can be taken
+as an aid for understanding their various entries under various headings of the tariff. What is to be
+noted from Chapter 30 of the Tariff Act is that under Note 1(d) preparations covered by Chapter 33
+even if they have “therapeutic or prophylactic properties” are excluded from Chapter 30.
+“Medicament” has been defined in Note 2(i) to mean “goods which are either products comprising
+two or more constituents which have been mixed or compounded together for therapeutic or
+prophylactic use”. On a reading of Note 1(d) with Note 2(i) of Chapter 30 under the heading
+“Pharmaceutical Products”, it is clear that preparations which fall under Chapter 33 even if they
+have therapeutic or prophylactic properties are not covered under Heading 30.03 as “medicaments”
+*** *** ***
+13. ……..Note 2 and Note 5 with Entry 33.04, we find ourselves in agreement with the majority
+opinion of the Tribunal that the product “Lip Salve” is a kind of “barrier cream” or a protective
+cream against skin irritants. It, therefore, clearly falls under Entry 33.04 and conforms to the
+description “preparations for the care of the skin (other than medicaments)”. The learned counsel of
+the appellant has not been able to persuade us to take a different view from the one taken in the
+majority opinion of the Tribunal. We confirm that the product “Lip Salve” is essentially a
+preparation for protection of lips and skin and is not a “medicament”. Such preparations which have
+a subsidiary curative or prophylactic value clearly fall under Entries 33.03 to 33.07 as per Note 2
+under Chapter 33. The product clearly is covered by Entry 33.04 read with Note 5 of Chapter 33, it
+essentially being a preparation for protection of lips or skin. We have also gone through the minority
+opinion expressed by one of the members of the Tribunal and the reasoning therein supported
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+27
+before us on behalf of the appellant. For the reasons aforesaid, we are unable to agree with the
+minority view. In the result, we find no merit in these appeals and the same are hereby dismissed.”
+(emphasis supplied) 15.2. In G.C. Jain (supra), this Court held that the words and expressions have
+to be construed as per trade and understanding usage, unless defined in the statute. This Court said:
+-
+“18. Admittedly, the expression “adhesive” is not defined in the Act.
+It is now well settled that the words and expressions, unless defined in the statute have to be
+construed in the sense in which persons dealing with them understand i.e. as per trade and
+understanding and usage.” 15.3. In Wockhardt Life Sciences (supra), this Court further elaborated
+on the common parlance test as under: -
+“33. There is no fixed test for classification of a taxable commodity. This is probably
+the reason why the “common parlance test” or the “commercial usage test” are the
+most common (see A. Nagaraju Bros. v. State of A.P. [1994 Supp (3) SCC 122] ).
+Whether a particular article will fall within a particular tariff heading or not has to be
+decided on the basis of the tangible material or evidence to determine how such an
+article is understood in “common parlance” or in “commercial world” or in “trade
+circle” or in its popular sense meaning. It is they who are concerned with it and it is
+the sense in which they understand it that constitutes the definitive index of the
+legislative intention, when the statute was enacted (see Delhi Cloth and General Mills
+Co. Ltd. v. State of Rajasthan [(1980) 4 SCC 71].
+34. One of the essential factors for determining whether a product falls within Chapter 30 or not is
+whether the product is understood as a pharmaceutical product in common parlance [see CCE v.
+Shree Baidyanath Ayurved Bhavan Ltd. [(2009) 12 SCC 419] and CCE v. Ishaan Research Lab (P)
+Ltd. [(2008) 13 SCC 349]]. Further, the quantity of medicament used in a particular product will
+also not be a relevant factor for, normally, the extent of use of medicinal ingredients is very low
+because a larger use may be harmful for the human body. [Puma Ayurvedic Herbal (P) Ltd. v. CCE
+[(2006) 3 SCC 266], State of Goa v. Colfax Laboratories Ltd. [(2004) 9 SCC 83] and B.P.L.
+Pharmaceuticals Ltd. v. CCE [1995 Supp (3) SCC 1].]
+35. However, there cannot be a static parameter for the correct classification of a commodity. This
+Court in Indian Aluminium Cables Ltd. v. Union of India: (1985) 3 SCC 284 has culled out this
+principle in the following words: (SCC p. 291, para 13) “13. To sum up the true position, the process
+of manufacture of a product and the end use to which it is put, cannot necessarily be determinative
+of the classification of that product under a fiscal schedule like the Central Excise Tariff. What is
+more important is whether the broad description of the article fits in with the expression used in the
+Tariff.”
+36. Moreover, the functional utility and predominant or primary usage of the commodity which is
+being classified must be taken into account, apart from the understanding in common parlance. [See
+O.K. Play (India) Ltd. v. CCE [(2005) 2 SCC 460] , Alpine Industries v. CCE [(2003) 3 SCC 111] ,
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+28
+Sujanil Chemo Industries v. CCE & Customs [(2005) 4 SCC 189] , ICPA Health Products (P) Ltd. v.
+CCE [(2004) 4 SCC 481] , Puma Ayurvedic Herbal [(2006) 3 SCC 266] , Ishaan Research Lab (P)
+Ltd. [(2008) 13 SCC 349] and CCE v. Uni Products India Ltd. [(2009) 9 SCC 295] ] *** *** ***
+39. In our view, as we have already stated, the combined factors that require to be taken note of for
+the purpose of the classification of the goods are the composition, the product literature, the label,
+the character of the product and the user to which the product is put. However, the miniscule
+quantity of the prophylactic ingredient is not a relevant factor. In the instant case, it is not in dispute
+that this is used by the surgeons for the purpose of cleaning or degerming their hands and scrubbing
+the surface of the skin of the patient before that portion is operated upon. The purpose is to prevent
+the infection or disease. Therefore, the product in question can be safely classified as a
+“medicament” which would fall under Chapter Sub-Heading 3003 which is a specific entry and not
+under Chapter Sub-Heading 3402.90 which is a residuary entry.” (emphasis supplied) 15.4. In
+Sunny Industries (supra), this Court was dealing with the question whether ‘Ad-Vitamin Massage
+Oil Forte’ was still classifiable as patent and proprietary medicine even after the change of tariff
+description after 1985 Budget. This Court dismissed the appeal of the assessee as the product in
+question was oil, used for massage to take care of the skin, and not to cure the skin and hence, was
+classifiable under ‘cosmetics’ and not under ‘medicaments’. This Court observed and held as under:
+-
+“11. From the aforesaid chapter notes, it is clear that Heading 33.03 would include
+products whether or not they contain subsidiary pharmaceutical or antiseptic
+constituents, or are held out as having subsidiary curative or prophylactic value and
+Heading 33.04 would inter alia include the products specified therein and other
+preparations for use in manicure or chiropody and barrier creams to give protection
+against skin irritants. Therefore, the product, mainly oil containing some A and D
+vitamins which is used for massage, even if it prevents ailment of rickets and treats
+the same cannot be held to be a medicament.
+12. Hence, in our view, after verification of the entire evidence and the certificates
+produced on record as well as the report of the Chemical Analyser, the Tribunal
+rightly arrived at the conclusion that the product in question is oil used for massage
+and would be covered by Heading 33.04. Similar contention was raised in Alpine
+Industries v. CCE [(2003) 3 SCC 111: JT (2003) 1 SC 130] . The Court observed (at
+SCC p. 116, para 8) that “medicament” has been defined in Note 2(i) to mean “goods
+which are either products comprising two or more constituents which have been
+mixed or compounded together for therapeutic or prophylactic use”. On a reading of
+Note 1(d) with Note 2(i) of Chapter 30 under the heading “Pharmaceutical Products”,
+it is clear that preparations which fall under Chapter 33 even if they have therapeutic
+or prophylactic properties are not covered under Heading 30.03 as “medicaments”.
+The Court thereafter held thus: (SCC p. 115, para
+7) “The certificate issued by the Army Authorities and the chemical ingredients of the
+product are not decisive on the question of classification of the product for levy of
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+29
+excise duty. It is firmly established that on the question of classification of a product
+under the Central Excise Tariff Act, ‘commercial parlance theory’ has to be applied. It
+is true that the entire supply by the appellant of its product ‘Lip Salve’ has been to the
+Defence Department for use of military personnel but that would also not be
+determinative of the nature of the product for classifying it. It is not disputed that the
+product ‘Lip Salve’ is used for the care of the lips. It is a product essentially for ‘care
+of skin’ and not for ‘cure of skin’. It is, therefore, classifiable as a skin-care cream and
+not a medicament. From the nature of the product and the use to which it is put, we
+do not find that the claim of the appellant is acceptable that it is primarily for
+therapeutic use.”
+13. The same would be the position in the present case. The oil is not used for cure of skin but is oil
+for massage and it takes care of the skin.
+14. In this view of the matter, we find no substance in these appeals and they are accordingly
+dismissed. There shall be no order as to costs.” (emphasis supplied) 15.5. In Sharma Chemicals
+(supra), this Court was concerned with the issue as to whether the product Banphool Oil could be
+classified under as Ayurvedic medicament or as perfumed hair oil. This Court held that mere fact
+that a product is sold across the counter and not under a doctor’s prescription, does not ipso facto
+lead to the conclusion that it is not a medicament. This Court, inter alia, observed and held as under:
+-
+“12. ….It is settled law that the onus or burden to show that a product falls within a
+particular tariff item is always on the Revenue. Mere fact that a product is sold across
+the counters and not under a doctor's prescription, does not by itself lead to the
+conclusion that it is not a medicament. We are also in agreement with the submission
+of Mr Lakshmikumaran that merely because the percentage of medicament in a
+product is less, does not ipso facto13 mean that the product is not a medicament.
+Generally the percentage or dosage of the medicament will be such as can be
+absorbed by the human body. The medicament would necessarily be covered by
+fillers/vehicles in order to make the product usable. It could not be denied that all the
+ingredients used in Banphool Oil are those which are set out in the Ayurveda
+textbooks. Of course the formula may not be as per the textbooks but a medicament
+can also be under a patented or proprietary formula. The main criterion for
+determining classification is normally the use it is put to by the customers who use it.
+The burden of proving that Banphool Oil is understood by the customers as a hair oil
+was on the Revenue. This burden is not discharged as no such proof is adduced. On
+the contrary, we find that the oil can be used for treatment of headache, eye problem,
+night blindness, reeling head, weak memory, hysteria, amnesia, blood pressure,
+insomnia etc. The dosages required are also set out on the label. The product is
+registered with the Drug Controller and is being manufactured under a drug licence.”
+(emphasis supplied) 13 As per Corrigendum issued by Supreme Court of India No.
+F.3/Ed. B.J./92/2003 dated 9-9-2003.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+30
+15.6. In the case Meghdoot (supra), while dealing with the question of classification of six items
+namely Bhringraj Tail, Trifla Brahmi Tail, Neem Herbal Sat, Sat Reetha, Meghdoot Herbal Sat,
+Meghdoot Herbal Powder and following the decision in BPL Pharmaceuticals (supra), this Court
+classified the items under the heading of ‘medicaments’ and held that items which may be sold
+under names bearing a cosmetic connotation but would remain medicines based on the composition
+of the items, in the following terms: -
+“5….. A product may be medicinal without having been prescribed by a medical
+practitioner. It was also not necessary for a person manufacturing medical products
+to claim classification under Tariff Sub-Heading 3003.30 without establishing that
+the product had in fact been tested on patients in controlled situations or that the
+outcome had not been tested for effectiveness. This would be particularly true in the
+cases where the products are claimed to be based on traditional Ayurvedic formulae.
+*** *** ***
+7. This Court has in similar matters come to the conclusion that items which may be
+sold under names bearing a “cosmetic” connotation would nevertheless remain
+medicines based on the composition of the items in B.P.L. Pharmaceuticals Ltd. v.
+CCE [1995 Supp (3) SCC 1 : (1995) 77 ELT 485].
+8. As far as the first three items listed earlier are concerned, this Court has in CCE v.
+Pandit D.P. Sharma [(2003) 5 SCC 288 : (2003) 154 ELT 324] and CCE v. Himtaj
+Ayurvedic Udyog Kendra [(2003) 5 SCC 290 : (2003) 154 ELT 323] in connection
+with Banphool Oil and Himtaj Oil held that the Ayurvedic hair oils, were medicines
+and should be properly classified under Tariff Sub- Heading 3003.30, rather than
+under Tariff Sub-Heading 3305.10 or 3305.50….
+9. As far as Items (4), (5) and (6) are concerned, for the reasons stated earlier, we are
+of the view that they are also properly classifiable under medicaments under Tariff
+Sub-Heading 3003.30.” (emphasis supplied)
+16. Apart from the above, on behalf of the respondent, reference has also been made to a decision of
+this Court dated 27.02.2019 concerning its product in relation to the entry in the Andhra Pradesh
+General Sales Tax Act, 1957 and it has been asserted that therein, this Court accepted that the
+product in question was a medicine and not a cosmetic product. This Court observed and held as
+under: -
+“6. Notably, the Commissioner had failed to address the specific plea of the
+respondent that the hair oil manufactured by the respondent contains ‘Arnica Mount
+Q, Cantharis Q, Cinchona Q and Pilocarpine Q’ and would, therefore, qualify to be a
+drug within the meaning of Section 3 of The Drugs and Cosmetics Act, 1940, and if
+so, would be covered under Entry 37 of Schedule-I of the APGST Act; and not Entry
+36 which is for general hair tonics, hair oils or hair lotions, as such. The High Court,
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+31
+therefore, reversed the conclusion reached by the Commissioner after noting the
+aforementioned contention of the respondent and, instead, held that the respondent
+had produced sufficient material to show that the product manufactured by the
+respondent was a medicine and not a cosmetic product.
+7. The fact that the respondent is using the Homeopathic Pharmacopoeia referred to
+earlier in manufacturing of the hair oil has not been traversed by the appellant.
+Neither has the Commissioner dealt with that contention of the respondent nor was
+such a plea taken before the High Court by the appellant. Considering this, we see no
+reason to deviate from the conclusion reached by the High Court that the product
+manufactured by the respondent was rightly assessed at the relevant point of time in
+the assessment years 1994-1995 and 1995-1996, as covered by Entry 37 of Schedule-I
+of the APGST Act.
+8. We once again make it amply clear that the view taken in these appeals is in the
+fact situation of this case and confined to the assessment years 1994- 1995 and
+1995-1996 only and would not apply or be of any avail to the respondent for the
+subsequent assessment years, in view of the amendment effected in the APGST Act.”
+17. Before concluding this segment pertaining to the decided cases, we may also take note of the
+decision of the Tribunal in the case of Bakson Homeo Pharmacy (supra) which had all through been
+relied upon by the respondent for the reason that therein, a substantially similar product was held to
+be a medicament. In fact, in the said decision, the Tribunal examined the questions relating to two
+products namely, “Sunny Arnica Hair Oil” and “Sunny Arnica Shampoo”. As regards the issue
+concerning the product shampoo, the Tribunal remanded the matter to the lower authority for
+decision afresh but, as regards hair oil, the Tribunal upheld the contention of the assessee in terms
+of the opinion of the majority and held that the said product was answering to the description of
+Homeopathic medicine while predominantly applying the tests pertaining to the ingredients. In the
+leading opinion, the learned Member of the Tribunal extensively referred to the individual
+properties of Homeopathic medicines as also the other natural ingredients of the product. The
+learned Member further underscored the connotations of Homeopathy system of medical treatment
+as also the therapeutic and prophylactic properties of the ingredients and observed as under: -
+“On a careful consideration and examination of the materials produced and referred
+to above, we notice that the ingredients utilised in the manufacture of Arnica Hair Oil
+are exclusively natural substances and their reference has been found in
+Homoeopathic Pharmacopia of India. The manufacturers have obtained drug licence
+and the use of the Hair oil, as a medicament, has been recommended by the
+Homeopaths. The appellants have shown that the ingredients are homoeopathic in
+nature and having therapeutic and prophylactic. Therefore, their contention cannot
+be rejected in the light of the evidence produced……In the present case, we are
+concerned with Arnica Hair Oil, which is claimed to be medicament in terms of the
+ingredients having necessary antiseptic, antiphlogistic action for dermatological
+diseases. It is also used for treatment of baldness and acts as an anti-dandruff agent
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+32
+and as cooling agent. In view of each of the ingredients having one or the other
+therapeutic or prophylectic functions in terms of homoeopathic science, therefore, it
+has to be held that the Arnica Hair Oil is not a cosmetic preparation or for use on hair
+under sub-heading 3505.90 of the Central Excise Tariff, as they are not intended for
+cleansing, beautifying, promoting attractiveness or altering appearance in terms of
+the Hon'ble Supreme Court judgment in the case of B.P.L. Pharmaceuticals Ltd. but
+they are meant for specific treatment for dandruff of other skin and hair problem.
+Therefore, the appellant's contention for treatment as a medicament having
+homoeopathic ingredients and considered as homoeopathic medicine is required to
+be accepted for classification under TI 14E of erstwhile tariff and under sub-heading
+3003.30 of the new tariff.” (emphasis supplied)
+18. We may usefully summarise the discernible principles from the cited decisions as also the other
+referred orders, so far relevant for the purpose of determination of points arising in this appeal as
+follows: 18.1. As regards the question as to whether the product in question, AHAHO, merits
+classification as ‘medicament’ under Chapter 30 or as ‘cosmetic or toilet preparations’ under
+Chapter 33, the inquiry shall be directed towards a couple of tests taken together, being the
+common/commercial parlance test i.e., how the product is understood commonly, including by the
+persons dealing in the same and by the end- users; and the ingredients test i.e., whether the
+ingredients used in the product are found mentioned in authoritative textbooks [vide Shree
+Baidyanath Ayurved Bhavan Ltd. (supra)]. The connotations of common parlance test could further
+be understood from the case of Alpine Industries (supra), that the primary object of such taxing
+statute being to raise revenue and various products being differently classified for that purpose, the
+entries are not to be understood in their scientific and technical meaning; rather the terms and
+expressions used in tariff have to be understood by their popular meaning, that is the meaning
+attached to them by those dealing with or using the product. Further, as observed in G.C. Jain
+(supra), the words and expressions, unless defined in the statute have to be construed in the sense in
+which persons dealing with them understand i.e., as per trade understanding and usage. Yet further,
+there is no fixed test or static parameter for correct classification of a product and it essentially
+depends on the meaning assigned to it by the persons concerned with it. One of the essential factors
+for determining whether a product falls under Chapter 30 or not is as to whether the product is
+understood as a pharmaceutical product in common parlance. However, the quantity of medicament
+used in a particular product is not a relevant factor because, ordinarily, the extent of use of medical
+ingredients is very low as a larger use may be harmful for the human body [vide Wockhardt Life
+Sciences (supra)]. Moreover, as held in Sharma Chemicals (supra), the mere fact that a product is
+sold across the counters and not under a doctor’s prescription, does not by itself lead to a conclusion
+that it is not a medicament; and in Meghdoot (supra), that a product may be medicinal without
+having been prescribed by a medical practitioner. It is held by this Court in BPL Pharmaceuticals
+(supra) and reiterated in Meghdoot (supra) that the items which may be sold under names bearing a
+cosmetic connotation would nevertheless remain medicines based on the composition. As regards
+the question as to whether a particular product is classifiable under Chapter 30 as ‘medicament’ or
+under Chapter 33 as ‘cosmetic’, one of the essential features would be as to whether the preparation
+is essentially for cure or prevention of disease (medicament) or for care (cosmetic); and the
+preparation having only subsidiary curative or prophylactic value would fall under Chapter 33 [vide
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+33
+Alpine Industries and Sunny Industries (supra)].
+18.2. Ordinarily, we would not have delved into another decision of the Tribunal but have found it
+appropriate to refer to the said decision in the case of Bakson Homeo Pharmacy (supra), which had
+all through been relied upon by the respondent, for the reason that it related to a similar product
+marketed in the name of “Sunny Arnica Hair Oil”, which was held to be a ‘medicament’. The said
+decision has also been relied upon by the Tribunal in the order impugned. The significant feature of
+the said decision is that therein, in the leading opinion of majority, ingredient test has extensively
+been dealt with and the medicinal qualities; and therapeutic/prophylactic use of several of the
+ingredients have been analysed, which include all the ingredients of the product involved in the
+present case14.
+18.3. As regards the question of justification for re-classification or re- examination of the
+classification, this Court has clearly held that there is no good reason to change the classification
+merely on the ground of change 14 It appears from the facts of the present case and the observations
+occurring in the said case of Bakson Homeo Pharmacy (supra) that all the ingredients of the product
+involved in the present case (AHAHO) were equally the ingredients of the product under
+consideration therein, namely, Arnica Montana, Cantharis, Pilocarpine, Cinchona. As noticed from
+the relevant pages of Materia Medica placed before us, in the Homeopathic terminology, Cinchona
+Officinalis is also termed as China Officinalis; and Pilocarpine is essentially isolated from Jaborandi.
+The similar product involved in Bakson Homeo Pharmacy (supra) was said to be containing the
+ingredients Arnica Mont, Jaborandi, Cantharis and China, apart from other ingredients. of tax
+structure or tariff entries without showing a change in the nature and character of a product or a
+change in the use of the product [vide the decisions in BPL Pharmaceuticals and Vicco Laboratories
+(supra)]. As noticed in Shree Baidyanath Ayurved Bhavan Ltd. (supra), this Court rejected the
+contentions seeking reclassification of the product in question therein, DML, after enactment of new
+Tariff Act because the product in its composition, character and uses continued to remain the same
+even after insertion of new Sub-Heading 3301.30.
+19. Having thus summarised the discernible principles, so far as relevant for the present purpose, we
+may take up the points arising for determination. As noticed, the principal point arising for
+determination in this case is as to whether the product in question, AHAHO, merits classification as
+a ‘medicament’ under Chapter 30 or as ‘cosmetic or toilet preparations’ under Chapter 33 of the
+First Schedule to the Central Excise Tariff Act, 1985. For determination of this point, the inquiry
+would be directed towards the twin tests as noticed above.
+Application of the principles and twin test
+20. Before applying twin tests for the purpose of the product in question, we may usefully
+recapitulate the divergent propositions presented in this case, where the findings of the Adjudicating
+Authority and the submissions made on behalf of the appellant stand on one side whereas, the
+findings of the Tribunal with the submissions made on behalf of the respondent stand on the other.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+34
+20.1. As noticed, the Adjudicating Authority examined the contents of the product as also its label
+and observed that it did not contain any condition like "to be sold by authorized medical distributor
+or retailer under prescription from medical practitioner" even though such a mention was a
+mandatory requirement under the Act of 1940; and it did not contain any specification regarding the
+dosage to be used and the duration for which it is to be used, which is the norm for a medicament.
+The Adjudicating Authority yet further observed that there was no claim that the product could cure
+any particular disease like Alopecia (loss of hair); that the medical conditions like Alopecia actually
+tend to happen all of a sudden with patches of baldness not only on the head but anywhere on the
+body; and that Insomnia was a medical condition resulting in sleeplessness due to stress and other
+neurological disorders. According to these observations, non-mention of Alopecia or Insomnia on
+the labels indicated that the product was not meant for any substantial curative purpose. The
+Adjudicating Authority also observed that by mentioning no contra- indications, it implied that
+irrespective of the quantum or duration of usage, there was no adverse effect on the scalp or skin,
+which was against the basic concept of a medicament, which is prescribed or used for a limited
+period and overdose is known to result in contra-indications like diarrhoea, acidity, ulceration,
+rashes etc. The Adjudicating Authority further observed that the label neither contained a positive
+indication that it was a medicament nor a negative indication that it was not a cosmetic but it was
+certainly labelled as a “Hair Oil”; and if the intention was to identify the product as medicament,
+there was no need to label it as “Hair Oil”. Hence, the Adjudicating Authority held that AHAHO
+could not be categorized as a medicament but had to be classified as “Hair oil”. As regards common
+parlance test, the Adjudicating Authority observed that AHAHO was accessible in both Medical and
+General Stores and could be bought across the counter. Moreover, the depiction of a lady with long,
+black flowing hair on its label indicated its categorisation as cosmetic and not as a medicament. The
+Adjudicating Authority even proceeded to observe that ‘Hair growth is at best a cosmetic necessity
+rather than a disease requiring immediate attention or treatment’. The Adjudicating Authority also
+observed that the drug licenses issued by respective authorities, per se did not make AHAHO a
+preparation of homeopathic medicine. While referring to Materia Medica, the Adjudicating
+Authority noted his reservations about one ingredient (Pilocarpine) and observed that there was no
+nexus of the said ingredient with Homeopathy. While referring to the significance of general rules of
+interpretation as regards the Notes attached to the respective Chapters/Tariff Items in the First
+Schedule to the Act of 1985, the Adjudicating Authority observed that as per Note 1(e) to Chapter 30,
+the said Chapter did not cover preparation of the headings of Chapter 3303 to 3307, even if they
+have therapeutic or prophylactic properties. 20.1.1. Learned ASG, while supporting the aforesaid
+findings of the Adjudicating Authority and while assailing the findings of the Tribunal, has argued
+that the product in question does not meet the criteria laid down under Chapter 30; that even if the
+product is stated to possess certain curative or prophylactic value, it would still be cosmetic as it
+excludes those with subsidiary curative and prophylactic value; and Tariff Item 3305 90 19,
+specifically meant for “Hair oil”, directly covers the product in question for, a specific entry would
+take precedence over a general entry. The ASG has contended that the common parlance test of the
+product is not in favour of the respondent, as the product is not prescribed by any medical
+practitioner, is available freely without any prescription in Medical and General Stores, and could be
+purchased across the counter, as admitted by the respondent. Moreover, the label does not indicate
+the condition of sale by authorised medical distributor or retailer under prescription; it does not
+cure any particular disease; and the claims on the label are for marketing purposes only. The learned
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+35
+ASG has relied upon the decision in Alpine Industries (supra) to submit that any subsidiary
+therapeutic or prophylactic use of the product would not change its nature as “Hair oil” if in the
+common parlance, it is treated as a cosmetic. Learned ASG has also submitted that the product is
+advertised as hair oil and not a medicament; and is perceived by the public who purchase and sell
+the product as hair oil (cosmetic) and not as medicament.
+20.2. In contrast to what has been observed by the Adjudicating Authority and what has been
+argued by learned ASG, it is noticed that in the very first response to the show-cause notice, the
+respondent asserted that the twin tests for classification of the product as ‘medicament’ were duly
+satisfied in relation to its product AHAHO in view of the facts and factors:
+(i) that the manufacturing process, undertaken in terms of the manufacturing license issued by the
+Drug Controller and by the Directorate of Ayush, would indicate the presence of four homeopathic
+drugs in the product namely, Arnica Montana, Cantharis, Pilocarpine and Cinchona; (ii) that the
+drugs so used are mentioned in the authoritative text books like Materia Medica of Homeopathic
+Drugs; (iii) that its label indicated the words “Homeopathic Medicine" under Schedule K to the
+Rules of 1945; (iv) that the product is to be applied to the scalp and not consumed orally; it would
+cure/prevent the lack of blood circulation to the hair roots, hair fall (alopecia), dandruff, headache
+and lack of sleep (insomnia), and healing from the said diseases would lead to good health in terms
+of growth and maintenance of natural colour in the hair; and (v) that the product was a medicament
+in terms of market parlance, evidenced by its use over a period of nearly 19 years. The respondent
+also submitted that the product was not ‘cosmetic’, as the ingredients used had prophylactic
+properties and it was not applied for cleansing or beautifying or promoting attractiveness or altering
+the appearance; and depiction of a lady with long flowing hair on its label was only subjective and
+could be interpreted as indicative of good health evidenced by the long flowing hair upon being
+treated for hair fall and dandruff.
+20.2.1. The Tribunal took note of the observation and findings in the order impugned as also the
+evidence placed before it and the cited decisions and held, inter alia, that even though the goods
+were sold over the counter and not on a medical prescription, it would not lead to the goods being
+out of the category of medicine; that when different branches of medicine and the Licensing
+Authorities recognized baldness or hair fall as disease, the Adjudicating Authority could not take a
+different view which was not recognized by the branches of medicine; that the product clearly
+mentioned that it could be used for other ailments also such as sleep loss, increase of blood
+circulation and it nowhere depicted itself as for hair care or enhancing beauty of hair; that the label
+indicated the product as Homeopathic medicine under Schedule K to the Rules of 1945, ingredients
+and their composition, indications, contra-indications and mode of application and such contents of
+label itself showed that even in common parlance, it was understood by the users and the traders as
+Homeopathic medicine; that there was no advice on the label nor did it suggest that it could be used
+as hair oil; and indisputably, the product was made of four Homeopathic medicines as ingredients
+namely Arnica Mont, Cantharis, Pilocarpine and Cinchona and was used to treat hair loss, insomnia,
+dandruff, headache and other ailments; and the product was manufactured under Drug Licence
+issued under the relevant rules which had been renewed from time to time by the Additional
+Director & Drug Controller (Homeo), Department of Ayush, Government of Telangana; that even as
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+36
+per analysis report of Drug Controller, Department of Ayush, the product was medicine; the product
+was covered by Serial No. 35 of Schedule K to the Rules of 1945 (Homeopathic Hair oils having
+active ingredients upto 3X potency) and the said Schedule covered only drugs and not cosmetics.
+The Tribunal also observed that the product had already been held to be drug by the Andhra
+Pradesh High Court in reference to Commercial Taxes; and the Advance Ruling Authority of
+Commercial Taxes, Government of Tamil Nadu for the purpose of TNVAT Act 2006, held the
+product to be a Homeopathic medicine. The Tribunal also took note of the fact that even in the past,
+the respondent was issued show-cause notices for classification of the product as cosmetic and the
+Appellate Authority, after going into all the aspects of common parlance as well as contents of the
+product and its usage, held that the product was a Homeopathic medicine. The Tribunal
+distinguished the case of Shree Baidyanath Ayurved Bhavan (supra) while observing that the
+product in question therein did not satisfy the common parlance test and the said product DML was
+known as toilet preparation in common parlance and not as Ayurvedic medicine. The Tribunal
+further pointed out that the decision of this Court in the case of Alpine Industries (supra) was not
+applicable as in the said case, the drug license obtained by the assessee under the Drugs and
+Cosmetics Act, 1940, itself mentioned that it was a license for ointment and cream for external
+application as a non- pharmacopoeia item whereas in the present case, the product was registered as
+Homeopathic Medicine.
+20.2.2. While supporting the findings of the Tribunal, learned senior counsel for the respondent has
+contended that AHAHO is a therapeutic or prophylactic medicament in the medium of oil for curing
+diseases relating to the scalp. The product is not advertised as “Hair Oil” but is marketed only as
+“Aswini Homeo Arnica Hair Oil”.
+21. In an overall comprehension of the matter, and with application of the relevant principles to the
+facts of the present case, we are clearly of the view that the product in question sails through the
+twin tests without any doubt and has rightly been held as medicament by the Tribunal.
+22. Taking up the test relating to the ingredients, there appears absolutely no reason to suggest that
+the product in question, AHAHO, does not pass this test. It remains indisputable that the product
+has been manufactured as a drug after being duly licensed by the competent authorities and carries
+the combination of as many as four Homeopathic medicines, Arnica Montana, Cantharis,
+Pilocarpine, and Cinchona in its preparation. These Homeopathic medicines are duly found
+mentioned in Homeopathic Pharmacopoeia of India15 as also in the Dictionary of Practical Materia
+Medica16 placed before us by the learned counsel for the respondent.
+22.1. Having gone through the elaborate order passed by the Adjudicating Authority, we are
+constrained to observe that in the over- 15 Volume I 1971 ed. and Vol. V 1986 ed.
+16 A Dictionary of Practical Materia Medica by John Henry Clarke; B. Jain publishers (P) Ltd., New
+Delhi.
+anxiety to somehow hold the product in question as cosmetic, the Adjudicating Authority even
+attempted to suggest his reservations as regards the utility of Pilocarpine as a Homeopathic drug
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+37
+contrary to the authoritative texts17. Be that as it may, the Adjudicating Authority in its elaborate
+order could not otherwise doubt the recognition of other ingredients of AHAHO as being
+Homeopathic drugs. The approach of the Adjudicating Authority in his micro analysis of the
+contents of label had also been in the nature of a fishing inquiry as if only to find some gap or some
+loophole therein, without looking at the substance of the matter that the product in question was
+clearly indicated to be a Homeopathic medicine under Schedule K to the Rules of 1945. Looking to
+the nature of the product and its properties, the relevant indications have also been specified in
+reasonable terms and looking to its nature and purpose, directions for use have also been given in
+the manner that it was to be massaged directly on the scalp and should be left overnight for best
+results. Hence, the Adjudicating Authority’s observations about want of specification regarding the
+dosage to be used and the duration for which it is to be used carry their own shortcomings. As
+noticed, the product in question is essentially meant for dealing with the conditions arising in and
+on the scalp with hair being the integral part thereof. The product consists of Homeopathic
+medicines. Its manner of use is to put the same on the scalp and to leave it overnight. 17 As
+explained at p. 821 of the extract of Materia Medica placed before us, “Pilocarpine is one of the most
+characteristic of several alkaloids which have been isolated from Jaborandi (Pilocarpus pinnalus)”.
+In the decision by the Tribunal in the case of Bakson Homeo Pharmacy (supra), the properties of
+this ingredient have been distinctly indicated, including that “for treatment of baldness” with
+reference to the relevant medical texts. Looking to the nature of the product and its uses, the
+observations about want of specification regarding the dosage do not take the product out of its
+pharmaceutical value. Further, the Adjudicating Authority’s observations of dissatisfaction because
+of there being no contra-indications have gone miles away from the reasonableness of approach. If
+the respondent has stated in clear terms on the label that the product carried nil contra- indications,
+looking to its nature, purpose and the manner of use, it does not cease to be a medicament.
+22.2. The perversity and unreasonableness of approach of the Adjudicating Authority is also noticed
+from the observations that, if the intention was to identify the product as medicament, there was no
+need to label it as “Hair Oil”. While the expression “Hair Oil” does appear on the label, the other
+integral expressions “Homeo” and “Arnica” preceding the expression “Hair Oil” could not have been
+ignored and could not have been left aside. The Adjudicating Authority had gone to the extent of
+observing that hair growth was at best a cosmetic necessity rather than a disease requiring
+immediate attention or treatment! The Tribunal has rightly observed that when hair fall or baldness
+is recognised as a medical condition, the Adjudicating Authority could not have taken a different
+view, which was not recognized by any branch of medicine. The Tribunal has also rightly pointed out
+that the product clearly mentioned that it could be used for other ailments like headache and that it
+induces good sleep. 22.3. Moreover, the Adjudicating Authority seems not to have given adequate
+attention to the contents of Chapter 30 and the fact that for being accepted as medicament, the
+product is not invariably required to carry only therapeutic use. A product having prophylactic use is
+also envisaged under the Headings 3003 and 3004. If the product claims to improve blood
+circulation to the hair roots and thereby controlling hair fall, its prophylactic use cannot be gainsaid.
+22.4. The product in question, being undoubtedly covered by Serial No. 35 of Schedule K to the
+Rules of 1945 and being manufactured in terms of the license issued under the Act of 1940, in our
+view, clearly satisfies the ingredients test. In other words, on its ingredients, the product is indeed a
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+38
+medicament carrying the combination of Homeopathic medicines.
+23. In regard to the overt reliance of the appellant on the expression “Hair Oil” used for the product
+by the respondent, it may also be observed that small doses of the medicines in question would
+invariably require some medium of administration. Learned counsel for the respondents has rightly
+submitted that in relation to the product in question, hair oil is only a medium through which the
+medicine is to be applied on the scalp, particularly when it is meant for nourishing the hair roots.
+23.1. It is also apparent in the present case that the stand of the Department to classify the product
+in question as ‘cosmetic’ under Chapter 33 is essentially based on the distinct entry “Hair Oil”
+occurring therein; and it appears that the expression “Hair Oil” occurring on the label of the product
+has been taken as decisive by them. For what has been discussed hereinabove, it would also follow
+as a natural corollary that the expression “Hair Oil” occurring on the label of the product is only
+indicating the medium through which Homeopathic medicines comprising the product are to be
+applied. We are unable to accept the submissions and the efforts on the part of the appellant to take
+the product in question to Chapter 33 merely because of its label carrying the expression “Hair Oil”
+while ignoring the preceding significant expressions “Homeo” and “Arnica”. As observed by this
+Court in BPL Pharmaceuticals (supra), for a product to be taken to Chapter 33, it has first to be a
+‘cosmetic’. Similarly, reference to Note 1(e) of Chapter 30 also turns out to be of no relevance
+because the product in question cannot be said to be a preparation of Heading 3305 and then having
+insignificant or subsidiary therapeutic or prophylactic properties. As regards the product in
+question, which is essentially made of Homeopathic medicines which have therapeutic and
+prophylactic uses, it cannot be said to be carrying only subsidiary pharmaceutical value. Putting it
+differently, we are satisfied that the product in question, AHAHO, is predominantly of
+pharmaceutical value and the item of cosmetic therein, i.e., hair oil, is nothing but a medium for
+appropriate use of that pharmaceutical value. 23.2. In regard to the above, we find the consideration
+of this Court in the case of BPL Pharmaceuticals (supra) to be apposite to the questions before us.
+Therein, this Court was considering a product sold by the assessee under the brand name “Selsun
+shampoo”. This Court found it to be medicament with reference to a variety of tests applied from
+different angles and after finding that its active ingredient was selenium sulfide. In that context, this
+Court also indicated that an individual using such product may not be prepared to say that he or she
+was using a particular compound to get rid of dandruff or other similar diseases but would not
+hesitate to state that he or she was using a particular brand of shampoo. The observations in BPL
+Pharmaceuticals in this regard correlates with ingredient test as also the common parlance test; and
+in our view, fortify the case of the respondent.
+23.3. The submissions about specific entry to be preferred to the general entry do not take the case
+of appellant any further. In the present case, in fact, the referred entry of Chapter 33 relating to the
+Tariff Item ‘Hair oil’ under the Heading 3305 is itself to be taken as a general entry and in any case,
+when hair oil is being used only as a medium for use/administration/application of the medicine,
+the case would fall in the specific entry pertaining to medicament under Headings 3003 or 3004;
+and it being of the medicines of Homeopathic system, it would fall either in Tariff Item 3003 90 14
+or in Tariff Item 3004 90 14. In any case, the product in question cannot fall under Chapter 33.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+39
+24. As observed, we have considered it appropriate to refer to the said decision of the Tribunal in the
+case of Bakson Homeo Pharmacy (supra), which had all through been relied upon by the respondent
+for the reason that it related to a similar product marketed in the name of “Sunny Arnica Hair Oil”.
+The said decision clearly makes out the ingredient test in favour of the respondent and we are
+satisfied with the detailed analysis of the same ingredients by the Tribunal while holding the product
+to be a medicament. The ingredient test, as extensively dealt with in the leading opinion of majority
+of the Tribunal in the case of Bakson Homeo Pharmacy (supra), with reference to the fundamental
+principles of Homeopathy and the medicinal properties and therapeutic/prophylactic use of several
+of the ingredients, inspires confidence and when AHAHO is found carrying all such Homeopathic
+medicines which were the ingredients of the product under consideration of the Tribunal, we find it
+just and proper to endorse the views of the majority of the Tribunal in Bakson Homeo Pharmacy
+(supra) and there appears no requirement to re-analyse the medicinal properties of the ingredients.
+Suffice it would be to observe that the product in question, AHAHO, passes the ingredients test
+beyond any doubt.
+25. On the other features of common parlance test, i.e., the manner in which the product in question
+is commonly understood, it is noticed that one of the grounds placed at the forefront by the
+appellants and the Adjudicating Authority had been that AHAHO was accessible in both Medical
+and General Stores and could be bought across the counter. This feature of availability of the
+product in question has absolutely no relevance. In Sharma Chemical (supra), this Court clearly held
+that merely for a product being sold across the counter and not on doctor’s prescription, does not by
+itself lead to a conclusion that it is not a ‘medicament’. Similarly, in Meghdoot (supra), this Court
+made it clear that a product may be medicinal without having been prescribed by a medical
+practitioner. In Meghdoot, this Court has also made it clear with reference to other decided cases
+that the items which may be sold under names bearing a cosmetic connotation would nevertheless
+remain medicines based on the composition. Viewed from any angle, merely for being available
+across the counter, the product in question, AHAHO, does not cease to be a medicament.
+26. Another essential feature while examining the question as to whether a particular product is
+classifiable as medicament under Chapter 30 or as cosmetic under Chapter 33 would be as to
+whether the preparation is essentially for cure or prevention of disease i.e., with therapeutic or
+prophylactic properties or only for care. Tersely put, when the preparation is for cure or prevention,
+it would be medicament but, if only for care, it would be cosmetic. Of course, a cosmetic would not
+become medicament even if having subsidiary curative or prophylactic value, as held by this Court
+in Alpine Industries (supra). However, the product in question, AHAHO, does not fail on this count
+for the reason that it is a preparation of Homeopathic medicine and when it is marketed as carrying
+those medicines, in commercial as also common parlance, with its name carrying the significant
+expressions “Homeo” and “Arnica”, the product could only be understood as the one carrying
+predominantly pharmaceutical value and not mere cosmetic value.
+27. The other suggestion on behalf of the Adjudicating Authority and the appellant, relating to the
+common parlance test with reference to the depiction of a lady with long black flowing hair on its
+label and thereby treating it as cosmetic, is also stretching the matter to the brink of absurdity.
+When the product in question is intended to control hair fall as also to prevent dandruff and to
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+40
+induce good sleep, which all carry their own therapeutic and prophylactic connotations, the picture
+of a lady with long black flowing hair cannot be said to be unrelated to the indications related with
+the product. In any case, such a picture, by itself, cannot make the product in question a cosmetic.
+Interestingly, right at the top of the said picture and below the name of the product, it proclaims
+“Controls hair fall. Prevents dandruff”. The Adjudicating Authority has taken his process of analysis
+to further illogical heights by proclaiming that hair growth was at the best a cosmetic necessity
+rather than a disease requiring immediate attention or treatment. We have reproduced these
+expressions of the Adjudicating Authority verbatim to show the irrationality of reasoning and want
+of logic. A treatment or prevention of hair fall by way of medication was sought to be rejected by the
+Adjudicating Authority by his impression that hair growth was only a cosmetic necessity. We could
+only disapprove such an approach.
+27.1. The substance of the matter remains that in common parlance, the product in question would
+be approached essentially for its claimed medicinal qualities and not as another hair oil. This aspect,
+in our view, is itself sufficient to reject the contentions of the appellant and the observations of the
+Adjudicating Authority. The Tribunal has rightly dealt with the matter in accordance with the law
+applicable to the facts of the present case.
+28. The Adjudicating Authority has also observed that drug licenses issued by respective authorities
+per se did not make AHAHO a preparation of Homeopathic medicine. However, the Adjudicating
+Authority has failed to consider that such drug license issued under Schedule K to the Rules of 1945
+had not been a factor to be ignored altogether. Both in relation to common parlance test as also the
+ingredients test, this factor carries its own relevance even if not finally decisive of the matter. The
+submission about want of condition of sale by authorised medical distributor or retailer under
+prescription has its own shortcomings for it has not been shown if such a preparation falling under
+Schedule K to the Rules of 1945 was also requiring such a mention in terms of Rule 97. In any case,
+any such requirements for adherence to the Act of 1940 and the Rules of 1945 could only be a matter
+for consideration of the authorities dealing with licensing and regulating the manufacture and sale
+of drugs. The only relevant aspect for the present purpose is that the product in question being
+manufactured as a Homeopathy medicine, and being marketed and used as a Homeopathic
+medicine for its pharmaceutical value, would fall in Chapter 30 and cannot be branded as cosmetic,
+so as to fall under Chapter 33 of the First Schedule to the Act of 1985.
+29. In the passing, we may also observe that the very product in question, in relation to the entry in
+the Andhra Pradesh General Sales Tax Act, 1957, has been accepted by this Court to be answering
+the description of a medicine and not being a cosmetic product, after it was found that the
+respondent-assessee’s assertion about its ingredients and thereby the product qualifying to be a
+drug within the meaning of Section 3 of the Act of 1940 could not be refuted by the Revenue. The
+said decision of this Court may not have a direct bearing on the question of classification of the
+product in question for the purpose of the Act of 1985 but, it cannot be denied that the product in
+question has been found answering to the description of a ‘drug’ for the purpose of the Act of 1940
+as also for the purpose of the said Andhra Pradesh General Sales Tax Act, 1957. Viewed from any
+angle, it remains a medicament.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+41
+Whether re-look at classification of the product in question justified
+30. For what has discussed hereinabove, it is apparent that the product in question had rightly been
+classified as ‘medicament’ in the past and nothing material had changed so as to re-classify the
+same. However, the Revenue has attempted to rely on the amendment of the tariff structure in the
+year 2012 as justification for re-look at its classification. The Adjudicating Authority stated this
+justification in the manner that there were substantial changes in the tariff headings, particularly
+when Chapter 30 came to be reworded so as to remove the distinction between patent/proprietary
+and generic medicaments and to classify them according to whether they are put up in unit
+containers for retail sale or not; the mention about the Act of 1940 and the various Pharmacopeia
+came to be deleted; and under Chapter 33, the phrase ‘Hair oil’ became prominent under which,
+subsidiary headings of ‘perfumed hair oil’ and ‘others’ came to be specified. According to the
+Adjudicating Authority, all these changes merited interpretation of the new entries vis-à-vis the
+product in question than what was decided or settled earlier. Learned ASG has also relied upon
+these very reasons in support of his contentions. In our view, there had been no justification in the
+Department seeking to re-open the settled position in relation to the product in question merely
+with reference to certain changes made in Chapter 30 and Chapter 33, which had essentially
+broadened their ambit and scope and provided modified marginal notes and tariff entries with
+detailed specifications. These changes had otherwise no impact, so far as the product of the
+respondent, AHAHO, is concerned.
+31. In support of the proposition for re-classification, the decision in Andhra Sugar Ltd. (supra) has
+been cited on behalf of the appellant. We have extracted the relied upon paragraph of the said
+decision hereinbefore and it is difficult to accept that the proposition therein, to the effect that the
+meaning ascribed by the authorities issuing Notification is a good guide of a contemporaneous
+composition of exposition of law, has any application to the present case. The applicable principles,
+as noticed from the decisions in BPL Pharmaceuticals and Vicco Laboratories (supra) remain that
+change of classification cannot be countenanced merely on the ground of coming into force of
+different tax structure without showing that the product has changed its character. The decision in
+Shree Baidyanath Ayurved Bhawan (supra) is pertinent to the point wherein, after an unsuccessful
+attempt to have the product DML accepted as a medicinal preparation (in Baidyanath I), the
+assessee-company made another attempt for change of classification after coming into force of the
+Act of 1985. While rejecting such an attempt on the part of the assessee- company, this Court held
+that since the product in its composition, character and uses continued to be the same, even after
+insertion of new Sub-Heading 3301.30, change in classification was not justified (vide paragraph 58
+of the decision in Shree Baidyanath Ayurved Bhawan, reproduced hereinbefore). Thus, mere
+broad-basing of the entries in Chapter 30 and Chapter 33 of the First Schedule to the Act 1985, by
+itself, could not have been the justification for an attempt at re-classification of the product in
+question.
+32. Even as regards the amendment of the entries, as noticed, the stand of the appellant-Revenue
+has been that Chapter 30 was reworded so as to remove the distinction between patent/proprietary
+and generic medicaments and to classify them according to whether they are put up in unit
+containers for retail sales or not. Further, it has been stated that reference to the Act of 1940 and
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+42
+various pharmacopoeia had been deleted. Thirdly, it has been contended that in Chapter 33, the
+phrase hair oil had become prominent with subsidiary entries of perfumed hair oils and other. We
+could only reject such an attempt on the part of the Revenue as a hair- splitting exercise, away and
+detached from the substance. This is apart from the fact that the specification of medicament under
+Heading 3004 would, in any case, cover the product in question in the form it is marketed for retail
+sale.
+32.1. By way of the amendment of 2012, even if the relevant entries pertaining to preparation for use
+on the hair have been provided with micro classifications in comparison to the entries standing
+earlier (as could be seen from the entries extracted hereinbefore), it could never be taken to mean
+that anything which is prepared for being used on the hair and carries the name “Hair Oil”, would
+lose its character as medicament if otherwise it has been prepared for therapeutic or prophylactic
+uses. Moreover, rewording and regrouping of different entries in medicaments are hardly of any
+impact on the character of the product in question. 32.2. As noticed, in Chapter 30, apart from
+Heading 3003 relating to medicaments consisting of two or more constituents which have been
+mixed together for therapeutic or prophylactic uses not put up in measured doses or in forms or
+packing for retail sale, Heading 3004 pertains to the medicaments consisting of mixed or un-mixed
+product for therapeutic or prophylactic uses put up in measured doses or in form of packing for
+retail sale. Viewed thus, we are inclined to accept the submissions on behalf of the respondent that
+even with reference to its packaging, the product AHAHO would remain a homeopathic medicament
+and would be covered under Chapter 30, where it could be placed in Sub-Heading 3004 90 14.
+Similarly, deletions of the reference to the Act of 1940 or to various pharmacopoeia cannot be
+interpreted to mean that a product like the one in question, which is otherwise a medicament, has to
+be classified on the basis of the base through which the application of medicine is being provided.
+33. We have already discussed hereinabove that with application of the relevant principles, the
+product in question, AHAHO, comes clean through the twin test. Therefore, in the ultimate analysis,
+we are clearly of the view that there had been no justification for making any attempt to re-classify
+the product in question with reference to the amendments brought about in Chapters 30 and 33 in
+the year 2012.
+Conclusion
+34. For what has been discussed hereinabove, answers to the points arising for determination are
+that the product in question, AHAHO, merits classification as ‘medicament’ under Chapter 30 and
+not as ‘cosmetic or toilet preparations’ under Chapter 33 of the First Schedule to the Central Excise
+Tariff Act, 1985; and the change in tariff structure by way of amendment brought about in the year
+2012 did not justify any re-look at the classification of the product in question.
+35. In view of the above, this appeal fails and is, therefore, dismissed. No costs.
+……....……………………. J.
+(DINESH MAHESHWARI) ……....……………………. J.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+43
+(VIKRAM NATH) NEW DELHI;
+MAY 03, 2023.
+Commissioner Of Customs Central ... vs Ashwani Homeo Pharmacy on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/36960361/
+44

@@ -1,0 +1,818 @@
+Supreme Court of India
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Author: S. Ravindra Bhat
+Bench: S. Ravindra Bhat, Dipankar Datta
+                                         1
+                                                            REPORTABLE
+                         IN THE SUPREME COURT OF INDIA
+                          CIVIL APPELLATE JURISDICTION
+                         CIVIL APPEAL NO(S). 8486 OF 2011
+         M/S TRIMURTHI FRAGRANCES (P) LTD.
+         THROUGH ITS DIRECTOR
+         SHRI PRADEEP KUMAR AGRAWAL                     …APPELLANT(S)
+                                      Versus
+         GOVT.OF N.C.T OF DELHI THROUGH
+         ITS PRINCIPAL SECRETARY
+         (FINANCE) & ORS.                              …RESPONDENT(S)
+                                     WITH
+                            CIVIL APPEAL NO(S). 8485 OF 2011
+                            CIVIL APPEAL NO(S). 8487 OF 2011
+                            CIVIL APPEAL NO(S). 8488 OF 2011
+                          CIVIL APPEAL NO(S). 8491-8494 OF 2011
+                            CIVIL APPEAL NO(S). 8495 OF 2011
+                          CIVIL APPEAL NO(S). 8496-8501 OF 2011
+                            CIVIL APPEAL NO(S). 8502 OF 2011
+Signature Not Verified
+                            CIVIL APPEAL NO(S). 8617 OF 2014
+Digitally signed by
+NEETA SAPRA
+Date: 2023.05.04
+18:00:33 IST
+Reason:                  CIVIL APPEAL NO(S). 10374-10379 OF 2014
+                            CIVIL APPEAL NO(S). 289 OF 2023
+�                                                         2
+                                            JUDGMENT
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+1
+S. RAVINDRA BHAT, J.
+1. This judgment will dispose of appeals arising from judgments of three High Courts, on the
+question of taxability of pan masala or gutka/gutkha1, under state enactments. The appellants
+unsuccessfully argued that state legislatures were not empowered to levy sales tax on those articles,
+in view of the provision in the Constitution enabling the Union to levy additional duties of excise,
+and further that in any case, the rate of state tax cannot exceed the limit prescribed by the Central
+Sales Tax Act, 1956.
+Brief Facts
+2. The relevant central enactments are the Central Sales Tax Act, 1956 (hereafter “CST Act”), the
+Central Excise Tariff Act, 1985 (hereafter “CET Act”), and the Additional Duties of Excise (Goods of
+Special Importance) Act, 1957 (hereafter “ADE Act”). The state enactments in question are the Delhi
+Sales Tax Act, 1975 (hereafter “DST Act”); Tamil Nadu General Sales Tax Act, 1959 (hereafter
+“TNGST Act”) and the Uttar Pradesh Trade Tax Act, 1948 (hereafter “UPTT Act”).
+3. Section 14 of the CST Act declares certain goods to be of special importance; and Section 15
+restricts the power of taxation on the said goods. Originally Section 14(ix) of the CST Act read as
+follows: Which is spelt differently in regional contexts as ‘gutka’ or ‘gutkha’ or ‘guhtka’, For
+convenience, this is hereafter referred to uniformly as ‘gutkha’.
+“(ix) tobacco, as defined in Item No. 4 of the First Schedule to the Central Excises and Sale Act, 1944
+(1 of 1944)” Entry 4 of the CET Act, which defines 'tobacco’, reads as follows:
+“4. Tobacco “Tobacco" means any form of Tobacco, whether cured or uncured and
+whether manufactured or not and includes the leaf, stalks and stems of the tobacco
+plant, but does not include any part of a tobacco plant while still attached to the
+earth.
+...
+II. Manufactured Tobacco ...
+(5) Chewing tobacco, including preparations commonly known as "Khara Masala",
+"Kimam", "Dokta", "Zarda", "Sukha" and "Surti"."
+4. The Finance Act, 1988 (Central Act No. 26/1988) substituted the expressions in Section 14(ix) of
+the CST Act, with the following words, w.e.f. 13.05.1988:
+“14(ix). Unmanufactured tobacco and tobacco refuse covered under sub- Heading No.
+2401.00, cigars and cheroots of tobacco covered under Heading No. 24.02, cigarettes
+and cigarillos of tobacco covered under the sub-Heading Nos. 2403.11 and 2403.21,
+and other manufactured tobacco covered under sub-heading Nos. 2404.41, 2404.50
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+2
+and 2404.60 of the Schedule to the Central Excise Tariff Act, 1985 (5 of 1986).”
+5. The 1988 amendment to Section 14 of the CST Act was with a view to align the description of
+goods in that law, with the description in the CET Act, as is clear from the Finance Bill, 1988.
+Heading 24.04 of the CET Act originally read to include “Gudaku with brand name and without
+brand name” (Entries 2404.11 and 2404.12); cut tobacco (Entry 2404.13); hookah tobacco, chewing
+tobacco (including preparations known as khara masala, khiman, dokta, zarda and surti (Entry
+2404.39); snuff (Entry 2404.49); and snuff of tobacco (Entry 2404.50). The entry in relation to
+chewing tobacco was amended w.e.f. 1993-94.
+6. By Finance Act, 1995, 'Pan Masala' was brought under the Heading 21.06. In the year 1995, the
+Fourth Schedule was amended, and the relevant Clause (8) in Chapter 21 read as follows:
+“(8) in Chapter 21, -
+(i) for NOTE 3, the following NOTE shall be substituted, namely: '3. In this Chapter,
+'Pan Masala' means any preparation containing betel nuts and any one or more of the
+following ingredients, namely lime, katha (catechu) and tobacco, whether or not
+containing any other ingredients, such as cardamom, copra and menthol'.
+Clause (10) in Chapter XXIV reads as follows:
+(i) for NOTE 2, for the figures and word '24.02, 24.03 and 24.04', the figures and
+word '24.01, 24.02, 24.03 and 24.04' shall be substituted." Clause (9) in Chapter XXI
+reads as follows:
+"(i) for Heading Nos. 21.06 and 21.07 and the entries relating thereto, the following
+shall be inserted, namely:
+21.06 2106.00 'Pan Masala' 50%” Finance (No. 2) Act, 1996, again changed the entry, in the
+following manner:
+"(7) in Chapter 24, after NOTE 4, the following NOTE shall be inserted, namely:
+5. In this Chapter, 'smoking mixtures for pipes and cigarettes' of sub-heading No.
+2404.10 does not cover 'Gudaku'."
+.....
+"(iii) For Heading No. 24.03 and the entries relating thereto, the following shall be substituted,
+namely The relevant extracts from the Finance Act, 2001, which again carried out changes, read as
+follows:
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+3
+" THE FOURTH SCHEDULE [See Section 134 (a)] PART - I In the First Schedule to
+the Central Excise Tariff Act, - (1) in Chapter 21, for NOTE 3, the following NOTE
+shall be substituted, namely:
+3. In this Chapter, 'Pan Masala' means any preparation containing betel- nuts and
+any one or more of the following ingredients, namely:
+(i) lime; and
+(ii) kattha (catechu), but not tobacco, whether or not containing any other
+ingredients such as cardamom, copra and menthol";
+(2) in Chapter 24, after NOTE 5, the following NOTE shall be inserted, namely:
+'6. In this Chapter, 'Pan Masala' containing tobacco", commonly known as 'Gutkha' or
+by any other name, means any preparation containing betel-nuts and tobacco and
+any one or more of the following ingredients, namely:
+(i) lime; and
+(ii) kattha (catechu), Whether or not containing any other ingredients such as cardamom, copra and
+menthol.” On the above products, a special excise duty of 16% was also levied in the V Schedule,
+apart from additional duties of excise in Part-II of the VI Schedule as indicated below:
+The Delhi batch of appeals: Shanti Fragrances 2, Trimurti Fragrances3, Kuber Tobacco4, Sunrise
+Food Products5, and Dharam Pal Satyapal6
+7. In this batch of appeals, the grievance is in respect of five judgments of the Delhi High Court, on
+the interpretation of the DST Act. The earliest judgment was delivered in relation to the appeal by
+M/s Shanti Fragrances; the subsequent judgments have reiterated the ruling in that case.
+8. Section 3 of the DST Act imposes local sales tax on every dealer whose turnover exceeds the limit
+specified in a notification, and who is registered or is liable to pay tax under the CST Act, on all sales
+effected on or after the commencement of the DST Act. Section 3(6) reads as follows:
+“no dealer who deals exclusively on one or more classes of goods specified in the Third Schedule
+shall be liable to pay any tax under this Act.” Section 7 of the DST reads as follows:
+“7. Tax Free Goods (1) No tax shall be payable under this Act on the sale of goods
+specified in the Third Schedule subject to the conditions and exceptions, if any, set
+out therein.
+(2) The 7[Lieutenant Governor may] by notification in the Official Gazette, add to, or
+omit from, or otherwise amend, the Third Schedule either retrospectively or
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+4
+prospectively, and thereupon the Third Schedule shall be deemed to be amended
+accordingly:
+Provided that no such amendment shall be made retrospectively if it would have the effect of
+prejudicially affecting the interests of any dealer.” Entry 22 of the Third Schedule reads as follows:
+CA No. 8485/2011, against impugned judgment dated 05.11.2004 in WP (C) No. 11251/2004 (DHC).
+CA No. 8486/2011, against impugned judgment dated 05.04.2006 in WP (C) No. 2925/2005 (DHC)
+CA No. 8491-94/2011, against impugned judgment dated 01.12.2006 in WP (C) No. 17886/2006
+(DHC); and CA No. 8487/2011, against impugned judgment dated 05.04.2006 in WP (C) No.
+23698/2005 (DHC). CA No. 8488/2011, against impugned judgment dated 05.04.2006 in WP (C)
+No. 9837/2005 (DHC). CA No. 8495/2011, against impugned judgment dated 14.11.2007 in WP (C)
+7883/2007 (DHC) Substituted for “The Administrator may, with the previous approval of the
+Central Government and” by Notification No. F4(120)/94 -Fin.(G)/2137 to 2145 dated 02.03.1998.
+“22. Tobacco as defined under the Central Excise and Salt Act, 1944 (1 of 1944).”
+9. The effect, prima facie, of an overall reading of provisions of the DST Act therefore, is that all
+dealers whose turnover exceeds the quantified amount which is termed “as taxable quantum” during
+the relevant period, are liable to pay state or local sales tax. Section 3(6) of the Act states that the
+dealer who exclusively deals in goods specified in the Third Schedule shall not be liable to pay tax.
+10. By a notification dated 31.03.2000 issued by the competent authority i.e. the Lt. Governor of the
+National Capital Territory of Delhi (hereafter “NCTD”), Entry 46 was inserted in the First Schedule
+to the DST Act. That Entry reads as follows:
+“46. Pan Masala and Gutkha”
+11. The First Schedule is dealt with under Section 4 of the DST Act (“rate of tax”) it broadly enacts
+[by Section 4(1)(a)] that the taxable turnover “in respect of the cases specified in the First Schedule”
+would be at the rate of 12 paise to a rupee. Thus, goods enumerated in the First Schedule are per se
+subjected to be local or state sales tax levy under the DST Act @ 12%. Similarly, goods referred to in
+the Third Schedule are tax-free. It is also clear that the Lt. Governor is authorised to change the
+entries, as indicated in Section 7, that is to say, from tax-free goods to taxed goods and vice versa.
+12. The appellants had argued before the Delhi High Court, that tobacco is mentioned in the Third
+Schedule at Sl. No. 22 and that the expression (tobacco) refers to what is defined as such under the
+Central Excise Act, 1944 (hereafter “CEA”). Consequently, to ascertain "tobacco", one has to refer to
+the CEA read with Chapter 24 of the Schedule to the CET Act. Chapter Note 3 thereof reads as
+under:
+"In this Chapter, 'tobacco' means any form of tobacco, whether cured or uncured and
+whether manufactured or not, and includes the leaf, stalks and stems of the tobacco
+plant, but does not include any part of a tobacco plant while still attached to the
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+5
+earth."
+13. Chapter Note 6 reads as follows:
+"In this Chapter, "Pan Masala containing tobacco", commonly known as 'Gutka' or by
+any other name, means any preparation containing betel nuts and tobacco and any
+one or more of the following ingredients, namely:
+(i) lime; and
+(ii) kattha (catechu), whether or not containing any other ingredients, such as
+cardamom, copra and menthol."
+Chapter 24 includes Heading No. 2404.49, which reads as under:
+"Pan Masala containing tobacco"
+14. The appellants had urged before the High Court that "gutkha" is "tobacco" and relied on Kothari
+Products Ltd. v. Government of A.P 8 and State of Orissa v. Radheshyam Gudakhu Factory9. This
+court in Radheshyam Gudakhu Factory (supra), noted that "tobacco" in Section 2(c) of the ADE Act
+(2000) 9 SCC 263 [hereafter ‘Kothari Products Ltd.’] 1988 (68) STC 92 (SC); (2018) 11 SCC 505
+[hereafter ‘Radheshyam Gudakhu Factory’] means goods in Entry 9 of the First Schedule to the CET
+Act which is as follows:
+"'Tobacco' means any form of tobacco, whether cured or uncured and whether
+manufactured or not, and includes the leaf, stalks and stems of the tobacco plant, but
+does not include any part of a tobacco plant while still attached to the earth."
+15. In Radheshyam Gudakhu Factory (supra) the issue was whether 'Gudaku' was covered by the
+expression, 'tobacco' defined in ADE Act. The court held that “gudaku” is a form of smoking tobacco
+and is a product of tobacco, in common parlance. Before the Court there was no dispute that
+"gutkha" is not included in "tobacco". Thus, it is clear that "Gutkha" and "Gudaku" are both covered
+by the expression "tobacco" as understood in Chapter Note 3 of the CET Act. The appellants argued
+that when 'Gudaku' and 'Gutkha' are tobacco and fell within Entry No. 22 of the Third Schedule of
+the Act, local sales tax cannot be levied by introducing Entry No. 46 through a notification and by
+including it in the First Schedule. Kothari Products Ltd. (supra) was relied on; the dealer was
+dealing in 'Gutkha' (under the brand "Pan Parag"). The introduction of Entry 194 (which taxed “pan
+masala including gutkha”) in the First Schedule to the A.P. General Sales Tax Act (APGST Act) was
+in issue. APGST Act had a provision10 like Section 7 of the DST Act which exempted goods in the
+Fourth Schedule. The Fourth Schedule referred to tobacco (Entry 7) and its explanation stated that
+it shall be "shall be goods included in the relevant heads and sub-heads of the First Schedule to the
+Additional Duties of Excise (Goods of Special Importance See Section 8.
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+6
+Act, 1957, but does not include goods where no additional duties of excise are levied under that
+Schedule."
+16. This court held that ‘gutkha’ is tobacco covered by an Entry in the First Schedule to the said ADE
+Act and that the branded gutka in question was “gutkha”, and therefore, “goods” covered by
+Explanation to the Fourth Schedule to the APGST Act. It was hence exempted by Section 8. It was
+held that the Schedule to the APGST Act could not be amended by including gutkha as a kind of pan
+masala in Entry 194 of the First Schedule. Its inclusion was held to be invalid in law.
+17. The revenue’s stand before the High Court, was that tobacco in Entry No. 22 of the Third
+Schedule of the DST Act, is a general entry. Chapter 24 of the Schedule to the CET Act referred to
+various items under six heads. It was open for the state to levy tax in accordance with the Sales Tax
+Act; what was needed was to test the legislative competence of the state in levying the tax. It was
+urged that Entry No. 22 in Third Schedule is a general entry, and Entry No. 46, in the First Schedule
+is a specific entry. The revenue relied on this court’s ruling in Commissioner, Sales Tax, U.P. v. Agra
+Belting Works11, where the Court pointed out that if a notification under a provision12 grants
+exemption from tax, and later, a subsequent notification (under another provision) prescribes the
+rate of tax, the intention is to withdraw the exemption and impose the levy at the rate prescribed in
+the later notification. The court held that since the power to grant exemption [1987] 3 SCR 93:
+(1987) 3 SCC 140 [hereafter ‘Agra Belting Works’] In that case, Section 4 - as in Section 7 of the DST
+Act in the present case and variation of the rate of tax is with the State, there is no compulsion in the
+statute that a separate notification recalling exemption is a pre-condition for imposing tax at any
+rate. The revenue also relied on two cases that followed the ratio in Agra Belting Works (supra) -
+Sale Tax Officer, Sector IX, Kanpur v. Dealing Dairy Products & Anr.13 and State of Bihar v. Krishna
+Kuthar Kabra. 14. In the latter case, this court followed the two previous decisions and held that a
+notification introducing an entry and subjecting it to levy, when previously, it was exempt in another
+part of the taxing statute the “intention was to withdraw the exemption and make the sale leviable to
+tax at the rate prescribed in the later notification”. The court also held it to be unnecessary that “a
+specific or separate notification withdrawing or revoking the notification should be issued”.
+18. The Delhi High Court, after examination of the judgments cited held that it was difficult to
+depart from the reasoning indicated by the various judgments of this court indicated in Agra Belting
+Works (supra). It therefore, rejected the appellants’ writ petition.
+19. It was further held in the impugned judgments that State Legislatures were competent to levy
+taxes on the sale or purchase of the commodities subjected to additional excise duty. The levy of any
+sales taxes only meant that additional excise duty levied on such commodities by the Central
+Government would not be distributed among the states which had chosen to levy a tax on the (1994)
+94 STC 93 (SC): 1994 Supp (2) SCC 639 [hereafter ‘Dealing Dairy Products’] (1997) 9 SCC 763
+[hereafter ‘Krishna Kumar Kabra’] sale of such article. The court relied on Mahalakshmi Oil Mills v.
+State of Andhra Pradesh15. The High Court ruled that pan masala containing tobacco is, under
+Chapter 24, shown at sub-heading No.2404.49, attracting a duty of 16% and an additional duty of
+18% on the same. Pan masala containing tobacco manufactured by the appellants did not constitute
+a declared commodity under Section 14(ix) of the CST Act read with the CET Act because
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+7
+sub-heading 2404.49 under Chapter 24 of the CET Act are not sub-headings included in section
+14(ix) of the CST Act. It was also held that pan masala was not a declared item nor was it a declared
+item on the date that Section 14(ix) of the CST Act was introduced in the form in which it existed in
+the statute. The Tamil Nadu case: Dharampal Satyapal and Kothari Products16
+20. In the appeals by Dharampal Satyapal and Kothari Products, a common judgment of the Madras
+High Court has been challenged. The appellants had urged that gutkha, was a preparation
+containing not only tobacco, but also betel nut, katechu, lime, flavours, permitted spices, saffron,
+and that tobacco is its essential character in relation to the dominant object of the user. The
+percentage of tobacco varies from 7% to 15%. The appellants were aggrieved by the inclusion of the
+goods as 'Pan Masala' (by whatever name called) - containing betel nuts, that is to say, nut of areca,
+katechu broken and perfumed, and lime or menthol or sandal oils or cardamom or tobacco or any
+one or more of these ingredients at Sl. No. 2 of Part-J of the First Schedule read with Section 3(2) of
+[1988] Suppl 2 SCR 1088: (1989) 1 SCC 164 [hereafter ‘Mahalakshmi Oil Mills’] CA No. 8502/2011
+and CA No. 8496-8501/2011 respectively directed against common impugned judgment dated
+13.04.2009 in WP No. 4001/2002 and 4604-09/2002 (Madras HC). the TNGST Act. The period of
+dispute is from October, 2000 - February, 2001. The appellants urged – much like in the Delhi
+cases, that if the goods fell within the description of Sl. No. 1(iv)(d) of the Third Schedule of the
+TNGST Act, they are exempt from tax by virtue of Section 8. Once the goods are exempted by
+enumeration under the Third Schedule, Section 8 of the State Act operates, to exempt the goods
+from levy under the State Act. The subsequent specification of the goods in the First Schedule will
+have no effect in view of the exemption. The exemption under Section 8 of the TNGST Act is not
+subject to any restriction or condition as far as Sl. No. 1(iv)(d) of the Third Schedule is concerned.
+The definition under Sl. No. 1(iv)(d) of the Third Schedule is not restricted to chewing tobacco, but
+includes preparations containing chewing tobacco and the word 'including' should be construed to
+enlarge the Entry to comprehend all preparations of chewing tobacco and not restricted to just
+chewing tobacco.
+21. Section 3 of the TNGST Act is the charging section; Section 3(2) enacts as follows:
+“(2) Subject to the provisions of sub-section (1), in the case of goods mentioned in the
+First Schedule, the tax under this Act shall be payable by a dealer, at the rate and at
+the point specified therein on the turnover in each year relating to such goods.”
+22. Much like Section 7 of the DST Act, Section 8 of the TNGST Act reads as follows:
+“Subject to such restrictions and conditions as may be prescribed, a dealer who deals
+in the goods specified in the Third Schedule, shall not be liable to pay any tax under
+this Act in respect of such goods.”
+23. Serial No. 1 (iv)(d) of the Third Schedule to the TNGST Act (which enumerated exempted
+articles) read as follows:
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+8
+“1. (iv) Other manufactured tobacco as described against the heading '24.04",
+including-
+(a) smoking mixtures for pipes and cigarettes.
+(b) cut tobacco
+(c) Bins
+(d) Chewing tobacco and preparations containing chewing tobacco.
+(e) Snuff of tobacco and preparations containing snuff of tobacco in any proportion”
+24. The High Court’s judgement considered all previous decisions of the courts, including the
+judgement in Kothari Products Ltd. (supra) as well as judgments of various High Courts as to
+whether Pan masala is tobacco. The court adopted the test indicated as the ‘common parlance test’
+i.e., whether a common man understands “pan masala” as tobacco or a product containing tobacco.
+It held that if the common man is asked to buy chewing tobacco, he may buy an article that is mainly
+chewing tobacco and in fact falls within the same class of the CET Act classification, but one would
+not buy pan masala. It was, therefore, held that pan masala is different from chewing tobacco or
+even tobacco. The court also ruled - that applying the General Rules for Interpretation under the
+CET Act, it was discernible that “pan masala containing tobacco" provides the most specific
+description for the goods in question, even if tobacco is one of the ingredients in the goods, since the
+description of pan masala in Heading 21.06 describes the goods more specifically, it had to be
+preferred, without going into Rule 3(b). What therefore, was held was that the amendment, brought
+into force from 2001, to the effect that chewing tobacco did not include and never included pan
+masala containing tobacco, and but for the inclusion of ‘pan masala containing tobacco’ in Chapter
+24 (Heading 2404.49) with effect from 2001, they were goods separately covered under another
+class altogether, i.e. Heading number 21.06.
+The Allahabad judgments: P.J. Aromatics17, Sarin & Sarin18 and Raj Pan Products19
+25. In these cases, the assesses manufacture gutkha and disputed imposition of tax on sale of the
+same. The authorities, under the UPTT Act ruled that 10% tax was leviable on sale of gutkha which
+was treated as an ‘unclassified item’. Section 3 under the UPTT Act, imposes the levy of trade tax on
+the sale by registered dealers, of various articles. Section 4 of the Act empowers the state to exempt
+articles from the levy; the relevant part of that provision, reads as follows:
+“Section 4 – Exemption from tax shall be payable on (a) the sale or purchase of water,
+milk, salt excluding processed and branded salt, newspapers, or any other goods
+which the State Government may, by notification, exempt.”
+26. The State Government issued a notification dated 31.01.1985 exempting certain goods from tax
+under the UPTT Act, with effect from 01.02.1985. That notification20, contained the Serial No. 14,
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+9
+which reads as under:
+“14. Cigars, cigarettes, biris (both machine made and hand-made) and tobacco in any
+form whether cured and uncured and whether manufactured or not, including the
+leaf, stalk and stems of the tobacco plant and all CA No. 10374-10379/2014, against
+impugned judgments dated 12.03.2014 in STR No. 1281-82/2004, and 11.04.2014 in
+STR No. 789-792/2004 (Allahabad HC).
+CA No. 8617/2014, against impugned judgment dated 25.04.2014 in TTR No. 91/2005 (Allahabad
+HC). CA No. 289/2023, against impugned judgment dated 08.11.2017 in TTR No. 1830/2004
+(Allahabad HC). dated January 31.01.1985 products of tobacco, but including any part of the tobacco
+plant while still attached to the earth.”
+27. By Notification dated 26.06.1997, published in Gazette on 01.07.1997, Entry 14 was amended to
+exclude, specifically "pan masala containing tobacco", by whatever name called. Another
+amendment by Notification 21 dated 06.04.1999 published in Gazette dated 10.04.1999 resulted in
+Entry 14 reading as follows:
+“14. Cigars, cigarettes, biris (both machine made and hand-made) and tobacco in any
+form whether cured and uncured and whether manufactured or not, including the
+leaf, stalk and stems of the tobacco plant and all products of tobacco, excluding pan
+masala containing tobacco but including any part of the tobacco plant while still
+attached to the earth.”
+28. The exemption specifically withdrawn in respect to "pan masala containing tobacco", by
+whatever name called, by notification dated 26.06.1997, continued after issuance of notification
+dated 06.04.1999 as well. The Allahabad High Court noted the previous High Court decisions, as
+well as the judgment of this court, in Kothari Products Ltd. (supra) and held that in view of the
+specific provision in the APGST Act, the High Court held that gutkha (gudaku), an entry under the
+First Schedule to the ADE Act, was exempted from tax under the APGST Act. The High Court
+further held that there was no provision corresponding to the APGST Act in the UPTT Act and that
+the earlier notification (of 1985), was much wider and included tobacco products like gutkha, and
+pan masala containing tobacco which were exempted by virtue of Section 4(1) and by not with
+reference to any statute like the CET Act, etc. No. T.I.F.-2-595/XI-9(4)/99-U.P. Act-15-48-Order-98
+Therefore, it was ruled that the contention that something was included in the CET Act, would stand
+exempted from tax was not correct, unless the State Act contained a specific provision to that effect.
+Appellants’ contentions
+29. Mr. Dhruv Agarwal, learned senior counsel appearing in the Delhi cases urged that the heading
+of Section 7(1) of the DST Act is “Tax free goods” and it uses the phrase “no tax shall be payable”. In
+view of Entry 22 of Schedule III read with Section 7(1), gutkha was “tax free goods” and as per
+specific mandate of Section 7(1) “no tax shall be payable under the Act” (i.e. the DST Act) on sale of
+goods listed under Schedule III. The clear effect of Section 7(1) read with Entry 22 of Schedule III
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+10
+was that gutkha fell outside the charge or purview of the levy.
+30. It was argued Section 7(2) inter alia provides that the Lt. Governor could by notification add to,
+or omit from, or otherwise amend Schedule III and “thereupon” it was deemed to be amended. In
+spite of this power, Entry 22 of Schedule III was not amended and gutkha continued to be tax-free
+goods. Gutkha thus, being tax-free goods continued to fall outside the DST levy and was not liable to
+be included in “taxable turnover” under Section 4(2)(a)(ii) of the DST Act. Section 4(1), provides for
+applying the rate of tax “in the case of taxable turnover”. When the goods were exempt there was no
+question of their inclusion in the taxable turnover. Learned senior counsel relied on Tata Sky Ltd. v.
+State of Madhya Pradesh22. Learned senior counsel submitted that the High [2013] 2 SCR 849:
+(2013) 2 SCC 849 Court’s reasoning that Entry 22 in Schedule III was general and that Entry 46 of
+Schedule I was specific, had no application; he cited Reliance Trading Company v. State of Kerala23.
+31. It was urged that Kothari Products Ltd. (supra) is a three-judge bench ruling which held "gutkha
+is a tobacco" and that gutkha, being covered by Explanation to Fourth Schedule to the State Sales
+Tax Act (i.e., APGST Act) and the exemption contained in Section 8 of the Schedule to the State Act
+could not have been amended by including gutkha in the First Schedule. This court in Radheshyam
+Gudakhu Factory (supra) held that gutkha is a product of tobacco and that its essential and effective
+ingredient remains tobacco; it is also known as a product of tobacco in common parlance. Its
+essential character is that of tobacco; "tobacco" falls under Entry 35 of the Schedule to the Orissa
+Sales Tax Act. The decision in Reliance Trading Company (supra) is a three-judge ruling rejecting
+the revenue's submissions based on general and specific entries. It also held that the exemption
+operating in favour of goods in question in the Third Schedule of the Kerala General Sales Tax Act,
+1963 continued as it was not amended even after amendment of the First Schedule. The result
+consequently was that irrespective of any presumed intention of the Legislature in amending the
+First Schedule, as long as the Entry in the Third Schedule remained un- amended, there was not
+subject to levy.
+32. It was urged that so far as the other line of judgments mentioned are concerned, Agra Belting
+Works (supra) was a majority judgment of two judges (2011) 15 SCC 762 [hereafter ‘Reliance
+Trading Company’] and one judge expressed a dissenting opinion. In that case there were no ‘tax
+free goods’ under the statute as in the present case. Instead, that was a case of an Exemption
+Notification where there was another Notification providing the rate. In the judgment, the combined
+effect of two Notifications was considered. This court relied on Agra Belting Works (supra) in
+Dealing Dairy Products (supra), and relied on both these cases, when deciding Krishna Kumar
+Kabra (supra). In all the three cases, there was no issue relating to ‘tax free goods’ as in the present
+case.
+33. It was next submitted that Entry 22 of the Third Schedule of the DST Act amounts to a
+'Legislation by way of Incorporation' so far as it includes a specific provision from the CEA defining
+'tobacco' for the purposes of formulating provisions under the DST Act. The Lt. Governor is
+entrusted with the power to amend the Third Schedule of the DST Act which incorporates the
+definition of 'tobacco'. It was submitted that when the definition is so incorporated, subsequent
+changes in law, have no impact on the earlier, incorporated provisions. Counsel cited some
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+11
+decisions24 of this court, on this aspect.
+34. Mr. Pawan Shree Agarwal, learned counsel appearing for P.J Aromatics, relied on Pappu Sweets
+and Biscuits v. Commissioner of Trade Tax, U.P, Lucknow25, to argue that subsequent legislation
+can be looked at in order to see the correct interpretation of an earlier legislation, especially when
+the earlier Narottamdas v. State of Madhya Pradesh & Ors [1964] 7 SCR 820; Nagpur Improvement
+Trust v. Vasantrao & Ors (2002) 7 SCC 657; and Girnar Traders (3) v. State of Maharashtra & Ors.
+[2011] 3 SCR 1 [1998] 2 Suppl. SCR 119: (1998) 7 SCC 228 one is obscure or ambiguous or capable of
+more than one interpretation. Counsel relied on the amendment to the ADE Act, by Finance Act,
+2001, which inserted Entry 8404.49 as the species of the genus “Chewing Tobacco" to read as under:
+“Chewing Tobacco and preparations containing Chewing Tobacco; Pan Masala
+Containing Tobacco 8404.41….
+8404.49 Pan Masala Containing Tobacco”
+35. A comparison of the above and the parent Entry 4 to the First Schedule to the
+CEA, 1944 shows that "Chewing Tobacco" was the genus and "Pan Masala Containing
+Tobacco" commonly known as "gutkha" was a species of chewing tobacco. Therefore,
+it was always covered under the original definition and formed part of Entry 14 of the
+Schedule to the UPTT Act (as well as Sl. No. 22 of the Third Schedule to the DST Act).
+36. Mr. Agarwal argued that the levy of tax is under Section 3 of the UPTT Act while the rate of tax is
+provided in Section 3A. Section 4 of the Act empowers the State government to grant exemption.
+From a reading of Sections 3A and 3D it is manifest that the rate of tax on declared goods cannot be
+more than the rate which is provided in Section 15 of the CST Act. Legislatively, therefore,
+restrictions enacted under Section 15 of the CST Act have been recognized in Sections 3A and 3D of
+the UPTT Act. It is important to note that the State has not relied on any notification prescribing
+rate of tax on "Pan masala containing tobacco" in these cases. "Pan masala containing tobacco" has
+been taxed as an ‘unclassified item’ or what can be termed as a ‘residuary entry’. Thus, the question
+posed was whether the pan masala containing tobacco i.e., “gutkha” is taxable as declared goods
+under Entry 14(ix) of the CST Act or as an unclassified item or in the residuary entry.
+37. It was submitted that "Pan masala containing tobacco" is a chewing tobacco for several reasons.
+One, the entry has to be read as widely as possible and any form of "chewing tobacco" including any
+of its preparations will form part of that entry. Two, gutkha is essentially a preparation of chewing
+tobacco and what makes it distinct from plain Pan masala are its essential characteristics i.e.,
+tobacco (which is in gutkha). Three, it is a settled principle of classification that it is not a percentage
+of a particular item in the commodity which will determine the nature of product. Four,
+undisputedly "gutkha" is sold by the appellant PJ Aromatics under a brand name "Jeet". Therefore,
+it was urged that it will fall in entry 2404.41 which is specifically covered under Section 14(ix).
+38. It was further argued that Entry 21.06 of the CET Act has no relevance for the present purpose
+when notifications under the Act are being considered. Firstly, there is no entry as "pan masala
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+12
+containing tobacco", and secondly, there is no entry like 21.06 of the CET Act in the notification
+which provides the rate of tax and therefore the classification is under the residuary clause
+according to the revenue.
+The revenue’s contentions
+39. Mr. N. Venkatraman, the Additional Solicitor General (ASG) appeared on behalf of the Govt. of
+NCT of Delhi; Mr. Raizada, learned Additional Advocate General (AAG) appeared on behalf of the
+State of UP, and Mr. Radhakrishna, learned senior counsel appeared on behalf of the State of Tamil
+Nadu.
+40. The revenue submitted that in Kothari Products Ltd. (supra) what was dealt with was Gudaku, a
+tobacco product falling under sub-heading 2404.11 of the CET Act as well as the ADE Act and that is
+not the case of the petitioners herein; and that it was a decision rendered on an issue of fact which
+may not bind this court.
+41. It was next argued that the use of the construction of the term ‘including’ in sub-heading 2404.41
+in the present case, is followed by the words “preparations commonly known as” and therefore, the
+said word has to be understood and read as “and” in the conjunctive sense. As a result, the
+preparations mentioned therein should be treated as exhaustive and cannot be expanded beyond
+that.
+42. It was argued that pan masala and gutkha in these cases are separate and distinct entries from
+tobacco and therefore the State Legislatures are competent to tax pan masala and gutkha. There is
+no dispute regarding distinction between the independent existence of entries, i.e., tobacco and pan
+masala gutkha, respectively. It was argued that the State Legislatures are competent to levy taxes on
+sale or purchase of the commodities subjected to ADE Act. All that the levy of any such sales tax
+would mean is that the additional excise duty levied and collected on such commodities by the
+Central government will not be distributed among the states which had chosen to levy a tax on the
+sale thereof. This issue has been well settled by this court in Mahalakshmi Oil Mills (supra).
+43. It was further submitted that the argument with respect to definition of “tobacco” remaining
+unchanged, as was incorporated at the time of enactment of the state laws, without reflecting later
+changes, is incorrect. Counsel submitted that the definition had to be in terms of the changing
+definitions of tobacco under the Central enactments; reliance was placed on decisions reported as
+State of Madhya Pradesh v. M.V. Narsimhan 26; Nagpur Improvement Trust v. Vasantrao27, and
+U.P. Avas Evam Vikas Parishad v. Jainul Islam & Anr. 28 for the proposition that in the present
+case, the definition of tobacco cannot be said to be an instance of legislation by incorporation, but
+rather, that it is a case of legislation by reference. Therefore, changes in the statute will
+automatically be reflected in the previous law.
+44. It was urged that "Pan Masala containing tobacco" and "chewing tobacco" are not identical. They
+undoubtedly were included under the same heading. However, they were not one commodity. It was
+argued that the amendment with effect from 2001 that "chewing tobacco" does not include, and
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+13
+never included "Pan Masala containing tobacco" and but for the inclusion of "Pan Masala containing
+tobacco" in Chapter 24 and sub-heading 2404.49 with effect from 2001, it would have been goods
+covered by Heading 21.06. The General Rules for Interpretation (in the CEA) was relied on, to say
+that “Pan [1976] 1 SCR 6: (1975) 2 SCC 377 [2002] Supp (2) SCR 636: (2002) 7 SCC 657 [1998] 1
+SCR 254: (1998) 2 SCC 467 Masala containing tobacco” is a specific description of the goods.
+Further, that tobacco is an ingredient in the article, is not relevant, because the description (of 'Pan
+Masala' in Heading 21.06) describes the goods specifically. That classification would prevail. It is,
+argued that Rule 3(b) is irrelevant. By its description, the goods are 'Pan Masala' containing tobacco.
+Analysis and reasoning
+45. As is evident, in all the three cases, emanating from judgments of the Delhi, Madras and
+Allahabad High Courts, the local enactments contain a similar scheme or pattern, which is (a) a
+provision that imposes levy of sales or trade tax; (b) a provision which empowers fixation of
+different rates for different goods, or classes of goods and (c) a provision or provisions which exempt
+goods, enumerated in a Schedule, for that purpose (like in the case of Delhi - in the Third Schedule,
+read with Section 7 of the DST Act) or through a general notification. In all cases, the arguments by
+the dealers were more or less identical, which is reliance on Kothari Products Ltd. (supra); that
+when specific goods are exempted, they cannot be taxed by inclusion in the notification relating to
+rate of taxation, notwithstanding that the authority to exempt, and the authority to tax or increase
+rates, resides with the state or the same authority. The dealer/appellants also relied on the
+provisions of the CET Act, especially Chapter 24, to contend that pan masala or gutkha, were
+tobacco, and therefore, exempt. All these arguments were rejected by the High Courts. The Delhi
+High Court judgment in the case of Shanti Fragrances, was noticed by the later judgments of the
+same High Court, as well as other High Courts.
+46. At the relevant time, 'Pan Masala' was described as a preparation containing betel nuts and any
+one or more other ingredients such as lime, katha, katechu, cardamom, copra, menthol and tobacco.
+This is the definition of Pan Masala under the CET Act which continued till 1995. Heading 21.06
+covered 'Pan Masala' containing “lime, katha, katechu, cardamom, copra, menthol and tobacco” or
+any one or more of these ingredients. Chapter 24 dealt with tobacco and manufactured tobacco
+substitutes and the relevant sub-heading at that time was 2404.41 which deals with chewing
+tobacco, including preparations commonly known as khara masala, kimam, dokta, zarda, sukha and
+surti.
+47. Parliament Act 22 of 1995, substituted Note-3 to Chapter 21 of the CET Act. “Pan Masala” was
+described as “any preparation containing betel nuts and any one or more of the following
+ingredients, viz., lime, katha, katechu or tobacco, whether or not containing any other ingredients
+such as cardamom, copra and menthol”. The primary ingredient of pan masala therefore, is betel
+nut, which could be mixed with other ingredients in combination or in isolation. This position
+prevailed as on 01.03.1988. In 1995, the definition underwent a change. Betel nuts remained the
+essential ingredient along with “lime, katha or tobacco” together, or separately. Whether the product
+contained cardamom, copra, and menthol or not was irrelevant: yet one of the three ingredients
+(lime, katha and tobacco), had to be found in the preparation known as 'pan masala'. By Parliament
+Act 33 of 1996, the description to Chapter Heading 24.04 and sub-headings under it were
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+14
+re-numbered. The description of goods was re- classified. There was no change in Chapter 21;
+Heading 21.06 continued to be only 'pan masala'. That changed with effect from 01.03.2001,
+through Note-3 which reads as follows:
+…“3. In this Chapter, 'Pan Masala' means any preparation containing betel nuts and
+any one or more of the following ingredients, namely:
+i) lime; and
+ii) kattha (catechu) but not tobacco, whether or not containing any other ingredients,
+such as cardamom, copra and menthol."
+Note-6 in Chapter 24 read as follows:
+“6. In this Chapter, ''Pan Masala' containing tobacco', commonly known as 'Gutkha'
+or by any other name, means any preparation containing betel nuts and tobacco and
+any one or more of the following ingredients, namely:
+i) lime; and
+ii) kattha (catechu), whether or not containing any other ingredients, such as
+cardamom, copra and menthol.”
+48. In Chapter 24, for sub-heading 2404.40 and the related entries, the following was substituted,
+namely:
+“Chewing tobacco and preparations containing chewing tobacco; 'Pan Masala'
+containing tobacco.
+2404.41 - Chewing tobacco and preparations containing chewing tobacco 2404.49.1 -
+'Pan Masala' containing tobacco”
+49. Entry No. 2 of Part-J in the First Schedule to the ADE Act is similar to sub-heading 2404.49 - as
+amended from 01.03.2001. As a result, additional excise duty could be imposed on ''Pan Masala
+containing tobacco”. As far as Kothari Products Ltd. (supra) is concerned, a Full Bench of the
+(undivided) Andhra Pradesh High Court had examined the interface between the APGST Act, and
+the provisions of the CET Act, in the context of whether gudaku was subjected to sales tax levy, as
+the dealers had contended that it was tobacco, and therefore, exempt under the local law.29 The Full
+Bench ruling considered the local enactments, and sub-headings in Chapters 21 and 24 of the CET
+Act, and held that although gutkha falls within the term ‘pan masala’, since no additional duty of
+excise is levied on it, yet it could not be held that gutkha was exempt from state sales tax.
+50. The Full Bench of the Andhra Pradesh High Court had to consider, if Entry 7 of the Fourth
+Schedule to the APGST Act, which excluded tobacco, also resulted in exemption as long as it was not
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+15
+subjected to tax under the ADE Act. The High Court held, interpreting the CET Act that each chapter
+contained a table, specifying against the description of “goods” in each sub-heading and the rates at
+which both basic duty as well as additional duty are levied. Chapter 21 deals with “Miscellaneous
+Edible Preparations”. Note 3 to that chapter states that in that chapter “pan masala” meant any
+preparations containing betel nuts and any one or more of ingredients, namely, lime, katha
+(catechu) and tobacco, whether or not containing any other ingredients, such as cardamom, copra
+and menthol. It was held that “chewing tobacco and preparations containing chewing tobacco” is
+comprehensive enough to take in its fold gutkha which contains 7% chewing tobacco. The court then
+ruled that having regard to the ingredients of gutkha, it fell within the meaning of “pan masala” and
+was covered by heading 21.60 and subjected to basic duty of Central Excise, but no additional duty.
+Chapter 24 deals with “tobacco and manufactured tobacco Kothari Products Limited v. Government
+of Andhra Pradesh, 1997 (107) S.T.C. 618 substitutes, etc.”. The court held that there was no
+reference to “gutkha” as such in any one of the headings and sub-headings of that chapter.
+51. It was held by the Full Bench that provisions of explanation of the Fourth Schedule to the APGST
+Act, with reference to the heads and sub-heads in the CET Act, what was relevant in ascertaining the
+real import of the expression “chewing tobacco and preparations containing chewing tobacco” was
+the breadth of the terms used in the entry, sub-heading or a notification, or statute. From that
+aspect, the court concluded that gutkha fell within the wide language of the said expression.
+However sub-heading 2404.40 “Chewing tobacco and preparations containing chewing tobacco”
+was a general sub-head. The court concluded that it is a settled rule of interpretation that a specific
+reference prevails over a general entry. Since the court held that “gutkha” fell within the meaning of
+“pan masala” in the sub-heading 21.06, there could be no doubt that “pan masala” was a specific
+sub-head even assuming that it falls within the meaning of “chewing tobacco”. Therefore, the court
+concluded that in view of the specific head “pan masala” in Chapter 21, that item was excluded from
+the general sub-head 2404.40 “Chewing tobacco and preparations containing chewing tobacco”. The
+court also concluded that though “gutkha” fell within the term “pan masala” in Chapter 21 under
+sub-head 21.06 yet as it is not subjected to additional duty, an essential condition envisaged by the
+explanation for claiming exemption, is lacking.
+52. This court, in Kothari Products Ltd. (supra) reversed the Full Bench decision stating that:
+“3. The contention on behalf of the appellants is that it is not open to the State of
+Andhra Pradesh to tax gutka. Section 8 of the State Sales Tax Act provides that a
+dealer who deals in the goods specified in the Fourth Schedule thereto shall be
+exempt from tax thereunder in respect of such goods. Entry 7 of the Fourth Schedule
+of the State Sales Tax Act refers to tobacco and the explanation in this behalf is that
+the goods mentioned in Entry 7 “shall be goods included in the relevant heads and
+sub-heads of the First Schedule to the Additional Duties of Excise (Goods of Special
+Importance) Act, 1957, but does not include goods where no additional duties of
+excise are levied under that Schedule.” The said Additional Duties of Excise Act, in
+Entry 2404, refers to "Gudaku" under the sub-Heading "Other manufactured
+tobacco". Gudaku which bears a brand name is taxable under Entry 2404.11 at the
+rate of 5% and Gudaku not bearing a brand name is subject to tax at nil rate under
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+16
+Entry 2404.12. The Schedule to the Central Excise Act also makes the same
+distinction between Gudaku bearing a brand name and Gudaku not bearing a brand
+name under the sub-Heading, "Other manufactured tobacco and manufactured
+tobacco substitutes; homogenised or 'reconstituted' tobacco; tobacco extracts and
+essences".
+4. Clearly, therefore, gutka is a tobacco that is covered by an entry in the First
+Schedule to the said Additional Duties of Excise Act and the branded gutka that the
+appellants manufacture is liable to tax thereunder. Gutka, therefore, is 'goods'
+covered by the Explanation to the Fourth Schedule to the State Sales Tax Act and,
+therefore, covered by the exemption contained in Section 8 thereof. The Schedule to
+the State Act could, therefore, not have been amended by including gutka as a kind of
+pan masala in entry 194 of its First Schedule. It must, therefore, be held that the
+inclusion of gutka in the said entry 194 in the manner in which it is done is bad in law
+and is struck down. The appellants will be entitled to all consequential benefits.”
+53. As far as the first point argued by the appellants are concerned, which is, whether in a state law
+which contains two provisions: one which taxes entries, and another which exempts articles from
+levy (the latter being listed separately, in a notification, or a schedule to the enactment itself), the
+inclusion, or insertion into the list or schedule of articles that can be taxed (like Section 4 of the DST
+Act) without amending the subsisting notification that excludes levy (as under Section 7 DST) would
+the levy fail?
+54. There was apparent conflict between two lines of judgments of this court i.e., Radheshyam
+Gudakhu Factory and Kothari Products Ltd. (supra) on the one hand, and Dealing Dairy Products
+(supra), Krishna Kuthar Kabra (supra) and Agra Belting Works (supra) on the other hand. This
+court, in the latter three judgments held that notification introducing an entry and subjecting it to
+levy, when previously, it was exempt in another part of the taxing statute, the intention was to
+withdraw the exemption and make the sale leviable to tax at the rate prescribed in the later
+notification. The court held it to be unnecessary that “a specific or separate notification withdrawing
+or revoking the notification should be issued”. This conflict was referred to a larger bench of five
+judges, in Trimurti Fragrances (P) Ltd v. Govt of NCT of Delhi 30 (a case, which is part of the
+present batch). The court held that the judgment in Agra Belting Works (supra) does not in any
+manner conflict with the ruling in Kothari Products Ltd. (supra) or Radheshyam Gudakhu Factory
+(supra):
+“In our considered opinion there is no conflict between the Kothari Products (supra)
+line of cases and the Agra Belting line of cases. The Kothari Products (supra) line of
+cases was on the question of whether “tobacco” or other goods specified in the First
+Schedule to the ADE Act and hence exempted from Sales Tax under State sales tax
+enactments, can be made exigible to tax under the State enactments by amending the
+Schedule thereto. On the other hand, Agra Belting Works (supra) line of cases was on
+the question of interplay between general exemption of specified goods from sales tax
+under Section 4 of the U.P. Sales Tax Act and specification of rates of sales tax under
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+17
+Section 3-A of the said Act. This Court held that goods exempted from sales tax under
+Section 4 would be exigible to tax by virtue of subsequent notification under Section
+3-A specifying the rate of sales tax [2022] 15 SCR 516: 2022 SCC OnLine SC 1247 for
+any specific item of the class of goods earlier exempted under Section 4. There being
+no conflict, the reference to Constitution Bench is incompetent.”
+55. The above holding, that there is no conflict between the Agra Belting Works (supra) line of cases,
+and the Kothari Products Ltd. (supra) line of cases, therefore, concludes the question urged with
+respect to efficacy or validity of notifications introducing as entries in a schedule(s) and subjecting
+them to tax, when those articles are part of the statute or are exempted from taxation. The assessees’
+contentions therefore, fail on this point.
+56. Turning next to the question of whether pan masala was an exempted item, being “tobacco”, it is
+noticeable that pan masala was expressly mentioned in Chapter 21 for the first time, in 1995 in the
+CET Act. Note 3 defined 'Pan Masala' as “any preparation containing betel nuts and any one or more
+of the following ingredients, namely lime, katha (catechu) and tobacco, whether or not containing
+any other ingredients”. However, at the same time, Chapter 24 contained a specific entry “tobacco”
+which enumerated tobacco, manufactured tobacco, substitutes etc. The relevant sub-heading at that
+time was 2404.41 which enumerated chewing tobacco, including preparations commonly known as
+khara masala, kimam, dokta, zarda, sukha and surti. Thus, the CET Act itself made a distinction
+between pan masala - whether it contained tobacco, or not, and all forms of tobacco. Right from
+1995, the distinction in the CET Act between pan masala (Chapter 21) and tobacco (Chapter 24), had
+been made. The definition of pan masala also clarified that despite one of its ingredients being
+tobacco, it would nevertheless be a separate article.
+57. This court had to consider the effect of the term “includes” in relation to the definition of tobacco
+in Mahalakshmi Oil Mills (supra). The controversy was whether the term “tobacco” and the inclusive
+clause was wide enough to cover tobacco seeds. This court, observed that:
+“14. Can then the words “tobacco” and “any form of tobacco” in the first part of the
+definition be given a wider meaning and read as including the seeds also, particularly
+as it talks of “tobacco in any form, cured or uncured, manufactured or
+unmanufactured”? We do not think they can be for several reasons. In the first place,
+tobacco seeds hardly answer to the description of either the expression
+“manufactured tobacco” or the expression “unmanufactured tobacco” in their
+ordinary connotation; and the expression “cured or uncured” cannot also be
+associated with tobacco seeds. The expression used in the first part of the definition,
+though every wide, is, therefore, singularly inappropriate to take within its purview
+tobacco seeds as well. Secondly, the definition occurs in a statute levying excise duty
+which is concerned not with the parts of a plant grown on the field but with the use to
+which those parts are put or can be put after severance. The legislature could not but
+have been aware that if the leaves, stalks and stems of the tobacco plant are used for
+manufacturing cured tobacco, biris, cigarettes and so on, the seed is also used to
+produce oil and cake. It takes care to mention the first three items which are used in
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+18
+the manufacture of some forms of tobacco consumption which are also enumerated
+but refrains from referring to seeds which it would have done had it been intended to
+include the oil and cake also for purposes of the levy. The categories of
+unmanufactured tobacco enumerated in the entry in the Schedule include “stalks”
+but not “seeds”. This also indicates that seeds are not intended to be included. In
+other words, the omission of the word “seeds” from the second part of the definition
+casts its shadow on the first part as well. Indeed it rather looks as if the second part of
+the definition is intended to restrict rather than expand the scope of the first part.
+Thirdly, it is to be noticed that the first part of definition is somewhat restrictively
+worded…"
+58. In P. Kasilingam v. PSG College of Technology31 this court followed the same principle, i.e., that
+“includes” used in conjunction with some words, expands the natural import of the term, to the
+extent it incorporates those words:
+[1995] 2 SCR 1061 “The word "includes", when used, enlarges the meaning of the
+expression defined so as to comprehend not only such things as they signify
+according to their natural import but also those things which the clause declares that
+they shall include. The words "means and includes", on the other hand, indicate "an
+exhaustive explanation of the meaning which, for the purposes of the Act, most
+invariably be attached to these words or expressions" [See: Dilworth v. Commissioner
+of Stamps, [1899] AC 99 at pp. 105-106 (Lord Watson); Mahalakshmi Oil Mills v.
+State of Andhra Pradesh, [1989] 1 SCC 164, at p. 169)."
+59. These decisions have been followed in later judgments as well; one of them is Pioneer Land &
+Urban Infrastructure v. Union of India32. For these reasons, throughout (till 2001), “Pan masala”
+and chewing tobacco have received different treatment. They are not interchangeable or
+synonymous expressions. Entry 2404 refers to chewing tobacco “including preparations commonly
+known as "Khara Masala", "Kimam", "Dokta", "Zarda", "Sukha" and "Surti"”. Gudaku and snuff are
+dealt with under a separate heading. The effect of inclusion of pan masala with tobacco in Chapter
+24 and simultaneously that product’s exclusion from Chapter 21, as well as imposition of ADE with
+effect from 2001, on ‘pan masala containing tobacco’ meant that the product (i.e. pan masala
+without tobacco) went out, for the first time, of the reach of state sales tax. All along, goods and
+products described as pan masala and gutkha, were included in Chapter 21. The conclusion
+therefore, is that till 2001, and the introduction of ADE, these two products were covered by local or
+sales tax levies.
+60. The General Rules of Interpretation (of the CET Act) which guide the appropriate classification
+of products, inter alia, provide that:
+[2019] 10 SCR 381: (2019) 8 SCC 416 “THE FIRST SCHEDULE—IMPORT TARIFF
+(See Section 2) GENERAL RULES FOR THE INTERPRETATION OF THIS
+SCHEDULE Classification of goods in this Schedule shall be governed by the
+following principles:
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+19
+1. The titles of Sections, Chapters and Sub-Chapters are provided for ease of reference
+only; for legal purposes, classification shall be determined according to the terms of
+the headings and any relative Section or Chapter Notes and, provided such headings
+or Notes do not otherwise require, according to the following provisions.
+2. (a) Any reference in a heading to an article shall be taken to include a reference to
+that article incomplete or unfinished, provided that, as presented, the incomplete or
+unfinished article has the essential character of the complete or finished article. It
+shall also be taken to include a reference to that article complete or finished (or
+falling to be classified as complete or, finished by virtue of this rule), presented
+unassembled or disassembled.
+(b) Any reference in a heading to a material or substance shall be taken to include a
+reference to mixtures or combinations of that material or substance with other
+materials or substances. Any reference to goods of a given material or substance shall
+be taken to include a reference to goods consisting wholly or partly of such material
+or substance. The classification of goods consisting of more than one material or
+substance shall be according to the principles of rule 3.
+3. When by application of rule 2(b) or for any other reason, goods are, prima facie,
+classifiable under two or more headings, classification shall be effected as follows: -
+(a) the heading which provides the most specific description shall be preferred to
+headings providing a more general description. However, when two or more headings
+each refer to part only of the materials or substances contained in mixed or
+composite goods or to part only of the items in a set put up for retail sale, those
+headings are to be regarded as equally specific in relation to those goods, even if one
+of them gives a more complete or precise description of the goods.
+(b) mixtures, composite goods consisting of different materials or made up of
+different components, and goods put up in sets for retail sale, which cannot be
+classified by reference to (a), shall be classified as if they consisted of the material or
+component which gives them their essential character, insofar as this criterion is
+applicable.
+(c) when goods cannot be classified by reference to (a) or (b), they shall be classified
+under the heading which occurs last in numerical order among those which equally
+merit consideration.”
+61. In Collector of Central Excise Nagpur v. Simplex Mills Co. Ltd33 this court outlined the role of
+the interpretive rules:
+[2005] 2 SCR 441: (2005) 3 SCC 51 “ […] for legal purposes, classification “shall be
+determined according to the terms of the headings and any relevant section or
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+20
+chapter notes”. If neither the heading nor the notes suffice to clarify the scope of a
+heading, then it must be construed according to the other following provisions
+contained in the Rules. Rule 1 gives primacy to the section and chapter notes along
+with terms of the headings. They should be first applied. If no clear picture emerges
+then only can one resort to the subsequent rules. The appellants have relied upon
+Rule 3. Rule 3 must be understood only in the context of sub- rule (b) of Rule 2 which
+says inter alia that the classification of goods consisting of more than one material or
+substance shall be according to the principles contained in Rule 3. Therefore when
+goods are prima facie, classifiable under two or more headings, classification shall be
+effected according to sub- rules (a), (b) and (c) of Rule 3 and in that order.”
+62. On a plain application of the interpretive rules, especially Rule 3(a) it is clear that the heading
+which provides the most accurate description has to be followed. In the present case, there is no
+doubt, that before 2001, pan masala and gutkha fell within Chapter 21, as pan masala, regardless of
+whether they contained tobacco. Goods classifiable under Chapter 24, i.e. tobacco items were more
+general; also they did not include pan masala.
+63. As regards the question of the rate of tax, in view of the restrictions under Section 15 CST Act,
+neither gutkha nor pan masala were “declared goods” under Section 14 of the CST Act. The
+amendment to the CET Act did not become part of Section 14(ix). The goods under the relevant
+sub-headings of the CET Act were absent in the list of declared goods of the CST Act; they were not
+part of the provisions introduced to the Finance Act, 1988. Therefore, the subsequent changes made
+introducing 2404.40 in the CET Act do not affect or change the CST Act. Consequently gutkha and
+pan masala are not covered under sub-heading 2404.40 so far as CST Act is concerned. Resultantly
+the arguments of the assessees that the rate of local tax, cannot exceed the limit under the CST Act,
+are rejected as unmerited.
+64. For the foregoing reasons, the appeals by the assessees have to fail. The revenue’s appeals are
+consequently allowed. There shall be no order on costs.
+.............................................J. [S. RAVINDRA BHAT] .............................................J. [DIPANKAR
+DATTA] NEW DELHI;
+MAY 04, 2023
+M/S Trimurthi Fragrances (P) Ltd. ... vs Govt.Of N.C.T Of Delhi Through Its ... on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/147915652/
+21

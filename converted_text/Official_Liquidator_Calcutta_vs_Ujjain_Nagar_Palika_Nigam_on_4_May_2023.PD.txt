@@ -1,0 +1,970 @@
+Supreme Court of India
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Author: Dinesh Maheshwari
+Bench: Dinesh Maheshwari, Aravind Kumar
+                                                                                        
+                                        IN THE SUPREME COURT OF INDIA
+                                         CIVIL APPELLATE JURISDICTION
+                                          CIVIL APPEAL NO. 8015 OF 2010
+                OFFICIAL LIQUIDATOR                                                ….APP
+                                                               VERSUS
+                UJJAIN NAGAR PALIKA NIGAM & ORS.                                  ….RESP
+                                                                WITH
+                                            CIVIL APPEAL NO. 8016 OF 2010
+                                                            JUDGMENT
+DINESH MAHESHWARI, J.
+1. By way of these appeals, the appellant, being Official Liquidator1 of the company named IISCO
+Ujjain Pipe and Foundry Company Limited2, has questioned the common judgment and order
+dated 05.02.2009 in APOT No. 248 of 2008 and APOT No. 235 of 2008, whereby the Division
+Bench of the High Court at Calcutta has dismissed the appeals against the common judgment and
+order dated 25.04.2007 in C.A. No. 159 of 2006 and C.A. No. 160 of 2006, as passed by the learned
+Company Judge of the High Court3 in allowing the company applications preferred by Signature
+Not Verified Digitally signed by ARJUN BISHT Date: 2023.05.04 17:54:01 IST Reason:
+1 ‘OL’, for short.
+2 Hereinafter also referred to as ‘the company in liquidation’. 3 Hereinafter also
+referred to as ‘the Company Court’.
+respondent No.1 Ujjain Nagar Palika Nigam4, claiming property tax and water tax from the
+appellant in relation to the company in liquidation, from the date of order of winding up and until
+the date of confirmation of sale of assets to the auction purchaser, who is now represented by
+respondent No. 3.
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+1
+2. Briefly put, the relevant facts are that the said company, IISCO Ujjain Pipe and Foundry Company
+Limited, became sick and was referred to the Board for Industrial and Financial Reconstruction 5
+under the provisions of Sick Industrial Companies (Special Provisions) Act, 1956. The BIFR
+recommended its winding up and, accordingly, it was ordered to be wound up by the Company
+Court in its order dated 10.07.1997. The appellant herein was appointed as the Official Liquidator
+and was directed to take over possession of the assets of the company in liquidation.
+3. Following an order passed by the Company Court on 04.04.2003, the assets of the company in
+liquidation were put up for sale on “as is where is whatever there is” basis by means of sale notice
+dated 09.05.2003. The said notice provided for inspection of the assets of the company by intending
+purchasers and mentioned the availability of terms and conditions of sale alongwith particulars
+about the assets of the company at the office of the appellant. This sale notice reads as under: -
+“SALE NOTICE Pursuant to the order of the Hon'ble High Court, Calcutta dated 4th
+April, 2003 offers are invited in sealed cover enclosing a Bank Draft or Pay Order in
+favour of Official Liquidator, High Court, Calcutta for an amount equivalent to 20%
+of the offered amount as 4 Hereinafter also referred to as ‘the Nigam’.
+5 For Short, ‘BIFR’.
+earnest money for sale of the assets of the Company [In Liqn.] like land structure, building,
+machineries etc., lying at Dewas Road, Ujjain M.P., and lease hold land building quarter at
+Nana-Kheda, Indore road, Ujjain, M.P. The assets of the company will be sold 'as is where is
+whatever there is basis'. Balance amount is to be paid within 30 days from the date of sale and the
+possession is not be made only after full payment of the purchase price.
+Sealed offers will be received by the Official Liquidator upon 5 p.m. dated 26th June 2003 and the
+same will be opened on 27th June 2003 at 2.00 p.m. before the Hon'ble Judge taking Company
+matters in the High Court at Calcutta for consideration of such sealed offers. No one will be allowed
+to purchase in favour of nominee or nominees.
+Inspection of the assets of the Company [In liqn.] will be allowed to the intending purchasers on
+26th May 2003 and 27th May 2003 between 12 noon to 4 p.m. Terms and conditions of sale
+alongwith the particulars of the assets of the Company [In Liquidation] will be available at the office
+of the undersigned on and from 22 nd May 2003 during office hours at a cost of Rs.50/- per
+catalogue and also at site during inspection period.
+Dated this 9th day of May, 2003.” 3.1. The abovementioned sale notice carried certain terms and
+conditions appended to it, reinforcing that the sale would be on “as is where is whatever there is”
+basis and stating that the appellant OL would not be providing any guarantee about the quality,
+quantity or specification of the assets sold; the tenderers were to satisfy themselves in this regard
+after physical inspection of the assets of the company; and the purchasers would be deemed to offer
+with full knowledge as to defects, if any, in the description, quality or quantity of the assets sold. The
+conditions relevant for the present purpose could be reproduced as follows: -
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+2
+“TERMS & CONDITIONS OF THE SALE
+1. The SALE will be as per inventory made by the valuer on 'As is where is whatever
+there is' basis subject to the confirmation by the Hon'ble Court, The Official
+Liquidator shall not provide any guarantee and/or warranty as to quality, quantity or
+specification of the assets sold. The Tenderers/ bidders are to satisfy themselves in
+this regard after physical inspection of the assets of the company and the purchasers
+will be deemed to offer with full knowledge as to defects, if any, in the description,
+quality or quantity of the assets sold. The Official Liquidator, shall not entertain any
+complaint in this regard after the sale is over. Any mistake in the notice inviting
+tender shall not vitiate the sale.
+………..” 3.2. Pursuant to the aforementioned sale notice, the assets were sold to one Nagendra Jain
+for a sum of Rs. 20.50 crore; and the sale was confirmed by the order of Company Court dated
+04.07.2003. Subsequently, the respondent No. 3 was nominated in the place and stead of the said
+Nagendra Jain as purchaser of the assets and properties of the company in liquidation.
+4. After the sale of assets, the appellant OL invited claims from the creditors of the company in
+liquidation by way of advertisements. 4.1. In response to such invitation of claims, the respondent
+No. 1 Nigam filed affidavit of proof of debt with the appellant, claiming towards arrears of property
+tax a sum of Rs. 2,79,955/- for the year 1996-1997 and another sum of Rs. 4,63,69,137/- for the
+years 1997-1998 till 2003-2004, for the factory and staff quarters of the company in liquidation at
+Ujjain. The respondent No. 1 Nigam also filed another affidavit of proof of debts with the appellant
+to the tune of Rs. 11,14,612/- as arrears of water tax for the period from 01.06.1996 to 31.10.2005.
+4.2. In response to the claims so filed by the respondent No. 1 Nigam, the appellant OL issued four
+notices dated 24.01.2006. By way of two such notices, the appellant admitted the claims to the tune
+of Rs. 2,79,955/- on account of property tax and Rs. 2,162.20 on account of water tax against the
+company in liquidation only to the extent of pre-liquidation period i.e., prior to the date of order of
+winding up by the Company Court (10.07.1997). However, by way of other two notices issued on
+even date, the appellant rejected the claim of respondent No. 1 to the extent of Rs. 4,63,69,137/-
+towards property tax and Rs. 11,12,449.80 towards water tax on the ground that such claims arose
+after the date of order of winding up i.e., 10.07.1997.
+5. In challenge to the part rejection of its claim, the respondent No. 1 Nigam preferred two company
+applications before the Company Court at Calcutta by Judge’s Summons under Rule 164 of the
+Companies (Court) Rules, 19596, particularly as regards admissibility of post-liquidation claims.
+6. For deciding the applications so preferred by the respondent No.1, the Company Court framed the
+following question for adjudication: -
+“The question before this Court is whether claims, that might arise against the
+Official Liquidator representing the company in liquidation, for any period of time,
+subsequent to the order of winding up, can outright be rejected.” 6.1. It was
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+3
+contended on behalf of respondent No. 1 Nigam - applicant before the Company
+Court - that the OL was liable for both pre-liquidation and post-liquidation rates and
+taxes; that as per Section 185 of the Madhya Pradesh Municipal Corporation Act,
+19567 the position of respondent No. 1 was that of a secured creditor; and that in any
+case, the OL was required to give reasons for rejection of claim which he had not
+done. A reference was also made to Rule 163 of the Rules of 1959.
+6.2. Similarly, it was contended on behalf of respondent No.3 auction purchaser, while placing
+reliance on the said Section 185 of the M.P. Act 6 Hereinafter also referred to as ‘the Rules of 1959’. 7
+Hereinafter also referred to as ‘the M.P. Act of 1956’. of 1956, that he was not liable towards such
+taxes prior to the date on which he occupied the property; and that the OL was liable to pay all taxes
+till the execution of deed of conveyance in favour of the purchaser. 6.3. On the other hand, it was
+contended on of behalf the appellant OL that he was liable to pay only those taxes which accrued till
+the date of winding up and became payable within one year thereof; that in view of Section 529A of
+the Companies Act, 19568, workmen’s dues and the dues of secured creditors to the extent they were
+secured, were to be paid pari passu, and prioritised over all other debts; and that Rule 154 of the
+Rules of 1959 provided for filing of affidavit of proof of debts as on relevant date and the appellant
+had allowed taxes due on the relevant date that had been proved.
+7. In the common judgment and order dated 25.04.2007, the Company Court, while allowing the
+applications so filed by the respondent No. 1 Nigam, held that liability of the appellant OL was not
+restricted to the claims and debts only until the date of order of winding up. 7.1. The Company Court
+further held that reliance placed by the appellant OL on Section 530 of the Companies Act and Rule
+154 of the Rules of 1959 was patently misconceived, while observing that there was no provision in
+either of them which restricted the claim only until the date of order of winding up. It was also held
+that Section 530 of the Companies Act would not absolve a company in liquidation of its liability
+towards revenue and taxes; and that such liabilities in the post-liquidation period 8 Hereinafter
+referred to as ‘the Companies Act’.
+were to be treated as a part of the cost of winding up and would be prioritised over all other
+liabilities. As regards the auction purchaser, the Company Court relied upon a decision of the
+Bombay High Court holding that the purchaser was liable to pay property tax only from date of
+purchase. The Company Court observed and held, inter alia, as under: -
+“The company may be wound up and its business closed down. Yet, the Official
+Liquidator would be obliged to protect the assets of the company in liquidation, until
+such time as the assets are sold. For the protection of assets, the Official Liquidator
+representing the company might have to retain rented premises, obtain supply of
+electricity, engage security guards and take such other steps involving expenses as the
+Official Liquidator might deem necessary. Can claims on account of inter alia rent,
+electricity charges that accrued after the date of winding up, be outright rejected only
+on the ground that the claims were post liquidation claims even though the company
+in liquidation might have sufficient funds to satisfy the claims?
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+4
+An electricity supplier, may, as argued by Mr. Ghosh, have the option of
+disconnecting supply for non-payment of its dues and appropriating the security
+deposit of the consumer. The right of disconnection would not, however, make any
+difference to the maintainability of the claim of the supplier.
+It is not in dispute that the Official Liquidator has been making payment of post
+liquidation electricity charges. The compulsion to make payment cannot, however,
+make any difference to the legal status of the claim.
+If charges on account of supply of electricity after the date of liquidation are payable,
+so is rent. The liability of a company to pay rent and/or occupation charges and/or
+rates and taxes does not automatically come to an end with the order of winding up of
+the company.
+**** **** **** The dispute between the Official Liquidator and the applicant is with
+regard to the rates and taxes for the period between 10th July, 1997 being the date on
+which the company was directed to be wound-up and 4th July, 2003 being the date
+on which the sale in favour of the purchaser was confirmed. In other words, the
+dispute is with regard to the taxes claimed for a period of approximately six years.
+The Official Liquidator has rejected the proof of debt on his interpretation of the various provisions
+of the Companies Act and the Company (Court) Rules framed thereunder and in particular Section
+528, 529A and 530 and Rule 154 of the Rules.
+**** **** **** The contention on behalf of the Official Liquidator, that debts and claims and
+particularly claims on account of municipal tax are payable only till the date of winding up of the
+company, in view of Section 530 of the Companies Act, 1956, read with Rule 154 of the Companies
+(Court) Rules 1959, is patently misconceived. There is no provision either in the Companies Act or in
+the Companies (Court) Rules which restricts claims and debts only till the date of the winding up
+order.
+Pre-liquidation claims, which had arisen before the Official Liquidator took possession of the assets
+and properties of the company, would necessarily have to be estimated by the Official Liquidator on
+the basis of available records and the proof adduced by the claimant and/or creditor. Post
+liquidation debts and claims do not require to be proved.
+Section 530 does not absolve a company in liquidation, represented by the Official Liquidator, of its
+liability towards revenue and taxes. The said Section merely provides for payment of revenues,
+taxes, cesses and rates which became due and payable within 12 months from the relevant date,
+being the date of the winding up order in priority to other pre-liquidation debts. Post liquidation
+liabilities are to be treated as part of the costs of winding up of the company in liquidation and such
+liabilities get priority over all other liabilities of the company.
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+5
+**** **** **** In winding up, liquidators who carry on the company's business continue with
+rateable occupation of the premises and they are in rateable occupation even if they occupy merely
+for the purpose of fulfilling the outstanding contracts or preventing damage to the company's
+property (Halsbury Laws of England, 4th Edn., Vol.39). It is true that the Official Liquidator did not
+carry on any business on behalf of the company. The Official Liquidator, however, retained
+possession for beneficial winding up of the company. As rightly argued by Mr. Mukherjee, appointed
+as amicus curiae by this Court, and by Mr. Banerjee, appearing on behalf of the applicant, the
+expenses incurred in winding up are payable, not provable. The principle of priority of certain
+creditors is applicable to liability of the company at the time when the order for winding up of the
+company was made. Costs and expenses incurred on behalf of the company, in winding up ought to
+have paid in full.” 7.2. The Company Court also took note of the fact that the appellant OL had
+rejected the claims only on the ground that he was not liable to pay post-liquidation expenses but
+had neither objected to the determination of annual value nor filed any appeal under Section 184 of
+the M.P. Act of 1956. The Court observed that unless an objection or appeal was filed and the
+demand was reduced, the OL would be bound to discharge the tax liability, as per the claim of the
+Nigam, even for post-liquidation period. Therefore, the Court set aside the rejection notice by the
+appellant but extended him liberty to file an appeal against the demands, if so chosen, within thirty
+days and also provided that the appellant would, within eight weeks from the date of receipt of the
+order in appeal under Section 184 of the M.P. Act of 1956, consider and dispose of the claims of the
+applicant (respondent No. 1), as determined in appeal and in accordance with law.
+8. The appellant challenged the aforesaid judgment and order dated 25.04.2007 of the Company
+Court by way of appeals before the Division Bench of the High Court but, the appeals came to be
+dismissed by the impugned judgment and order dated 05.02.2009.
+8.1. The appellant OL contended before the Division Bench that he had not carried on any business
+of the company and consequently, did not in any way earn profit from use of the assets of the
+company in liquidation; that the provisions of the Companies Act did not envisage payment of post-
+liquidation taxes on property and water and the assets were only custodia legis after the winding up
+order until the sale; and that the sale was on “as is where is whatever there is” basis, which would
+mean that the assets were not free from encumbrances when sold and thereby, the liability of taxes
+was shifted to the purchaser.
+8.2. The respondent No. 1 Nigam contended that the appellant would be liable to pay taxes to the
+Nigam out of sale proceeds, and apart from this, reiterated the submissions made before the
+Company Court. Similarly, the auction purchaser, respondent No. 3, submitted that he was neither
+the owner nor the occupier until 04.07.2003 when the sale was confirmed and, therefore, there
+would be a shift of the charge to the sale proceeds and not to the purchaser. However, a creditor of
+the company, respondent No. 2, contended that the claim towards arrears of property and water tax
+would be directed against the auction purchaser and not the OL. 8.3. The Division Bench did not
+accept the submissions of appellant and respondent No. 2 and held that respondent No. 3 - the
+auction purchaser – was not liable to pay the said charges accrued post-liquidation because, from
+the terms and conditions of sale, it could not be discerned that the purchaser was put to notice about
+any liability towards arrears due to the Nigam. The Division Bench held that in absence of clear
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+6
+provision in the sale notice that intending purchaser had to satisfy himself as regards assets of
+company in liquidation in all respects including encumbrances, the appellant was obliged to
+discharge the post-liquidation liability towards property and water taxes; and that it would not be
+reasonable to fasten liability on a purchaser without informing him about the encumbrances prior to
+the sale. The Division Bench also distinguished the decision of this Court in the case of United Bank
+of India v. Official Liquidator and Ors.: 79 Company Cases 262 [= (1994) 1 SCC 575] while taking
+note of the peculiar factual matrix and specific terms and conditions of sale in that case. After
+making a comparison between the terms and conditions of sale in the present case and those of sale
+in the aforesaid case, it was observed that sale notice in the present case was not couched in similar
+and comprehensive language and there was no occasion for respondent No. 3 to make himself aware
+about the encumbrances, if any, in respect of assets of the company in liquidation, which he
+intended to purchase. 8.4. As regards the applicability of Section 530 of the Companies Act, the
+Division Bench observed that the said provision had nothing to do with payment of taxes which
+might have mounted between the date of the order of winding up and the date of the sale of its
+assets. Similarly, Rule 154 of the Rules of 1959, providing for the manner of estimation of value of
+debts and claims on the date of the order of winding up of the company was held to be of no
+application.
+8.5. The Division Bench of the High Court observed and held as under:-
+“There is no express provision in the sale notice that the liability to bear charges on
+account of water and property taxes must be borne by the purchaser. We are unable
+to comprehend that the expression “as is where is whatever there is basis” comprises
+within its ambit the liability to clear statutory charges as might have accrued and are
+in arrears. The terms and conditions of the sale do specify that the Official Liquidator
+shall not provide any guarantee and/or warranty as to quality, quantity or
+specification of the assets sold and the intending purchaser is required to satisfy
+himself in this regard after physical inspection of the assets of the company in
+liquidation and no complaint as to defects, if any, in the description, quality or
+quantity of the assets sold would be entertained after the sale is over and that any
+mistake in the notice inviting tender shall not vitiate the sale. These, per se, in our
+opinion, would not tantamount to a representation being made to an intending
+purchaser that while bidding for the assets put up for sale he is also to bear the
+expenses towards arrear dues of the Nigam. Guarantee and/or warranty as to quality,
+quantity or specification of the assets sold cannot be equated with the liability
+attached to the same. The terms and conditions of the tender only protect the Official
+Liquidator to the extent of quality, quantity and specification and would not extend
+to claiming of immunity to clear taxes claimed by the Nigam.
+The Official Liquidator has laid much stress on Section 530 of the Companies Act and Rule 154 of
+the Companies (Court) Rules. We have failed to find the materiality of the said provisions for a
+decision on the present dispute. Section 530 provides for preferential payments. According to clause
+(a) of sub-section (1) of Section 530 read with clause (c) of sub-section (8) thereof, all revenues,
+taxes etc. due from the company in liquidation to a local authority on the date of the winding up
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+7
+order and having become due and payable during the preceding 12 months thereof would be entitled
+to priority over all other dues. Section 530 has nothing to do with payment of taxes which might
+have mounted between the date of winding up and sale of its assets by the purchaser. Rule 154 also
+cannot have any manner of application since it provides the manner of estimation of value of debts
+and claims on the date of the order of winding up of the company.
+It would be, in our opinion, thoroughly unreasonable to foist the liability on a purchaser without
+first letting him know prior to the sale about such liability. Enquiries at site must have been made by
+the ultimate purchaser before he offered his bid. The purchaser could have been informed there of
+the encumbrances. He could have also been told about it prior to his depositing the balance sale
+consideration. The proceedings before the Company Court were decided without giving any
+opportunity to the Official Liquidator to file counter affidavits to the applications filed by the Nigam,
+as it appears from the stay petitions. We, however, find no averment in the stay petitions to the
+effect that after the respondent no.3 had expressed interest to purchase the assets of the company in
+liquidation, the Official Liquidator had made him aware that purchase of such assets would carry
+with it the liability to pay arrear taxes recoverable by the Nigam. In the absence of such an
+averment, we find it difficult to hold that the respondent no.3 ought to bear the liability instead of
+the Official Liquidator. At this stage, it would be worthwhile to consider the decision of the Apex
+Court in United Bank of India (supra) cited by Mr. Ghosh. The Official Liquidator, in that case, had
+sold the assets of the company in liquidation on the basis of Terms and Conditions of Sale to Triputi
+Jute Industries. Clause (2) of such terms and conditions was as follows:
+“2. The sale will be as per inventory list on ‘as is where is basis’ and subject to the
+confirmation of the Hon’ble Supreme Court of India. The Official Liquidator shall not
+provide any guarantee and/or warranty in respect of the immovable properties and
+as to the quality, quantity or specification of the movable assets. The intending
+purchaser must satisfy themselves in all respect as regards the movable and
+immovable assets, as to their title, encumbrances, area, boundary, description,
+quality, quantity, and volume etc. and the purchaser will be deemed to offer with full
+knowledge as to the description, area etc. of the properties and defects thereof, if any.
+The purchaser shall not be entitled to claim any compensation or deduction in price
+on any account whatsoever and shall be deemed to have purchased the property
+subject to all encumbrances, liens and claims including those under the existing
+legislation affecting labour, staff etc. The Official Liquidator shall not entertain any
+complaint in this regard after the sale is over. Any mistake in the notice inviting
+tender shall not vitiate the sale.” It was on consideration of the express provisions of
+clause (2) of the Terms and Conditions of Sale that the Apex Court proceeded to hold
+as under:
+“When the Official Liquidator sells the property and assets of a company in
+liquidation under the orders of the Court he cannot and does not hold out any
+guarantee or warranty in respect thereof. This is because he must proceed upon the
+basis of what the records of the company in liquidation show. It is for the intending
+purchaser to satisfy himself in all respects as to the title, encumbrances and so forth
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+8
+of the immovable property that he proposes to purchase. He cannot after having
+purchased the property on such terms then claim diminution in the price on the
+ground of defect in title or description of the property. The case of the Official
+Liquidator selling the property of a company in liquidation under the orders of the
+Court is altogether different from the case of an individual selling immovable
+property belonging to himself. There is, therefore, no merit in the application made
+on behalf of Triputi that there should be a diminution in price or that it should not be
+made liable to pay interest on the sum of Rs 1 crore 98 lakhs”.
+It is understandable that once an intending purchaser is warned to satisfy himself in
+all respects as regards the immovable assets as in the said case, it is for his own
+benefit that he satisfies himself in all respects including encumbrances of the
+immovable property that he proposes to purchase. It is also quite understandable
+that after having purchased the property on such terms any objection that he was not
+aware of the encumbrances may not be entertained.
+However, it passes the comprehension of this Court as to why the sale notice in the present case was
+not couched in similar and comprehensive language as the one which fell for consideration before
+the Apex Court. There being no occasion for the respondent no.3 to make himself aware regarding
+the encumbrances, if any, in respect of assets of the company in liquidation which he proposed to
+purchase, it is too late in the day for the Official Liquidator to contend that he ought to have
+participated in the bid upon being fully satisfied and not having raised any objection at the relevant
+time it is he only who is liable to bear the property and other taxes. We are of the view that the
+liability on account of property and water taxes claimed by the Nigam, to the extent rejected by the
+Official Liquidator is a post-liquidation liability which the Official Liquidator is obliged to discharge
+in the absence of a clear provision in the sale notice that the intending purchaser must satisfy
+himself as regards the assets of the company in liquidation in all respects including encumbrances.
+In the fitness of things, we deem it necessary to direct the Official Liquidator to issue future notices
+of sale of assets of companies in liquidation in similar and comprehensive language as the one
+quoted supra from the Apex Court decision to avoid complications.”
+9. Aggrieved by the common judgment and order dated 05.02.2009 so passed by the Division Bench
+of the High Court, the appellant OL has preferred these appeals.
+9.1. Learned Counsel for the appellant has submitted that in true operation of the applicable
+provisions of law, the appellant cannot be made liable for the post-liquidation claims filed by
+respondent No. 1 while disregarding the interest and entitlement of pre-liquidation creditors. It has
+been argued that the appellant has admitted the pre-liquidation claims and has rightly rejected the
+post-liquidation claims as per Section 530 of the Companies Act, since the workers/employees were
+discharged from service. Learned Counsel for the appellant would submit that the assets and
+properties of the company in liquidation are deemed to be in the custody of the Court and the
+appellant has not carried on any business nor utilised water after liquidation of company for gaining
+profit. 9.2. It has been strenuously argued by the learned counsel that the High Court was not
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+9
+justified in treating post-liquidation liabilities as a part of the cost of winding up and thereby, giving
+such liabilities a priority over all other liabilities of the company in liquidation, which is not
+permissible under Sections 529A, 530 and other provisions of the Companies Act. This would also
+be prejudicial to pre-liquidation creditors, being the workers, statutory creditors and general body of
+creditors.
+9.3. It has also been argued that the respondent No. 1 had never taken the necessary legal steps for
+realisation of its dues as claimed in its affidavit of proof of debt and the High Court did not even
+consider such affidavit before fastening the liability of post-liquidation claim on the appellant. 9.4.
+Learned Counsel has also submitted that the benefit given to respondent No. 3 by the High Court
+should not have been given in view of the terms and conditions of sale of the assets of the company
+in liquidation. Learned Counsel has vehemently submitted that the tenderers/bidders had to satisfy
+themselves about all the relevant aspects concerning the assets, when being sold on “as is where is
+whatever there is” basis; and therefore, the purchaser would be deemed to have full knowledge of
+the defects, encumbrances, and statutory dues before purchasing the assets and properties of the
+company in liquidation. Learned counsel would emphasise that when the terms and conditions of
+the sale clearly mentioned that sale of assets would be on “as is where is whatever there is" basis,
+after having purchased the property on such terms, the purchaser is not entitled to make any claim
+as regards diminution in the price on the ground of defect in title or description of the property. It
+has further been submitted that the case of OL selling the property of a company in liquidation
+under the orders of the Court is altogether different from the case of an individual selling immovable
+property belonging to himself. Reliance has been placed on decisions of this Court in United Bank of
+India (supra), Haryana Financial Corporation v. Rajesh Gupta: (2010) 1 SCC 655; UT Chandigarh
+Administration and Anr. v. Amerjeet Singh and Ors.: (2009) 4 SCC 660; and Punjab Urban
+Planning and Development Authority v. Raghu Nath Gupta: (2012) 8 SCC 197.
+10. The submissions made on behalf of the appellant have been essentially supported on behalf of
+respondent No. 2, Steel Authority of India Limited, one of the creditors of the company in
+liquidation, who has lodged the claim alongwith its subsidiary IISCO Ltd. It has been contended on
+behalf of respondent No. 2 that the findings of the High Court are not in accord with the law on the
+point pertaining to ouster clauses in the sale notice clearly stating that the sale of assets of the
+company in liquidation was on “as is where is whatever there is” basis. It has been argued that the
+auction purchaser takes the property subject to all defects of title and the doctrine of caveat emptor
+directly applies to such purchaser. A decision of this Court in the case of Ahmedabad Municipal
+Corporation v. Haji Abdul Gafur Haji Hussenbhai: (1971) 1 SCC 757 has been relied upon.
+11. Per Contra, learned counsel for respondent No. 1 has submitted that the appellant OL, as a
+custodian of the property, is liable to pay the post-liquidation claim too as raised by Nigam.
+11.1. Learned Counsel has submitted that the claims raised by respondent No.1 constitute
+“liquidation expenses”, being the expenses that had to be paid by the appellant OL to maintain the
+property while being in his custody; and, therefore, the obligation is to be met out of the value
+realised from the sale of assets of the company. In this regard, learned counsel for the respondent
+No. 1 has submitted that in terms of Rule 338 of the Rules of 1959, the expenses incurred by the OL
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+10
+for “preserving, realising or getting in” the assets of the company are required to be paid in priority
+and the said Rule provides for the order of preference thereafter in relation to other costs and
+expenses payable out of the assets of the company.
+11.2. Learned Counsel has also submitted that preferential payments prescribed in Section 530 of
+the Companies Act are for payment of specified claims thereunder and that too after payment of
+costs and expenses of winding up that are properly incurred by the appellant and which are paid in
+priority. Moreover, the said Section 530 relates to claims for pre-liquidation period for which, there
+is a need for prescribing priority but, the said provision has no application for the expenses incurred
+by OL during post-liquidation period, which are required to be paid in priority. In regard to the
+liability and priority concerning post-liquidation expenses, reliance has been placed on a few
+English decisions, including that In re Toshoku Finance UK plc: [2002] 1 WLR 671.
+11.3. Learned Counsel for respondent No. 1 has placed strong reliance on Section 185 of the M.P. Act
+of 1956 to submit that the provision creates an obligation to pay municipal taxes as a first charge on
+the land and building as also the movable properties and the proviso expressly provides that arrears
+of tax are not recoverable from any occupier who is not the owner, if the arrears are of the period
+when such occupier was not in occupation. Therefore, in view of the proviso, arrears of tax for the
+period prior to confirmation of auction sale, cannot be recovered from the auction purchaser and
+have to be paid by the OL.
+11.4. It has also been submitted that in terms of Section 520 of the Companies Act, the municipal
+taxes as sought to be claimed by respondent No.1 would be costs of winding up; and the appellant
+being in possession of the assets, is obliged to pay the municipal taxes, which ought to have been
+paid to protect and preserve the property.
+12. Learned counsel for respondent No. 3 – the auction purchaser - has duly supported the orders
+impugned with the submissions that the tax dues in the present case were “post-liquidation dues”
+amounting to “costs of liquidation” and were to be borne by the OL alone; and could not have been
+foisted on the auction purchaser.
+12.1. It has been submitted on behalf of respondent No. 3 that auction purchaser is liable towards
+property tax and water tax with effect from the date of confirmation of sale in his favour i.e., from
+04.07.2003 and he has discharged all such claims but then, there is no liability on him towards taxes
+prior to the date of confirmation of sale when property of the company was custodia legis and was in
+the hands of OL.
+12.2. Furthermore, learned counsel has submitted that the Companies Act and the Rules of 1959 do
+not impose any obligation on purchaser to pay dues that relate to period between the date of order
+of winding up and date of sale confirmation. The claims in the present case are post- liquidation
+charges or costs and are, therefore, expenses of winding up, liable to be borne out of proceeds of
+liquidation, if any; and to the extent that they remain unpaid after exhausting the proceeds of
+liquidation, are to abate. In this regard, reliance has been placed on the said decision, In re Toshoku
+Finance UK plc.
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+11
+12.3. Learned Counsel has referred to Section 100 of Transfer of Property Act, 18829 as also to the
+decisions of this Court in Ahmedabad Municipal Corporation (supra) and AI Champdany Ltd. v.
+Official Liquidator and Anr.: (2009) 4 SCC 486 to submit that auction purchaser without notice and
+in absence of any provision in terms of sale or any statutory provision could not be made liable for
+such arrears of tax; and that no charge could be enforced against any property in hands of transferee
+for consideration and without notice of the charge; and that for its enforceability, a provision of law
+must expressly provide for enforcement of a charge against the property in the hands of the
+transferee for value without notice to the charge and not merely create a charge. Learned counsel
+would submit that the dues in relation to municipal taxes in terms of the said M.P. Act of 1956 do
+not create any encumbrance or charge on the property such as to run with property for all times and
+under all 9 Hereinafter also referred to as ‘the Act of 1882’.
+circumstances as held in AI Champdany Ltd. (supra). Moreover, it cannot be said to constitute any
+encumbrance which diminishes the value of the property.
+12.4. It has been submitted that there is no obligation that has been created or could be assumed on
+account of the terms and conditions of the sale carried out by the appellant, particularly when there
+was no express provision in the sale notice that the liability of charges on account of property tax
+and water tax were to be borne by the purchaser. In regard to the submissions of the appellant that
+the auction purchaser had purchased the property with “as is where is and whatever there is”
+stipulation, learned counsel has strenuously argued that such a stipulation pertains to the physical
+properties of an asset and could not be construed as indicative of constructive notice of charge or
+encumbrance. Reliance is placed on Ahmedabad Municipal Corporation (supra), which has, in turn,
+approved the reasoning of the Full Bench of High Court of Allahabad in the case of Municipal Board,
+Cawnpore v. Roop Chand Jain and Anr.: AIR 1940 All 456.
+12.5. It has been contented that by virtue of Section 185 of the M.P. Act of 1956, arrears could only
+be claimed from a person who was an occupier at relevant time and from no one else and, therefore,
+the question of auction purchaser making any inquiries or foisting upon him any constructive
+knowledge does not arise; rather, proviso to Section 185 frees an auction purchaser from even
+making inquiries about such tax arrears. In this regard, further reliance has been placed on the
+decision in Delhi Development Authority v. Kenneth Builders and Developers Pvt. Ltd. and Ors.:
+(2016) 13 SCC 561.
+12.6. Lastly, learned counsel has placed reliance on correspondence between respondent No. 3 and
+the appellant to suggest the sufficiency of funds available with the appellant to discharge the claims
+of respondent No.1 before disbursing any left-over amount to the shareholders.
+13. We have heard learned counsel for the parties at length and have perused the material placed on
+record.
+14. For what has been noticed hereinabove, the dispute between appellant OL and respondent No. 1
+Nigam, put in a nutshell, is with regard to the rates and taxes for the period between 10.07.1997
+(being the date on which the company was ordered to be wound up) and 04.07.2003 (being the date
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+12
+on which the sale in favour of the purchaser was confirmed). As noticed, part rejection of the claim
+of respondent No. 1 Nigam by the appellant OL, in relation to the period aforesaid between
+10.07.1997 to 04.07.2003 was not approved by the Company Court while observing that
+post-liquidation liabilities were to be treated as part of the costs of winding up of the company in
+liquidation and such liability would get priority over all other liabilities of the company. The
+Company Court observed and reiterated that the principle of priority of certain creditors would be
+applicable to the liability of the company at the time of passing of the order of winding up but, costs
+and expenses incurred on behalf of the company in winding up were to be paid in full; and the
+liability of the company to pay rates and taxes would not automatically come to an end with the
+order of winding up. The Company Court yet left it open for the appellant OL to file an appeal under
+the provisions of the M.P. Act of 1956 while observing that unless such appeal was filed and demand
+was reduced, the appellant OL was bound to discharge the tax liability as per the claim of the Nigam
+even for the post-liquidation period. The contention of appellant before the Division Bench in
+challenge to the order so passed by the Company Court had essentially been with reference to the
+terms and conditions of sale and reliance upon the decision in United Bank of India (supra). The
+Division Bench compared the terms and conditions of sale in the cited decision and the terms and
+conditions of sale in the present case and observed that the sale notice in the present case was not
+couched in similar and comprehensive language so as to oblige the respondent No. 3 to make
+himself aware about encumbrances, if any, in respect of the assets of the company in liquidation.
+The Division Bench further observed that Section 530 of the Companies Act had no application in
+relation to the taxes which might have mounted between the date of the order of winding up and the
+date of sale of assets. Similarly, the Division Bench indicated inapplicability of Rule 154 of the Rules
+of 1959, providing for the manner of estimation of claims on the date of the order of winding up. The
+Division Bench summarised its conclusion that the claim in question was that of a post- liquidation
+liability which the OL was obliged to discharge in absence of a clear provision in the sale notice
+obliging the intended purchaser to satisfy himself as regards the assets of the company in
+liquidation in all respects, including encumbrances. More or less the same submissions have been
+made by the respective parties in this appeal but, with a little elaboration on their respective stands.
+While leaving the irrelevant aspects aside, the neat question is as to whether the claims so made by
+the respondent No. 1 Nigam towards property tax and water tax pertaining to the post- liquidation
+period, from the date of order of winding up and until the date of confirmation of sale of assets to
+the auction purchaser, are admissible against the appellant OL.
+15. For dealing with the question at hand, we may usefully take note of the statutory provisions
+relevant to the present case. 15.1. Section 529A and the relevant parts of Section 530 of the
+Companies Act, 1956 read as under: -
+"529A. Overriding preferential payment. - Notwithstanding anything contained in
+any other provisions of this Act or any other law for the time being in force, in the
+winding up of a company-
+(a) workmen's dues; and
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+13
+(b) debts due to secured creditors to the extent such debts rank under clause (c) of
+the proviso to sub-section (1) of section 529 pari passu with such dues, shall be paid
+in priority to all other debts.
+(2) The debts payable under clause (a) and clause (b) of sub- section (1) shall be paid
+in full, unless the assets are insufficient to meet them, in which case they shall abate
+in equal proportions.
+530. Preferential payments. - (1) In a winding up subject to the provisions of section
+529A, there shall be paid in priority to all other debts-
+(a) all revenues taxes, cesses and rates due from the company to the Central or a State
+Government or to a local authority at the relevant date as defined in clause (c) of sub-
+section (8), and having become due and payable within the twelve months next
+before that date;
+               ***                            ***                    ***
+        (8) For the purpose of this section -
+             (a) .....
+             (b) ....
+             (bb) ....
+             (c) the expression "the relevant date" means-
+�                (i) in the case of a company ordered to be wound up
+compulsorily, the date of the appointment (or first appointment) of a provisional
+liquidator, or if no such appointment was made, the date of the winding up order,
+unless in either case the company had commenced to be wound up voluntarily before
+that date; and
+(ii) in any case where sub-clause (i) does not apply, the date of the passing of the
+resolution for the voluntary winding up of the company.
+*** *** *** "
+15.2. Rules 154,163 and 338 of the Companies (Court) Rules, 1959 are as under: -
+"R.154. Value of debts - The value of all debts and claims against the company shall,
+as far as is possible, be estimated according to the value thereof at the date of the
+order of the winding-up of the company or where before the presentation of the
+petition for winding up, a resolution has been passed by the company for voluntary
+winding-up, at the date of the passing of such resolution.
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+14
+*** *** *** R.163. Acceptance or rejection of proof to be communicated – After such
+investigation as he may think necessary, the liquidator shall in writing admit or reject
+the proof in whole or in part. Every decision of the Liquidator accepting or rejecting a
+proof, either wholly or in part, shall be communicated to the creditor concerned by
+post under certificate of posting where the proof is admitted and by registered post
+for acknowledgement where the proof is rejected wholly or in part, provided that it
+shall not be necessary to give notice of the admission of a claim to a creditor who has
+appeared before the Liquidator and the acceptance of whose claim had been
+communicated to him or his agent in writing at the time of acceptance. Where the
+Liquidator rejects a proof, wholly or in part, he shall state the grounds of the rejection
+to the creditor in Form No.69, Notice of admission of proof shall be in Form No.70.
+*** *** *** R.338. Cost and expenses payable out of the assets in a winding-up by the
+Court.-
+(1) The assets of a company in a winding-up by the Court remaining after payment of
+the fees and expenses properly incurred in preserving, realising or getting in the
+assets including, where the company has previously commenced to be wound-up
+voluntarily, such remuneration, cost and expenses as the Court may allow to the
+liquidator in such voluntary winding-up, shall, subject to any order of the Court and
+to the rights of secured creditors if any, be liable to the following payments which
+shall be made in the following order of priority, namely :-
+First.-the taxed costs of the petition including the taxed costs of any person appearing
+on the petition, whose costs are allowed by the Court.
+Next.-the costs and expenses of any person who makes, or concurs in making, the
+Company's statement of affairs ; Next.-the necessary disbursements of the Official
+Liquidator other than expenses properly incurred in preserving, realising or getting
+in the properties of the company ;
+Next.-the cost of any person properly employed by the Official Liquidators ;
+Next.-the fees to be credited to Government under section 451 (2) ;
+Next.-the actual out of pocket expenses necessarily incurred by the members of the
+Committee of Inspection, and sanctioned by the Court.
+(2) Save as otherwise ordered by the Court no payments in respect of bills of
+advocates, shall be allowed out of the assets of the company without proof that the
+same have been considered and allowed by the taxing officer of the Court. The taxing
+officer shall before passing the Bills or charges of an advocate, satisfy himself that the
+appointment of an advocate to assist the liquidator in the performance of his duties
+has been duly sanctioned. (3) Nothing contained in this Rule shall apply to or affect
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+15
+costs which, in the course of legal proceedings by or against the company which is
+being wound-up by the Court, are ordered by the Court in which such proceedings
+are pending, to be paid by the company or the liquidator, or the rights of the person
+to whom such costs are payable."
+15.3. Section 185 of the Madhya Pradesh Municipal Corporation Act, 1956, which is relied upon by
+the contesting respondents, reads as under: -
+"185. Liability of buildings, lands, etc., for taxes. - All sums due from any person in
+respect of taxes on any land or building shall, subject to prior payment of any land
+revenue in respect of it due to the government, be a first charge upon the said land or
+building and upon any movable property found within or upon such land or building
+and belonging to the said person. Provided that no arrears of any such tax shall be
+recoverable from any occupier who is not the owner, if such arrears are for a period
+during which the occupier was not in occupation."
+16. One of the principal points arising for determination in this matter is the impact and effect of
+sale of assets of the company in liquidation to the respondent No. 3, particularly when the property
+was sold on “as is where is whatever there is” basis. Learned counsel for the appellant has referred to
+and relied upon a few decisions of this Court in support of his contention that looking to the terms
+and conditions of sale, the purchaser would be deemed to have full knowledge of defects,
+encumbrances and statutory dues and would remain liable towards such dues, particularly when the
+sale in the present case had been by the appellant OL under the orders of the Court. Per contra,
+learned counsel for the contesting respondents have referred to a couple of decisions to assert that
+no charge would be enforceable against the property at the hands of transferee for consideration
+without notice of charges and, for the municipal taxes not creating an encumbrance or charge as
+such on the property in question. We may closely examine the cited decisions to take note of the
+ratio decidendi and principles available therein.
+17. The sheet anchor of the submissions on behalf of the appellant OL is the decision of this Court in
+the case of United Bank of India (supra) that has been cited for the proposition that in the sale of
+property and assets of company in liquidation, the Official Liquidator does not hold any guarantee
+or warranty in respect thereof; and the intending purchaser has to satisfy himself in all respects,
+particularly as regards encumbrances. Therein this Court, inter alia, observed as under: -
+“14. When the Official Liquidator sells the property and assets of a company in liquidation under the
+orders of the Court he cannot and does not hold out any guarantee or warranty in respect thereof.
+This is because he must proceed upon the basis of what the records of the company in liquidation
+show. It is for the intending purchaser to satisfy himself in all respects as to the title, encumbrances
+and so forth of the immovable property that he proposes to purchase. He cannot after having
+purchased the property on such terms then claim diminution in the price on the ground of defect in
+title or description of the property. The case of the Official Liquidator selling the property of a
+company in liquidation under the orders of the Court is altogether different from the case of an
+individual selling immovable property belonging to himself. There is, therefore, no merit in the
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+16
+application made on behalf of Triputi that there should be a diminution in price or that it should not
+be made liable to pay interest on the sum of Rs 1 crore 98 lakhs.” 17.1. At the first blush, the said
+decision might appear to be standing somewhere near to the facts of the present case, for that had
+also been a case of sale of the assets by an OL with a somewhat similar stipulation that the sale was
+on “as is where is” basis. However, as rightly pointed out by the Division Bench of the High Court,
+there had been a marked difference in the terms and conditions of sale in the case of United Bank of
+India (supra) and those of the present case.
+17.2. As noticed and extracted in the impugned judgment of the Division Bench of the High Court, in
+the case of United Bank of India (supra), the sale notice, inter alia, carried a significant stipulation
+whereby the purchaser was put to notice to satisfy himself “in all respects as regards movable and
+immovable assets as to their title, encumbrances, area, boundary, description, quality, quantity, and
+volume etc.” Therein, it was also stated that “the purchaser shall not be entitled to any
+compensation or deduction in price on any account whatsoever and shall be deemed to have
+purchased property subject to all encumbrances, liens and claims including those under the existing
+legislation affecting labour, staff etc.” Such stipulations left nothing to chance and nothing of any
+ambiguity where the purchaser was required to satisfy himself not only about the physical attributes
+of the assets but also about all encumbrances, liens and claims. Unfortunately, the terms and
+conditions of the sale in the present case fell too short of such material stipulations.
+17.3. We have reproduced hereinbefore the contents of the sale notice dated 09.05.2003 in the
+present case and the relevant terms and conditions of sale of the assets of the company in
+liquidation. It is evident that expansive technical expressions were used in the present case by the
+appellant OL in the terms and conditions of the sale that the same would be on “as is where is
+whatever there is” basis and then, further disclaimer was stated that the appellant OL was not
+providing any guarantee as to the quality, quantity or specification of the assets sold. Such
+stipulations and disclaimers were definitely putting the purchasers to notice to get themselves
+acquainted with what the property is (the nature and extent); where the property is (the locational
+attributes); and whatever there is (quantity and condition of the property). The bidders/purchasers
+were further warned to satisfy themselves in regard to the aspects of nature, extent, location,
+quantity, and quality after physical inspection of the assets and were also informed that they would
+be deemed to offer with full knowledge as to defects, if any, in the description, quality or quantity of
+the assets sold. All such stipulations were essentially pertaining to the physical properties/attributes
+of the assets in question but, the significant omission in those terms and conditions had been to
+make it obligatory on the bidder/purchaser to make himself aware about encumbrances, liens and
+claims attached to the assets in question. This omission strikes at the very root of the case of the
+appellant.
+17.4. The Division Bench of the High Court has rightly said that if the intending purchaser was
+required to satisfy himself in all respects including encumbrances, he might not be heard in any
+objection about want of knowledge of encumbrances but, if he was not so warned, such an obligation
+on him to make himself aware about encumbrances cannot be foisted by any deeming fiction.
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+17
+18. The decision of this Court in Haryana Financial Corporation (supra) has also been cited to
+submit that OL does not hold any guarantee or warranty in respect of property sold. In the said case,
+the appellant Financial Corporation had issued an advertisement for sale of various units and the
+respondent had been one of the bidders who offered a sum of Rs. 50 lakh, and deposited Rs. 2.5 lakh
+by way of earnest money. There was some dispute related to presence of rasta at the land. Not being
+satisfied with response of appellant, respondent did not submit further money. Appellant invited
+fresh tenders and forfeited the money deposited by respondent. In the writ petition preferred by
+respondent, the Division Bench of High Court quashed forfeiture and ordered for refund along with
+12% interest and Rs. 5,000 costs. In appeal before this Court, one of the submissions on behalf of
+the appellant Financial Corporation had been with reference to the aforesaid decision in United
+Bank of India (supra). While distinguishing the said decision, this Court observed that Official
+Liquidator would proceed on the basis of the records of the company in liquidation and, therefore, it
+was for the intending purchaser to satisfy himself in all respects as to the title, encumbrances etc. of
+the immovable property that he intended to purchase; and that purchaser cannot after having
+purchased the property on such terms, claim diminution in the price on the ground of defect in the
+title or description of the property. The Court further observed that the appellant Financial
+Corporation was exercising the rights of an owner in selling the property and was not selling the
+property as an Official Liquidator; and the principles applicable to an Official Liquidator selling
+property under the orders of Court would not be applicable to an individual selling immovable
+property belonging to himself. Moreover, the Court observed that respondent therein made all
+necessary inquiries and it was the Corporation who failed to give fair description of property offered
+for sale. The Court, inter alia, observed as under: -
+“23. In our opinion, the appellants cannot be given the benefit of Clause 5 of the
+advertisement. The appellant Corporation cannot be permitted to take advantage of
+its own wrong. Clause 5 undoubtedly permits the forfeiture of the earnest money
+deposited.
+But this can only be if the auction-purchaser fails to comply with the conditions of sale. In our
+opinion, the respondent has not failed to comply with the conditions of sale. Rather, it is the
+appellant Corporation which has acted unfairly, and is trying to take advantage of its own wrong.”
+“24. In view of the aforesaid, we are of the considered opinion that the appellant Corporation cannot
+be permitted to rely upon Section 55 of the Transfer of Property Act, 1882. The appellant
+Corporation failed to disclose to the respondent the material defect about the non-existence of the
+independent 3 “karams” passage to the property. Therefore, the appellant Corporation clearly acted
+in breach of Sections 55(1)(a) and (b) of the Transfer of Property Act, 1882.
+*** *** *** “27. We are also of the considered opinion that the reliance placed on the judgment of
+this Court by the counsel for the appellants in United Bank of India v. Official Liquidator [(1994) 1
+SCC 575] is wholly misconceived. The aforesaid judgment relates to sale of the property and assets
+of a company in liquidation by the Official Liquidator under the orders of the court. Therefore it is
+observed that the Official Liquidator cannot and does not hold any guarantee or warranty in respect
+of the property sold. That is because the Official Liquidator proceeds on the basis of what the
+records of the company in liquidation show. Therefore it is for the intending purchaser to satisfy
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+18
+himself in all respects as to the title and encumbrances and so forth of the immovable property that
+he proposes to purchase. In those circumstances it is held that the purchaser cannot after having
+purchased the property on such terms then claim diminution in the price on the ground of defect in
+the title or description of the property.
+28. The judgment clearly goes on to further hold as follows: (Official Liquidator case [(1994) 1 SCC
+575] , SCC p. 584, para 14) “14. … The case of the Official Liquidator selling the property of a
+company in liquidation under the orders of the court is altogether different from the case of an
+individual selling immovable property belonging to himself.” The aforesaid observation would be
+clearly applicable to the Corporation as it is exercising the rights of an owner in selling the property.
+The appellant Corporation is not selling the property as an Official Liquidator.” 18.1. Evidently,
+Haryana Financial Corporation (supra) had been a case of sale by the Corporation, which was
+distinguished from sale by an OL. Therein, while pointing out inapplicability of the decision in
+United Bank of India (supra), this Court observed that OL would not be holding out any guarantee
+or warranty in respect of the property sold because he would be proceeding on the basis of records
+of the company in liquidation and, therefore, it was for the intending purchaser to satisfy himself in
+all respects as to the title, encumbrances etc. of the immovable property sought to be purchased; and
+such a purchaser could not, after having purchased the property on such terms, claim diminution in
+the price on the ground of defect in the title or description of the property. The said decision cannot
+be read as an authority for any generalised proposition as if the Official Liquidator, while conducting
+sale of the assets of the company in liquidation, is absolved of the duty to state basic stipulations in
+the sale notice.
+19. In UT Chandigarh Administration (supra), this Court dealt with the consumer complaints of
+respondents filed to contend that the appellant was not legally entitled to claim balance of premium
+or annual rent, for having failed to provide basic amenities at the residential and commercial sites
+auctioned by way of advertisement. This Court allowed the appeals as the purchaser was not a
+consumer with reference to public auction of existing sites. Notwithstanding this, it was observed, in
+regard to auction as per “as is where is basis” thus: -
+“19….. In a public auction of sites, the position is completely different. A person
+interested can inspect the sites offered and choose the site which he wants to acquire
+and participate in the auction only in regard to such site. Before bidding in the
+auction, he knows or is in a position to ascertain, the condition and situation of the
+site. He knows about the existence or lack of amenities. The auction is on
+“as-is-where-is basis”. With such knowledge, he participates in the auction and offers
+a particular bid. There is no compulsion that he should offer a particular price. When
+the sites auctioned are existing sites, without any assurance/representation relating
+to amenities, there is no question of deficiency of service or denial of service. Where
+the bidder has a choice and option in regard to the site and price and when there is
+no assurance of any facility or amenity, the question of the owner of the site
+becoming a service provider, does not arise even by applying the tests laid down in
+LDA [(1994) 1 SCC 243] or Balbir Singh [(2004) 5 SCC 65].
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+19
+20. Where there is a public auction without assuring any specific or particular amenities, and the
+prospective purchaser/lessee participates in the auction after having an opportunity of examining
+the site, the bid in the auction is made keeping in view the existing situation, position and condition
+of the site. If all amenities are available, he would offer a higher amount. If there are no amenities,
+or if the site suffers from any disadvantages, he would offer a lesser amount, or may not participate
+in the auction. Once with open eyes, a person participates in an auction, he cannot thereafter be
+heard to say that he would not pay the balance of the price/premium or the stipulated interest on
+the delayed payment, or the ground rent, on the ground that the site suffers from certain
+disadvantages or on the ground that amenities are not provided.” 19.1. The aforesaid case of UT
+Chandigarh Administration, relating to the complaints of want of basic amenities in the property
+sold in auction on “as is where is” basis has no relevance whatsoever to the facts of the present case.
+20. In the case of Punjab Urban Planning and Development Authority (supra), the bone of
+contention was the levy of interest, penal interest, and penalty on account of delayed payment of
+instalments after accepting allotment of commercial plots by way of auction. The Court held that
+purchasers would be liable to pay such interest having accepted the commercial plots subject to the
+conditions of the auction notice and allotment letter while observing, inter alia, as under: -
+“17…..We may reiterate that after having accepted the offer of the commercial plots in
+a public auction with a superimposed condition i.e. on “as-is-where-is” basis and
+after having accepted the terms and conditions of the allotment letter, including
+instalment facility for payment, the respondents cannot say that they are not bound
+by the terms and conditions of the auction notice, as well as that of the allotment
+letter. On facts also, we have found that there was no inordinate delay on the part of
+PUDA in providing those facilities.” 20.1. Again, the aforesaid case of Punjab Urban
+Planning and Development Authority wherein, the bone of contention was levy of
+penal interest and penalty on account of delayed payment of instalments, has no
+relevance whatsoever to the facts of the present case.
+21. The decision of this Court in Ahmedabad Municipal Corporation (supra) has been relied upon by
+the contesting respondents as also by the supporting respondent. Therein, after insolvency
+proceedings commenced in 1949, the property in question was auctioned and purchased by the
+respondent-purchaser in 1954. It was attached by the Municipal Corporation owing to the fact that
+the municipal taxes in arrear for 1949-50 to 1953-1955 had not been paid, leading the
+respondent-purchaser to file a suit for declaration. The Division Bench of Gujarat High Court held
+that the respondent was the owner of the property and that the charge for arrears was not
+enforceable, which was challenged by the Corporation before this Court. With reference to Section
+100 of the Act of 1882, it was held that no charge would be enforceable against any property in the
+hands of transferee for consideration without notice of charge, apart from where otherwise provided
+for by law. The Court, inter alia, made the following observations: -
+“4. This section in unambiguous language lays down that no charge is enforceable
+against any property in the hands of a transferee for consideration without notice of
+the charge except where it is otherwise expressly provided by any law for the time
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+20
+being in force. The saving provision of law must expressly provide for enforcement of
+a charge against the property in the hands of a transferee for value without notice of
+the charge and not merely create a charge. …..
+*** *** ***
+11. Now the circumstances which by a deeming fiction impute notice to a party are
+based, on his wilful abstention to enquire or search which a person ought to make or,
+on his gross negligence.
+This presumption of notice is commonly known as constructive notice. Though originating in equity
+this presumption of notice is now a part of our statute and we have to interpret it as such. Wilful
+abstention suggests conscious or deliberate abstention and gross negligence is indicative of a higher
+degree of neglect. Negligence is ordinarily understood as an omission to take such reasonable care
+as under the circumstances is the duty of a person of ordinary prudence to take. In other words it is
+an omission to do something which a reasonable man guided by considerations which normally
+regulate the conduct of human affairs would do or doing something which normally a prudent and
+reasonable man would not do. The question of wilful abstention or gross negligence and, therefore,
+of constructive notice considered from this point of view is generally a question of fact or at best
+mixed question of fact and law depending primarily on the facts and circumstances of each case and
+except for cases directly falling within the three explanations, no inflexible rule can be laid down to
+serve as a straight-jacket covering all possible contingencies. The question one has to answer in
+circumstances like the present is not whether the purchaser had the means of obtaining and might
+with prudent caution have obtained knowledge of the charge but whether in not doing so he acted
+with wilful abstention or gross negligence. Being a question depending on the behaviour of a
+reasonably prudent man, the Courts have to consider it in the background of Indian conditions.
+Courts in India should, therefore, be careful and cautious in seeking assistance from English
+precedents which should not be blindly or too readily followed.” 21.1. In the aforesaid case of
+Ahmedabad Municipal Corporation, while commencing the discussion, this Court also observed, as
+underscored on behalf of respondent No. 2, that ‘the purchaser at auction sale takes the property
+subject to all the defects of title and the doctrine of caveat emptor (let the purchaser be aware)
+applies to such purchaser’ but thereafter, the Court observed that the case of the judgment-debtor
+having no saleable interest at all in the property sold such as contemplated by the Order XXI Rule 91
+of the Code of Civil Procedure was, however, different and not covered by this doctrine. Such
+observations do not lend support to the case of the appellant so as to shift the entire burden on the
+auction purchaser despite significant omission in the terms and conditions of sale.
+22. In AI Champdany Ltd. (supra), the appellant had purchased the assets of the company under
+liquidation and was subsequently served with notice by municipality for payment of arrears of
+property tax. Upon taking out a chamber summons with the prayer that appellant would only be
+liable for property tax after date of confirmation of sale, the application was dismissed on the
+ground that it was incumbent on the purchaser to make enquiries regarding the liabilities attached
+to the assets before making an offer. The intra-court appeal was dismissed by the Division Bench. In
+the appeal before this Court, it was held that dues in relation to municipal tax in terms of the
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+21
+relevant provisions of the Companies Act did not create an encumbrance or charge on the property
+and was considered to be a personal liability. This Court, inter alia, observed and held as under: -
+“10. Dues in relation to the municipal tax in terms of the provisions of the said Act do
+not create any encumbrance on the property. It does not create any charge. It is
+considered to be a personal liability. On the aforementioned premise, we have to
+construe the terms and conditions of the sale… *** *** ***
+12. The terms and conditions of the sale must be read as a whole. It must be given a
+purposive meaning. The word “encumbrance” in relation to the word “immovable
+property” carries a distinct meaning. It ordinarily cannot be assigned a general
+and/or dictionary meaning.
+*** *** ***
+15. The respondent municipality was an unsecured creditor. In that capacity it cannot
+stand on a higher footing than an ordinary unsecured creditor who is required to
+stand in queue with all others similarly situated for the purpose of realisation of their
+dues from the sale proceeds.
+16. The Companies Act or any other law does not impose any additional obligation
+upon the purchaser to make an enquiry with regard to the liabilities of the companies
+other than those which would impede their value.
+*** *** ***
+18. We may notice that Section 141 of the Bombay Provincial Municipal Corporations
+Act provides the property taxes to be a first charge on the premise for which they are
+assessed. It is in that view of the matter, Section 100 of the Transfer of Property Act
+was found to be capable of being invoked therein, which reads as under:
+“100. Charges.—Where immovable property of one person is by act of parties or
+operation of law made security for the payment of money to another, and the
+transaction does not amount to a mortgage, the latter person is said to have a charge
+on the property, and all the provisions hereinbefore contained which apply to a
+simple mortgage shall, so far as may be, apply to such charge. Nothing in this section
+applies to the charge of a trustee on the trust property for expenses properly incurred
+in the execution of his trust, and, save as otherwise expressly provided by any law for
+the time being in force, no charge shall be enforced against any property in the hands
+of a person to whom such property has been transferred for consideration and
+without notice of the charge.” There cannot, thus, be any doubt or dispute that a
+provision of law must expressly provide for an enforcement of a charge against the
+property in the hands of the transferee for value without notice to the charge and not
+merely create a charge.”
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+22
+23. The aforesaid decisions in the cases of Ahmedabad Municipal Corporation and AI Champdany
+Ltd. had been concerning the issue relating to liability of auction purchaser of property in Court sale
+towards arrears of municipal taxes due on the date of sale, which are of statutory charge on the
+property sold and of which, the purchaser had no notice. On interpretation and application of
+second part of Section 100 of the Act of 1882, this Court held that the auction purchaser without
+notice, in the absence of stipulation in the terms of sale or any statutory provision, could not be
+made liable for such dues. In the fact situation of the present case, the principles aforesaid operate
+heavily against the case of the appellant.
+24. It has rightly been argued on behalf of the contesting respondents, with reference to Section 100
+of the Act of 1882 and the decision of this Court in AI Champdany Ltd. (supra), that in absence of
+any statutory provision, the auction purchaser without notice of any charge could not be made liable
+for the arrears of tax in question during the post-liquidation period. The provisions of the M.P. Act
+of 1956 were not creating any such encumbrance or charge on the property which would attach to
+the property for all times and under all circumstances nor they could be said to constitute any
+encumbrances which diminish the value of the property. In contrast, they would only qualify as
+expenses for “preserving, realising or getting in” the assets of the company and thus, shall have to be
+paid in priority and before any other payment in the course of distribution of the assets of the
+company or value thereof.
+25. There remains another significant factor in the present case that the property in question was
+indisputably governed by Section 185 of the M.P. Act of 1956, which clearly provides that all sums
+due from any person in respect of taxes on any land or building shall be of first charge upon the said
+land or building and upon any movable property found within or upon such land or building. The
+proviso thereto further makes it clear that no arrears of any such tax would be recoverable from any
+occupier who is not the owner, if such arrears were for a period during which the occupier was not in
+occupation. In the face of undeniable operation of the said Section 185 of the M.P. Act of 1956 over
+the property in question, we are clearly of the view that the bidder/purchaser was entitled to
+proceed on the assumption that even if there were any arrears of such taxes under the M.P. Act of
+1956, the same would not be recoverable from him. Though, as aforesaid, the cryptic terms and
+conditions of sale in the present case, wanting in material stipulations, never obliged a purchaser to
+carry out a search as regards encumbrances but, even if such a requirement is taken into
+consideration on general principles of caveat emptor, the other assumptions available with reference
+to the said Section 185 of the M.P. Act of 1956 cannot be ignored.
+26. The submissions made on behalf of the appellant about the likely prejudice to the other
+pre-liquidation creditors if such post-liquidation liabilities are given preference over other liabilities;
+and reference to Section 529A and 530 of the Companies Act do not carry any relevance and do not
+make out any case for interference. The provisions contained in Sections 529A and 530 essentially
+relate to overriding preferential payments as also preferential payments in relation to the classes of
+dues/debts specified therein. However, the question of payment of the same would arise after
+payment of costs and expenses of winding up that are properly incurred by the appellant OL and are
+to be paid in priority. As aforesaid, the taxes payable to the respondent No. 1 Nigam during the
+period in question would directly amount to the costs and expenses of liquidation.
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+23
+27. This being the position, in our view, the Company Court and then the Division Bench of the High
+Court have rightly underscored the faults on the part of the appellant OL and have rightly held that
+the liability on account of the property tax and water tax claimed by the respondent No. 1 to the
+extent rejected by the appellant OL has been a post-liquidation liability, which the OL was obliged to
+discharge, in view of omission in the sale notice and then, in view of the operation of Rule 338 of the
+Rules of 1959.
+28. Put in different words, as regards the operation of the said Rule 338 of the Rules of 1959, we are
+inclined to accept the reasoning of the High Court that on the facts and in the circumstances of the
+present case, arrears of property tax and water tax until the date of confirmation of sale, i.e.,
+04.07.2003, would qualify as the expenses for “preserving, realising or getting in” the assets of the
+company and thus, shall have to be paid in priority by the appellant OL.
+29. For what has been discussed hereinabove, we do not find it necessary to dilate upon the other
+decisions cited by learned counsel for the parties. As aforesaid, the ambiguity as also omissions in
+the terms and conditions of the sale notice in the present case obviously lead to the position that the
+view taken by the High Court calls for no interference.
+30. Accordingly, and in view of the above, these appeals fail and are, therefore, dismissed. No Costs.
+……....……………………. J.
+(DINESH MAHESHWARI) ……....……………………. J.
+(ANIRUDDHA BOSE) NEW DELHI;
+MAY 04, 2023.
+Official Liquidator,Calcutta vs Ujjain Nagar Palika Nigam on 4 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/187611387/
+24

@@ -1,0 +1,162 @@
+Supreme Court of India
+M/S. Electro Optics (P) Ltd vs State Of Tamil Nadu on 26 February, 2016
+Author: S K Singh
+Bench: Shiva Kirti Singh, R. Banumathi
+                                                                              REPORTABLE
+                        IN THE SUPREME COURT OF INDIA
+                        CIVIL APPELLATE JURISDICTION
+                        CIVIL APPEAL NO.10554 OF 2010
+M/s. Electro Optics (P) Ltd.                             …..Appellant
+      Versus
+State of Tamil Nadu                                 …..Respondent
+                                   W I T H
+                   C.A.Nos.10562 of 2010 and 10563 of 2010
+                               J U D G M E N T
+SHIVA KIRTI SINGH, J.
+Common judgment and order of the High Court of Judicature at Madras dated 29.09.2009 in Tax
+Case Nos.1834 of 2006, 2307 of 2008 and Writ Petition No.18770 of 2000 is under challenge in
+these appeals. The High Court has rejected the case of the appellant assessee in respect of
+Assessment Years 1993-94 and 1994-95 and as a consequence also rejected the challenge to the
+penalty and thereby upheld order of Sales Tax Appellate Tribunal which arose out of orders under
+Tamil Nadu General Sales Tax Act, 1959 (hereinafter referred to as ‘the Act’) passed by the original
+authority as well as appellate authority, all against the appellant. For both the assessment years the
+dispute is confined to an issue of law relating to classification of the goods sold by the appellant.
+According to the appellant it is engaged in the sale of electronic goods (survey instruments)
+imported from other countries and such goods should rightfully fall within Entry 50, Part B of
+Schedule I of the Act attracting rate of 3%. On the other hand the authorities have taken the stand
+that survey instruments, whether electronic or otherwise, are covered by Entry 14, Part F of
+Schedule I, chargeable @ 16%. Since appellant’s claim was not accepted by the Commercial Tax
+Officer who assessed the appellant at 16% leading to demand of tax as well as penalty, the appellant
+preferred appeal before the Appellate Commissioner. On being unsuccessful, the appellant preferred
+further appeal before the Tribunal and then the matter reached the High Court leading to the
+impugned order under appeal. The two relevant entries, i.e., Entry 50 of Part B and Entry 14 of Part
+F of Schedule I are as follows:
+M/S. Electro Optics (P) Ltd vs State Of Tamil Nadu on 26 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/131728609/
+1
+“Part B |Sl. |Description of Goods |Point of levy |Rate of| |No. | | |tax | |50 |Electronic systems,
+instruments, |At the point of |3% | | |apparatus, appliances and other |first sale in the| | |
+|electronic goods (other than those |State | | | |specified elsewhere in the Schedule)| | | | |but
+including electronic cash | | | | |registering, indexing, card | | | | |punching, franking, addressing | |
+| | |machines, and computers of analog | | | | |and digital varieties, one record | | | | |units, word
+processor and other | | | | |electronic goods and parts and | | | | |accessories of all such goods | | |
+Part F |Sl. |Description of Goods |Point of levy |Rate of| |No. | | |tax | |14 |Binoculars, monoculars,
+opera |At the point of |16% | | |glasses, other optical telescope, |first sale in the| | | |astronomical
+instruments, |State | | | |microscopes, binocular microscopes, | | | | |magnifying glasses, diffraction
+| | | | |apparatus and mountings therefor | | | | |including theodolite, survey | | | | |instruments and
+optical lenses parts| | | | |and accessories thereof | | | There is no difficulty in accepting the
+consistent finding of the authorities based upon appellant’s own declaration in respect of goods
+which were imported and declared before the customs authorities as survey instruments, that the
+goods are covered by the generic expression ‘survey instruments’. The main controversy is whether
+on account of being electronic survey instruments the goods would be out of Entry 14 so as to fall
+under Entry 50. The High Court and all the authorities have taken a consistent view that Entry 50
+itself clarifies that it covers all electronic instruments, apparatus, other than those specified
+elsewhere in the Schedule and since the goods in question are specified under the generic term
+‘survey instruments’ in Part F Entry 14, they will stand excluded from Entry 50 of Part B.
+We have heard learned counsel appearing for the parties at length. In order to persuade us to take a
+different view than that of the High Court and the Authorities, learned counsel for the appellant
+reiterated the submissions advanced before the High Court and further highlighted some entries in
+Part – B of Schedule I such as Entries 38 to 42 and pointed out that these entries, all providing for
+rate of tax at 3% use the word “electronic” in all the entries before various machines such as
+duplicating machines, teleprinters, typewriters, tabulating/calculating machines and clocks/time
+pieces. The submission is that after enumerating such electronic machines in the various entries
+noted above, the policy was to charge same 3% rate of tax for all residuary electronic system,
+apparatus and other electronic goods and if any other meaning is given by placing reliance upon
+words used in Entry 50, especially those in parenthesis – “other than those specified elsewhere in
+the Schedule” then there would be no rationale for using the word “electronic” to qualify duplicating
+machines, teleprinters etc. covered by Entries 38 to 42. The submission lacks merits. Part-B of the
+Schedule covers various kinds of goods such as agricultural products, vegetable oils, kerosene,
+aluminium domestic utensils, raw wool, hosiery goods, gold and silver articles, cycles, tractors,
+different electronic items, television sets, gramophones, all chargeable at the rate of 3%. In this
+background, Entry 50 of Part-B is meant to accommodate only such left over electronic system,
+apparatus etc. which are not specified elsewhere in the Schedule and are therefore chargeable at the
+rate of 3%. Clearly, if specified elsewhere and chargeable at a different rate, they cannot be included
+under Entry 50. This conclusion is further strengthened by a look at some of the entries in Part-F,
+just preceding Entry 14. Entries 10, 11, 12 and 13 cover goods chargeable at the rate of 16%, such as
+typewriters, teleprinters, tabulating, calculating machines and duplicating machines etc. In all these
+four entries there is a specific exclusion of electronic variety of these machines. On the other hand in
+relevant Entry no. 14 such exclusion of electronic variety of any of the machines and apparatus such
+as survey instruments is conspicuously missing. Clearly the intended effect is deliberate so as to
+M/S. Electro Optics (P) Ltd vs State Of Tamil Nadu on 26 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/131728609/
+2
+include binoculars, monoculars, survey instruments etc. of all varieties, be they manual or
+electronic. Had the intention been different, in Entry 14 also exclusion of ‘electronic’ survey
+instruments could have been inserted and specified as in Entry Nos. 10 to 13 in respect of other
+different machines or instruments. Hence, the conclusion is obvious that even electronic survey
+instruments are covered by Entry No. 14 in Part-F of the First Schedule of the Act.
+Learned Counsel for the appellant has placed reliance upon judgment in the case of M/s BPL Ltd. v.
+State of Andhra Pradesh reported in (2001) 2 SCC
+139. This judgment has been elaborately discussed by the High Court and held to be not applicable
+to the facts of this case. We have also considered the facts and law involved in the said judgment and
+we agree with the conclusion of the High Court. In that case the dispute under the Andhra Pradesh
+General Sales Tax Act, 1957 was on the interpretation of definition of the term “Electronic Goods”.
+On the basis of the definition it was held that the goods “automatic washing machine” was covered
+by the term electronic goods and not under the other item i.e, Entry 38 (IV) which related to
+electrical items including electrical washing machine. The wordings and expressions used and
+interpreted in that case were entirely different and are of no help to the appellant in the present
+case. As a result, the Civil Appeals arising out of Tax Case Nos. 1834 of 2006 and 2307 of 2008 must
+fail. However, the Appeal arising out from Writ Petition containing challenge to imposition of
+penalty deserves further consideration in the light of submissions to the effect that appellant has
+been in same business since 1985 and no controversy or dispute of this nature ever arose except for
+the two assessment years under consideration. It has been pointed out that all earlier Schedules
+were re-written on account of extensive amendments in the year 1993 and since most of the
+electronic items were brought under Part-B, a genuine controversy or misunderstanding arose as to
+whether the goods in question would be covered by Entry No. 50 of Part B or not. Genuinely
+believing that it is so covered, the appellant contested the matter and in the process suffered penalty
+for both the assessment years in total amounting to Rs. 15.48 lakhs approximately. Out of this,
+appellant claims to have paid approximately Rs. 3.74 lakhs but still about Rs. 11.73 lakhs remain as
+balance payable towards penalty. It was pointed out that considering the merit of appellant’s case
+this Court has stayed realization of penalty. Hence, it has been submitted that in the interest of
+justice the balance penalty be set aside on account of bona fide belief on the part of the appellant
+that it was liable to pay only at the rate of 3% and therefore there was absolute lack of any mens rea
+in not paying in time the tax assessed by the authorities. It was also pointed out that against the total
+tax demand of Rs. 16.39 lakhs approximately the appellant has by now paid about Rs. 16.18 lakhs.
+Learned counsel for the appellant has supported the submissions against imposition of penalty by
+placing reliance upon the following judgments:- (1) M/s Hindustan Steel Ltd. v. State of Orissa,
+(1969) 2 SCC 627 (2) Commissioner of Sales Tax, Uttar Pradesh v. Sanjiv Fabrics, (2010) 9 SCC In
+M/s Hindustan Steel Ltd. in paragraph 8 it was held that although the Statute permitted imposition
+of penalty but still the authority concerned had the judicial discretion to consider whether penalty
+should be imposed for failure to perform a statutory obligation. In such a situation the discretion
+has to be exercised judicially after consideration of all the relevant circumstances. Even if minimum
+penalty is prescribed, the authority may be justified in refusing to impose any penalty in some
+peculiar situations, such as, where the breach flows from a bona fide belief that the offender is not
+M/S. Electro Optics (P) Ltd vs State Of Tamil Nadu on 26 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/131728609/
+3
+liable to act in the manner prescribed by the Statute. In Sanjiv Fabrics it was reiterated that there is
+a rebuttable presumption that mens rea is essential ingredient in every offence. For examining
+whether mens rea is essential for an offence created under a tax Statute, three factors require
+particular attention, (i) the object and scheme of the Statute; (ii) the language of the section; and
+(iii) the nature of penalty. Since the relevant expression for constituting the offence in that case was
+– “falsely represents”, the Court held that the offence attracting penalty would be established only
+where it is proved that the dealer has acted deliberately in defiance of law and is guilty of
+contumacious or dishonest conduct.
+In the present case penalty is imposable by the assessing authority under Section 12 of the Act, both,
+for failure to submit return or for submission of incorrect or incomplete return. Appellant, in the
+eyes of the Authorities has submitted incorrect return leading to imposition of penalty in accordance
+with relevant clauses of Section 12. Considering that the situation of dispute arose on account of
+amendments in the Schedule in 1993 and was confined only to immediate two assessment years and
+also considering that the appellant had a good arguable case even in this Court which had stayed the
+penalty orders, we find that the return submitted by the appellant was on account of bona fide belief
+in correctness of appellant’s stand that the goods in question were chargeable only at the rate of 3%.
+In our considered view, in the facts of the case it would not be proper to hold that the appellant had
+submitted a return which was incorrect to its knowledge or belief. Only after the outcome of the
+legal dispute by virtue of this judgment, the authorities can be justified in holding henceforth that
+the return was incorrect. In such a situation it would not be just and proper exercise of discretion to
+hold the appellant guilty of submitting incorrect return so as to attract penalty for the same. Hence,
+in the peculiar facts of the case and in the interest of justice, we set aside the balance dues of
+penalty. However, the penalty already paid by the appellant shall not be refunded and the same may
+be retained by the respondent authorities by way of cost of this protracted litigation.
+In the result, the Civil Appeal Nos. 10554 and 10562 of 2010 containing challenge to assessments
+orders are dismissed. The remaining appeal Civil Appeal No. 10563 of 2010 relating to penalty is
+allowed to the extent that balance amount of penalty shall not be realised from the appellant. There
+shall be no order as to further costs.
+…………………………………….J.
+[SHIVA KIRTI SINGH] ……………………………………..J.
+[R. BANUMATHI] New Delhi.
+February 26, 2016.
+-----------------------
+M/S. Electro Optics (P) Ltd vs State Of Tamil Nadu on 26 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/131728609/
+4

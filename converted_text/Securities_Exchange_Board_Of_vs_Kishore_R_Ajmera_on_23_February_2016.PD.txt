@@ -1,0 +1,481 @@
+Supreme Court of India
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Author: R Gogoi
+Bench: Ranjan Gogoi, Prafulla C. Pant
+                                                                          REPORTABLE
+                        IN THE SUPREME COURT OF INDIA
+                        CIVIL APPELLATE JURISDICTION
+                        CIVIL APPEAL NO. 2818 OF 2008
+Securities and Exchange Board of India                 ...Appellant (s)
+                                   Versus
+Kishore R. Ajmera                                  ...Respondent (s)
+                                    WITH
+                        CIVIL APPEAL NO.8769 OF 2012
+                        CIVIL APPEAL NO.6719 OF 2013
+                         CIVIL APPEAL NO.252 OF 2014
+                         CIVIL APPEAL NO.282 OF 2014
+                               J U D G M E N T
+RANJAN GOGOI, J.
+1. The core question of law arising in this group of appeals being similar and the facts involved being
+largely identical, all the appeals which were heard analogously are being decided by this common
+order.
+2. The question of law arising in this group of appeals may be summarized as follows.
+What is the degree of proof required to hold brokers/sub-brokers liable for fraudulent/
+manipulative practices under the Securities and Exchange Board of India (Prohibition of Fraudulent
+and Unfair Trade Practices Relating to Securities Market) Regulations and/or liable for violating the
+Code of Conduct specified in Schedule II read with Regulation 9 of the Securities and Exchange
+Board of India (Stock-Brokers and Sub-Brokers) Regulations, 1992? (hereinafter referred to as the
+‘Conduct Regulations, 1992’).
+3. At the outset facts of each case on which the above question of law have arisen may be taken
+specific note of.
+Civil Appeal No. 2818 of 2008 (SEBI Vs. Kishore R. Ajmera) The respondent-Kishore R. Ajmera is a
+broker registered with the Bombay Stock Exchange. M/s. Prakash Shantilal & Company is one of the
+sub- brokers through whom the two clients, namely, Mayekar Investments Pvt. Ltd. and M/s. K.P.
+Investment Consultancy are alleged to have indulged in matching trades thereby creating artificial
+volumes in the scrip of one Malvica Engineering Ltd. (MEL) during the period 20.12.1999 to
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+1
+31.3.2000 and 7.8.2000 to 31.8.2000. The gravamen of the allegations levelled against the
+sub-broker for which the respondent has been held to be vicariously liable is that during the
+aforesaid period the two clients, who are related to each other through majority shareholding in the
+hands of common family members, had through the sub-broker bought 66,300 shares and sold
+77,700 shares of MEL during the first period and a total of 32,500 and 28,800 shares of MEL,
+respectively, during the second period. Not only both the clients were related but they were also
+beneficiaries of the allotment of the shares made directly by the parent company i.e. MEL. The said
+allotment incidentally was made out of the shares that were forfeited on account of failure to pay call
+money by the allottees, following a public offer. The scrip in question was a illiquid scrip where the
+volume of trading is normally minimal. A note of caution had also been struck by the Bombay Stock
+Exchange by circulating an advice requiring brokers to be aware of any unnatural (voluminous)
+trading in any such illiquid scrip. Yet, the transaction in question was gone through by the
+sub-broker acting through the terminal of the broker i.e. respondent-Kishore R. Ajmera. It is on the
+said facts that charges of negligence, lack of due care and caution were levelled against the
+sub-broker and in turn against the broker.
+The said charges were found to be proved after holding a due enquiry and by complying with all the
+procedural requirements under the Securities and Exchange Board of India Act, 1992 (hereinafter
+for short ‘the SEBI Act’), Securities and Exchange Board of India (Stock Brokers and Sub-Brokers)
+Regulations, 1992 (hereinafter Code of Conduct Regulations, 1992) and the Securities and Exchange
+Board of India (Prohibition of Fraudulent and Unfair Trade Practices Relating to the Securities
+Market) Regulations, 2003 (hereinafter for short the ‘FUTP Regulations 2003’). On completion of
+all aforesaid procedural requirements the Whole Time Member, SEBI found the charges against the
+broker to be established and under the provisions of Section 19 of the SEBI Act read with Regulation
+13(4) of the SEBI (Procedure for Holding Enquiry by Enquiry Officer and Imposing Penalty)
+Regulations, 2002 (as then in force) penalty of suspension of registration of the respondent as a
+broker for a period of four months was ordered.
+4. Aggrieved, the respondent filed an appeal before the Securities Appellate Tribunal under Section
+15T of the SEBI Act. The aforesaid appeal was answered by the learned Tribunal by order dated
+05.02.2008 by holding that in the absence of any direct proof or evidence showing the involvement
+of the sub-broker in allegedly matching the trades and thereby creating artificial volumes of trading
+resulting in unnatural inflation of the price of the scrip, the charges are not substantiated. The
+penalty imposed was accordingly interfered with. It is against the said order that the SEBI has filed
+the present appeal under Section 15Z of the SEBI Act.
+Civil Appeal No.6719 of 2013 (SEBI Vs. Ess Ess Intermediaries Pvt. Ltd.), Civil Appeal No.252 of
+2014 (SEBI Vs. M/s. Rajendra Jayantilal Shah, Civil Appeal No.282 of 2014 (SEBI Vs. M/s. Rajesh
+N. Jhaveri)
+5. The scrip involved in these appeals is one of M/s. Adani Export Ltd. (AEL) and the period of
+investigation involved is 09.07.2004 to 14.01.2005 and 08.08.2005 to 09.09.2005. The respondents
+are all sub brokers who are alleged to have synchronized trades in respect of a huge number of
+shares during the periods in question. The volume of shares traded during the two periods in
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+2
+questions is best evident from the following extracts of the orders of the Whole Time Member
+passed in each of the cases.
+ESS ESS INTERMEDIARIES PVT. LTD.
+“During the course of the said investigation, it was observed that the Noticee was one of the
+sub-brokers who had traded substantially in the scrip of AEL during the first and the second period
+for the said client. The Noticee, for the said client, has allegedly executed synchronized trades for
+1,15,870 shares of AEL during the period from July 9, 2004 to July 27, 2004. Further, the said client
+also entered into self trades for 52,910 shares. The said client also entered into structured trades
+wherein he reversed the trades with particular clients of other brokers. A total trading of 1,29,422
+shares was executed by the said client in such manner between July 16, 2004 and July 27, 2004.
+This quantity accounted for 12.5% of the total traded quantity during this period. It is further
+observed that during the period between July 28, 2004 to January 14, 2005 the said client is alleged
+to have entered synchronized trading for buying 83,45,924 shares and selling 87,60,410 shares. The
+said client was part of the group which executed trades of 3,48,53,139 shares during the above
+period which is around 51% of total traded volumes. Of these trades 3,04,68,762 shares (87.39% of
+their trades) appear to be synchronized. It is further alleged that the said client along with few other
+entities executed reverse trades to the extent of 38,21,269 shares during the second period. It is
+alleged that the said client along with few other entities traded in a manner such that orders for
+28,22,240 shares appear to be synchronized as the buy and sell orders were placed within time gap
+of 1 minute. Moreover, for 18,38,077 shares buy and sell order quantity and rate identical and
+placed within a time gap of 1 minute from each other. In case of 116 trades for 2183102 shares the
+time gap between the buy and sell orders was between 0-10 seconds. The said client's contribution
+to the alleged manipulation is to the extent of 13,21,582 shares on buy side and 15,04,408 on the sell
+side. Similarly on NSE, for the same period the said client has allegedly entered into synchronized
+trades to the extent of 12,25,260 shares.” M/S. RAJENDRA JAYANTILAL SHAH “During the course
+of the said investigation, it was observed that the Noticee was one of the sub-brokers who had
+traded substantially in the scrip of AEL during the first period for the said client. The Noticee, for
+the said client, has allegedly executed synchronized trades for 1,17,601 shares of AEL during the
+period from July 9, 2004 to July 27, 2004. The said client also entered into structured trades
+wherein he reversed the trades with particular clients of other brokers. It was observed that during
+the period between July 28, 2004 to January 14, 2005 the said client is alleged to have entered
+synchronized trading for buying 66,20,117 shares and selling 67,44,545 shares. The said client was
+part of the group which executed trades of 3,48,53,139 shares during the above period which is
+around 51% of total traded volumes. Of these trades 3,04,68,762 shares (87.39% of their trades)
+appear to be synchronized.” M/S. RAJESH N. JHAVERI “During the course of the said
+investigation, it was observed that the Noticee was one of the sub-brokers who had traded
+substantially in the scrip of AEL during the first period for the said client. The Noticee, for the said
+client, has allegedly executed synchronized trades for 1,15,870 shares of AEL during the period from
+July 9, 2004 to July 27, 2004. The said client was part of the group which executed trades of
+3,48,53,139 shares during the above period which is around 51% of total traded volumes. Of these
+trades 3,04,68,762 shares (87.39% of their trades) appear to be synchronized.”
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+3
+6. It is further alleged that in respect of all the transactions buy and sell orders were placed within a
+time gap of 0 to 60 seconds. The volume of trading in the illiquid scrip being very high and the
+sequence of the buy and sell orders being in quick succession of time, the respondents have been
+held guilty of contravening Regulations 4(1), 4(2)(a), 4(2)(b), 4(2)(e), 4(2)(g) and 4(2)(n) of the
+FUTP Regulations, 1995 and also the provisions of the Code of Conduct Regulations, 1992.
+Accordingly, monetary penalty of Rs.9,00,000/- for violation of FUTP Regulations, 2003 and
+Rs.1,00,000/- for violation of the Code of Conduct Regulations have been imposed.
+7. In appeal, the Tribunal by the impugned order dated 19.06.2013 had taken the view that the
+allegations of fraud under the FUTP Regulations, 2003 can be established only on the basis of clear,
+unambiguous and unimpeachable evidence which is not available in the instant case. Accordingly,
+the penalty imposed under the FUTP regulations had been interfered with by the learned Tribunal
+while the penalty for violation of the provisions of the Code of Conduct Regulation has been
+maintained.
+8. The learned Tribunal had disposed of two other appeals before it by following the order passed in
+the case of M/s. Ess Ess Intermediaries Pvt. Ltd. (respondent in Civil Appeal No. 6719 of 2013).
+Consequently the 3 (three) Civil Appeals in question have been filed before this Court.
+Civil Appeal No. 8769 of 2012 (SEBI Vs. Networth Stock Broking Ltd.)
+9. The scrip involved in the present case is of a company registered as G.G. Automotive Gears Ltd.
+and the period of investigation undertaken is 1.8.2002 to 16.10.2002. The allegation against the
+respondent is that alongwith three other member brokers of the Bombay Stock Exchange the
+respondent had indulged in circular trading of the scrip on behalf of one Indumati Goda. It is
+alleged that orders to buy and sell in respect of the scrip were placed by one Shrish Shah on behalf of
+the client Indumati Goda and such circular trading amongst the 4 brokers continued for a period of
+38 days resulting in a huge and voluminous trading in the illiquid shares thereby artificially raising
+its price in the market. The said allegations, on due enquiry, have been found to be established by
+the order dated 27.12.2011 of the Whole Time Member of SEBI. Holding the respondent liable for
+contravention of Regulations 4(a), 4(b), 4(c) and 4(d) of the FUTP Regulations 1995 and the Code of
+Conduct Regulation, 1992, suspension of membership of the respondent for a period of one month
+had been ordered. The said findings and the penalty imposed have been reversed by the learned
+Tribunal by the impugned order dated 19.06.2012 giving rise to the instant appeal at the instance of
+the SEBI.
+10. There are certain relevant facts which have to be taken note of with regard to the present case, at
+this stage.
+(i) Circular and synchronized trading per se is not prohibited and in fact is regulated by the SEBI
+regulations in force.
+(ii) The client Indumati Goda though required under the relevant norms had not appeared before
+the respondent at the time of registration for opening an account. The required documents were
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+4
+submitted by one Shri Shirish Shah on his behalf.
+(iii) Though proceedings had been initiated against Smt. Indumati Goda she has been exonerated of
+all charges levelled in respect of the transactions in question.
+(iv) Proceedings against Shri Shirish Shah had also been initiated and in the said proceedings Shri
+Shah had been found liable and had been appropriately dealt with.
+(v) The circular trading involved four brokers and in respect of two of them, monetary penalty has
+been imposed. The third broker in respect of whom suspension has been ordered has not challenged
+the penalty imposed.
+(vi) The modus operandi of the circular trading involved commencement of trading on a particular
+day by a sale made by one broker to a second and continuation of such sale in a circular manner
+until at the end of the day the same or substantially the same number of shares would come back to
+the first broker who had initiated the sale. This went on for 38 days.
+(vii) The time difference between buy and sell orders was 0 to 60 seconds in most cases.
+11. It is on these facts that after due enquiry and compliance with the laid down procedure that the
+findings of liability have been recorded and penalty imposed, as noticed above. In appeal, the
+learned Tribunal took the view, as in the earlier cases, that there is no direct material to show that
+the respondent sub-broker was aware of the identity of the client on whose behalf the transactions
+were being carried out. In fact, the consistent view of the learned Tribunal in all the cases, including
+the present one, has been that “in an on screen based trading it is not possible for the broker to
+know who the counter party is at the time the trade is being executed.”
+12. The further finding of the learned Tribunal in the present case is that though it was urged on
+behalf of SEBI that trading to the extent (volume) involved in the present case in case of an illiquid
+scrip is sufficient to indicate gross irregularities and violations, what was ignored is that, “the client
+had been regularly trading in the same fashion in as many as 25 different scrips and since inception,
+the client’s trading pattern was primarily by way of day trading whereby she bought and sold equal
+quantities in respective scrips in the course of the day. All payments were made from her bank
+account and even for her delivery based trades, deliveries were made from her demat account.”
+13. The learned Tribunal has further held that in the present case the principles of natural justice
+had been violated on account of the fact that the entire of the trade log as distinct from the extracts
+therefrom had not been furnished to the respondent; so also the statements of Smt. Indumati Goda
+and Shri Shirish Shah and that the same had caused prejudice to the respondent.
+RELEVANT PROVISIONS OF THE SEBI ACT AND THE REGULATIONS
+14. Section 12-A contained in Chapter V-A of the SEBI Act deals with “Prohibition of manipulative
+and deceptive devices, insider trading and substantial acquisition of securities or control” and reads
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+5
+as follows : “12-A. Prohibition of manipulative and deceptive devices, insider trading and substantial
+acquisition of securities or control.—No person shall directly or indirectly—
+(a) use or employ, in connection with the issue, purchase or sale of any securities listed or proposed
+to be listed on a recognised stock exchange, any manipulative or deceptive device or contrivance in
+contravention of the provisions of this Act or the rules or the regulations made thereunder;
+(b) employ any device, scheme or artifice to defraud in connection with issue or dealing in securities
+which are listed or proposed to be listed on a recognised stock exchange;
+(c) engage in any act, practice, course of business which operates or would operate as fraud or deceit
+upon any person, in connection with the issue, dealing in securities which are listed or proposed to
+be listed on a recognised stock exchange, in contravention of the provisions of this Act or the rules
+or the regulations made thereunder;
+(d) engage in insider trading;
+(e) deal in securities while in possession of material or non-public information or communicate such
+material or non-public information to any other person, in a manner which is in contravention of
+the provisions of this Act or the rules or the regulations made thereunder;
+(f) acquire control of any company or securities more than the percentage of equity share capital of a
+company whose securities are listed or proposed to be listed on a recognised stock exchange in
+contravention of the regulations made under this Act.”
+15. Section 15-HA of the Act which deals with penalty for fraudulent and unfair trade practices and
+Section 15J which lay down the factors to be taken into account while adjudging the quantum of
+penalty reads as follows :
+“15-HA. Penalty for fraudulent and unfair trade practices.—If any person indulges in fraudulent and
+unfair trade practices relating to securities he shall be liable to a penalty of twenty-five crore rupees
+or three times the amount of profits made out of such practices, whichever is higher.” “15J. Factors
+to be taken into account by the adjudicating officer.- While adjudging the quantum of penalty under
+section 15-I, the adjudicating officer shall have due regard to the following factors, namely :-
+(a) the amount of disproportionate gain or unfair advantage, wherever quantifiable, made as a result
+of the default;
+(b) the amount of loss caused to an investor or group of investors as a result of the default;
+(c) the respective nature of the default.”
+16. Section 12-A has to be read along with the provisions of FUTP Regulations, 2003, SEBI
+(Stock-Brokers and Sub-Brokers) Regulations, 1992 and the SEBI (Procedure for Holding Enquiry
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+6
+by Enquiry Officer and imposing Penalty) Regulations, 2002. Regulation 3 and 4 of the FUTP
+Regulations reads as follows:
+“3. Prohibition of certain dealings in securities.—No person shall directly or indirectly—
+(a) buy, sell or otherwise deal in securities in a fraudulent manner;
+(b) use or employ, in connection with issue, purchase or sale of any security listed or proposed to be
+listed in a recognised stock exchange, any manipulative or deceptive device or contrivance in
+contravention of the provisions of the Act or the rules or the regulations made thereunder;
+(c) employ any device, scheme or artifice to defraud in connection with dealing in or issue of
+securities which are listed or proposed to be listed on a recognised stock exchange;
+(d) engage in any act, practice, course of business which operates or would operate as fraud or deceit
+upon any person in connection with any dealing in or issue of securities which are listed or proposed
+to be listed on a recognised stock exchange in contravention of the provisions of the Act or the rules
+and the regulations made thereunder:
+4. Prohibition of manipulative, fraudulent and unfair trade practices.—(1) Without prejudice to the
+provisions of Regulation 3, no person shall indulge in a fraudulent or an unfair trade practice in
+securities.
+(2) Dealing in securities shall be deemed to be a fraudulent or an unfair trade practice if it involves
+fraud and may include all or any of the following, namely—
+(a) indulging in an act which creates false or misleading appearance of trading in the securities
+market;
+(b)-(d) * * *
+(e) any act or omission amounting to manipulation of the price of a security;
+(f) publishing or causing to publish or reporting or causing to report by a person dealing in
+securities any information which is not true or which he does not believe to be true prior to or in the
+course of dealing in securities;
+(g)-(j) * * *
+(k) an advertisement that is misleading or that contains information in a distorted manner and
+which may influence the decision of the investors;
+(l)-(q) * * *
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+7
+(r) planting false or misleading news which may induce sale or purchase of securities.” Regulation 12
+of the FUTP Regulation also contemplates suspension or cancellation of registration of
+intermediaries. For the sake of brevity the provision (Regulation 12) is not being quoted.
+17. The SEBI (Stock Brokers and Sub-brokers) Regulations, 1992 in Schedule II provides for Code of
+Conduct for stock brokers in the following terms :-
+“SCHEDULE II Securities and Exchange Board of India (Stock Brokers and
+Sub-brokers) Regulations, 1992 CODE OF CONDUCT FOR STOCK BROKERS
+[Regulation 9] A. General.
+(1) Integrity: A stock-broker, shall maintain high standards of integrity, promptitude and fairness in
+the conduct of all his business.
+(2) Exercise of due skill and care : A stock-broker shall act with due skill, care and diligence in the
+conduct of all his business.
+(3) Manipulation : A stock-broker shall not indulge in manipulative, fraudulent or deceptive
+transactions or schemes or spread rumours with a view to distorting market equilibrium or making
+personal gains.
+(4) Malpractices: A stock-broker shall not create false market either singly or in concert with others
+or indulge in any act detrimental to the investors interest or which leads to interference with the fair
+and smooth functioning of the market. A stockbroker shall not involve himself in excessive
+speculative business in the market beyond reasonable levels not commensurate with his financial
+soundness.
+(5) Compliance with statutory requirements: A stock-broker shall abide by all the provisions of the
+Act and the rules, regulations issued by the Government, the Board and the Stock Exchange from
+time to time as may be applicable to him.”
+18. The Code of Conduct for Stock Brokers, inter alia, lays down that the stock-broker shall maintain
+high standards of integrity, promptitude and fairness in the conduct of all investment business and
+shall act with due skill, care and diligence in the conduct of all investment business. The code also
+enumerates different shades of the duties of a stock-broker towards the investor, details of which are
+not being extracted herein except to say that all such duties pertain to the high standards of integrity
+that the stock-broker is required to maintain in the conduct of his business.
+19. Chapter VI of the Conduct Regulation, 1992 deals with liability for contravention of the
+provisions of the Act, Rules or the Regulations in the following terms :-
+“CHAPTER VI PROCEDURE FOR ACTION IN CASE OF DEFAULT [Liability for contravention of
+the Act, rules or the regulations -
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+8
+25. A stock broker or a sub-broker who contravenes any of the provisions of the Act, rules or
+regulations framed thereunder shall be liable for any one or more of the following actions—
+(i) Monetary penalty under Chapter VIA of the Act.
+(ii) Penalties as specified under 59[Chapter V of the Securities and Exchange Board of India
+(Intermediaries) Regulations, 2008] including suspension or cancellation of certificate of
+registration as a stock broker or a sub-broker, (iii) Prosecution under section 24 of the Act.
+LIABLE FOR MONETARY PENALTY
+26. A stock broker or a sub-broker shall be liable for monetary penalty in respect of the following
+violations, namely-
+(i) to (x) * * *
+(xi) Indulging in fraudulent and unfair trade practices relating to securities.
+(xii) to (xv) * * * (xvi)Failure to exercise due skill, care and diligence.”
+20. Before embarking upon the necessary discussions, we would like to record our views on a
+somewhat unclear if not a confused picture that emanates from parallel provisions contained in the
+Act and the Regulations framed thereunder, as referred to above. This is particularly in the context
+of the power of imposition of penalty on determination of liability either for manipulative or
+fraudulent practices or for violation of the Code of Conduct Regulation, 1992. The different
+Regulations including the Regulations that prescribe the procedural course, namely, SEBI
+(Procedure for Holding Enquiry by Enquiry Officer and imposing Penalty) Regulations 2002 and
+the successor Regulation i.e. SEBI (Intermediaries) Regulations 2008 contain identical and parallel
+provisions with regard to imposition of penalty resulting in myriad provisions dealing with the same
+situation. A comprehensive legislation can bring about more clarity and certainty on the norms
+governing the security/capital market and, therefore, would best serve the interest of strengthening
+and securing the capital market.
+21. The SEBI Act and the Regulations framed thereunder are intended to protect the interests of
+investors in the Securities Market which has seen substantial growth in tune with the parallel
+developments in the economy. Investors' confidence in the Capital/Securities Market is a reflection
+of the effectiveness of the regulatory mechanism in force. All such measures are intended to preempt
+manipulative trading and check all kinds of impermissible conduct in order to boost the investors'
+confidence in the Capital market. The primary purpose of the statutory enactments is to provide an
+environment conductive to increased participation and investment in the securities market which is
+vital to the growth and development of the economy. The provisions of the SEBI Act and the
+Regulations will, therefore, have to be understood and interpreted in the above light.
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+9
+22. It is a fundamental principle of law that proof of an allegation levelled against a person may be
+in the form of direct substantive evidence or, as in many cases, such proof may have to be inferred
+by a logical process of reasoning from the totality of the attending facts and circumstances
+surrounding the allegations/charges made and levelled. While direct evidence is a more certain
+basis to come to a conclusion, yet, in the absence thereof the Courts cannot be helpless. It is the
+judicial duty to take note of the immediate and proximate facts and circumstances surrounding the
+events on which the charges/allegations are founded and to reach what would appear to the Court to
+be a reasonable conclusion therefrom. The test would always be that what inferential process that a
+reasonable/prudent man would adopt to arrive at a conclusion.
+23. Let us apply the aforesaid test to the facts of the present cases before us wherein admittedly
+there in no direct evidence forthcoming. The first relevant fact that has to be taken note of is that the
+scrips in which trading had been done were of illiquid scrips meaning thereby that such scrips
+though listed in the Bombay Stock Exchange were not a matter of everyday buy and sell
+transactions. While it is correct that trading in such illiquid scrips is per se not impermissible, yet,
+voluminous trading over a period of time in such scrips is a fact that should attract the attention of a
+vigilant trader engaged/engaging in such trades. The above would stand fortified by the note of
+caution issued by the Bombay Stock Exchange in the form of a notice/memorandum alerting its
+members with regard to the necessity of exercising care and caution in case of high volume of
+trading in illiquid scrips, as already noted.
+24. Insofar as first case (C.A. No.2818 of 2008 SEBI Vs. Kishore R. Ajmera) is concerned the proved
+facts are as follows:
+(i) Both the clients are known to each other and were related entities.
+(ii) This fact was also known to the sub-broker and the respondent – broker.
+(iii) The clients through the sub-broker had engaged in mutual buy and sell trades in the scrip in
+question, volume of which trade was significant, keeping in mind that the scrip was an illiquid scrip.
+Apart from the above there is no other material to hold either lack of vigilance or bona fides on the
+part of the sub-broker so as to make respondent-broker liable. An irresistible or irreversible
+inference of negligence/lack of due care etc., in our considered view, is not established even on proof
+of the primary facts alleged so as to make respondent-broker liable under the Conduct Regulations,
+1992 as has been held in the order of the Whole Time Member, SEBI which, according to us, was
+rightly reversed in appeal by the Securities Appellate Tribunal.
+25. This will take us to the second and third category of cases i.e. M/s Ess Ess Intermediaries Pvt.
+Ltd., M/s Rajesh N. Jhaveri and M/s Rajendra Jayantilal Shah [second category] and M/s Monarch
+Networth Capital Limited (earlier known as Networth Stock Broking Limited) [third category]. In
+these cases the volume of trading in the illiquid scrips in question was huge, the extent being set out
+hereinabove. Coupled with the aforesaid fact, what has been alleged and reasonably established, is
+that buy and sell orders in respect of the transactions were made within a span of 0 to 60 seconds.
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+10
+While the said fact by itself i.e. proximity of time between the buy and sell orders may not be
+conclusive in an isolated case such an event in a situation where there is a huge volume of trading
+can reasonably point to some kind of a fraudulent/manipulative exercise with prior meeting of
+minds. Such meeting of minds so as to attract the liability of the broker/sub-broker may be between
+the broker/sub-broker and the client or it could be between the two brokers/sub-brokers engaged in
+the buy and sell transactions. When over a period of time such transactions had been made between
+the same set of brokers or a group of brokers a conclusion can be reasonably reached that there is a
+concerted effort on the part of the concerned brokers to indulge in synchronized trades the
+consequence of which is large volumes of fictitious trading resulting in the unnatural rise in hiking
+the price/value of the scrip(s). It must be specifically taken note of herein that the trades in question
+were not “negotiated trades” executed in accordance with the terms of the Board’s Circulars issued
+from time to time. A negotiated trade, it is clarified, invokes consensual bargaining involving
+synchronizing of buy and sell orders which will result in matching thereof but only as per
+permissible parameters which are programmed accordingly.
+26. It has been vehemently argued before us that on a screen based trading the identity of the 2nd
+party be it the client or the broker is not known to the first party/client or broker. According to us,
+knowledge of who the 2nd party/ client or the broker is, is not relevant at all. While the screen based
+trading system keeps the identity of the parties anonymous it will be too naive to rest the final
+conclusions on said basis which overlooks a meeting of minds elsewhere. Direct proof of such
+meeting of minds elsewhere would rarely be forthcoming. The test, in our considered view, is one of
+preponderance of probabilities so far as adjudication of civil liability arising out of violation of the
+Act or the provisions of the Regulations framed thereunder is concerned. Prosecution under Section
+24 of the Act for violation of the provisions of any of the Regulations, of course, has to be on the
+basis of proof beyond reasonable doubt.
+The conclusion has to be gathered from various circumstances like that volume of the trade effected;
+the period of persistence in trading in the particular scrip; the particulars of the buy and sell orders,
+namely, the volume thereof; the proximity of time between the two and such other relevant factors.
+The fact that the broker himself has initiated the sale of a particular quantity of the scrip on any
+particular day and at the end of the day approximately equal number of the same scrip has come
+back to him; that trading has gone on without settlement of accounts i.e. without any payment and
+the volume of trading in the illiquid scrips, all, should raise a serious doubt in a reasonable man as
+to whether the trades are genuine. The failure of the brokers/sub-brokers to alert themselves to this
+minimum requirement and their persistence in trading in the particular scrip either over a long
+period of time or in respect of huge volumes thereof, in our considered view, would not only disclose
+negligence and lack of due care and caution but would also demonstrate a deliberate intention to
+indulge in trading beyond the forbidden limits thereby attracting the provisions of the FUTP
+Regulations. The difference between violation of the Code of Conduct Regulations and the FUTP
+Regulations would depend on the extent of the persistence on the part of the broker in indulging
+with transactions of the kind that has occurred in the present cases. Upto an extent such conduct on
+the part of the brokers/sub-brokers can be attributed to negligence occasioned by lack of due care
+and caution. Beyond the same, persistent trading would show a deliberate intention to play the
+market. The dividing line has to be drawn on the basis of the volume of the transactions and the
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+11
+period of time that the same were indulged in. In the present cases it is clear from all these
+surrounding facts and circumstances that there has been transgressions by the respondents beyond
+the permissible dividing line between negligence and deliberate intention.
+27. Insofar as the plea of violation of principles of natural justice, as raised on behalf of the
+respondent in C.A.No.282/2014 (Monarch Networth Capital Ltd.) is concerned, we do not think the
+same to be justified in any manner. The relevant extracts of the trade log which have been perused
+by us, in view of the clear picture disclosed with regard to the particulars of the offending
+transactions, must be held to be sufficient compliance of the requirement of furnishing adverse
+materials to the affected party. It is not the case of the respondents that such trading in the scrips in
+question had been a regular feature all along. Insofar as the statement of Indumati Gowda is
+concerned, it is the stand of the SEBI that the same was not relied upon to come to the impugned
+conclusions and findings. The statement of Shirish Shah, who admittedly was behind the
+manipulative practices in question through the brokers, was definitely not the foundation of the
+impugned findings recorded by the Whole Time Member of SEBI. The statement of Shirish Shah,
+even if not furnished to the respondent brokers, would not materially alter the situation inasmuch as
+it is the liability of the respondent-brokers, on account of their failure to correct the huge
+irregularities that were going on through their terminals, that was the subject matter of
+consideration of the Whole Time Member.
+28. The fact that on behalf of the client Indumati Gowda similar transactions were entered into in
+respect of other illiquid scrips which did not disclose any irregularities can hardly be a ground to
+overlook what has happened in case of the scrip involved in which the respondent Monarch
+Networth Capital Limited had indulged in.
+29. There is yet another argument advanced on behalf of the respondent - Monarch Networth
+Capital Limited, namely, that two of the brokers who were allegedly involved in circular trading
+were let off with monetary penalty. It is also argued that in case of M/s Ess Ess Intermediaries Pvt.
+Ltd., M/s Rajesh N. Jhaveri and M/s Rajendra Jayantilal Shah [second category] monetary penalty
+has been imposed for indulging in manipulative trading under the FUTP Regulations. On the said
+basis, it is submitted that a lesser penalty of monetary compensation would be justified.
+30. We disagree with the above contention. The stage at which the monetary penalty was imposed
+on the two other brokers indulging in circular trading is prior to any determination of liability of the
+said two brokers who did not contest the charges. In the case of M/s Monarch Networth Capital
+Limited the stage has advanced far beyond the above and had culminated in operative findings
+against the said sub-broker. The imposition of monetary penalty in the case of M/s. Ess Ess
+Intermediaries Pvt. Ltd., M/s. Rajesh N. Jhaveri and M/s. Rajendra Jayantilal Shah [second
+category] for violation of the FUTP Regulations cannot be a basis for alteration of the punishment of
+suspension imposed on M/s. Monarch Networth Capital Limited to one of monetary penalty. In this
+regard, provisions of Section 15J of the SEBI Act has to be kept in mind and if the primary authority
+had thought it proper to impose different penalties in different cases involving different set of facts,
+we do not see how and why interference should be made in present appeals.
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+12
+31. In the light of the above discussions, we dismiss the Civil Appeal No.2818 of 2008 (SEBI Vs.
+Kishore R. Ajmera) and affirm the order dated 05.02.2008 passed by the Securities Appellate
+Tribunal, Mumbai. Insofar as the remaining appeals are concerned, we allow the same and set aside
+the orders of the Securities Appellate Tribunal, Mumbai passed in each of the appeals and restore
+the orders and penalty imposed on the respondents - brokers by the respective orders of the Whole
+Time Member of the SEBI.
+…….…………………………...J.
+[RANJAN GOGOI] …………………………….……J.
+[PRAFULLA C. PANT] NEW DELHI;
+FEBRUARY 23, 2016.
+Securities & Exchange Board Of ... vs Kishore R.Ajmera on 23 February, 2016
+Indian Kanoon - http://indiankanoon.org/doc/116485203/
+13

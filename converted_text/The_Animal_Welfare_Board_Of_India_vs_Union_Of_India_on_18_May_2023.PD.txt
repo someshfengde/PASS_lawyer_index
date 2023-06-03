@@ -1,0 +1,1428 @@
+Supreme Court of India
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Author: K.M. Joseph
+Bench: K.M. Joseph, Ajay Rastogi, Aniruddha Bose, Hrishikesh Roy, C.T. Ravikumar
+                                                              REPORTABLE
+                               IN THE SUPREME COURT OF INDIA
+                                 CIVIL ORIGINAL JURISDICTION
+                             WRIT PETITION (CIVIL) NO. 23 OF 2016
+          THE ANIMAL WELFARE BOARD OF
+          INDIA & ORS.                                    ..PETITIONER(S)
+                                           VERSUS
+          UNION OF INDIA & ANR.                          ..RESPONDENT(S)
+                                            WITH
+                              WRIT PETITION (CIVIL) NO.6 OF 2018
+                             WRIT PETITION (CIVIL) NO.10 OF 2018
+                                 CIVIL APPEAL NO….. OF 2023
+                      (ARISING OUT OF SPECIAL LEAVE PETITION (CIVIL) NO.
+                                        3528 OF 2018)
+                            WRIT PETITION (CIVIL) NO. 1193 OF 2017
+                            WRIT PETITION (CIVIL) NO. 1152 OF 2018
+                             WRIT PETITION (CIVIL) NO. 24 OF 2016
+                             WRIT PETITION (CIVIL) NO. 25 OF 2016
+                             WRIT PETITION (CIVIL) NO. 26 OF 2016
+                             WRIT PETITION (CIVIL) NO. 27 OF 2016
+                             WRIT PETITION (CIVIL) NO. 88 OF 2016
+                            WRIT PETITION (CIVIL) NO. 1011 OF 2017
+Signature Not Verified
+Digitally signed by
+Nidhi Ahuja
+                            WRIT PETITION (CIVIL) NO. 1059 OF 2017
+Date: 2023.05.18
+19:47:34 IST
+Reason:
+                            WRIT PETITION (CIVIL) NO. 1188 OF 2017
+                                TRANSFERRED CASE 60 OF 2021
+                                                                            1
+�                          JUDGMENT
+ANIRUDDHA BOSE, J.
+Leave granted in Special Leave Petition (C) No.3528 of 2018.
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+1
+2. In the case of Animal Welfare Board of India -vs- A. Nagaraja and Others [(2014) 7 SCC 547], a
+Division Bench of this Court had essentially outlawed two common sports practised in the States of
+Tamil Nadu and Maharashtra popularly referred to as ‘Jallikattu’ and ‘Bullock Cart Race’
+respectively. These bovine sports were held to be contrary to the provisions of Sections 3, 11(1)(a)
+and (m) of the Prevention of Cruelty to Animals Act, 1960 (“1960 Act”) which is a Statute enacted by
+the Parliament. The two Judge Bench had construed the said provisions in the Constitutional
+backdrop of Article 51-A (g) and (h) as also Articles 14 and 21 of the Constitution of India. This
+judgment was delivered on 7th May 2014. At that point of time, Jallikattu was regulated by a State
+Act in Tamil Nadu, being Tamil Nadu Regulation of Jallikattu Act, 2009. The Bench held that this
+State Act was repugnant to the provisions of the 1960 Act and was held to be void, having regard to
+the provisions of Article 254 (1) of the Constitution of India. On 7th January 2016, a notification was
+issued by the Ministry of Environment, Forest and Climate Change (“MoEF&CC”) [bearing number
+GSR 13 (E)]. This notification was issued in exercise of the powers conferred by Section 22 of the
+1960 Act and prohibited exhibition or training of bulls as performing animals. However, an
+exception was carved and it was specified in this notification that bulls might be continued to be
+trained as performing animals at events such as Jallikattu in Tamil Nadu and Bullock Cart Races in
+Maharashtra, Karnataka, Punjab, Haryana, Kerala and Gujarat in the manner by the customs of
+common community or practice traditionally under the customs or as part of culture in any part of
+the country. In the State of Karnataka, the race involved male buffaloes, known in that State as
+“Kambala”. This exception, however, was made subject to certain conditions seeking to reduce the
+pain and suffering of bulls while being used in such sports. A batch of writ petitions i.e. W.P. (C)
+Nos. 23 of 2016, 24 of 2016, 25 of 2016, 26 of 2016, 27 of 2016, 88 of 2016, 1059 of 2017, 1011 of
+2017, 1188 of 2017, 1193 of 2017, SLP(C) No.3528 of 2018 and SLP(C) Nos. 3526-3527 of 2018 were
+instituted before a Division Bench of this Court questioning legality of the said notification. The
+petitioners in those proceedings also sought compliance with the directions of this Court contained
+in the case of A. Nagaraja (supra).
+3. The first of these writ petitions have been brought by Animal Welfare Board of India and others
+including one Anjali Sharma, but in course of hearing, the Animal Welfare Board changed its stance
+and sought to support the stand of the State and Union of India mainly on the ground that the 1960
+Act and certain State Amendments which were enacted in the year 2017 were not repugnant and the
+Board had framed guidelines to prevent suffering of the bovine species during holding of the
+aforesaid events. We shall refer to the three State Amendment Acts later in this judgment. However,
+the second writ petitioner- Anjali Sharma, a practicing advocate of this Court and also a member of
+the Board prosecuted the aforesaid writ petition as a single writ petitioner.
+4. In connection with W.P.(C) No.1188 of 2017, an Interlocutory Application (170346 of 2022) has
+been filed by one Vikramsinh Nivrutti Bhosale on the strength of his being an agriculturalist in
+Maharashtra. He has argued that the challenge to the Maharashtra Amendment Act, if sustained,
+could hamper lives of farmers still associated with Bullock Cart Race. It is also his argument that the
+Amendment Act of Maharashtra is also relatable to entry 15 of List II of the Seventh Schedule of the
+Constitution of India which stipulates:-
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+2
+“Preservation, protection and improvement of stock and prevention of animal diseases; veterinary
+training and practice”.
+5. The Prevention of Cruelty to Animals (Tamil Nadu Amendment) Act, 2017,(“Tamil Nadu
+Amendment Act”), The Prevention of Cruelty to Animals (Maharashtra Amendment) Act, 2017
+(“Maharashtra Amendment Act”) and The Prevention of Cruelty to Animals (Karnataka Second
+Amendment) Act, 2017 (“Karnataka Amendment Act”) were enacted by the respective State
+Legislatures and had received Presidential assent. We shall refer to these Acts in greater details in
+this judgment. These Amendment Acts in substance seek to legitimise various types of bovine sports
+including Jallikattu in Tamil Nadu, Bullock Cart Race in Maharashtra and Kambala in Karnataka.
+The term Jallikattu as defined in the Tamil Nadu Amendment Act is as follows:-
+“(dd) “Jallikattu” means an event involving bulls conducted with a view to follow
+tradition and culture on such days from the months of January to May of a calendar
+year and in such places, as may be notified by the State Government, and includes
+“manjuviratu”, “vadamadu” and “erudhuvidumvizha”.” In the Karnataka Amendment
+Act, the term Kambala has been defined, upon Amendment of the parent Statute as:-
+“(aa) “Bulls race or Bullock cart race” means any form of bulls race including race of
+Bullock cart as a traditional sports involving Bulls whether tied to cart with the help
+of wooden yoke or not (in whatever name called) normally held as a part of tradition
+and culture in the state on such days and places, as may be notified by the State
+Government.”; and
+(ii) after clause (d), the following shall be inserted, namely:-
+(dd) “Kambala” means the traditional sports event involving Buffalo’s (male) race
+normally held as a part of tradition and culture in the state on such days and places,
+as may be notified by the State Government.” Bullock Cart Race as held in
+Maharashtra has been defined under Section 2 of the Amendment Act as:-
+“(bb) “bullock cart race” means an event involving bulls or bullocks to conduct a race,
+whether tied to cart with the help of wooden yoke or not (by whatever name called),
+with or without a cartman with a view to follow tradition and culture on such days
+and in any District where it is being traditionally held at such places, as may be
+previously approved by the District Collector, and also known as “Bailgada Sharyat”,
+“Chhakadi” and “Shankarpat” in the State of Maharashtra.”
+6. A Public Interest Litigation (“PIL”) was brought before the High Court of
+Judicature at Bombay, registered as PIL (stamp) number 23132 of 2017 (Ajay
+Marathe vs. The State of Maharashtra and Others) challenging certain proposed
+Rules brought by the State of Maharashtra under the heading “The Maharashtra
+Prevention of Cruelty to Animals (Conduct of Bullock Cart Race) Rules, 2017”
+permitting Bullock Cart Race and on 11th October 2017, the High Court restrained
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+3
+conducting of Bullock Cart Races within the State of Maharashtra. The aforesaid
+Rules sought to regulate organisation of Bullock Cart Races.
+7. A farmer from that State, Vikramsinh Nivrutti Bhosale from the District of Sanghli, has instituted
+Special Leave Petition (Civil) 3528 of 2018 assailing that order passed by the Bombay High Court
+and in this reference, we shall deal with certain points raised in the said special leave petition as
+well.
+8. A Division Bench of this Court by an order passed on 2 nd February 2018 formulated five
+questions to be answered by a Constitution Bench and the papers were directed to be placed before
+the Hon’ble Chief Justice of India. The Division Bench had formulated the following 5 questions
+which we have to answer in this judgment:-
+i. “Is the Tamil Nadu Amendment Act referable, in pith and substance, to Entry 17,
+List III of the Seventh Schedule to the Constitution of India, or does it further and
+perpetuate cruelty to animals; and can it, therefore, be said to be a measure of
+prevention of cruelty to animals? Is it colourable legislation which does not relate to
+any Entry in the State List or Entry 17 of the Concurrent List?
+ii. The Tamil Nadu Amendment Act states that it is to preserve the cultural heritage
+of the State of Tamil Nadu. Can the impugned Tamil Nadu Amendment Act be stated
+to be part of the cultural heritage of the people of the State of Tamil Nadu so as to
+receive the protection of Article 29 of the Constitution of India?
+iii. Is the Tamil Nadu Amendment Act, in pith and substance, to ensure the survival
+and well-being of the native breed of bulls? Is the Act, in pith and substance, relatable
+to Article 48 of the Constitution of India?
+iv. Does the Tamil Nadu Amendment Act go contrary to Articles 51A(g) and 51A(h),
+and could it be said, therefore, to be unreasonable and violative of Articles 14 and 21
+of the Constitution of India?
+v. Is the impugned Tamil Nadu Amendment Act directly contrary to the judgment in A. Nagaraja
+(supra), and the review judgment dated 16th November, 2016 in the aforesaid case, and whether the
+defects pointed out in the aforesaid two judgments could be said to have been overcome by the
+Tamil Nadu Legislature by enacting the impugned Tamil Nadu Amendment Act?”
+9. The Presidential assent was sought for by the three States in terms of Article 254(2) of the
+Constitution of India. On behalf of the petitioners, the very act of assent of the President has been
+questioned and citing the judgment of this Court in the case of Gram Panchayat of Village Jamalpur
+-vs- Malwinder Singh and Others [(1985) 3 SCC 661] it has been argued that for obtaining such
+assent, complete details were not disclosed before the President. The judgment of this Court in
+Hoechst Pharmaceuticals Ltd. and Others -vs- State of Bihar and Others [(1983) 4 SCC 45] was also
+cited by the petitioners to contend that such assent of the President is relevant only if the legislation
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+4
+is relatable to an Entry in List III of Seventh Schedule of the Constitution. But in our view, the
+Amendment Statutes are relatable to Entry 17 of List III of Seventh Schedule and hence we do not
+consider it necessary to deal with the ratio laid down in the case of Hoechst Pharmaceuticals
+(supra). Certain other judgments were also cited in support of this proposition. We shall express our
+opinion on this point in subsequent part of this judgment.
+10. In W.P. (C) No.1152 of 2018, the legality of the Karnataka Amendment Act has been challenged.
+This petition was tagged with W.P.(C) No.1059 of 2017 by an order dated 7.12.2018. W.P.(C)
+No.1059 of 2017 was heard along with T.C. (C) No.60 of 2021, a three-Judge Bench of this Court
+took cognizance of the Karnataka and Maharashtra Amendment Acts and in an order passed by the
+said Bench on 16.12.2021, it was observed:-
+“The entire matter in relation to similar amendments made by the State of Tamil
+Nadu and State of Karnataka is now referred to the Constitution Bench, including to
+consider the question whether these amendment Acts (of State of Tamil Nadu)
+overcome the defects pointed out in the two judgments of this Court. Similar question
+would arise in these writ petitions and transferred case from Maharashtra concerning
+the provisions of State of Maharashtra. Hence, these writ petitions be heard along
+with writ petitions pertaining to the State of Tamil Nadu and State of Karnataka.”
+11. In the judgment of A. Nagaraja (supra), dealing with Jallikattu and Bullock Cart Race in
+Maharashtra, the Division Bench of this Court found bulls to be non-suitable for being involved in
+any sports. The Bench found that the bulls were not performing animals having no natural
+inclination for running like a horse. The reasoning of the Bench in the case of A. Nagaraja (supra)
+would appear, inter-alia, from paragraphs 33, 37, 41, 44, 53 and 73. It has been held by the Court in
+these paragraphs:-
+“33. The PCA Act is a welfare legislation which has to be construed bearing in mind
+the purpose and object of the Act and the directive principles of State policy. It is trite
+law that, in the matters of welfare legislation, the provisions of law should be liberally
+construed in favour of the weak and infirm. The court also should be vigilant to see
+that benefits conferred by such remedial and welfare legislation are not defeated by
+subtle devices. The court has got the duty that, in every case, where ingenuity is
+expanded to avoid welfare legislations, to get behind the smokescreen and discover
+the true state of affairs. The court can go behind the form and see the substance of
+the devise for which it has to pierce the veil and examine whether the guidelines or
+the regulations are framed so as to achieve some other purpose than the welfare of
+the animals. Regulations or guidelines, whether statutory or otherwise, if they
+purport to dilute or defeat the welfare legislation and the constitutional principles,
+the court should not hesitate to strike them down so as to achieve the ultimate object
+and purpose of the welfare legislation. The court has also a duty under the doctrine of
+parens patriae to take care of the rights of animals, since they are unable to take care
+of themselves as against human beings.” Xxx “37. Section 11 generally deals with the
+cruelty to animals.
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+5
+Section 11 confers no right on the organisers to conduct Jallikattu/bullock cart race. Section 11 is a
+beneficial provision enacted for the welfare and protection of the animals and it is penal in nature.
+Being penal in nature, it confers rights on the animals and obligations on all persons, including
+those who are in charge or care of the animals, AWBI, etc. to look after their well-being and
+welfare.” xxx “41. Section 11(3) carves out exceptions in five categories of cases mentioned in
+Sections 11(3)(a) to (e), which are as follows:
+“11. (3) Nothing in this section shall apply to—
+(a) the dehorning of cattle, or the castration or branding or nose-roping of any animal, in the
+prescribed manner; or
+(b) the destruction of stray dogs in lethal chambers or by such other methods as may be prescribed;
+or
+(c) the extermination or destruction of any animal under the authority of any law for the time being
+in force; or
+(d) any matter dealt with in Chapter IV; or
+(e) the commission or omission of any act in the course of the destruction or the preparation for
+destruction of any animal as food for mankind unless such destruction or preparation was
+accompanied by the infliction of unnecessary pain or suffering.” Exceptions are incorporated based
+on the “doctrine of necessity”. Clause (b) to Section 11(3) deals with the destruction of stray dogs,
+out of necessity, otherwise, it would be harmful to human beings. Clause (d) to Section 11(3) deals
+with matters dealt with in Chapter IV, incorporated out of necessity, which deals with the
+experimentation on animals, which is for the purpose of advancement by new discovery of
+physiological knowledge or of knowledge which would be useful for saving or for prolonging life or
+alleviating suffering or for combating any disease, whether of human beings, animals or plants,
+which is not prohibited and is lawful. Clause (e) to Section 11(3) permits killing of animals as food
+for mankind, of course, without inflicting unnecessary pain or suffering, which clause is also
+incorporated “out of necessity”. Experimenting on animals and eating their flesh are stated to be two
+major forms of speciesism in our society. Over and above, the legislature, by virtue of Section 28,
+has favoured killing of animals in a manner required by the religion of any community.
+Entertainment, exhibition or amusement do not fall under these exempted categories and cannot be
+claimed as a matter of right under the doctrine of necessity.” xxx “44. Bulls, therefore, in our view,
+cannot be performing animals, anatomically not designed for that, but are forced to perform,
+inflicting pain and suffering, in total violation of Section 3 and Section 11(1) of the PCA Act. Chapter
+V of the PCA Act deals with the performing animals. Section 22 of the PCA Act places restriction on
+exhibition and training of performing animals, which reads as under:
+“22.Restriction on exhibition and training of performing animals.—No person shall exhibit or
+train—
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+6
+(i) any performing animal unless he is registered in accordance with the provisions of this Chapter;
+(ii) as a performing animal, any animal which the Central Government may, by notification in the
+Official Gazette, specify as an animal which shall not be exhibited or trained as a performing
+animal.” xxx “53. The Statement of Objects and Reasons of the TNRJ Act refers to ancient culture
+and tradition and does not state that it has any religious significance. Even the ancient culture and
+tradition do not support the conduct of Jallikattu or bullock cart race, in the form in which they are
+being conducted at present. Welfare and the well-being of the bull is Tamil culture and tradition,
+they do not approve of infliction of any pain or suffering on the bulls, on the other hand, Tamil
+tradition and culture are to worship the bull and the bull is always considered as the vehicle of Lord
+Shiva. Yeru Thazhuvu, in Tamil tradition, is to embrace bulls and not overpowering the bull, to show
+human bravery. Jallikattu means, silver or gold coins tied to the bull's horns and in olden days those
+who got at the money to the bull's horns would marry the daughter of the owner. Jallikattu or the
+bullock cart race, as practised now, has never been the tradition or culture of Tamil Nadu.” xxx “73.
+Jallikattu and other forms of bulls race, as the various reports indicate, cause considerable pain,
+stress and strain on the bulls. Bulls, in such events, not only do move their head showing that they
+do not want to go to the arena but, as pain inflicted in the vadi vasal is so much, they have no other
+go but to flee to a situation which is adverse to them. Bulls, in that situation, are stressed, exhausted,
+injured and humiliated. Frustration of the bulls is noticeable in their vocalisation and, looking at the
+facial expression of the bulls, ethologist or an ordinary man can easily sense their suffering. Bulls,
+otherwise are very peaceful animals dedicating their life for human use and requirement, but they
+are subjected to such an ordeal that not only inflicts serious suffering on them but also forces them
+to behave in ways, namely, they do not behave, force them into the event which does not like and, in
+that process, they are being tortured to the hilt. Bulls cannot carry the so-called performance
+without being exhausted, injured, tortured or humiliated. Bulls are also intentionally subjected to
+fear, injury—both mentally and physically—and put to unnecessary stress and strain for human
+pleasure and enjoyment, that too, a species which has totally dedicated its life for human benefit,
+out of necessity.”
+12. The 1960 Act has been enacted in pursuance of legislative power contained in Entry 17 of List III
+of the Seventh Schedule to the Constitution of India. The impact of the Amendment Acts on the
+main Statute would be revealed from the comparative table given below:-
+Provisions   The Prevention of         The Prevention of           The Prevention of    
+             Cruelty to Animals        Cruelty to Animals         Cruelty to Animals    
+                 Act, 1960                (Tamil Nadu             (Karnataka Second     
+              (“Principal Act”)        Amendment) Act,             Amendment) Act,      
+                                              2017                       2017           
+Scope        An Act to prevent the     An Act to amend the        An Act further to     
+             infliction         of     Prevention of Cruelty      amend             the 
+             unnecessary pain or       to Animals Act, 1960       Prevention of Cruelty 
+             suffering on animals      so as to preserve the      to Animals Act, 1960  
+             and for that purpose      cultural heritage of       in its application to 
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+7
+             to amend the law          the State of Tamil         the      State     of 
+             relating    to    the     Nadu and to ensure         Karnataka.            
+             prevention of cruelty     the survival and
+             to animals.               wellbeing    of   the
+                                       native    breeds   of
+                                       bulls.
+Section 2    Defintions.-In    this    In section 2 of the        - In section 2 of the 
+             Act,    unless     the    Prevention of Cruelty      Prevention of Cruelty 
+             context     otherwise     to Animals Act, 1960       to Animals Act, 1960  
+             requires,―          (a)   (Central Act 59 of         (Central Act 59 of    
+             “animal” means any        1960)      (hereinafter    1960)     (hereinafter
+             living creature other     referred to as the         referred to as the    
+             than a human being;       Principal Act after        Principal Act),- (i)  
+             [(b) “Board” means        clause      (d),     the   after clause (a), the 
+             the             Board     following        clause    following shall be    
+             established     under     shall be inserted,         inserted,    namely:- 
+section 4, and as         namely:—           “(dd)   “(aa) “Bulls race or  
+             reconstituted from        ‘’Jallikattu’’ means       Bullock cart race”    
+             time to time under        an event involving         means any form of     
+section    5A;]     (c)   bulls conducted with       bulls race including
+             “captive      animal”     a view to follow           race of Bullock cart  
+             means any animal          tradition and culture      as    a    traditional
+             (not      being       a   on such days from          sports       involving
+�domestic        animal)     the    months      of   Bulls whether tied to    or     bul
+which is in captivity       January to May of a     cart with the help of    conduct    
+or       confinement,       calendar year and in    wooden yoke or not       whether tie
+whether permanent           such places, as may     (in whatever name        with the he
+or temporary, or            be notified by the      called) normally held    wooden yoke
+which is subjected to       State Government,       as a part of tradition   (by whateve
+any appliance or            and         includes    and culture in the       called),   
+contrivance for the         “manjuviratu”,          state on such days       without a c
+purpose of hindering        “vadamadu”       and    and places, as may       with a view
+or preventing its           “erudhuvidumvizha”      be notified by the       tradition a
+escape from captivity       .”                      State Government.”;      on such day
+or confinement or                                   and (ii) after clause    any Distric
+which is pinioned or                                (d), the following       is being tr
+which is or appears                                 shall be inserted,       held at suc
+to be maimed; (d)                                   namely:-         “(dd)   as may be p
+“domestic       animal”                             “Kambala”      means     approved by
+means any animal                                    the traditional sports   District   
+which is tamed or                                   event        involving   and also kn
+which has been or is                                Buffalo’s (male) race    "Bailgada S
+being      sufficiently                             normally held as a       "Chhakadi" 
+tamed to serve some                                 part of tradition and    "Shankarpat
+purpose for the use                                 culture in the state     State      
+of man or which,                                    on such days and         Maharashtra
+although it neither                                 places, as may be
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+8
+has been nor is being                               notified by the State
+nor is intended to be                               Government.”
+so tamed, is or has
+become       in     fact
+wholly     or     partly
+tamed;     (e)    “local
+authority” means a
+municipal
+committee, district
+board      or     other
+authority for the
+time being invested
+by law with the
+control             and
+administration         of
+any matters within a
+specified local area;
+(f) “owner”, used with
+reference      to     an
+animal, includes not
+only the owner but
+also     any      other
+person for the time
+being in possession
+or custody of the
+animal,        whether
+with or without the
+consent       of     the
+owner; (g) “phooka”
+or     “doom        dev”
+includes any process
+of introducing air or
+any substance into
+the female organ of a
+milch animal with
+the object of drawing
+�            off from the animal
+            any     secretion   of
+            milk; (h) “prescribed”
+            means prescribed by
+            rules made under
+            this Act; (i) “street”
+            includes any way,
+            road, lane, square,
+            court, alley, passage
+            or     open     space,
+            whether              a
+            thoroughfare or not,
+            to which the public
+            have access.
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+9
+Section 3   Duties of persons        Section 3 of the         Section 3 of the         S
+            having charge of         principal Act shall be   principal Act, shall     p
+            animals.―It shall be     re-numbered as sub-      be renumbered as         r
+            the duty of every        section (1) of that      subsection (1) of that   s
+            person having the        section and after        section and after        a
+            care or charge of        sub-section (1) as so    sub-section (1) as so    s
+            any animal to take       re-numbered,      the    renumbered,        the   r
+            all       reasonable     following subsection     following         sub-   f
+            measures to ensure       shall    be    added,    section    shall    be   s
+            the well-being of        namely:—                 inserted,    namely:-    a
+            such animal and to       “(2)Notwithstanding      “(2) Notwithstanding     “
+            prevent          the     anything contained       anything contained       a
+            infliction     upon      in sub-section (1),      in subsection (1)        i
+            such     animal   of     conduct             of   conduct             of   t
+            unnecessary pain         ‘Jallikattu’, subject    “Kambala” or “Bulls      m
+            or suffering.            to such rules and        race or Bullock cart     w
+                                     regulations as may       race”     shall     be   p
+                                     be framed by the         permitted, subject to    C
+                                     State Government,        condition that no        t
+                                     shall be permitted.”.    unnecessary pain or      p
+                                                              suffering is caused      e
+                                                              to the animals, by       u
+                                                              the person in charge     c
+                                                              of that animal used      b
+                                                              to            conduct    p
+                                                              “Kambala” or “Bulls      t
+                                                              race or Bullock cart     c
+                                                              race” as the case        r
+                                                              may be and subject       s
+                                                              to     such      other   c
+                                                              conditions as may be     p
+                                                              specified, by the        u
+                                                              State Government,        b
+                                                              by notification."        G
+                                                                                       a
+                                                                                       i
+                                                                                       a
+                                                                                       b
+                                                                                       c
+                                                                                       c
+                                                                                       i
+                                                                                       r
+                                                                                       t
+�                                                                                       
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+10
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+Section 11   Treating     animals      In section 11 of the       In section 11 of the  
+             cruelly.―(1) If any       principal Act, in sub-     principal Act, in sub-
+             person― (a) beats,        section (3), after         section (3), after    
+             kicks,    over-rides,     clause      (e),    the    clause     (e),     th
+             overdrives,      over-    following        clause    following shall be    
+             loads, tortures or        shall    be      added,    inserted,    namely:- 
+             otherwise       treats    namely:— “(f) the          “(f) the conduct of   
+             any animal so as to       conduct               of   “Kambala” with a      
+             subject      it     to    ‘Jallikattu’ with a        view to follow and    
+             unnecessary pain          view to follow and         promote      tradition
+             or    suffering     or    promote       tradition    and culture and       
+             causes or, being the      and culture and            ensure preservation   
+             owner permits, any        ensure preservation        of native breed of    
+             animal to be so           of native breeds of        buffalos as also their
+             treated;     or     (b)   bulls as also their        safety, security and  
+             [employs in any           safety, security and       wellbeing. (g) the    
+             work or labour or         wellbeing.”                conduct of “Bulls     
+             for any purpose any                                  race or Bullock cart  
+             animal which, by                                     race” with a view to  
+             reason of its age or                                 follow and promote    
+             any         disease],                                tradition and culture 
+             infirmity, wound,                                    and             ensure
+             sore or other cause,                                 preservation         o
+             is unfit to be so                                    native breed of cattle
+             employed or, being                                   as also their safety,
+             the owner, permits                                   security           and
+             any     such     unfit                               wellbeing.”
+             animal to be so
+             employed; or (c)
+             wilfully          and
+             unreasonably
+             administers       any
+             injurious drug or
+             injurious substance
+             to 2 [any animal] or
+             wilfully          and
+             unreasonably
+             causes or attempts
+             to cause any such
+             drug or substance
+             to be taken by 2
+             [any animal]; or (d)
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+11
+             conveys or carries,
+             whether in or upon
+             any vehicle or not,
+�any animal in such
+a     manner          or
+position      as      to
+subject       it      to
+unnecessary pain
+or suffering; or (e)
+keeps or confines
+any animal in any
+cage      or     other
+receptacle       which
+does not measure
+sufficiently          in
+height, length and
+breadth to permit
+the      animal        a
+reasonable
+opportunity          for
+movement; or (f)
+keeps       for       an
+unreasonable time
+any animal chained
+or tethered upon an
+unreasonably short
+or     unreasonably
+heavy      chain      or
+cord; or (g) being
+the owner, neglects
+to exercise or cause
+to    be    exercised
+reasonably any dog
+habitually chained
+up or kept in close
+confinement; or (h)
+being the owner of
+[any animal] fails to
+provide           such
+animal             with
+sufficient        food,
+drink or shelter; or
+(i)           without
+reasonable cause,
+abandons            any
+animal                in
+circumstances
+which render it
+likely that it will
+suffer     pain       by
+reason                of
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+12
+starvation            or
+thirst; or (j) wilfully
+permits             any
+animal, of which he
+is the owner, to go
+at large in any
+street while the
+animal is affected
+with contagious or
+infectious disease
+or,           without
+reasonable excuse
+�permits           any
+diseased            or
+disabled animal, of
+which he is the
+owner, to die in any
+street; or (k) offers
+for sale or, without
+reasonable cause,
+has       in       his
+possession        any
+animal which is
+suffering pain by
+reason              of
+mutilation,
+starvation, thirst,
+overcrowding        or
+other ill-treatment;
+or 1 [(l) multilates
+any animal or kills
+any           animal
+(including      stray
+dogs) by using the
+method              of
+strychnine
+injections in the
+heart or in any
+other
+unnecessarily cruel
+manner; or] 2 [(m)
+solely with a view
+to         providing
+entertainment— (i)
+confines or causes
+to be confined any
+animal (including
+tying of an animal
+as a bait in a tiger
+or other sanctuary)
+so as to make it an
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+13
+object of prey for
+any other animal;
+or (ii) incites any
+animal to fight or
+bait    any     other
+animal; or] (n) 3 ***
+organises,     keeps,
+uses or acts in the
+management         of,
+any     place      for
+animal fighting or
+for the purpose of
+baiting any animal
+or permits or offers
+any place to be so
+used or receives
+money      for    the
+admission of any
+other person to any
+place kept or used
+for     any      such
+�purposes; or (o)
+promotes or takes
+part      in       any
+shooting match or
+competition
+wherein       animals
+are released from
+captivity for the
+purpose of such
+shooting; he shall
+be punishable, 4 [in
+the case of a first
+offence, with fine
+which shall not be
+less    than       ten
+rupees but which
+may extend to fifty
+rupees and in the
+case of a second or
+subsequent offence
+committed within
+three years of the
+previous      offence,
+with fine which
+shall not be less
+than     twenty-five
+rupees but which
+may extend to one
+hundred rupees or
+with imprisonment
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+14
+for a term which
+may     extend       to
+three months, or
+with both]. (2) For
+the purposes of
+sub-section (1), an
+owner     shall     be
+deemed to have
+committed           an
+offence if he has
+failed to exercise
+reasonable care and
+supervision with a
+view      to       the
+prevention of such
+offence: Provided
+that    where       an
+owner is convicted
+of        permitting
+cruelty by reason
+only    of      having
+failed to exercise
+such     care      and
+supervision,        he
+shall not be liable
+to    imprisonment
+without the option
+of    a    fine.    (3)
+Nothing      in   this
+section shall apply
+�             to―       (a)      the
+             dehorning of cattle,
+             or the castration or
+             branding or nose-
+             roping      of     any
+             animal,      in    the
+             prescribed manner;
+             or      (b)        the
+             destruction of stray
+             dogs     in     lethal
+             chambers or 5 [by
+             such             other
+             methods as may be
+             prescribed]; or (c)
+             the extermination
+             or destruction of
+             any animal under
+             the authority of
+             any law for the
+             time being in force;
+             or (d) any matter
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+15
+             dealt      with      in
+             Chapter IV; or (e)
+             the commission or
+             omission of any act
+             in the course of the
+             destruction or the
+             preparation         for
+             destruction of any
+             animal as food for
+             mankind         unless
+             such destruction or
+             preparation        was
+             accompanied          by
+             the infliction of
+             unnecessary pain
+             or suffering.
+Section 22   Restriction         on    The following proviso     In section 22 of the   
+             exhibition         and    shall be added to         principal Act, at the  
+             training             of   section 22 of the         end, the following     
+             performing                principal          Act,   proviso   shall    be  
+             animals.―No person        namely:— “Provided        inserted,              
+             shall    exhibit     or   that            nothing   namely:“Provided       
+             train―      (i)    any    contained in this         that          nothing  
+             performing animal         section shall apply to    contained in this      
+             unless       he      is   conduct              of   section shall apply to 
+             registered           in   ‘Jallikattu’.”.           conduct             of 
+             accordance with the                                 “Kambala” or “Bulls    
+             provisions of this                                  race or Bullock cart   
+             Chapter; (ii) as a                                  race” as the case      
+             performing animal,                                  may be.”               
+             any animal which
+             the             Central
+             Government may, by
+             notification in the
+             Official       Gazette,
+             specify as an animal
+�               which shall not be
+               exhibited or trained
+               as   a    performing
+               animal.
+Section 27     Exemptions.―Nothin        In section 27 of the       In section 27 of the
+               g contained in this       principal Act, after       principal Act, after
+               Chapter shall apply       clause      (b),    the    clause     (b),    t
+               to― (a) the training of   following        clause    following shall be  
+               animals for bona fide     shall    be      added,    inserted,    namely:
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+16
+               military or police        namely:— “(c) the          “(c) the conduct of 
+               purposes      or   the    conduct               of   “Kambala” with a    
+               exhibition of any         ‘Jallikattu’ with a        view to follow and  
+               animals so trained;       view to follow and         promote      traditi
+               or (b) any animals        promote       tradition    and culture and     
+               kept       in      any    and culture and            ensure survival and 
+               zoological garden or      ensure survival and        continuance         
+               by any society or         continuance           of   native    breeds    
+               association      which    native    breeds      of   buffaloes. (d) the  
+               has for its principal     bulls.”.                   conduct of “Bulls   
+               object the exhibition                                race or Bullock cart
+               of    animals       for                              race” with a view to
+               educational          or                              follow and promote  
+               scientific purposes.                                 tradition and cultur
+                                                                    and ensure survival
+                                                                    and continuance of
+                                                                    native    breeds    
+                                                                    cattle.”
+Insertion of             —               After Section 28 of        After Section 28 of 
+28A                                      the principal Act, the     the principal Act, t
+                                         following     section      following     sectio
+                                         shall be inserted,         shall be inserted,  
+                                         namely:-                   namely:-            
+                                         "Nothing Contained         Nothing contained in
+                                         in this Act shall          this Act, shall appl
+                                         apply to 'Jallikattu'      to    “Kambala”    o
+                                         conducted to follow        “Bulls     race    o
+                                         and           promote      Bullock cart race”  
+                                         tradition and culture      conducted to follow 
+                                         and such conduct of        and          promote
+                                         'Jallikattu' shall not     tradition and cultur
+                                         be an offence under        and such conduct of 
+                                         this Act."                 “Kambala” or “Bulls 
+                                                                    race or Bullock cart
+                                                                    race” shall not be a
+                                                                    offence under this  
+                                                                    Act.”               
+Insertion of            —                          —                          —         
+38B                                                                                     
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+�Government         may,
+subject       to     the
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+17
+condition of previous
+publication,          by
+notification in the
+Official       Gazette,
+make the rules, not
+inconsistent with the
+rules made by the
+Central Government,
+if any, for carrying
+into      effect     the
+provisions of sub-
+section (2) of section
+3 of the Act (2) Every
+rule made under this
+section shall be laid,
+as soon as may be,
+after it is made,
+before each House of
+the               State
+Legislature, while it
+is in session for a
+total period of thirty
+days, which may be
+comprised in one
+session or in two or
+more         successive
+sessions, and if,
+before the expiry of
+the session in which
+it is so laid or the
+session immediately
+following,         both
+Houses       agree     in
+making               any
+modification in rule
+or both Houses agree
+that the rule should
+not be made, and
+notify such decision
+in     the       Official
+Gazette, the rule
+shall, from the date
+of publication of
+such       notification,
+have effect only in
+such modified form
+or be of no effect, as
+the case may be; so,
+however, that any
+such modification or
+annulment shall be
+without prejudice to
+the      validity      of
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+18
+anything previously
+done or omitted to be
+done under that
+rule"
+a3. After   the   aforesaid   three   Amendment     Acts   received
+Presidential assent, the States of Tamil Nadu and Maharashtra formulated Rules for conducting the
+aforesaid bovine sports. The Tamil Nadu Rules were titled “The Tamil Nadu Prevention of Cruelty to
+Animals (Conduct of Jallikattu) Rules, 2017” and for the State of Maharashtra, “The Maharashtra
+Prevention of Cruelty to Animals (Conduct of Bullock Cart Race) Rules, 2017” was formulated. So far
+as the State of Karnataka is concerned, a Notification was issued on similar lines by a Memorandum
+No. PSM 257 SLV-2014 dated 17th December 2015. These Rules/Notification seek to rigidly regulate
+conducting the aforesaid bovine sports. They postulate provisions for application for permission of
+holding the sports, for participating in the race. For organising of Bullock Cart Race, Rules stipulate
+for the manner in which such races could be conducted with specifications for length of the track,
+rest period and isolation of the track from general public. The Tamil Nadu Rules specifically
+provides for examination of bulls, with specifications for the arena, bull collection yard as also
+setting up of spectators’ gallery. These instruments in substance prohibit causing any physical
+disturbance to the bulls like beating and poking them with sharp objects, sticks, pouring chilli
+powder in their eyes, twisting their tails amongst other such pain inflicting acts.
+14. The main theme of the submissions of the petitioners/parties who are assailing the Amendment
+Acts are founded on two planks. Mr. Shyam Divan, Mr. Anand Grover, Mr. Sidharth Luthra, Mr.
+Krishnan Venugopal and Mr. V. Giri, learned Senior Advocates have appeared for the parties
+assailing continued performance of these sports which are considered to be cruel. The Respondents’
+cases supporting the continuation of these sports have been mainly argued by Mr. Tushar Mehta, ld.
+Solicitor General, Mr. Kapil Sibal, Mr. Mukul Rohatgi and Mr. Rakesh Dwivedi, learned Senior
+Advocates. For the petitioners, their main case is that even after the State Amendments, the
+activities sought to be legitimised still remain destructive and contrary to the provisions of Sections
+3, 11(1) (a) and (m) of the 1960 Act. It is their contention that the Amendment Acts do not cure the
+defects or deficiencies brought about by the judgment of A. Nagaraja (supra). The ratio of the said
+judgment is sought to be bypassed through these Amendment Acts, which is impermissible in law. It
+has also been argued that the expression “person” as used in Article 21 of the Constitution of India
+includes sentient animals and their liberty is sought to be curtailed by legitimising the aforesaid
+bovine sports and the instrument of such legitimisation being the three Amendment Acts is
+unreasonable and arbitrary, thereby not meeting the standard of Article 14 of the Constitution of
+India. In fact, that is the fourth point of question of reference which we shall be addressing in this
+judgment. The petitioners seek to inter-weave Articles 14, 21, 48, 51-A (h) and (g) to set up a
+rights-regime for the animals. Their contention is that the Fundamental Duty of Indian citizens to
+have compassion for living creatures and to develop humanism result in corresponding rights for
+sentient animals to be protected for distress and pain inflicting activities only having entertainment
+value for human beings.
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+19
+15. The other argument advanced is that these sports cannot be held to be part of cultural heritage of
+the State of Tamil Nadu which is so provided in the Preamble of the Amendment Act of that State.
+Preamble of the Tamil Nadu Amendment Act provides that the object of the said Statute is to
+preserve the cultural heritage of the State of Tamil Nadu and to ensure the survival and wellbeing of
+native breeds of bulls. The said Act inserted [clause 2(d)] in the definition clause of the 1960 Act and
+amended Section 11(3) of the same Statute, adding sub-clause (f) thereto. There are two more
+Amendments which would appear from the table we have given above, but those are primarily to
+exempt Jallikattu from the restrictive provisions of the 1960 Act. In the judgment of A. Nagaraja
+(supra) it was inter-alia held on the point of tradition and culture of Jallikattu:-
+“54. The PCA Act, a welfare legislation, in our view, overshadows or overrides the
+so-called tradition and culture. Jallikattu and bullock cart races, the manner in which
+they are conducted, have no support of Tamil tradition or culture. Assuming, it has
+been in vogue for quite some time, in our view, the same should give way to the
+welfare legislation, like the PCA Act which has been enacted to prevent infliction of
+unnecessary pain or suffering on animals and confer duties and obligations on
+persons in charge of animals. Of late, there are some attempts at certain quarters, to
+reap maximum gains and the animals are being exploited by the human beings by
+using coercive methods and inflicting unnecessary pain for pleasure, amusement and
+enjoyment. We have a history of doing away with such evil practices in society,
+assuming such practices have the support of culture and tradition, as tried to be
+projected in the TNRJ Act. Professor Salmond states that custom is the embodiment
+of those principles which have commended themselves to the national conscience as
+the principles of justice and public utility. This Court, in N. Adithayan v. Travancore
+Devaswom Board [(2002) 8 SCC 106] (2002) 8 SCC 106, while examining the scope
+of Articles 25(1), 26(a), 26(b), 17, 14 and 21, held as follows: (SCC p. 125, para 18) “18.
+… Any custom or usage irrespective of even any proof of their existence in
+pre-constitutional days cannot be countenanced as a source of law to claim any rights
+when it is found to violate human rights, dignity, social equality and the specific
+mandate of the Constitution and law made by Parliament. No usage which is found to
+be pernicious and considered to be in derogation of the law of the land or opposed to
+public policy or social decency can be accepted or upheld by courts in the country.”
+55. As early as 1500-600 BC in Isha-Upanishads, it is professed as follows:
+“The universe along with its creatures belongs to the land. No creature is superior to
+any other.
+Human beings should not be above nature. Let no one species encroach over the
+rights and privileges of other species.” In our view, this is the culture and tradition of
+the country, particularly the States of Tamil Nadu and Maharashtra.
+56. The PCA Act has been enacted with an object to safeguard the welfare of the
+animals and evidently to cure some mischief and age old practices, so as to bring into
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+20
+effect some type of reform, based on eco-centric principles, recognising the intrinsic
+value and worth of animals. All the same, the Act has taken care of the religious
+practices of the community, while killing an animal vide Section 28 of the Act.”
+16. On this basis, arguments have been advanced on behalf of the petitioners that the Amendment
+Act of Tamil Nadu having regard to its Preamble seeks to invalidate conclusive judicial opinion
+without curing the defects specified in that decision in the conduct of Jallikattu. So far as the
+Karnataka Amendment Act is concerned, in the definition clauses of “Bulls Race or Bullock Cart
+Race” and “Kambala”, they have been described as part of tradition and culture of the State. In the
+Maharashtra Act also the source of Bullock Cart Race has been identified to be the tradition and
+culture of specified parts of that State in the definition clause of Bullock Cart Race.
+17. The argument of the petitioners and the interveners supporting in substance the ban on
+performance of these sports have been that the Statutes seek to validate the provisions that were
+held to be illegal by this Court without curing the defects outlined in the judgment of A. Nagaraja
+(supra). In such circumstances, the Amendment Acts could not be held to be in exercise of
+legitimate legislative power in the light of the constitutional provisions and these enactments are
+colourable legislations. The authorities in support of this proposition cited by the petitioners are
+Shri Prithvi Cotton Mills Ltd. and Another - vs- Broach Borough Municipality and Others [(1969) 2
+SCC 283], Bhubaneshwar Singh and Another -vs- Union of India and Others [(1994) 6 SCC 77],
+Indra Sawhney -vs- Union of India and Others [(2000) 1 SCC 168], Amarendra Kumar Mohapatra
+and Others -vs- State of Orissa and others [(2014) 4 SCC 583], State of M.P. -vs- Mahalaxmi Fabric
+Mills Ltd. and Others [1995 Supp (1) SCC 642], D.C. Wadhwa DR and Others -vs- State of Bihar and
+Others [(1987) 1 SCC 378], Sri Sri Sri K. C. Gajapati Narayan Deo -vs- State of Orissa [1954 SCR 1],
+S.S. Bola and Others -vs- B.D. Sardana and Others [(1997) 8 SCC 522], State of Tamil Nadu -vs-
+State of Kerala and Another [(2014) 12 SCC 696], Madan Mohan Pathak and Another -vs- Union Of
+India and Others [(1978) 2 SCC 50], National Agricultural Cooperative Marketing Federation of
+India Ltd. and Another -vs- Union of India and Others [(2003) 5 SCC 23], In Re Punjab
+Termination of Agreement Act, 2004 [(2017) 1 SCC 121], Mafatlal Industries Ltd. and Others -vs-
+Union of India and Others [(1997) 5 SCC 536], S. T. Sadiq -vs- State of Kerala and Others [(2015) 4
+SCC 400], A.R. Antulay -vs- R.S. Nayak and Another [(1988) 2 SCC 602] and Maneka Gandhi -vs-
+Union of India and Another [(1978) 1 SCC 248]. The judgment of the Maneka Gandhi (supra) was
+also relied upon to contend that in order to protect Fundamental Rights, the effect of the law has to
+be looked at and not just theories and provisions of law.
+18. Corollary submissions of the petitioners are that after Presidential assent was given to the three
+Statutes, they legitimised the three aforesaid events but the manner in which they are conducted is
+contrary to the provisions of Sections 3, 11(1)(a) and (m) as was held in the A. Nagaraja (supra) case.
+Hence, the attempt of the Amendment Acts is to override a judicial verdict without addressing the
+grounds on which this Court had found Jallikattu and Bullock Cart Race in the States of Tamil Nadu
+and Maharashtra respectively to be in violation of the 1960 Act. This legislative exercise, as argued
+by the petitioners, go contrary to Constitutional scheme. The authorities cited on this point are State
+of Tamil Nadu -vs- State of Kerala (supra), Chief Secretary to the Government, Chennai, Tamil Nadu
+and Others -vs- Animal Welfare Board and Another [(2017) 2 SCC 144] and Rupa Ashok Hurra -vs-
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+21
+Ashok Hurra and Another [(2002) 4 SCC 388].
+19. In the case of A. Nagaraja (supra), the two Judge Bench, on the basis of affidavit of the Animal
+Welfare Board of India and MoEF&CC described the manner in which Jallikattu was being
+performed. The preparation of the bulls for these sports entail, but not limited to, ear
+cutting/mutilation, twisting of tail, resulting in fracture and dislocation of tail bones. It was also
+stated that 95% of the bulls that were used in the process of participation in these sports were soiled
+with faeces from below the base of their tails and across the large part of their hindquarters.
+Additionally, bovine species were forced to stand together in accumulated waste for hours. At one of
+the locations of the events, the Animal Welfare Board found that in the “collection area”, a bull died
+due to injuries caused as a result of head-on collision with a moving passenger bus. Injuries were
+caused to muscle bones, nerves and blood vessels also as the bulls were subjected to tail-biting,
+poking them with sharp objects to excite them, use of irritants in the eyes and nose. Vadi vassal (the
+cattle bull entry place in Jallikattu) were narrow entry corridors which had cramping conditions and
+bulls were made to move sideways which is an unnatural movement for them. There was also lack of
+food and water at the respective locations and instances of spectators beating, biting and agitating
+the bulls. Such abhorrent practises surfaced from investigation reports relied on by the petitioners.
+In paragraph 67 of A. Nagaraja (supra), as reported in the aforesaid journal, substantial emphasis
+has been laid on Article 48 of the Constitution of India read with Fundamental Duties enshrined in
+Article 51-A (g) and (h). On that basis, argument was advanced that sentient species should be
+accorded the protective umbrella of Article 21 of the Constitution. We shall deal with that aspect
+later in this judgment. In fact, argument in this line has been advanced on the basis that sentient
+animals have natural rights to live a life with dignity without any infliction of cruelty. The other line
+of submission on behalf of the petitioners is that the subject dealt with by the three Amendment
+Acts does not relate to List III. On this count the authorities cited were State of Bihar and Others
+-vs- Indian Aluminium Company and Others [(1997) 8 SCC 360], Hoechst Pharmaceuticals Ltd.
+(supra), M. Karunanidhi -vs- Union of India and Another [(1979) 3 SCC 431] and K.T. Plantation
+Private Ltd. and Another -vs- State of Karnataka [(2011) 9 SCC 1].
+20. It has also been the argument of the petitioners that making exception for bulls to carve them
+out of the protective mechanism of the 1960 Act was not based on any intelligible criteria but on an
+arbitrary selection. Learned Counsel for the petitioners relied on Director of Education (Secondary)
+and Another -vs- Pushpendra Kumar and Others [(1998) 5 SCC 192], Harbilas Rai Bansal -vs- State
+of Punjab and Another [(1996) 1 SCC 1], State of Gujarat and Another -vs- Raman Lal Keshav Lal
+Soni and Others [(1983) 2 SCC 33] and Shayara Bano -vs- Union of India and Others [(2017) 9 SCC
+1] to substantiate this argument.
+21. We shall first deal with the argument advanced on behalf of the petitioners that animals have
+rights. In fact, what has been urged before us is that animals have Fundamental Rights as also legal
+rights. It has been held in A. Nagaraja (supra) case at paragraph 66 (in the Report):-
+“66. Rights guaranteed to the animals under Sections 3, 11, etc. are only statutory
+rights. The same have to be elevated to the status of fundamental rights, as has been
+done by few countries around the world, so as to secure their honour and dignity.
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+22
+Rights and freedoms guaranteed to the animals under Sections 3 and 11 have to be
+read along with Article 51-A(g) and (h) of the Constitution, which is the magna carta
+of animal rights.”
+22. The concept of animal rights has been anchored by the petitioners on dual foundation. It has
+been submitted that our jurisprudence does not recognise rights only for human beings and
+Narayan Dutt Bhatt -vs- Union of India [(2018) SCC OnLine Utt 645] has been cited to demonstrate
+that animals are legal entities having a distinct persona with corresponding rights, duties and
+liabilities as that of a legal person. In order to put emphasis on this concept of evolving rights,
+petitioners have submitted that our legal system is both organic and dynamic in nature and with
+passage of time law must change. (Saurabh Chaudri and Others
+-vs- Union of India and Others [(2003) 11 SCC 146], Chief Justice of Andhra Pradesh and Others
+-vs- L.V.A. Dixitulu and Others [(1979) 2 SCC 34], Video Electronics Pvt. Ltd. and Another -vs- State
+of Punjab and Another [(1990) 3 SCC 87] and Ashok Kumar Gupta and Another v. State of U.P. and
+Others, [(1997) 5 SCC 201]). In this regard, certain international authorities being Argentina, Case
+No.P-72.254/2015 has been cited. Further, our attention has been drawn to the Animal Wellbeing
+(Sentience) Act, 2022 recognising animals as sentient beings in the United Kingdom. It has also
+been asserted that rights of sentient animals have been recognised by the Constitutional Court of
+Ecuador. On behalf of the respondents, the factum of existence of animal rights has not been
+directly contested but the stand of the respondents on this point is that the rights which the sentient
+animal would have enjoyed ought to be subject to the legislative provisions and in a case of this
+nature, which is likely to have seminal impact not only on our jurisprudence but our society as well,
+legislature would be a better judge to determine what would be the nature, contours and limitations
+of such rights. The effect of this argument is that the rights of sentient animals can be recognised by
+law but such rights would be in a nature as determined by the appropriate law-making body and not
+by judicial interpretation.
+23. On the point of recognizing rights of animals, the legislative approach appears to us to be
+two-fold. Of course, the animals cannot demand their right in the same way human beings can
+assert for bringing a legislation, but as part of the social and cultural policy the law makers have
+recognised the rights of animals by essentially imposing restriction on human beings on the manner
+in which they deal with animals. By virtue of Article 48 of the Constitution of India which essentially
+operates as a national guideline for law makers, a two-way path has been devised. The first is
+imposing duty on the State to organise agriculture and animal husbandry on modern and scientific
+lines. The second is emphasising the duty of the State to take steps for preserving and improving the
+breeds and prohibiting slaughter of cows and calves and other milch and draught cattle. Under the
+chapter on Fundamental Duties, a citizen is required to protect and improve the natural
+environment including forests, lakes, rivers and wildlife ought to have compassion for living
+creatures. The petitioners want us to interpret the Amendment Acts in light of these two
+constitutional provisions and want us to scrutinise the three Statutes taking into cognizance pain
+and suffering that would be caused to them, so that the bovine species are not compelled to
+participate in the aforesaid sports organised by human beings for the latter’s own pleasure. It is the
+petitioners’ stand that wherever the 1960 Act enjoins human beings from performing certain acts
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+23
+vis-à-vis animals, the obligations ought to be translated jurisprudentially into rights of the animals
+not to be subjected to such prohibited acts. The line of reasoning in this regard on behalf the
+petitioners is that the very manner in which these sports activities are undertaken directly offend the
+aforesaid two provisions of the 1960 Act. Merely by introducing these three Amendment Acts, the
+organisers of these events cannot be saved from the offences specified in the 1960 Act, which aspect
+has been dealt with in detail in the judgment of this Court in the case of A. Nagaraja (supra).
+24. On the question of conferring fundamental right on animals we do not have any precedent. The
+Division Bench in the case of A. Nagaraja (supra) also does not lay down that animals have
+Fundamental Rights. The only tool available for testing this proposition is interpreting the three
+Amendment Acts on the anvil of reasonableness in Article 14 of the Constitution of India. While the
+protection under Article 21 has been conferred on person as opposed to a citizen, which is the case
+in Article 19 of the Constitution, we do not think it will be prudent for us to venture into a judicial
+adventurism to bring bulls within the said protected mechanism. We have our doubt as to whether
+detaining a stray bull from the street against its wish could give rise to the constitutional writ of
+habeas corpus or not. In the judgment of A. Nagaraja (supra), the question of elevation of the
+statutory rights of animals to the realm of fundamental rights has been left at the advisory level or
+has been framed as a judicial suggestion. We do not want to venture beyond that and leave this
+exercise to be considered by the appropriate legislative body. We do not think Article 14 of the
+Constitution can also be invoked by any animal as a person. While we can test the provisions of an
+animal welfare legislation, that would be at the instance of a human being or a juridical person who
+may espouse the cause of animal welfare.
+25. We shall next test the argument of the authorities, i.e., the Union, the three States as also the
+Animal Welfare Board (in their changed stance) that bovine sports are part of the culture and
+tradition of the respective States. We have already referred to the relevant provisions of the three
+Amendment Acts which carries expression to this effect.
+26. Ordinarily, whether a particular practice or event is part of culture or tradition is to be decided
+by the custom and usage of a particular community or a geographical region which can be translated
+into an enactment by the appropriate legislature. But here the continuance of the subject sports have
+been found to be in breach of a Central Statute by a Division Bench of this Court and these three
+Amendment Acts seek to revive the earlier position. That is the petitioners’ argument.
+27. In order to come to a definitive conclusion on this question, some kind of trial on evidence would
+have been necessary. It is also not Court’s jurisdiction to decide if a particular event or activity or
+ritual forms culture or tradition of a community or region. But if a long lasting tradition goes against
+the law, the law Courts obviously would have to enforce the law. Learned counsel appearing for the
+parties, however, have cited different ancient texts and modern literature to justify their respective
+stands. In Public Interest Litigations, this Court has developed the practice of arriving at a
+conclusion on subjects of this nature without insisting on proper trial to appreciate certain social or
+economic conditions going by available reliable literature. In paragraphs 53 and 73 in the case of A.
+Nagaraja (supra), there is judicial determination about the practice being offensive to the provisions
+of the Central Statute. It would be trite to repeat that provisions of a Statute cannot be overridden by
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+24
+a traditional or cultural event. Thus, we accept the argument of the petitioners that at the relevant
+point of time when the decision in the case of A. Nagaraja (supra) was delivered, the manner in
+which Jallikattu was performed did breach the aforesaid provisions of the 1960 Act and hence
+conducting such sports was impermissible.
+28. But that position of law has changed now and the Amendment Acts have introduced a new
+regime for conducting these events. It is a fact that the Amendment Acts per se seeks to legitimize
+the aforesaid three bovine sports by including them by their respective names and the body of the
+Statute themselves do not refer to any procedure by which these sports shall be held. If that was the
+position these Amendment Acts would have fallen foul of the ratio of the decisions of this Court in
+the cases of S.S. Bola and Others (supra), State of Tamil Nadu -vs- State of Kerala (supra), Madan
+Mohan Pathak (supra), National Agricultural Cooperative Marketing Federation of India Ltd.
+(supra), In Re Punjab Agreement Act (supra), Mafatlal (supra), S.T. Sadiq (supra) and A.R. Antulay
+(supra). The stand of the respondents however is that many of the offending elements of Jallikattu,
+Kambala or Bullock Cart Race have been eliminated by the Rules made under the Tamil Nadu and
+Maharashtra Amendment Acts and the State of Karnataka has issued statutory notification laying
+down rigid regulatory measures for conducting these sports. These Rules specify isolated arena for
+the sports or events to be conducted including setting up of both bull run and bull collection area,
+galleries separating spectators from directly coming into contact with bulls. The learned counsel for
+the respondents want us to read the Statutes and the Rules together to counter the argument of the
+petitioners that the Amendment Acts merely reintroduce the offending sports into the main Statute
+for their respective States without correcting or removing the defects pointed out by this Court in
+the case of A. Nagaraja (supra). In the case of State of U.P. and Others -vs- Babu Ram Upadhya
+[(1961) 2 SCR 679], it was inter alia observed that the fundamental principle of construction was
+that the Rules made under the Statute must be treated as a part and parcel thereof as if they were
+contained in the parent Act. In the case of Peerless General Finance and Investment Co. Ltd. and
+Another -vs- Reserve Bank of India [(1992) 2 SCC 343], it was held:-
+“52. In State of U.P. v. Babu Ram Upadhya [(1961) 2 SCR 679 : AIR 1961 SC 751 : (1961) 1 Cri LJ 773]
+this Court held that rules made under a statute must be treated, for all purposes of construction or
+obligations, exactly as if they were in that Act and are to the same effect as if they were contained in
+the Act and are to be judicially noticed for all purposes of construction or obligations. The statutory
+rules cannot be described or equated with administrative directions. In D.K.V. Prasada Rao v.
+Government of A.P. [AIR 1984 AP 75 : (1983) 2 Andh WR 344] the same view was laid down.
+Therefore, the directions are incorporated and become part of the Act itself. They must be governed
+by the same principles as the statute itself. The statutory presumption that the legislature inserted
+every part thereof for a purpose and the legislative intention should be given effect to, would be
+applicable to the impugned directions.”
+29. The Tamil Nadu Amendment Act contains stipulation to the effect that conduct of Jallikattu
+subject to such Rules and regulations as may be framed by the State Government shall be permitted.
+Section 38-B of the Maharashtra Act provides Rule making power of the State consistent with the
+Rules made by the Central Government. Both these Statutes have become part of the 1960 Act in
+their respective States and specifically confer Rule making power to the States and Rules have been
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+25
+framed. In such circumstances, as held by this Court in the case of Peerless General Finance and
+Investment Co. Ltd. (supra), our opinion is that these Rules have to be read along with the
+Amendment Acts for their proper interpretation. So far as the Karnataka Amendment Act is
+concerned, two fresh restrictions have been imposed in conducting Kambala by virtue of
+introduction of Section 3(2) in the main Act after Amendment. These conditions ban unnecessary
+pain or suffering that would be caused to the animals by the person in charge of the animals
+conducting Kambala and make such practice subject to the conditions as may be specified by the
+State Government by notification. Following the same analogy which we have expressed earlier
+while reading the Amendment Acts of Tamil Nadu and Maharashtra, in our opinion the Notification
+issued by the State of Karnataka ought to be accorded same status as Rule and has also to be read as
+integral part of the Statute, as amended. These Rules and the Notification ought not to be segregated
+from the Amendment Acts for appreciating their true scope while examining the petitioners’ claim
+that the Amendment Acts, analysed in isolation from the said Rules and the Notification would be
+contrary to the findings of this Court in the case of A. Nagaraja (supra).
+30. In our opinion, the expressions Jallikattu, Kambala and Bull Cart Race as introduced by the
+Amendment Acts of the three States have undergone substantial change in the manner they were
+used to be practiced or performed and the factual conditions that prevailed at the time the A.
+Nagaraja (supra) judgment was delivered cannot be equated with the present situation. We cannot
+come to the conclusion that in the changed circumstances, absolutely no pain or suffering would be
+inflicted upon the bulls while holding these sports. But we are satisfied that the large part of pain
+inflicting practices, as they prevailed in the manner these three sports were performed in the
+pre-amendment period have been substantially diluted by the introduction of these statutory
+instruments. Argument was advanced that in reality these welfare measures may not be practiced
+and the system as it prevailed could continue. We, however, cannot proceed in exercise of our
+judicial power on the assumption that a law ought to be struck down on apprehension of its abuse or
+disobedience. All the three bovine sports, after Amendment, assume different character in their
+performance and practice and for these reasons we do not accept the petitioners’ argument that the
+Amendment Acts were merely a piece of colourable legislation with cosmetic change to override
+judicial pronouncement. Once we read the amended Statutes with the respective Rules or
+Notification, we do not find them to encroach upon the Central legislation. Respondents have cited a
+large body of authorities to defend their stand that these are not cases of colourable legislation but
+we do not consider it necessary to refer to all these judgments individually as we have come to this
+conclusion after analysing various statutory instruments covering the field.
+31. Can the Amendment Acts be struck down for being arbitrary? There is a body of cases in which
+legislations have been invalidated on this ground. So far as the subject of the present controversy is
+concerned, the bulls form a distinct species referred to as draught or pack animals as opposed to
+horses, which are adapted to run. But we decline to hold that just because bulls lack the natural
+ability to run like a horse, the subject-sports which are seasonally held shall be held to be contrary to
+the provisions of the 1960 Act. In fact, on behalf of the respondents it was argued that these genre of
+bulls are specially bred and have natural ability to run. There are contrary views on this point. But in
+our opinion, no irrational classification as regards these bull sports have been made by the
+legislature so as to attract the mischief which Article 14 of the Constitution of India seeks to prevent.
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+26
+The validity of a legislative Act can also be negated on the ground of it being unreasonable. The
+element of unreasonableness here is that the bovine species involved herein are being subjected to
+unnecessary pain and suffering mainly for entertainment purpose. But the 1960 Act itself
+categorizes several activities which cause pain and suffering, even to a sentient animal. The
+judgment in the case of A. Nagaraja (supra) was largely founded on factual basis that bulls were
+sentient animals, and the sports involved were unnecessary, as opposed to being necessary for
+human survival. But the 1960 Act, on which the petitioners’ case largely rests, proceeds on the basis
+of perceived human necessity to employ animals in certain load carrying and entertainment
+activities. For instance, while other means of carriage of goods are available, why should bulls be
+permitted to undertake such activities - which are apparently involuntary and subject these sentient
+bovine species to pain and suffering? Horse racing is allowed under Performing Animals
+(Registration) Rules, 2001. Horse is also a sentient animal. But the fact remains that by making
+them perform in races, some element of pain and suffering must be caused to horses. Here, the
+focus shifts from causing pain and suffering to the degree of pain and suffering to which a sentient
+animal is subjected to while being compelled to undertake certain activities for the benefit of human
+beings. Similarly, proponents of vegetarianism may argue that slaughtering animals is not necessary
+as human beings can survive without animal protein. In our opinion, we should not take up this
+balancing exercise which has societal impact in discharge of our judicial duties. This kind of exercise
+ought to be left for the legislature to decide upon.
+32. We shall now turn to the petitioners’ case assailing the legality of the State Amendments by
+invoking the “Doctrine of Pith and Substance”. On that count, their submission is based on two
+principles. First, it has been urged that even after the Amendment, the performance of these sports
+continue to inflict pain and injury on the participating bulls and secondly, it was found by this Court
+in A. Nagaraja (supra), that these sports are in violation of the aforesaid provisions of the 1960 Act
+at the time when the three State Amendments were not enacted. On the face of it, learned counsel
+appearing for the petitioners argued, that the Amendment Acts does not in any way provide
+remedial measures which could have rendered the three sports cured of the legal failing as is
+postulated in the said provisions. According to the petitioners, these Acts seek to only introduce the
+Jallikattu, Kambala and Bullock Cart Race as permissible activities within the provisions of the 1960
+Act. Even if certain sports by their names are included within the ambit of permissible activity, the
+provisions of Sections 3, 11(1) (a) and (m) of the 1960 Act are not rendered otiose. The other point
+raised by the petitioners is that the subject of Jallikattu does not come within the ambit of Entry 17
+of List III of the Seventh Schedule to the Constitution of India and hence the State Assemblies
+lacked the legislative competence to enact the Amendment Acts. Presidential assent would not cure
+the said incompetency, it is urged by the petitioners. We have found no flaw in the process of
+obtaining Presidential assent having regard to the provisions of Article 254(2) of the Constitution of
+India.
+33. The “Doctrine of Pith and Substance” has been explained in the well-known text, “Principles of
+Statutory Interpretation” by G.P. Singh. We quote below the extract from 14th Edition of that text:-
+“The question whether the Legislature has kept itself within the jurisdiction assigned
+to it or has encroached upon a forbidden filed is determined by finding out the true
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+27
+nature and character or pith and substance of the legislation which may be different
+from its consequential effects. If the pith and substance of the legislation is covered
+by an entry within the permitted jurisdiction of the Legislature any incidental
+encroachment in the rival field is to disregarded. There is a presumption of
+constitutionality of statutes and hence, prior to determining whether there is any
+repugnancy between a Central Act and a State Act, it has to determined whether both
+Acts relate to the same entry in List III, and whether there is a ‘direct’ and
+‘irreconcilable’ conflict between the two, applying the doctrine of ‘pith and
+substance’.
+The petitioners have relied on a several authorities explaining this doctrine. These are State of
+Rajasthan -vs- Shri G. Chawla and Dr Pohumal [(1959) Supp (1) SCR 904], Ishwari Khetan Sugar
+Mills (P) Ltd. and Others -vs- State of U.P. and Others [(1980) 4 SCC 136], Federation of Hotel &
+Restaurant Association of India, etc. -vs- Union of India and Others [(1989) 3 SCC 634], State of
+A.P. and Others -vs- McDowell & Co. and Others [(1996) 3 SCC 709], State of W.B. -vs- Kesoram
+Industries Ltd. and Others [(2004) 10 SCC 201] and Hoechst Pharmaceuticals Ltd. (supra).
+34. First we shall examine as to whether conducting these bovine sports is relatable to Item 17 of the
+concurrent list. It stipulates:-
+“Prevention of Cruelty to Animals.” In the case of I.N Saksena -vs- State of Madhya Pradesh [(1976)
+4 SCC 750], this Court had laid down that legislative lists in the Constitution ought to be interpreted
+in a wide amplitude. The 1960 Act in whole and the subjects of the three Amendments directly deal
+with the question of prevention of cruelty to animals. There is no other entry in any of the lists to
+which this subject could be connected with. In such circumstances, we reject the contention of the
+petitioners that the State Legislatures inherently lacked jurisdiction to bring these Amendments,
+which subsequently received Presidential assent. On behalf of the respondents, several decisions
+have been relied upon in support of this argument. Having regard to the view that we have already
+taken, we do not consider it necessary to reproduce all these decisions.
+35. Next comes the question as to whether even after the said Amendments, Jallikattu and the other
+two activities could be held to be beyond legislative competence of the three legislative bodies. We
+have already held that the three Amendment Acts have to be read together with the consequential
+Rules or Notifications. In our view, these Rules, once treated as part of the Acts, alter the manner of
+conducting these sports and once these provisions are implemented, the mischief sought to be
+remedied by the aforesaid two provisions of 1960 Act (i.e. Sections 3 and 11(1)(a) and (m)) would
+not be attracted anymore. Thus, the argument that the Amendment Acts are void because they seek
+to override the judgment of A. Nagaraja (supra) cannot be sustained as the basis of that judgment
+having regard to the nature and manner in which the offending activities were carried on has been
+altered.
+36. Petitioners contend that even after changed procedure contemplated by the three statutory
+instruments, the very participation of the bulls in these sports involve a strong element of
+involuntariness as well as some element of pain and suffering. In the cases of T.N. Godavarman
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+28
+Thirumulpad -vs- Union of India and Others [(2012) 4 SCC 362], Centre for Environmental Law,
+World Wide Fund-India -vs- Union of India and Others [(2013) 8 SCC 234] and N.R. Nair and
+Others -vs- Union of India and Others [(2001) 6 SCC 84], it has been broadly held that animals have
+inherent right in natural law to live a dignified life without infliction of cruelty and this principle is
+sought to extended to proscribe Jallikattu, Kambala and Bullock Cart Race. In the case of N.R. Nair
+(supra), it was held that animals have capability to bear pain and suffering and that they have a fear
+from restrictions on their spaces and bodies and other forms of physical discomfort. But we need not
+refer to these authorities as we accept the obligation of human beings to ensure that animals do not
+suffer from pain and injury. Our jurisdiction, however, does not extend to provide an absolute
+protection to the animals from any manner of infliction of pain and suffering. What the broad theme
+of 1960 Act is that the animals must be protected from unnecessary pain and suffering. This aspect
+has been dealt with in the case of A. Nagaraja (supra). This approach would be apparent from a
+plain reading of Section 11 of the 1960 Act itself even before the three Amendments where the
+legislature appears to have undertaken a balancing exercise without disturbing the concept of
+ownership of animal by an individual and such individual’s right to employ these animals in the
+aforesaid sports. We have already expressed our views on the point earlier in this judgment.
+37. As we proceed on the basis that the Constitution does not recognise any Fundamental Right for
+animals, we shall have to test the legality of the three Statutes against the provisions of 1960 Act
+along with the constitutional provisions of Articles 48, 51-A (g) and
+(h). The three Statutes will also have to meet the test of arbitrariness, which has become the
+foundation of our constitutional jurisprudence after this Court delivered the judgment in the cases
+of E.P. Royappa -vs- State of Tamil Nadu and Another [(1974) 4 SCC 3], Ajay Hasia and Others -vs-
+Khalid Mujib Sehravardi and Others [(1981) 1 SCC 722] and Joseph Shine -vs- Union of India
+[(2018) 2 SCC 189].
+38. Factual arguments have been advanced that prohibition on the practice of particularly Bullock
+Cart Race could result in ultimate collapse of a particular genre of cattle which are useful for
+agricultural purpose and hence the aforesaid Amendment Acts to be treated to be relatable to Entry
+15 of List II of the Seventh Schedule to the Constitution of India. But having regard to the nature of
+challenge, we are of the view that in pith and substance, the Amendment Acts seek to address the
+question of prevention of cruelty to animals. The tenor of the Maharashtra Amendment Act and its
+Preamble point to that interpretation and the object of the Amendments primarily is relatable to
+Item 17 of the Concurrent List. Hence, we reject the argument that the Maharashtra Amendment Act
+has been legislated for the preservation, protection and improvement of stock and prevention of
+animal diseases, veterinary training and practice. So far as the argument that livelihood of farmers
+and people associated with Bullock Cart Race could be adversely affected if the prohibition which
+the writ petitioners want us to impose by striking down the aforesaid Amendment Statute is
+concerned, we do not need to address this argument. We have, in this judgment dealt with the
+question as to whether provisions of 1960 Act are being violated or not, as was held in the case of A.
+Nagaraja (supra), decided prior to the three Amendment Statutes. The effect of the said prohibition
+upon the livelihood of the people of that State is said to be espoused in I.A. No.170346 of 2022. If we
+were to hold that these bovine sports offended the provisions of the 1960 Act, the deprivation
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+29
+apprehended would have come within the reasonable restriction clause enshrined in Article 19(6) of
+the Constitution of India. In such a situation, a law made in that regard would also be protected in
+relation to the challenge on the basis of Article 21 of the Constitution of India being procedure
+established by law.
+39. In the judgment of A. Nagaraja (supra), the Division Bench of this Court, while examining the
+claim of the petitioners therein held that Jallikattu is dangerous not only to bulls but also to human
+and many participants and spectators sustained injury in course of such events. So far as human
+beings are concerned, their injuries would attract the principle of Tort known in common law as
+“voluntary non fit injuria”.
+40. In the light of what we have already discussed, we answer the five questions referred to us in the
+following terms:-
+(i) The Tamil Nadu Amendment Act is not a piece of colourable legislation. It relates, in pith and
+substance, to Entry 17 of List III of Seventh Schedule to the Constitution of India. It minimises
+cruelty to animals in the concerned sports and once the Amendment Act, along with their Rules and
+Notification are implemented, the aforesaid sports would not come within the mischief sought to be
+remedied by Sections 3, 11(1) (a) and
+(m) of the 1960 Act.
+(ii) Jallikattu is a type of bovine sports and we are satisfied on the basis of materials disclosed before
+us, that it is going on in the State of Tamil Nadu for at least last few centuries. This event essentially
+involves a bull which is set free in an arena and human participants are meant to grab the hump to
+score in the “game”. But whether this has become integral part of Tamil culture or not requires
+religious, cultural and social analysis in greater detail, which in our opinion, is an exercise that
+cannot be undertaken by the Judiciary. The question as to whether the Tamil Nadu Amendment Act
+is to preserve the cultural heritage of a particular State is a debateable issue which has to be
+concluded in the House of the People. This ought not be a part of judicial inquiry and particularly
+having regard to the activity in question and the materials in the form of texts cited before us by
+both the petitioners and the respondents, this question cannot be conclusively determined in the
+writ proceedings. Since legislative exercise has already been undertaken and Jallikattu has been
+found to be part of cultural heritage of Tamil Nadu, we would not disrupt this view of the legislature.
+We do not accept the view reflected in the case of A. Nagaraja that performance of Jallikattu is not a
+part of the cultural heritage of the people of the State of Tamil Nadu. We do not think there was
+sufficient material before the Court for coming to this conclusion. In the Preamble to the
+Amendment Act, Jallikattu has been described to be part of culture and tradition of Tamil Nadu. In
+the case of A. Nagaraja (supra), the Division Bench found the cultural approach unsubstantiated and
+referring to the manner in which the bulls are inflicted pain and suffering, the Division Bench
+concluded that such activities offended Sections 3 and 11(1)(a) and (m) of the 1960 Act. Even if we
+proceed on the basis that legislature is best suited branch of the State to determine if particular
+animal-sports are part of cultural tradition of a region or community, or not, if such cultural event
+or tradition offends the law, the penal consequence would follow. Such activities cannot be justified
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+30
+on the ground of being part of cultural tradition of a State. In A. Nagaraja (supra), the sports were
+held to attract the restriction of Sections 3 and 11(1)(a) and (m) of the 1960 Act because of the
+manner it was practiced. The Amendment Act read with the Rules seek to substantially minimise the
+pain and suffering and continue with the traditional sports. The Amendment having received
+Presidential assent, we do not think there is any flaw in the State action. “Jallikattu” as bovine sports
+have to be isolated from the manner in which they were earlier practiced and organising the sports
+itself would be permissible, in terms of the Tamil Nadu Rules.
+(iii) The Tamil Nadu Amendment Act is not in pith and substance, to ensure survival and well-being
+of the native breeds of bulls. The said Act is also not relatable to Article 48 of the Constitution of
+India. Incidental impact of the said Amendment Act may fall upon the breed of a particular type of
+bulls and affect agricultural activities, but in pith and substance the Act is relatable to Entry 17 of
+List III of the Seventh Schedule to the Constitution of India.
+(iv) Our answer to this question is in the negative. In our opinion, the Tamil Nadu Amendment Act
+does not go contrary to the Articles 51-A (g) and 51-A(h) and it does not violate the provisions of
+Articles 14 and 21 of the Constitution of India.
+(v) The Tamil Nadu Amendment Act read along with the Rules framed in that behalf is not directly
+contrary to the ratio of the judgment in the case of A. Nagaraja (supra) and judgment of this Court
+delivered on 16th November 2016 dismissing the plea for Review of the A. Nagaraja (supra)
+judgment as we are of the opinion that the defects pointed out in the aforesaid two judgments have
+been overcome by the State Amendment Act read with the Rules made in that behalf.
+41. Our decision on the Tamil Nadu Amendment Act would also guide the Maharashtra and the
+Karnataka Amendment Acts and we find all the three Amendment Acts to be valid legislations.
+42. However, we direct that the law contained in the Act/Rules/Notification shall be strictly
+enforced by the authorities. In particular, we direct that the District Magistrates/competent
+authorities shall be responsible for ensuring strict compliance of the law, as amended along with its
+Rules/Notifications.
+43. All the I.As. for Intervention are allowed in the above terms. As we have answered the referred
+questions, we do not think any purpose would be served in keeping the writ petitions pending. All
+the writ petitions shall stand dismissed. The appeal and the Transferred Case shall also stand
+disposed of in the above terms.
+44. Other pending applications, if any, are also disposed of.
+45. There shall be no order as to costs.
+. . . . . . . . . . . . . . . . . J.
+(K.M. JOSEPH) . . . . . . . . . . . . . . . . . J.
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+31
+(AJAY RASTOGI) . . . . . . . . . . . . . . . . . J.
+(ANIRUDDHA BOSE) . . . . . . . . . . . . . . . . . J.
+(HRISHIKESH ROY) . . . . . . . . . . . . . . . . . J.
+(C.T. RAVIKUMAR) New Delhi;
+May 18, 2023
+The Animal Welfare Board Of India vs Union Of India on 18 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/124059674/
+32

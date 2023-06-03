@@ -1,0 +1,767 @@
+Supreme Court of India
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Author: Sanjay Karol
+Bench: B.R. Gavai, Sanjay Karol
+                                                     1
+                                                                        REPORTABLE
+                                    IN THE SUPREME COURT OF INDIA
+                                  CRIMINAL APPELLATE JURISDICTION
+                                CRIMINAL APPEAL NOS.1636-1637 OF 2023
+                              (Arising out of SLP(Crl.) Nos.11009-11010/2015)
+          Prakash Nishad @ Kewat Zinak Nishad                        … Appellant
+                                                  Versus
+          State of Maharashtra                                       … Respondent
+                                             JUDGMENT
+SANJAY KAROL, J.
+Leave granted.
+2. The following issues arise for consideration in the present appeals :
+Signature Not Verified Digitally signed by Narendra Prasad Date: 2023.05.19
+1) Whether non-recording of a disclosure statement 18:18:44 IST Reason: of the appellant in the
+language in which it is made and recording of the same in a language totally unknown to the
+appellant, contents whereof are also not read over and explained to him, can be said to have caused
+any prejudice to the cause of justice?
+2) Whether DNA evidence can form the solitary basis in determining the guilt of the appellant?
+3) Whether the circumstances as identified and relied on by the prosecution indeed point to the guilt
+only of the appellant, closing out any and all other possibilities of any other person?
+The Factual Prism
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+1
+3. Pursuant to FIR No.109/2010 dated 12.6.2010 registered at P.S. Bhayander (Thane,
+Maharashtra), the appellant Prakash Nishad @ Kewat Zinak Nishad was charged for having
+committed an offence punishable under Sections 376, 377, 302 and 201 of the Indian Penal Code,
+1860 (‘IPC’ for short). The Trial Court vide judgment dated 27.11.2014 rendered in Sessions Case
+No.407/2010, convicted the accused in connection with all the offences and imposed capital
+punishment for the charge under Section 302 IPC and sentence of imprisonment for other offences.
+Hereinbelow is a tabular representation of the sentences as imposed by the Trial Court:
+S.No. Statutory provision Imposition of Sentence on the Appellant under the Indian
+Penal Code, 1860
+1. Section 376 Life imprisonment and fine of Rs. 1,000.
+In default, rigorous imprisonment for a time period of 3 months.
+2. Section 377 Life imprisonment and fine of Rs. 1000.
+In default, rigorous imprisonment for a time period of 3 months.
+3. Section 302 Death Penalty and fine of Rs. 3,000. In default, rigorous
+imprisonment for a time period of 9 months.
+4. Section 201 Rigorous imprisonment for 7 years and fine of Rs. 1,000. In default,
+rigorous imprisonment for a time period of 3 months.
+4. Such findings of fact and conviction, including that of the death sentence imposed were affirmed
+by the High Court of Bombay, being the first Court of Appeal in both the proceedings. The reference
+was also answered in terms of common judgment dated 13-14.10.2015 rendered in Criminal Appeal
+No.88/2015 and Criminal Confirmation Case No.4/2014.
+Hence, the present appeals preferred by the appellant.
+5. The courts below concurrently found the prosecution to have established the case beyond
+reasonable doubt, i.e., the appellant after sexually assaulting a minor girl (aged six years) put her to
+death. Also, in an attempt to destroy the evidence threw her into a ‘nala’ (drain) and concealed
+material evidence of crime.
+6. At the threshold, we may point out that it is a case of circumstantial evidence, as none has
+witnessed the crime for which the appellant stands charged for. The prosecution case is primarily
+based, not on ocular evidence but on the confessional statement of the appellant leading to the
+recovery of incriminating articles and through scientific analysis establishing his guilt. The
+sheet-anchor of the case being the DNA analysis report stating the semen of the appellant found on
+the undergarments of the prosecutrix (nicker) and the vaginal smear slide of the prosecutrix.
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+2
+7. We now proceed to examine the prosecution case, as has unfurled through the testimonies of the
+prosecution witnesses. However, in the service of ease, the 13 prosecution witnesses given in a
+tabular form, which are categorised as follows:
+1) Testimony of the medical examiner, i.e., PW 4 – Dr. Anjali Pimple (Ext.27);
+2) Testimonies of the independent witnesses, i.e., PW 1 – Mustakin Mohamad Ismail
+Shaikh, father (Ext.18), PW 2 – Rehanabano, mother (Ext.20) and PW 3 – Falim
+Ahmed Ibrahim Shaikh, uncle (Ext.21)(all being the relatives of the prosecutrix);
+3) Testimonies of the Investigating Officer, i.e., PW 6 – Sub-
+Inspector Suresh Ganpat Chillawar, 1st Investigating Officer (Ext.42 ), PW 11 – Ashok Sonar, Head
+Constable (Ext.56), PW 12 – A.P.I. Sudhir Shantaram, 2nd Investigating Officer (Ext.65) and PW 13
+– Deputy Commissioner of Police Deepak Pundalik Devraj, 3rd Investigating Officer (Ext.67); and
+4) Testimonies of the witnesses to the recovery of incriminating articles, i.e., PW 5 – Bipin Sohanlal
+Bafna (Ext.34), PW 7 – Suresh Jagdish Khandelwal (Ext.46), PW 8 – Vishal Navin Chandra Saha
+(Ext.49), PW 9 – Vijay Sudama Soni (Ext.53) and PW 10 – Ramlakhan Jaiswal (Ext.54), who are
+panch witnesses.
+    S.No.   Prosecution                          Type
+            Witness
+    PW 1    Mustakin Mohd.          Father of prosecutrix
+            Ismail Shaikh.
+    PW 2    Rehanabano              Mother of prosecutrix
+            Mohd. Shaikh
+    PW 3    Falim Ahmed             Uncle of prosecutrix
+            Ibrahim Shaikh
+    PW 4    Dr. Anjali Pimple       Medical Examiner
+    PW 5    Bipin Sohanlal          Panch Witness for search
+            Bafna                   conducted on 13.06.2010
+    PW 6    S.I. Suresh             First Investigating Officer -
+            Ganpat Chillawar        conducted search on
+                                    12.06.2010
+    PW 7  Suresh Jagdish            Panch Witness - for search
+          Khandelwal                conducted on 16.06.2010
+    PW 8  Vishal Navin              Panch Witness - for search
+          Chandra Saha              conducted on 17.06.2010
+    PW 9  Vijay Sudama              Panch Witness – crime spot
+          Soni                      witness on 12.06.2020
+    PW 10 Ramlakhan                 Panch Witness – crime spot
+          Jaiswal                   witness on 12.06.2020
+    PW 11 Ashok Sonar               Head Constable – registered
+                                    Report on 12.06.2010
+    PW 12 A.P.I. Sudhir             Second Investigation Officer –
+          Shantararn                conducted search on
+          Kudalkar                  13.06.2010 and on 17.06.2010.
+    PW 13 Deputy                    Third Investigation Officer –
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+3
+          Commissioner of           conducted search on 16
+          Police, Deepak            06.2010 and 17.06.2010
+          Pundalik Devraj
+8. The prosecutrix was born from the wedlock of PW 1 and PW 2 and at the time of occurrence of the
+incident, i.e., on 11.6.2010, she was just 6 years of age. Neither her identity, nor the fact that she died
+as a result of major ante-mortem injuries, is in dispute.
+9. Dr. Anjali Pimple (PW 4), who examined the body of the prosecutrix, has testified to the factum of
+the post-mortem conducted by her and preparation of medical report (Ext.28) thereof. As a witness
+on oath, she has deposed that the prosecutrix suffered multiple injuries (15 in total) on her body,
+including on both of her private parts. Undoubtedly such injuries are severe, serious and grievous in
+nature. Thus, the prosecution has established the case of homicidal death beyond any doubt.
+10. The question which arises for consideration is: as to who committed the dastardly crime? Was it
+only the appellant or someone else?
+11. For ascertaining such fact, we now proceed to examine the prosecution case as set out in different
+stages, be it investigation or trial.
+12. The FIR dated 12.6.2010 (Ext.44), so registered on the complaint of PW 1 (Ext.19 which forms
+part of Ext.1), records that in the morning of 12th June, 2010 the dead body of the prosecutrix was
+found floating in the Nala, in close proximity to her house. She had been sexually assaulted and
+killed by an “unidentified person”, after which the body was thrown into the nala with the objective
+of destruction of evidence of such assault.
+13. Significantly, none is suspected at this stage. The said FIR was recorded by Police Officer - PW
+11. The investigation consequent thereto was conducted by three people – PW 6, PW 12, and PW 13.
+14. PW 6 (the 1st Investigating Officer) in the presence of Panch Witnesses – PW 9 and PW 10,
+recovered the body of the prosecutrix and sent it for post-mortem, which was conducted by PW 4.
+This Investigating Officer only conducted the spot search. His role ends here.
+15. Thereafter, PW 12 (the 2nd Investigating Officer) based on certain inputs (not disclosed),
+arrested the appellant from his workplace on 13.6.2010 and searched his house in the presence of
+two independent witnesses, namely, PW 5 and Piyush Ramesh Kumar Jain (not examined). The
+search resulted in recovery of certain incriminating articles vide memo Ext.35. The appellant was in
+no manner associated with such a search.
+16. Thereafter, further investigation was entrusted to PW 13 - the Deputy Commissioner of Police
+(the third Investigating Officer), who, on the basis of disclosure statement of the appellant,
+conducted the search at two places, including the house of the appellant previously searched on
+13.6.2010. Such searches were conducted on 16th and 17th of June, 2010, leading to the recovery of
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+4
+certain incriminating articles linking the appellant to the crime, which stood established in DNA
+reports (Ext.85 & 86) prepared by the forensic experts through scientific analysis. The Investigating
+Officer found tell-tale signs of the appellant in the shape of stains of his semen, on the vaginal smear
+slide of the prosecutrix and blood stains of the prosecutrix on the banian (vest) of the appellant,
+linking the appellant to the crime. As such, on completion of the investigation, a challan was
+presented in the Court for trial.
+17. In the aforesaid backdrop, we now proceed to examine the testimonies of the witnesses as
+categorized above.
+18. On oath, PW 1, (father of the prosecutrix) categorically admits that he had not expressed any
+doubt on any person for having caused the death of his daughter. He expressly stated that “I had no
+doubt on any one about the death of my daughter”. He recognized the appellant who, according to
+the said witness, lived in the same “chawl”. His testimony is indicative of the fact that on the evening
+of 11.6.2010, his daughter (the prosecutrix), aged 6 years, after having dinner left home. Finding her
+not to have returned home, he searched for her and found her to be dead, in a “gutter” near his
+house. Later on, he states that prior to 14.6.2010, he had not suspected the appellant of having
+committed the crime. Significantly, the date and the basis leading to such suspicion is not disclosed
+by him.
+19. Other aspects of his deposition, in particular, his statement with respect to the recovery of the
+nicker shall be dealt with separately. He recognized the nicker (Article 10) to be that of his daughter.
+20. PW 2, the mother of the prosecutrix, while corroborating the testimony of her husband, added
+that till 14.6.2010 she was not aware as to who had assaulted and killed her daughter. However, in
+Court, she testified to having given the appellant a match box, upon his request, in the early hours of
+12.6.2010.
+21. PW 3, while corroborating the version of PW 1 and PW 2, only added that finding the prosecutrix
+not to have returned home, he thought that perhaps she had gone to the neighbour’s house to watch
+television. On the morning of 12.6.2010, a neighbour - whom he does not name - informed PW 2 of
+the dead body of the prosecutrix lying in a “gutter”.
+22. It is to be noted that none of the relatives have disclosed either the complicity of the appellant in
+the crime or the reason for their suspicion towards him, particularly on 14.6.2010 which was two
+days after the incident.
+23. The law on circumstantial evidence is well settled. When a case is governed by such evidence, the
+evidence must point singularly to the guilt of the appellant, closing out the possibility of all other
+hypotheses.
+24. The locus classicus on the subject is Sharad Birdhichand Sarda v. State of Maharashtra1. A
+recent judgement of this Court authored by one of us (Vikram Nath, J.) has highlighted the well
+settled law on circumstantial evidence in Indrajit Das v. State of Tripura2, reiterating the golden
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+5
+principles, as under :
+“10. The present one is a case of circumstantial evidence as no one has seen the
+commission of crime. The law in the case of circumstantial evidence is well settled.
+The leading case being Sharad Birdhichand Sarda v. State of Maharashtra.
+According to it, the circumstances should be of a definite tendency unerringly pointing towards the
+guilt of the 1 (1984) 4 SCC 116 2 2023 SCC OnLine SC 201 accused; the circumstances taken
+cumulatively should form a chain so complete that there is no escape from the conclusion that
+within all human probability the crime was committed by the accused and they should be incapable
+of explanation on any hypothesis other than that of the guilt of the accused and inconsistent with his
+innocence. The said principle set out in the case of Sharad Birdhichand Sarda (supra) has been
+consistently followed by this Court. In a recent case - Sailendra Rajdev Pasvan v. State of Gujarat,
+this Court observed that in a case of circumstantial evidence, law postulates two-fold requirements.
+Firstly, that every link in the chain of circumstances necessary to establish the guilt of the accused
+must be established by the prosecution beyond reasonable doubt and secondly, all the
+circumstances must be consistent pointing out only towards the guilt of the accused. We need not
+burden this judgment by referring to other judgments as the above principles have been consistently
+followed and approved by this Court time and again.”
+25. To establish the guilt of the appellant, the prosecution relies upon the following circumstances:
+a) The appellant was residing in the same chawl as that of the prosecutrix;
+b) Appellant was found near the scene of the crime;
+c) The appellant made disclosure statements, i.e., dated 16.6.2010 Ext.47 and dated
+17.6.2010 Ext.50, which led to the recovery of incriminating articles vide Memo Nos.
+Ext.48 and Ext.51. from the house of the appellant and another place where he had
+hidden the clothes belonging to him and the prosecutrix;
+d) The DNA reports prepared on scientific analysis by an expert, establishing the
+blood of the prosecutrix on banian of the appellant and his semen on the clothes of
+prosecutrix and her vaginal smear slide.
+26. Let us examine whether all these circumstances stand established by the prosecution or not.
+Circumstance of 13 residing in the ‘chawl’ being seen at the spot of the crime
+27. PW 1 and PW 2 stated that the appellant resided in the very same chawl as they, although they
+did not identify his house. Well, that’s about all. There being no other evidence of he residing there.
+Even if the version of the mother of having seen the appellant and giving him a matchbox, in the
+early hours of 12.6.2010, is believed, the same does not advance the case of the prosecution any
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+6
+further. The appellant was not found at the place where the alleged crime took place or the place
+from where the body was recovered. The prosecution has not been able to establish the distance
+between the two places - that of the crime and the place where the appellant was spotted in the
+morning hours. There is no spot map or any ocular evidence to this effect. As noted above, what led
+these witnesses to discover the appellant of having committed the crime has gone unstated. It is only
+on the basis of the information furnished by PW 1, expressing his suspicion on the appellant, that he
+was on 13.6.2010 arrested and the same day, his residence was searched. It is here that the major
+contradiction, if not falsity, in the prosecution case emerges. The Investigating Officer PW 12 is
+categorical of having suspected the appellant only on the basis of the information furnished by the
+father of the prosecutrix, i.e., PW
+1. PW 12 states that “the father of deceased expressed suspicion against the appellant and at the time
+of his house search was taken.” and PW 1 states that “He did not suspect anyone prior to 14.6.2010.”
+The search was conducted on 13th and not on 14th of June, 2010. He added that finding the house of
+the appellant to be locked, he called the medical analyzer, Mumbai, whereafter, he, by breaking open
+the lock of the house of the appellant, recovered incriminating articles vide Ext.36 on 13.6.2010 and
+such articles being:
+“Article 1 – Square cardboard;
+Article 2 – Blanket;
+Article 3 – Floor tiles pieces;
+Article 4 – Mat;
+Article 5 –Towel;
+Article 6 –Spanner;
+Article 7 –Hair found on pillow;
+Article 8 – Mat; and Article 9 – Pillow”
+28. Having conducted the search in the presence of PW 5 and Piyush Ramesh Kumar Jain
+(unexamined), he locked and sealed the house. Out of the two, the prosecution examined only one
+witness, namely PW 5. Perusal of the testimony of this witness as also the Investigating Officer and
+the relatives of the prosecutrix, does not establish one major fact, that being, who actually identified
+the house of the appellant.
+29. A ‘chawl’ is a group of tenements clustered together, very small in size and densely populated.
+It’s an inexpensive accommodation, temporary for some, permanent for others. Living in the same
+chawl, cannot be, in the attending facts of no one having identified with certainty the exact
+house/room of the appellant, a circumstance pointing to the guilt of the appellant. As is evident
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+7
+from the decisions referred (supra), for a circumstance to be established, there shouldn’t be doubt; it
+should not leave room for the possibility that, not the appellant against whom the circumstance is
+sought to be proved but someone else, may have done the said crime.
+30. None of the witnesses have deposed that it was at the instance of the appellant that the
+prosecutrix left the house, nor has anyone deposed to the effect of having seen the appellant and the
+prosecutrix together at any point in time; Appellant was not even a visitor to the house of PW 1.
+They have no relationship, be it of whatever nature. All that is stated is that after having dinner
+prosecutrix left home, and PW 3 states that he thought she may have gone to the neighbour’s house
+to watch TV. With this being the case, last seen theory, does not come into play. Although argued
+before us, the Trial Court has correctly not considered the same to be a circumstance of
+consequence, in either direction. The Circumstance Disclosure Statement of the appellant and the
+Recovery of incriminating articles
+31. Conjoint reading of the testimonies of PW 12 and PW 13 further renders the prosecution case to
+be inherently improbable, if not self-contradictory and impossible on this circumstance.
+32. Unlike PW 5, who is categorical about having seen the blood- stained nicker in the house of the
+appellant, PW 12 does not disclose such fact. Undisputedly, both these witnesses together visited the
+alleged house of the appellant only once, i.e., on 13.6.2010. It is a matter of record that police
+recovered only one nicker belonging to the prosecutrix, which was recovered at the time of the
+second search conducted on 16.6.2010, which renders the recovery by PW 13 in the presence of PW
+9 to be extremely doubtful, specifically when the search and subsequent recovery of incriminating
+articles is refuted.
+33. There is yet another contradiction which bears significance in the attending facts and that being
+the time of the seizure of the articles recovered during the first search. The Panchnama (Ext.
+36) reveals that the same was prepared in the night of 13.6.2010 between 9.00 p.m. to 9.30 p.m.,
+whereas according to PW 5, all proceedings of recovery appear to have been completed before 2.00
+p.m. to 2.30 p.m. by which time the witness had returned home. In fact, the factum of search itself is
+in doubt as PW 5 categorically states that after conducting the search he visited the police station
+where his “signatures” were obtained, though, he clarifies that earlier too his signatures were taken,
+but on what paper and for what purpose, he did not disclose.
+34. We may now proceed to the testimony of PW 13, who is the star witness of the prosecution, i.e.,
+the Investigating Officer. According to his version, on 16.6.2010, the appellant, while in police
+custody, made a disclosure statement (Ext.47) in the presence of independent witnesses PW 7 and
+P.K Mehta (not examined). The statement revealed the appellant to have concealed the nicker of the
+prosecutrix as also his clothes, worn by him at the time of incident, in his house, which he was ready
+to identify and get recovered.
+35. Accordingly, on 16.6.2010 PW 13 along with the Panchas, staff and the appellant searched the
+room No.39 of Ganesh Deval Nagar. The room was opened, and the appellant produced “amul gold
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+8
+45 size nicker” and one “white colour nicker of amul gold 80 cm’s size banian” having blood stains
+and one “grey coloured barmuda” and one “brown colour nicker having contents written as Sophia
+65 cm” and some blood stains. The said articles were seized vide Memo Ext.48 in the presence of the
+Panchas. On 17.6.2010 the appellant got recorded a second disclosure statement while in custody,
+whereby, he stated that some additional clothes which he had worn on the day of the incident could
+be got recovered. Accordingly, on the basis of such statement Ext.50 dated 17.6.2010, the police
+party along with the appellant proceeded and searched room No.206 in Deepshree Building at,
+approximately two kilometers from Valiv Naka. One Ganesh Bheema (Ganesh Kapildev Mishra)
+opened the door of the room and, as per the disclosure by the appellant, the police recovered certain
+incriminating articles vide Memo (Ext.51) dated 17.6.2010.
+36. All the articles recovered prior to 17.6.2010 were sent for scientific analysis vide letters Ext.68
+and Ext.69 both dated 16.6.2010, the blood sample of the appellant was sent for DNA profiling. He
+also sent a letter to the Civil Hospital for collection of the blood, nails, and hair samples of the
+appellant. During investigation, he procured the report of the chemical analysis as also the DNA
+report and the FSL report. The said DNA report prepared by an expert revealed samples of “viscera”
+(semen) of the appellant on swab drawn from the private parts of the prosecutrix. He also recorded
+the statement of Munna Saroj, who was residing with the appellant. So is the essence of the
+examination-in-chief of this witness.
+37. It may be noted that neither this witness nor anyone else has deposed the fact of medical
+examination of the appellant, as is stipulated under Section 53A of the Code of Criminal Procedure
+(hereafter, ‘Cr.P.C.’).
+38. Further, whether his communication for medical examination of the appellant was ever followed
+up at all is not known. So also, its resultant consequences. Who took the samples of the body parts of
+the appellant, if at all, is a mystery. The record does not disclose such fact. Non-examination of
+Ganesh Bheema and Munna Saroj in Court, despite being cited witnesses renders his version to be
+uncorroborated, thereby creating a gap in chain of circumstances, preventing it from being
+complete.
+39. The house from where the articles were recovered on 17.6.2010 was neither owned nor in the
+exclusive possession of the appellant. Instead, as is admitted by the Investigating Officer, it belonged
+to a third party. The Investigating Officer admits that the said house was occupied by one Ganesh
+Bheema, who was never examined in the case, so also why and what is that Munna Saroj disclosed
+on 19.6.2010, has not seen the light of the day. Their complicity in the crime has also not been ruled
+out. On this issue examination of Ext.35 reveals that the house where appellant was residing was
+owned by Munna Lalchand and that it was jointly possessed by the appellant and Prakash who have
+not been examined.
+40. What further renders the veracity of the testimony of this witness to be questionable has
+surfaced in the cross-examination part, wherein he admits not to have mentioned in the statement
+Ext.47 “that the accused had hidden the clothes”. In this view of the matter, the articles so
+discovered cannot be said to form a discovery in terms Section 27 of the Evidence Act.
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+9
+41. Significantly, from the testimony of PW 7 it is evident that appellant did not know Marathi
+language for he states that “I know that the appellant does not know Marathi”.
+42. Close examination of the testimony of Panch witness PW 8 reveals that the appellant had given
+his statement in Hindi and not in Marathi.
+43. Though, PW 13 is silent on this fact, but perusal of the said disclosure statements (Ext.47 &
+Ext.50) reveals the same to have been recorded in Marathi and the Investigating Officer not having
+ever read over or explained contents thereof to the appellant in his vernacular language. As a result
+thereof, certainty is absent as to the correctness of the statement as made and the statement, as
+recorded by the police.
+44. A Constitution Bench of this Court, in Syed Qasim Razvi v. State of Hyderabad3, in the following
+extract observed that when 3 1953 SCR 589 there is a lack of understanding of the language of the
+Court, it causes prejudice to the appellant. The bench observed:
+“9. …There is no doubt that ordinary court proceedings in Hyderabad are conducted
+in Urdu, but Urdu is certainly not the spoken language of even the majority of the
+people within the Hyderabad State. If the accused in a particular case is not
+acquainted with the English language and if by reason of the absence of adequate
+arrangements to have the proceedings interpreted to him in the language he
+understands, he is prejudiced in his trial, obviously it might be a ground which may
+be raised on his behalf in an appeal against his conviction. But in our opinion cannot
+be said that the provision in the Regulation relating to proceeding being conducted in
+English if the tribunal so desires per se violates the equal protection clause in the
+Constitution.” (Emphasis Supplied)
+45. In the case at hand, the aforementioned proposition of law is squarely applicable. From a perusal
+of material on record, we find that the Appellant did not know how to read and write in Marathi.
+This being the position, this Court has highlighted the importance of the appellant being able to
+understand the case of the prosecution against him. Inability to do so, by virtue of a language barrier
+causes prejudice to the case of the appellant. There is nothing on record to show that it was not
+practicable to record evidence of the appellant as well as others, whose vernacular was not Marathi,
+but Hindi. The original testimony, from which the text, tenor and true import of their testimony may
+be gauged, is not part of the record. Therefore, it is apparent that statutory safeguards in reference
+to language have not been complied with, causing prejudice to the appellant in terms of Syed Qasim
+Rizvi (supra). Here only taking note of the decision of this Court rendered in Siju Kurian v. State of
+Karnataka 2023 SCC OnLine 429, we clarify the said decision to have been taken, given the
+attending facts where the appellant was provided with the assistance of interpreter and his
+disclosure statement leading to discovery of a fact, unlike the instant case not linking the recovery to
+the appellant with the crime.
+46. Further, PW 1 has stated that the key of the room, after effecting recovery on 16.6.2010, was
+given to the “room partner of the accused”. Who is this room partner? Was he examined? Was he
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+10
+aware of the clothes being hidden? Did he hide the clothes? Was his complicity in the crime ruled
+out? Are all questions left to be guessed. Such room partner remains unexamined and his complicity
+and role in the crime not explored.
+47. Version of the Investigating Officer, that it was PW 12 who locked the room, does not inspire
+confidence. The witness does not remember having placed on record any document indicating that
+the lock was labelled and sealed for the search being conducted at the first instance. It may be noted
+that in the memos as well, he admits not to have mentioned where exactly the appellant had kept
+clothes in the room.
+48. On the issue of first disclosure statement Ext.47, we find the version of PW 13 to be materially
+contradicted by the Panch witness PW 7, who, in no uncertain terms and unrefutedly, has deposed
+that “Devraj asked me that the clothes were hidden in the appellant’s house and as to whether I was
+ready to act as a panch.” (here PW 13 – the Investigating Officer is referred to as Devraj). This totally
+shatters the prosecution case on the point of recovery pursuant to the alleged disclosure statement.
+49. Even on the point of recovery of the nicker of the prosecutrix there is contradiction with regard
+to its place and numbers. We notice that the dead body was recovered in the presence of two
+independent witnesses, namely, PW 9 and PW 10. Significantly, PW 9 states that on 12.6.2010 the
+dead body of the prosecutrix was recovered from the nala and that “one nicker was lying on a tin
+shade. One blood smeared banian was lying on the roof”. He further adds that after recovery, the
+dead body was brought home. “She was raped” (here reference is of the prosecutrix) and that “blood
+had come out from the private part of the girl”. He does not state that tin shade was that of the
+house of the appellant. However, PW 1 has deposed that “The knicker of my daughter was found on
+the roof of the accused.” But this is in complete contradiction to the statement of PW 13 who stated
+that the nicker and the banian were recovered pursuant to the disclosure statement of the appellant.
+On this issue, further contradiction emerges through the testimony of PW 10 who states that “there
+were no clothes on her person” but in the very next breath adds that “she had worn underwear on
+her person”, and also that “he had not seen the body of the deceased girl”. Also, PW 10 states that he
+cannot read or write in Marathi and that he affixed his signatures on Ext.43 at the police station
+which is in Marathi. Hence, what is the truth and whom to believe is difficult to infer from the
+record.
+Circumstance of Scientific Examination, in particular DNA Report of the Scientific Officer
+50. We may examine the case from yet another angle and that being, as to whether, even if the
+recovery on the search conducted on 13.6.2010, 16.6.2010 and 17.6.2010 is believed to be so, either
+on the basis of information obtained from the police during investigation or as a consequence of
+statement made by the appellant or any other material obtained by the police during the course of
+investigation, the same stands linked to the appellant or not.
+51. We find on this count the prosecution has not sufficiently proven the case. This is for two reasons
+: (1) If the alleged house of the appellant was thoroughly searched on 13.6.2010, as is evident from
+memo Ext.35 and recovery memo Ext.36, then the question of recovery of articles on 16.6.2010
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+11
+should not arise. The house is nothing but a small room of 8.5 feet x 6.5. feet (out of which a
+bathroom was 2.5 feet x 2.5 feet), as is evident from Ext.35. The police party in the absence of
+appellant had microscopically scanned the said room, and yet could not find any material allegedly
+recovered on 16.6.2010 vide memo Ext.48; (2) Even the recovered articles, be it of the search
+conducted on 13.6.2010, 16.6.2010 and 17.6.2010, do not sufficiently link the appellant to the crime.
+For elaboration, we extract herein in a tabular form, the articles recovered, numbered, accepted and
+the scientific evaluation thereof.
+Prakash Nishad v. State of Maharashtra. Crl. App. Nos.11009-10 / 2015 S.No. Memo Date Recovery
+Description of Item FSL Report DNA Analysis Particulars Ex. - By Witness Article Ex. Blood / Blood
+of Ex. Result Semen of deceased accused
+1. Panchnama 35 13.06.2010 PW - PW – 5 1 – Cardboard 8 No Yes 16 Blood / Blood @ pg. 239 – 12
+Box Semen of deceased 243 & accused 2 - Brown 9 No Yes 17 First search Shri. Piyush Blanket No
+Yes 18 Ex. 86 @ Ex. 86 @ Ramesh 3 – Two Tiles 10 No Yes - pg. 339 pg. 339 Kumar Jain 4 – Nylon
+Mat 11 No Yes 20 5 – Yellow Towel 12 No Yes - Blood on the Blood on [NOT 6 – Iron spanner 13 No
+- - same is not Ex. 16, EXAMINED] 7 – One hair on 14 - - 22 of the 17, 18, pillow accused. 20, 24 is 8
+– Piece cut from 15 No Yes of the mat deceased.
+                                                                   9 – Piece cut from   
+                                                                   pillow.              
+                                                                                        
+                                                                   Blood stains on      
+                                                                   all articles except  
+   2.   Panchnama      48    16.06.2010    PW –       PW – 7       1 – brown nicker     
+        @ pg. 262 –                         13                     of deceased.         
+           264                                           &                              
+                                                             2     –        blue   2    
+       Second                                 Shri. Pradip   underwear        of        
+       search                                  Kodarlal      accused.                   
+                                                Mehta                                   
+                                                             3 – white baniyan     3    
+                                                [NOT         of accused.                
+                                              EXAMINED]
+                                                             4 – grey Bermuda      4    
+                                                             of accused.
+                                                             Blood stains on            
+                                                             articles 1,3 and 4.       @
+3.   Panchnama      51   17.06.2010   PW -      PW – 8       1 – shirt of          1    
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+12
+     @ pg. 285 -                       13                    accused.                   
+        287                                        &                                    
+                                                             2 - pant of           2    
+     Third search                            Shri. Pradeep   accused.                   
+                                             Harishchandra
+                                                 Kajave      Blood stains on           E
+article 1.                pg
+                                                [NOT
+                                              EXAMINED]
+52. From the aforesaid chart, it is evident that no blood of the appellant was found on any one of the
+articles recovered by the police. Only stains of semen were found on the nicker (brown) belonging to
+the prosecutrix and her vaginal swabs.
+53. To establish clinching evidence against the appellant, the prosecution seeks reliance on
+communication dated 16.6.2010 whereby PW 13 sent certain articles for analysis to the Director,
+Forensic Laboratory, Maharashtra. In terms of the aforesaid, the articles, be that of the appellant or
+that of the prosecutrix recovered on 12th, 13th and 14th of June, 2010, are as follows :
+Muddemal sealed by Medical Officer of the prosecutrix procured on 12.06.2010 S.No.
+Bottle Description of Articles Exhibit
+1. A Blood sample. Ex. 1
+2. B Nail clippings from left hand. Ex. 2
+3. C Sample of hair on head. Ex. 3
+4. D Vaginal fluid swab. Ex. 4
+5. E Vaginal fluid swab. Ex. 5
+6. F Fluid in mouth. Ex. 6
+7. G Nail clipping from right hand. Ex. 7 Articles of the Appellant procured on
+13.06.2010
+8. - Square-shaped card box, having the Ex. 8 words “Sunora Floor Tiles”.
+           9.        -      One    chocolate   coloured     dirty     Ex. 9
+                            blanket.
+           10.       -      Two pieces of green coloured tiles.       Ex. 10
+           11.       -      One piece of green, yellow, and blue      Ex. 11
+                            coloured nylon mat.
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+13
+           12.       -      One yellow towel.                         Ex. 12
+           13.       -      One iron spanner.                         Ex. 13
+           14.       -      One hair found on the pillow.             Ex. 14
+           15.       -      One piece of mat.                         Ex. 15
+           16.       -      One piece of cloth from a pillow.         Ex. 16
+Muddemal sealed by Medical Officer, in medical examination of appellant conducted
+on 14.06.2010
+17. Bottle 1 Viscera sample. Ex. 17
+18. Bottle 2 Blood sample. Ex. 18
+19. Bottle 3 Blood sample (citrate). Ex. 19
+20. Bottle 4 Pubic hair sample. Ex. 20
+21. Bottle 5 Sample of hair on head. Ex. 21
+22. Bottle 6 Swab taken by cotton of the Ex. 22 scratched injury on the neck.
+23. Bottle 7 Nail clippings of right hand. Ex. 23
+24. Bottle 8 Nail clipping of left hand. Ex. 24
+54. Perusal of these documents reveals that samples of the blood and semen of the appellant were
+sent for forensic analysis. Importantly though, there is nothing on record to establish as to who took
+such samples, on what date, on how many occasions and why were they not sent all at once, we
+notice that none of the police officials have testified to the formalities of keeping the samples safe
+and secure being complied with.
+55. The first alleged blood sample of the appellant collected on 14.6.2010 was sent for analysis vide
+communication dated 16.6.2010 (Ext.60). The second alleged blood sample of the appellant taken
+on 20.7.2010 was sent the very same day vide communication (Ext.72).
+56. There is only one document (Ext.79) on record, indicating the appellant to have been medically
+examined. But even this document does not reveal sample of the body part being drawn. In any
+event, the doctor who conducted such examination, has not stepped into the witness box to testify
+the correctness of the contents thereof. Also the document itself is uninspiring confidence as we
+notice certain interpolations therein and in a different hand. Additionally, the document does not
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+14
+fall true to the statutory requirements imposed under Section 53A Cr.P.C.
+57. This Court in Krishan Kumar Malik v. State of Haryana4 (two-Judge), observed the necessity of
+compliance with Section 53A, which later on was clarified in Rajendra Prahladrao 4 (2011) 7 SCC
+130 Wasnik v. State of Maharashtra5 (three-Judges) that the said provision is not mandatory in
+nature. It was observed that it only requires a positive call to be taken in respect of the need to
+follow the provision or not. The bench held-
+“49…There must be reasonable grounds for believing that the examination of a
+person will afford evidence as to the commission of an offence of rape or an attempt
+to commit rape. If reasonable grounds exist, then a medical examination as
+postulated by Section 53-A(2) CrPC must be conducted and that includes
+examination of the accused and description of material taken from the person of the
+accused for DNA profiling…” (Emphasis Supplied)
+58. Here, a child of the tender age of six was assaulted brutally and killed. The appellant was
+arrested on suspicion of having committed the crime. The police proceeded in accordance therewith
+and were supposed to have made discoveries as per the statements made by the appellant in
+custody, then in what manner can it be said that, at the time when such a positive call was required
+to be made by the authorities, reasonable grounds did not exist for the compliance with Section 53A
+to be a must? This, in the view of this Court is a glaring lapse in the investigation of this crime, for a
+six- year-old child was sexually assaulted on both of the private parts 5 (2019) 12 SCC 460 of her
+body. Medical examination of the appellant would have resulted into ascertainment of such assault.
+59. As has been hitherto observed, there is no clarity of who took the samples of the appellant. In
+any event, record reveals that one set of samples taken on 14.6.2010 were sent for chemical analysis
+on 16.6.2010 and the second sample taken, a month later on 20.7.2010 is sent the very same day.
+Why there exist these differing degrees of promptitude in respect of similar, if not the same- natured
+scientific evidence, is unexplained.
+60. We may observe that the Maharashtra Police Manual6, when speaking of the integrity of
+scientific evidence in Appendix XXIV states-
+“The integrity of exhibits and control samples must be safeguarded from the moment
+of seizure upto the completion of examination in the laboratory. This is best done by
+immediately packing, sealing and labeling and to prove the continuity of the integrity
+of the samples, the messenger or bearer will have to testify in Court that what he had
+received was sealed and delivered in the same condition in the laboratory. The
+laboratory must certify that they have compared the seals and found them to be
+correct. Articles should always be kept apart from one another after packing them
+separately and contact be scrupulously avoided in transport also.” 6 Available here-
+https://www.mahapolice.gov.in/uploads/acts_rules/MumbaiPoliceManualPartIII.pdf
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+15
+61. In the present case, the delay in sending the samples is unexplained and therefore, the possibility
+of contamination and the concomitant prospect of diminishment in value cannot be reasonably
+ruled out. On the need for expedition in ensuring that samples when collected are sent to the
+concerned laboratory as soon as possible, we may refer to “Guidelines for collection, storage and
+transportation of Crime Scene DNA samples For Investigating Officers- Central Forensic Science
+Laboratory Directorate Of Forensic Sciences Services Ministry Of Home Affairs, Govt. of India”7
+which in particular reference to blood and semen, irrespective of its form, i.e. liquid or dry
+(crust/stain or spatter) records the sample so taken “Must be submitted in the laboratory without
+any delay.”
+62. The document also lays emphasis on the ‘chain of custody’ being maintained. Chain of custody
+implies that right from the time of taking of the sample, to the time its role in the investigation and
+processes subsequent, is complete, each person handling said piece of evidence must duly be
+acknowledged in the documentation, so as to ensure that the integrity is uncompromised. It is
+r e c o m m e n d e d  t h a t  a  d o c u m e n t  b e  d u l y  7  A v a i l a b l e  a t -
+http://cfslchandigarh.gov.in/Uploads/Media/Original/20180627121024_IO- SOP%20Final.pdf
+maintained cataloguing the custody. A chain of custody document in other words is a document,
+“which should include name or initials of the individual collecting the evidence, each person or
+entity subsequently having custody of it, dated the items were collected or transferred, agency and
+case number, victim’s or suspect’s name and the brief description of the item.”
+63. Indisputably, these “without any delay” and “chain of custody” aspects which are indispensable
+to the vitality of such evidence, were not complied with. In such a situation, this court cannot hold
+the DNA Report Ext.85 to be so dependable as to send someone to the gallows on this basis. We
+have carefully perused FSL as well as DNA report forming part of the record. A snapshot of the said
+reports, in a tabulated format is presented as under :
+Sr.   Nature of     Ext. No.   Report       Article     Belongs to    Result and        
+No.   article       as per     dated        No. &       Accused/      analysis
+                    FSL                     date of     Prosecu-
+                    report                  seizure     trix          Blood &      Semen
+                                                                      of whom
+1.    Nicker           1       16.8. 2010   10 on       Prosecutrix      Yes        No  
+                                            13.6.2010                 Prosecu-
+                                                                         trix
+2.    Jangia           2       16.8. 2010   11 on        Accused        No          No  
+      referred to                           16.6.2010
+      as
+      underwear
+3.    Banian           3       16.8. 2010   12 on        Accused        Yes         No  
+                                            16.6.2010                 Prosecu-          
+                                                                        trix            
+4.    Bermuda          4       16.8. 2010   13 on        Accused        Yes         No
+                                            16.6.2010
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+16
+5.    Square          16       12.8. 2010   1 on         Accused        Yes         No  
+      card-                                 13.6.2010                 Prosecu-          
+      board                                                             trix            
+6.    Blanket       17   12.8. 2010   2 on         Accused        Yes      No    Identic
+                                      13.6.2010                 Prosecu-         blood f
+                                                                  trix           Ext.1
+7.    Floor tiles   18   12.8. 2010   3 on         Accused        Yes      No    Identic
+      pieces                          13.6.2010                 Prosecu-         blood f
+                                                                  trix           Ext.1
+8.    Mat           19   12.8. 2010   4 on         Accused        Yes      No           
+                                      13.6.2010
+9.    Towel         20   12.8. 2010   5 on         Accused        Yes      No    Identic
+                                      13.6.2010                 Prosecu-         blood f
+                                                                  trix           Ext.1
+10.   Spanner       21   12.8. 2010   6 on         Accused          -      No           
+                                      13.6.2010
+11.   Hair found    22   12.8. 2010   7 on         Accused         -       No    Unknown
+      on pillow                       13.6.2010                                  person
+12.   Mat           23   12.8. 2010   8 on         Accused        Yes      No           
+                                      13.6.2010
+13.   Pillow        24   12.8. 2010   9 on         Accused        Yes      No    Identic
+                                      13.6.2010                 Prosecu-         blood f
+                                                                  trix           Ext.1
+14.   Vaginal       5    12.8. 2010       -       Prosecutrix      No      Yes   Match w
+      smear                                                                      male ha
+      slide                                                                      types o
+                                                                                 accused
+                                                                                 from sa
+                                                                                 paterna
+                                                                                 progeny
+For ready reference the extract of the DNA analysis Ext. is reproduced as under.
+“Interpretation
+1. The DNA profile of blood detected on ex16 Card board, ex 17 Blanket, ex 18 two pieces of tile, ex
+20 Towel, ex 24 piece of cloth from pillow, and blood detected on ex 1 knicker of victim Sayunmbano
+M.A. Shaikh, ex 3 sandow baniyan of accused Prakash Zinak Nishad of F.S.L.M.L. Case No. DNA
+315/10 and ex 1 blood sample of victim Sayunmbano M.A. Shaikh is identical & from one and same
+source of female origin. DNA profiles match with the maternal and paternal alleles in the source of
+blood.
+2. The DNA profile of blood detected on ex 16 Card board, ex 17 Blanket, ex 18 two pieces of tile, ex
+20 Towel, ex 24 piece of cloth from pillow, ex1 blood sample of victim Sayunmbano M.A. Shaikh and
+blood defected on ex 1 knicker of victim Sayunmbano M.A. Shaikh, ex 3 sandow baniyan of accused
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+17
+Prakash Zinak Nishad of F.S.L.M.L. Case No.DNA 315/10 and blood sample of Prakash Zinak
+Nishad F.S.L.M.L. Case No. DNA 366/10 is from one and same source. DNA profiles did not match
+with he maternal and paternal alleles in the source of blood.
+3. Control DNA profile of unknown person is obtained from ex 22 One hair.”
+64. Even otherwise, on the value of DNA evidence, we may refer to an observation made by this
+Court, in Pattu Rajan v. State of T.N.8, as under;
+“52. Like all other opinion evidence, the probative value accorded to DNA evidence
+also varies from case to case, depending on the facts and circumstances and the
+weight accorded to other evidence on record, whether contrary or corroborative. This
+is all the more important to remember, given that even though the accuracy of DNA
+evidence may be increasing with the advancement of science and technology with
+every passing day, thereby making it more and more reliable, we have not yet reached
+a juncture where it may be said to be infallible. Thus, it cannot be said that the
+absence of DNA evidence would lead to an adverse inference against a party,
+especially in the presence of other cogent and reliable evidence on record in favour of
+such party.” (Emphasis supplied)
+65. Referring to the above case, a three-Judge bench in Manoj v. State of M.P.9, through S. Ravindra
+Bhat J., observed;
+“158. This Court, therefore, has relied on DNA reports, in the past, where the guilt of
+an accused was sought to be established. Notably, the reliance was to corroborate.
+This Court highlighted the need to ensure quality in the testing and eliminate the
+possibility of contamination of evidence; it also held that being an opinion, the
+probative value of such evidence has to vary from case to case.”
+66. In the present case, even though, the DNA evidence by way of a report was present, its reliability
+is not infallible, especially not so in light of the fact that the uncompromised nature of such 8 (2019)
+4 SCC 771 9 (2023) 2 SCC 353 evidence cannot be established; and other that cogent evidence as can
+be seen from our discussion above, is absent almost in its entirety.
+67. Unfortunately, the courts below did not go into all the aforesaid aspects and presumptuously
+assumed the guilt of the appellant and held him to have committed the crime.
+68. What prevailed upon the courts below, it appears, was the testimony of the doctor PW 4 - Dr.
+Anjali Pimple, who conducted the post-mortem and, “the clinching medical evidence” and “clinching
+DNA report”. It is on the basis of the said medical evidence that the courts, without recording any
+findings with regard to the circumstances being unrefuted, convicted the appellant despite there
+being contradictions, material in nature, belying the prosecution case and the veracity of the
+statement of witnesses, so also impeaching their credibility.
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+18
+69. Further, what weighed with the courts below is more so evident from the findings returned by
+the High Court, i.e., nature of the alleged crime being indeed one of the heart-breaking, horrific and
+most depraved kind, prompting the confirmation of the death sentence awarded by the Trial Court,
+considering the case to be the rarest of rare.
+70. It is true that the unfortunate incident did take place, and the prosecutrix sustained multiple
+injuries on her body and surely must have suffered great pain, agony, and trauma. At the tender age
+of 6, a life for which much was in store in the future was terrifyingly destroyed and extinguished.
+The parents of the prosecutrix suffered an unfathomable loss; a wound for which there is no remedy.
+71. Despite such painful realities being part of this case, we cannot hold within law, the prosecution
+to have undergone all necessary lengths and efforts to take the steps necessary for driving home the
+guilt of the appellant and that of none else in the crime.
+72. There are, in fact, yawning gaps in the chain of circumstances rendering it far from being
+established- pointing to the guilt of the appellant.
+73. As already pointed out, there are several irregularities and illegalities on the part of the agencies
+examining the case.
+74. The questions raised in the instant appeals are answered accordingly.
+75. Before parting with the matter, we must take note of the manner in which the investigation into
+this dastardly crime was undertaken. Numerous lapses blot the entire map. We have already pointed
+out multiple instances which have led to the chain of circumstances remaining broken, the larger
+picture emerging therefrom being that the person, whomsoever they may have been, remains
+unpunished to this day.
+76. Both the crimes committed against the innocent six-year-old child, are unquestionably, malum
+in se i.e., evil and wrong on their own, without the prohibition of law making it so. This fact, coupled
+with the duty upon the investigating authorities not only to protect the citizens of the country, but
+also ensure fair and proper investigations into crimes affecting the society, as in the present case,
+casts upon such authorities, in the considered view of this Court, not only legal, but also a moral
+duty to take all possible steps within the letter of the law to bring the doers of such acts to the book.
+77. In the instant case, the reasons why the investigation officers were changed time and again from
+PW 6 to PW 12 and then to PW 13, is surprising and unexplained. As we have already pointed out,
+no reason stands given for having decided that there was no need to comply with the provisions of
+Section 53A, Cr.P.C.; there is unexplained delay in sending the samples collected for analysis; a
+premises already searched was searched again, the reason for which is not borne from record; lock
+panchnama is not prepared; no samples of blood and semen of the appellant can be said to have
+been drawn by any medical or para medical staff; allegedly an additional sample is taken from the
+appellant more than a month after the arrest; alleged disclosure statement of the appellant was
+never read over and explained to the appellant in his vernacular language; the appellant was not
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+19
+residing alone at the place alleged to be his residence; and what was the basis of appellant being a
+suspect at the first instance, remains a mystery; persons who may have shed light on essential
+aspects- Ganesh Bheema and Munna Saroj went unexamined etc., such multitudinous lapses have
+compromised the quest to punish the doer of such a barbaric act in absolute peril.
+78. The charges mentioned above, although serious and grievous in nature, cannot be said to have
+been met against the present appellant. The factum of the commission of the crime against the
+six-year-old innocent child is not in dispute and cannot be deprecated enough even in the most
+severe terms. However, as the above discussion has laid out clearly, the circumstances forming the
+chain of commission of this crime cannot and do not point conclusively to the appellant in a manner
+that he may be punished for the same much less, with the sentence of being put to death.
+79. In view of the above the charges levied on the appellant stand not proved.
+80. This court, recently, in Maghavendra Pratap Singh @Pankaj Singh v. State of Chattisgarh10 had
+emphasised the role and responsibilities of the investigating authorities by referring to various
+judgments of this Court. Such principles, which are essential to successful investigations, were not
+adhered to. Needless to state, such responsibilities would be all the more heightened in cases of
+crimes involving severe punishments such as imprisonment for life or the sentence of death.
+Considering the nature of the case, the police ought to have, even more than usual, taken steps,
+precautions, and decisions to safeguard the fact- finding and investigation exercise.
+81. In view of the above, the appeals are allowed. Ex-consequenti, the judgment dated 27.11.2014 in
+Sessions Case No.407/2010, passed by District Judge-2 and Additional Sessions Judge, Thane as
+affirmed by the High Court vide judgment dated 13th & 14th October, 2015 in Confirmation Case
+No.4/2014 titled as State of 10 2023 SCC OnLine SC 486 Maharashtra v. Prakash Nishad @ Kewat
+Zinak Nishad and Criminal Appeal No.88/2015 titled as Prakash Nishad @ Kewat Zinak Nishad Vs.
+State of Maharashtra, respectively, convicting the appellant under Sections 302, 376, 377 and 201
+IPC and sentencing him to death and life imprisonment and other punishments described above, are
+quashed and set aside.
+82. The appellant be set at liberty forthwith, if not required in any other case. Pending applications,
+if any, are also disposed of.
+…………………….J.
+(B.R. GAVAI) ……………………J.
+(VIKRAM NATH) ……………………J.
+(SANJAY KAROL) Dated : 19th May, 2023;
+Place : New Delhi.
+Prakash Nishad @ Kewat Zinak ... vs The State Of Maharashtra on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/21033879/
+20

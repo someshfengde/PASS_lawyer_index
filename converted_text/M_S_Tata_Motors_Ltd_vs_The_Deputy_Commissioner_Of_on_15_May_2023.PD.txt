@@ -1,0 +1,1775 @@
+Supreme Court of India
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Author: K.M. Joseph
+Bench: K.M. Joseph, B.V. Nagarathna
+                                                                  REPORTABLE
+                                 IN THE SUPREME COURT OF INDIA
+                                  CIVIL APPELLATE JURISDICTION
+                                   CIVIL APPEAL No.1822/2007
+                      M/S. TATA MOTORS LTD.                  …. APPELLANT(S)
+                                              VERSUS
+                      THE DEPUTY COMMISSIONER OF
+                      COMMERCIAL TAXES(SPL) & ANR.         …. RESPONDENT(S)
+                                              WITH
+                                   CIVIL APPEAL No. 1446/2010
+                                   CIVIL APPEAL No.3733 of 2023
+                                     (@ SLP(C) No. 11509/2017)
+                                   CIVIL APPEAL No.3734 of 2023
+                                     (@SLP(C) No. 12119/2017)
+                                   CIVIL APPEAL No. 11724/2018
+                                   CIVIL APPEAL No. 3827/2011
+                                   CIVIL APPEAL No. 3856/2013
+                                   CIVIL APPEAL No. 5815/2012
+                                   CIVIL APPEAL No. 2756/2012
+                                   CIVIL APPEAL No.3718 of 2023
+Signature Not Verified
+                                     (@ SLP(C) No. 28859/2011)
+Digitally signed by
+Jagdish Kumar
+Date: 2023.05.16
+13:14:32 IST
+Reason:                            CIVIL APPEAL No. 5969/2011
+                                   CIVIL APPEAL No. 5967/2011
+�                2
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+1
+CIVIL APPEAL Nos.3716-3717 of 2023
+ (@ SLP(C) Nos. 15642-15643/2011)
+   CIVIL APPEAL No. 3821/2011
+   CIVIL APPEAL No. 4019/2011
+   CIVIL APPEAL No. 3822/2011
+   CIVIL APPEAL No. 4021/2011
+CIVIL APPEAL Nos.3719-3723 of 2023
+ (@ SLP(C) Nos. 31698-31702/2013)
+   CIVIL APPEAL No.3735 of 2023
+     (@ SLP(C) No. 25905/2013)
+   CIVIL APPEAL No. 4516/2018
+   CIVIL APPEAL No. 10924/2018
+   CIVIL APPEAL No. 1821/2007
+   CIVIL APPEAL No. 9979/2018
+CIVIL APPEAL Nos. 3004-3006/2017
+CIVIL APPEAL Nos.3730-3732 of 2023
+ (@ SLP(C) Nos. 12806-12808/2016)
+   CIVIL APPEAL No.3740 of 2023
+     (@ SLP(C) No. 12280/2014)
+CIVIL APPEAL Nos.3725-3727_of 2023
+   (@ SLP(C) Nos. 5449-5451/2014)
+   CIVIL APPEAL No.3724 of 2023
+     (@ SLP(C) No. 5447/2014)
+�                                3
+             CIVIL APPEAL Nos. 3825-3826/2011
+                 CIVIL APPEAL No. 3823/2011
+                 CIVIL APPEAL No. 6172/2009
+                 CIVIL APPEAL No. 3824/2011
+                 CIVIL APPEAL No. 3820/2011
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+2
+                CIVIL APPEAL No.3715_ of 2023
+                  (@ SLP(C) No. 14260/2007)
+                        JUDGMENT
+NAGARATHNA, J.
+Leave granted.
+2. These Civil Appeals arise from the judgments of the High Courts of Karnataka, Rajasthan,
+Allahabad, Madhya Pradesh, Bombay, Andhra Pradesh, Kerala and Gujarat. Since common
+questions of law and facts have been raised in these appeals vide Reference Order dated 05.12.2019
+made by a Bench of two judges to a Bench comprising of three judges, the reference has been heard
+and is accordingly answered.
+In some of the civil appeals, the dealers–assessee are the appellants, while in rest of the appeals the
+respective States are the appellants.
+Preface:
+3. By order dated 05.02.2019, reference has been made to a Bench of three Judges which shall
+hereinafter be referred to as the “Reference Order”.
+The pertinent paragraphs of the Reference Order read as under:
+“15. We are not delving into the controversy in any further detail as we are of the
+opinion that the issue raised is required to be looked into by a larger Bench. The
+crucial point which would arise for consideration, and over which the matter needs to
+be debated, is as to whether, in the case of such a warranty for the supply of free
+spare parts; once the replacement is made, and the defective part is returned to the
+manufacturer, sales tax would be payable on such a transaction relating to the spare
+part, based on a credit note, which may be issued for the said purpose. This is in the
+context of the observations discussed aforesaid regarding the price of the car being
+inclusive of the cost of the spare parts, the latter being supplied for free, upon
+replacement. Sales tax on the car is paid. Sales tax on the inventory purchased by the
+dealer is paid. Thus, if there is no consideration for these replaced parts, can sales tax
+be levied at all? The judgment in Mohd. Ekram Khan & Sons case [Mohd. Ekram
+Khan & Sons v. CTT, (2004) 6 SCC 183] refers to the credit notes received as
+consideration for the replacement; but it is a moot point whether credit notes can be
+treated as a mode of payment or not.
+The judgment in Premier Automobiles Ltd. case [Premier Automobiles Ltd. v. Union
+of India, (1972) 4 SCC (N) 1: (1972) 1 SCR 526] is stated to contain a different factual
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+3
+situation, as per the observations in Mohd. Ekram Khan & Sons case [Mohd. Ekram
+Khan & Sons v. CTT, (2004) 6 SCC 183]. There are observations referred to above,
+again in Mohd. Ekram Khan & Sons case [Mohd. Ekram Khan & Sons v. CTT, (2004)
+6 SCC 183], of the possibility of the manufacturer having purchased, from open
+markets, the parts for replacement, on which taxes would be paid. In that context, it
+was observed that “the position is not different because the assessee had supplied the
+parts and received the price”. The assessee actually had purchased the parts and paid
+sales tax on it, but on return of the defective part to the manufacturer, was given a
+credit note.
+16. We have some reservations in respect of the observations and legal propositions
+laid down in Mohd. Ekram Khan & Sons case [Mohd. Ekram Khan & Sons v. CTT,
+(2004) 6 SCC 183] and consider it appropriate that the matter be considered by a
+larger Bench.”
+4. The point for consideration under the Reference Order is, whether, a credit note issued by a
+manufacturer to a dealer of automobiles in consideration of the replacement of a defective part in
+the automobile sold pursuant to a warranty agreement being collateral to the sale of the automobile
+is exigible to sales tax under the sales tax enactments of the respective States. While considering the
+said question, the Reference Order doubts the correctness of the observations made in Mohd.
+Ekram Khan & Sons vs. CTT, (2004) 6 SCC 183 (Mohd. Ekram Khan).
+5. It may be mentioned that in the aforesaid decision three other judgments of the Delhi High Court,
+Madhya Pradesh High Court and Kerala High Court in Commissioner of Sales Tax vs. Prem Nath
+Motors, (1979) 43 STC 52 (Delhi), (Prem Nath Motors); Prem Motors, Gwalior vs. Commissioner of
+Sales Tax, Gwalior 1986 (61) STC 244 MP (Prem Motors) and Geo Motors vs. State of Kerala (2001)
+122 STC 285 (Geo Motors) respectively were considered and the latter two judgments were
+overruled. Factual Background:
+6. Of the thirty-four cases before us, the factual conspectus involves provisions of the respective
+Sales Tax Act and similar questions of law. Thus, the facts in Commercial Tax Officer vs. M/s
+Marudhar Motors, C.A. No. 3856/2013 only are encapsulated for the sake of convenience as under:
+i. The assessee, M/s Marudhar Motors is a dealer of TATA Vehicles. Under the dealership
+agreement, the dealer/assessee would provide replacement of warranty goods sold to the customer.
+ii. There exists a separate warranty agreement between the manufacturer and the ultimate customer
+to whom such vehicles are sold by the assessee.
+iii. In the normal course of business transactions involving the sale of automobile parts, Tata Motors
+sells vehicles and spare parts to Marudhara Motors by charging CST against "C" form. Thereupon,
+Marudhara Motors sells these goods to customers through invoices collecting local sales tax at a
+price not exceeding the maximum price prescribed by the manufacturer. iv. However, in the case of
+warranty claims raised by customers due to the emergence of defects in some parts, such parts are
+replaced free of cost to the customers to avoid delay in first securing such parts from the
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+4
+manufacturer, Tata Motors, and replacing the same. The dealer, on behalf of the manufacturer,
+collects a defective component or the vehicle itself from the customer and replaces it with part/s or
+vehicle in his stock purchased from the manufacturer. This defective component/s or vehicle
+received on exchange by the dealer from the customer is returned back to the manufacturer from
+whom the dealer had purchased the same in the first place i.e., Tata Motors, who after receiving the
+parts or the entire vehicle and satisfying themselves about it being defective, issues credit notes,
+thereby crediting the running account of the dealer which is maintained for sale transactions, at the
+price at which the good was initially sold to the dealer.
+v. Pursuant to the decision of this Court in Mohd. Ekram Khan, the assessing authority invoked the
+power of reassessment under Section 30 of the Rajasthan Sales Tax Act, 1994 to impose a tax on
+assessee’s turnover having escaped assessment for the assessment years 2000-2001 to 2003- 2004.
+However, for the assessment years 2004-2005 and 2005-2006, regular assessment proceedings
+were initiated under Section 28 of the Rajasthan Sales Tax Act, 1994. vi. On July 22, 2006, the
+Deputy Commissioner (Appeals) of Jodhpur passed an order upholding the levy of tax upon an
+assessee but setting aside the levy of interest and penalty imposed by the assessing authority under
+Section 65 of the Act.
+vii. This decision gave rise to six cross-appeals filed by the assessee and another six appeals filed by
+the Revenue. The assessee was dissatisfied with the decision to uphold the levy of tax and filed six
+separate appeals for six different assessment years - 2000-2001, 2001-2002, 2002-2003, 2003-
+2004, 2004-2005, and 2005-2006. On the other hand, the Revenue was aggrieved by the decision
+to set aside the levy of interest and penalty and filed another batch of six appeals. viii. The matter
+was taken up by the Rajasthan Tax Board in Ajmer, which issued a common judgment on June 18,
+2007, disposing of all twelve appeals. The Rajasthan Tax Board set aside the decision of Deputy
+Commissioner (Appeals) and thereby set aside the imposition of tax. It found the transaction of
+replacing the defective parts did not fall within the definition of ‘sale’ as defined under Section 2(38)
+of the Rajasthan Sales Tax Act. It also concluded that the facts of the case are distinguishable from
+the facts in Mohd. Ekram Khan. ix. The Revenue filed revision petitions under Section 86 of the
+Rajasthan Sales Tax Act, 1994. The Rajasthan High Court, while dismissing these revision petitions
+and affirming the order of Rajasthan Tax Board, distinguished the facts in the case from the facts
+and reasoning in Mohd. Ekram Khan by underlining three distinguishing factors. Firstly, it noted
+that the agreement between the manufacturer and dealer reflected a principal-to-principal
+relationship, and not a principal-agent relationship. Secondly, it was noted that the transaction
+between manufacturer and dealer, pertaining to the return of defective parts to the manufacturer
+and the issue of credit notes to the dealer, is independent of the transaction between manufacturer
+and customer, pertaining to the discharge of warranty obligation. Thirdly, it was considered that the
+warranty obligation was being discharged free of cost. It was noted that, Mohd. Ekram Khan was
+decided on the premise that the dealer assessee had supplied the parts and had received the price.
+Gist of Cases under consideration:
+7. The present appeals assail judgments rendered by eight High Courts. While all fifteen decisions
+rendered by Rajasthan High Court are in the favour of the assessee, all decisions rendered by Kerala,
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+5
+Karnataka, Bombay, Andhra Pradesh, Madhya Pradesh, and Gujarat High Courts are in the favour
+of Revenue. In the case of Allahabad High Court, one decision is in favour of Revenue while the
+other is in favour of the assessee. A table of cases is drawn up as under:
+      High Court          Number of Appeals            Number of
+                           by the Revenue            Appeals by the
+                                                        Assessee
+7.1. As is clear from the table above, fifteen out of the thirty-four cases before us pertain to revenue’s
+appeals against the decisions of the Rajasthan High Court, relying upon the decision in C.T.O. (AE),
+Jodhpur vs. M/s Marudhara Motors, Jodhpur, (2010) 29 VST 114, (Marudhara Motors) dated
+16.03.2009. In the aforementioned decision, the Rajasthan High Court distinguished the facts and
+reasoning in Mohd. Ekram Khan by underlining three distinguishing factors. Firstly, it noted that
+the agreement between the manufacturer and dealer reflected a principal-to- principal relationship,
+and not a principal-agent relationship. Secondly, it was noted that the transaction between
+manufacturer and dealer, pertaining to the return of defective parts to the manufacturer and the
+issue of credit notes to the dealer, is independent of the transaction between manufacturer and
+customer, pertaining to the discharge of warranty obligation. Thirdly, it was considered that the
+warranty obligation was being discharged free of cost. It was noted that, Mohd. Ekram Khan was
+decided on the premise that the dealer assessee had supplied the parts and had received the price.
+7.2. The other decision in favour of the assessee was rendered by Allahabad High Court in M/s.
+Vikrant Automobiles vs. Commissioner, Commercial Tax, U.P., vide order dated 06.11.2015. The
+High Court dismissed the revision against the order of Customs, Excise and Service Tax Appellate
+Tribunal wherein the transaction of replacement of spare parts as part of warranty was held not to
+be assessable. The High Court held that it was ‘well recognized that in supply of spare parts to the
+customer by the dealer during the period of warranty free of charge, no sale consideration passes
+from the customer to the dealer and therefore the cost of the spare parts cannot be included in the
+turnover of the sale of the dealer.’ 7.3. In a later judgment rendered by the same High Court, the
+above decision was found to be of no assistance to the assessee. Therefore, in The Commissioner,
+Commercial Tax Lko. vs. S/S Maskat Motors Pvt. Ltd., decided on 08.12.2016, the said Court
+reversed the finding of the Tribunal that the imposition of the tax was not justified because defective
+parts of motor vehicles have been replaced free of cost and the manufacturer had issued credit
+notes. The High Court found the above conclusion to be perverse, self-contradictory, and ‘contrary
+to the charging section as well as the definition of "Sale" under the U.P. Act and Central Act.’
+Applying Mohd. Ekram Khan, the High Court found all elements of sale to be completed as the
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+6
+transaction of supply of spare parts to consumers was concluded by the payment of valuable
+consideration by the manufacturer in the form of credit notes to the dealer. Therefore, the High
+Court held that the assessee has sold spare parts for valuable consideration attracting liability to tax
+under the U.P. Act.
+7.4. The assessees have impugned four decisions of the Karnataka High Court. All these decisions
+have followed the reasoning and conclusions arrived at in the case of Dy. Commissioner of
+Commercial Taxes (Assessment), Bangalore vs. Prerana Motors (P) Ltd., disposed of on 19.10.2005.
+In the aforementioned case, an order against the Revenue, by Customs, Excise and Service Tax
+Appellate Tribunal was reversed on revision under Section 23(1) of Karnataka Sales Tax Act, 1957,
+on the ground that the dispute is covered by the decision in Mohd. Ekram Khan. It was reasoned
+that in Mohd. Ekram Khan, the assessee was a dealer registered under the provisions of the U.P.
+Trade Tax Act,1948 and also an agent of M/s. Mahindra and Mahindra (manufacturer). The
+manufacturer had a warranty agreement with the purchasers of vehicles to replace defective parts
+during the warranty period. The conclusion of Mohd. Ekram Khan was relied upon to conclude that
+the transaction was taxable as the manufacturer had made payment to its agent by issuing credit
+notes for the supply of defective parts during the warranty period.
+7.5. In a similar vein, the five impugned decisions rendered by the High Court of Kerala followed the
+reasoning and conclusions in the case of M/s TVS and Sons Ltd. vs. State of Kerala, decided on
+06.06.2007. Clause 23 of the Dealership Agreement states:
+“The Dealer is not and shall not be the agent of the Company for any purpose, and the
+dealer has no right or authority to assign or create any obligation of any kind, express
+or implied, on behalf of the Company to bind the Company in any way, to accept any
+service or process upon the Company or to receive any notice of any nature
+whatsoever.” 7.6. Also Warranty Policy of Mahindra & Mahindra Ltd. on ‘Warranty
+Repair Attention’ states that the dealer should not charge the customer for warranty
+repairs. It emphasizes that the repairs should be carried out absolutely free of charge
+and the claims should be submitted to the manufacturer for reimbursement.
+7.7. The High Court affirmed the decision of the Kerala Sales Tax Appellate Tribunal wherein the
+decision in Mohd. Ekram Khan was applied to confirm the assessment order passed by the Revenue
+against the dealer who had replaced defective parts of automobiles for free, in the discharge of his
+obligations under the dealership agreement. The Tribunal had rejected the argument that the dealer
+was merely discharging the obligations of the manufacturer in so far as the warranty was concerned
+and therefore, the transaction was not taxable.
+7.8. The three impugned decisions, emanating from the Bombay High Court, follow the decision in
+M/s Navnit Motors Pvt Ltd. vs. State of Maharashtra, decided on 29.11.2011. The High Court
+recorded that the Sales Tax Tribunal had declined to refer the matter to the High Court under
+Section 61 of the Bombay Sales Tax Act, 1959. It further noted that the Tribunal, while following the
+law laid down in Mohd. Ekram Khan found that the dealer was not an agent of the manufacturer,
+i.e., Maruti Udyog Ltd. Furthermore, it was observed that the title and risk in the goods pass to the
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+7
+dealer once it is purchased from Maruti Udyog Ltd. and the delivered goods pass to him at the
+factory gate. Moreover, the replacement for defective parts covered by warranty is done by the
+dealer out of his stock of purchased goods. Also, the cost of parts incurred by the dealer in carrying
+out a repair, or replacement of the defective part is reimbursed by the manufacturer. The High Court
+rejected the attempt of the assessee to distinguish the facts in Mohd. Ekram Khan as the attempt
+was premised on the assertion that in Mohd. Ekram Khan, the relationship between the dealer and
+manufacturer involved an agency whereas in the present case, the transaction was on a
+principal-to-principal basis. The High Court affirmed the reasoning of the Tribunal on this question
+by recording that the nature of the relationship as found in the dealership agreement contested in
+Mohd. Ekram Khan was the same as that in the case at hand: principal-to-principal relationship.
+Therefore, the assessee cannot seek to take benefit of a sentence recorded in the judgment in Mohd.
+Ekram Khan that the dealer was an agent of the manufacturer. The High Court further reasoned that
+the terms of agreement in Mohd. Ekram Khan was similar to the case being considered as clause 49
+of the Agreement of Dealership required the dealer to promptly and effectively deal with any claim
+made by the customer of any vehicle under the provisions of the warranty currently in force. In
+terms of the warranty, the cost of parts incurred by the dealer in carrying out repairs or replacement
+of defective parts is in accordance with the procedure established by the manufacturer and
+reimbursed by the manufacturer to the assessee.
+7.9. Two decisions of the Madhya Pradesh High Court are assailed in the present case by the
+assessees. Both orders follow the reasoning of court in M/s. Harsh Automobiles Private Limited vs.
+The Commissioner of Commercial Tax, Indore, decided on 25.01.2018. The High Court relied upon
+the dictum in Mohd. Ekram Khan and rejected the assessee’s contention that the replacement of
+motor vehicle part during the warranty period was not covered in sale and, therefore, is not liable to
+tax. 7.10. The sole impugned decision from the Gujarat High Court, M/s Kataria Automobiles Pvt
+Ltd. vs. State of Gujarat, was decided on 20.03.2015. The High Court applied the decision of this
+Court in Mohd. Ekram Khan and concluded that the transaction of replacement of defective parts
+was taxable as the dealer had received payment in the form of credit notes for the discharge of the
+manufacturer’s warranty obligation. The High Court observed that it was admitted that the dealer
+was purchasing the spare parts from the open market and replacing the defective parts during the
+warranty period. It also noted that the dealer was being compensated by way of credit notes.
+Moreover, the manufacturer has received the defective parts from the dealer. The High Court
+reasoned that if the said defective parts were purchased from the open market, the manufacturer
+would have been obliged to pay sales tax.
+7.11. Two decisions of the Andhra Pradesh High Court are assailed in the present case by the
+assessees. These cases pertain to M/s Jasper Industries (P) Ltd. vs. State of Andhra Pradesh,
+decided vide common order dated 11.02.2011. The High Court applied the dictum in Mohd. Ekram
+Khan and reasoned that it was not open to the High Court to distinguish the judgment of the
+Supreme Court on a microscopic examination of the different facts situation. Therefore, the High
+Court refused to entertain the view of the Rajasthan High Court, as enunciated in Marudhara
+Motors. Triology of Cases considered/overruled in Mohd. Ekram Khan:
+8. The three cases considered in Mohd. Ekram Khan shall be discussed at this stage.
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+8
+I. Commissioner of Sales Tax vs. Prem Nath Motors, (1979) 43 STC 52 (Delhi): (Prem Nath Motors)
+(i) The aforesaid case was a sales tax reference in which the following two questions were referred to
+the High Court of Delhi:
+"(I) Whether, having regard to the facts and circumstances of the case, the
+replacement of the parts during the continuance of the warranty entered into by the
+manufacturer and/or by its authorised dealer with the purchaser would constitute a
+"sale" within the meaning of Section 2(g) of the Bengal Finance (Sales Tax) Act, 1941
+as in force in Delhi which is liable to be taxed under the provision of the Act?
+(II) Whether on the facts and in view of the circumstances of this case, if the supply of
+parts transferred to the purchaser of vehicles in replacement in compliance with the
+stipulations of the warranty is not "sale" within the meaning of clause 2(g) of the Act,
+the purchase price of the parts purchased on the strength of certificate of registration
+free of cost or purchased at the concessional rate of tax under the Central Sales Tax
+Act, 1956, on furnishing 'C' form, is liable to be added to the taxable turnover of the
+purchasing dealer under the provisions of the second proviso to clause (ii) of sub-
+section (2) of Section 5, of the Bengal Finance (Sales Tax) Act 1941, as in force in
+Delhi ?"
+(Underlining by us)
+(ii) In the said case, the Division Bench of the Delhi High Court considered the order
+of the Financial Commissioner who had held that the transfer of property in the parts
+of a car replaced under a warranty constituted a “sale” and, as such, the replacement
+of parts as a consequence of the terms and stipulations of the warranty must be
+deemed to be a continuation of the original sale, the price of which was included in
+the consolidated sale price determined and realised at the time of transfer of goods in
+the shape of the car with a warranty. It was further observed that the replacement of
+parts of the car provided free of cost by the dealer in terms of the warranty was part
+of the consolidated price realised at the time of the initial transfer and on which sales
+tax was paid and the replacement of the parts would deem to be a ‘sale’ not liable to
+imposition of further sales tax.
+(iii) The precise question considered in the said case was, whether, transfer of the parts replaced in
+pursuance of the warranty amounted to a sale within the meaning of the Sales Tax Act and whether
+the sale price of the car which had been subjected to the sales tax could be regarded as having
+included the cost or value of spare parts used in the replacement, in compliance with the
+stipulations in the warranty. On considering the warranty clause, it was noted that the sale of cars
+was along with the warranty to replace defective parts free of cost and the price was fixed at the time
+of the sale. After noting the distinction between the condition and warranty in a contract of sale of
+goods, it was observed that the consideration on the defective part, that might be replaced under the
+warranty was not separately specified because it was included in the price fixed at the time of sale of
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+9
+the car. In other words, the transfer of property and the part replaced in pursuance of stipulation of
+warranty is part of the original sale of the car for the price fixed and received from the buyer or
+consumer. The price so fixed and received was a consolidated price for the car and the parts that
+may have been supplied by way of replacement in pursuance of the warranty. Accordingly, it was
+observed that the Financial Commissioner was right in holding that the price for the replaced part
+was already charged and paid, on which sales tax was already levied and collected and hence, there
+was no liability to the imposition of further sales tax. II. Prem Motors, Gwalior vs. Commissioner of
+Sales Tax, Gwalior, 1986 (61) STC 244 MP: (Prem Motors)
+(i) The question considered in the said case under Section 44 (1) of the M.P. General Sales Tax Act,
+1958 is extracted as under:
+“Whether in the facts and circumstances of the case, the Tribunal was justified in
+holding that the reimbursement of Rs.33,263/- received from the principals will not
+form part of the sale price as defined under section 2 (o) of the M. P.
+General Sales Tax Act, 1958?” (Underlining by us) In the said case, the revenue contended that when
+the spare parts are replaced by the assessee (dealer) to the customer free of charge, being the
+condition of warranty, he recovers the price from the manufacturer and in substance it is the sale of
+the spare parts to the customer and therefore, it is liable to tax payable by the dealer.
+(ii) The Division Bench of the Madhya Pradesh High Court, however, held that the aforesaid
+contention of the revenue suffered from a basic policy issue. That the warranty for a sale of car is
+from the manufacturer and therefore, if during the warranty period any part is found to be defective
+and is to be replaced, the responsibility of replacement is that of the manufacturer. Therefore, when
+the assessee (dealer) replaces parts to the customers and either gets those parts from the
+manufacturer or gets it reimbursed, it is neither a sale of those parts by the dealer to the customer
+nor to the manufacturer, what it does only is to pass on the part from the manufacturer to the
+customer but in order to avoid delay and inconvenience to the customer, he replaces the parts first
+and gets them from the manufacturer later and thus, it does not fall within the ambit of the
+definition of sale as provided under the Act. III. Geo Motors vs. State of Kerala, (2001) 122 STC 285:
+(Geo Motors)
+(i) The facts in the said case were that the petitioner (Geo Motors) was an agent for automobile
+manufacturers like Hindustan Motors Ltd. in the State of Kerala. The new vehicles were covered by
+a warranty for a specified period. During the warranty period if spare parts had to be replaced, the
+petitioner therein as the agent of the manufacture, made the replacement free of charge to the
+owners of the vehicle. The value of such spare parts replaced by the petitioner therein during the
+warranty period was reimbursed by the manufacturer by issuing credit notes. The spare parts were
+purchased in bulk and replacement was made from out of such stock held by the petitioner. After
+replacement, the petitioner therein would make a claim to the manufacturer who would issue the
+credit notes. The manufacturer would issue credit notes for the value together with excise duty and
+sales tax, thereby, cancelling the original sale made to the petitioner in respect of the item replaced.
+Therefore, it was contended that there was only a sale cancellation between the manufacturer and
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+10
+the petitioner and that the petitioner therein had already suffered tax at the point of a sale and
+therefore, every component part of the car would have to be taken to have suffered tax at the point
+of a sale and when replacement was made it is in respect of an item which has suffered a tax at the
+point of a sale.
+According to the revenue, the replacement of the spare parts was by purchase made from outside the
+State by issue of C-forms.
+(ii) The Division Bench of the Kerala High Court held that the transaction in question cannot be said
+to be a sale. That the purchase of spare parts may have been by giving C-forms but it was used
+purely for replacement and not for sale. That credit notes are issued by the manufacturer by
+reducing the sale value. In this regard, reliance was placed on Prem Nath Motors. Hence, a direction
+was issued to exempt the turnover of the spare parts which were used for replacement. Mohd.
+Ekram Khan:
+9. The aforesaid two cases, namely, Prem Motors and Geo Motors were overruled in Mohd. Ekram
+Khan. Further, the question considered therein was, whether, the amount received by the assessee
+therein for supply of parts to the customers as a part of the warranty agreement was liable to tax.
+The assessee therein was an agent of M/s Mahindra and Mahindra (manufacturer). The
+manufacturer had a warranty agreement with the purchasers of vehicles (the customers) to replace
+defective parts during the warranty period. The manufacturer would make payment of a certain
+price on account of parts supplied by the assessee to the customer by way of replacement of the
+defective part obviously without charging the customer for the same. Credit notes were issued by the
+manufacturer to the assessee as the price of the parts supplied to the customers. The assessing
+officer was of the view that the payment received through credit notes amounted to a sale in terms of
+Section 2 (h) of the Uttar Pradesh Trade Tax Act, 1948. The Trade Tax Tribunal, Varanasi held in
+favour of the assessee by stating that there was no sale. The revenue had carried the matter before
+the High Court which had held that the transactions constituted sale thereby, attracting levy of tax.
+9.1. In the said case, reliance was placed on Prem Nath Motors, Prem Motors and Geo Motors by the
+assessee. It was contended that as part of a warranty agreement, replacement of the defective
+agreement was made by the dealer and there was no sale involved. As opposed to this, the revenue
+contended that the transaction between the assessee and manufacturer was a separate transaction.
+It was not the case of the assessee therein that the manufacturer had supplied the goods to the
+customers. If it had supplied parts to the customers through the assessee, the position may have
+been different. The manufacturer was obligated to make the replacement. If he did not possess the
+parts to meet the contractual obligation, he would have purchased the part from any seller of the
+part and would have paid the sales tax. In the said case, the assessee had supplied the goods for
+which it had received the consideration by way of credit notes and/or other mode of payment. This
+Court observed that the factual position in Prem Nath Motors case was different. That in Geo
+Motors and Prem Motors, the nature of the transaction between the assessee and manufacturer was
+lost sight of. It was observed that when the manufacturer may have purchased from the open
+market, parts for the purpose of replacement of the defective parts, it would have paid taxes. But the
+position is not different because the assessee had supplied the parts and had received the price. That
+the assessee had received the payment of the price supplied to the customer. Therefore, the
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+11
+transaction is subject to levy of tax. The decisions in Geo Motors and Prem Motors were overruled.
+It is in the above context that the Reference Order has been passed doubting the aforesaid
+observations.
+Submissions:
+10. We have heard learned senior counsel and learned counsel for the respective parties at length
+and shall proceed to answer the reference.
+Arguments on Behalf of Assessees in the present Appeals/SLPs:
+I. Submissions of Sri Kavin Gulati, senior counsel for the appellant in Civil Appeal No.1822/2007:
+(i) Learned senior counsel Sri Gulati submitted that the Tata Motors dealership agreement,
+particularly clauses 1(a), 1(b), 1(e), 9, 10, 11(a), 12, 13(c), 25, and 33 indicate that the transaction
+between the manufacturer and the dealer is one of Principal and Principal. Tata Motors has already
+collected and paid Sales Tax while selling the automobiles in question to the dealers. The dealer is
+contractually bound to service the warranty obligations undertaken by the manufacturer at the time
+of the sale. It was brought to our attention that in the present appeals, the respective State’s Sales
+Tax authorities had adopted varying interpretations of the allegedly taxable transactions. While the
+Assessing Officer in Karnataka had characterized the sale as between dealer and manufacturer; the
+authorities in Kerala deemed it to be a sale by the dealer without specifying to whom the sale was
+made. He clarified that during the course of the hearing, the counsel for the State of Kerala adopted
+the stand that the sale was between dealer and manufacturer.
+(ii) On the question of law referred to this Court, it was contended that, Mohd. Ekram Khan struck a
+discordant note against the well-established principle, enunciated in Premier Automobiles, Prem
+Nath Motors, Prem Motors and Geo Motors, that the cost of warranty was included in the initial
+transaction of sale and was not taxable separately. Therefore, it was contended that all transfers are
+not sales, as a sale has a definitive connotation in sale tax law. Sales tax is not applicable to all
+transfers which may happen by means of transactions other than sale, such as gift, barter, or
+exchange. Relying upon State of Madras vs. Gannon Dunkerley & Co, (1959) SCR 379, [Gannon
+Dunkerley (I)], it was submitted that crucial elements of a tax-eligible sale transaction are: i) the
+existence of buyer and seller, ii) existence of an agreement between parties for transferring title of
+goods, iii) such transfer should be supported by monetary consideration, and iv) property in goods
+must pass or be transferred. It was contended that the present facts do not present a taxable sale
+because:
+a. firstly, spare parts are supplied to the customers by the dealers completely free of charge by way of
+replacement of goods already sold.
+b. secondly, customer receives the new spare part as installed in his vehicle and returns the defective
+part. c. thirdly, the substance of the transaction remains the discharge of a warranty obligation
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+12
+assumed by the manufacturer, and through him, the dealer, while selling the original goods. As the
+spare parts are deducted from the stock of the dealer due to convenience, credit is deservedly given
+by the manufacturer to the dealer to account for the value of the goods supplied on behalf of the
+manufacturer.
+d. fourthly, any dealer of the manufacturer herein can be approached for discharging the warranty
+obligation free of charge.
+e. fifthly, the department has wrongly assumed that the supply of spare parts to the customer is a
+sale made to the manufacturer albeit the title is being transferred to the customer on account of the
+dealership agreement.
+(iii) Learned senior counsel further submitted that replacement of spare parts during the warranty
+period does not constitute a sale. This proposition is supported by Section 12(3) of the Sale of Goods
+Act, 1930 (“the Act”, for short) which states that a warranty is a stipulation collateral to the main
+purpose of the contract. Reliance was also placed upon the decision of the Canadian Supreme Court
+in General Motors Products of Canada Ltd. vs. Leo Krabvitz, (1979) SCC Online CAN SC 2, wherein
+it was clarified that the warranty claim by a purchaser was connected to his title over the product
+which was acquired through the original sale. Therefore, it was contended that the old parts were
+returned to the manufacturer through the dealer for the reason that it was crucial to servicing of the
+warranty obligation. The decision of this Court in Government of India vs. Madras Rubber Factory
+Limited, (1995) 4 SCC 349, not validating the treatment of warranty as a trade discount under excise
+law was also relied upon. Reliance was also placed on Devi Dass Gopal Krishnan vs. State of Punjab,
+(1967) 3 SCR 557, (Devi Dass Gopal Krishnan).
+(iv) Learned senior counsel, Sri Gulati submitted that the enforcement of the warranty obligation
+presented the opposite of the contract of sale, which involves the volitional transfer of goods. A case
+of discharge of a warranty is the exact opposite as both the buyer and seller agree to subsist within
+the existing sale to facilitate the seller to compensate the buyer for a breach or damage or defect
+caused to them. Reliance was also placed upon Section 59 of the Act, which clearly stipulates that
+enforcement of the remedy for breach of warranty could be actualized in diminution or extinction of
+the sale price, and if he is not compensated, he may sue for the breach of warranty. Therefore, it was
+contended that a credit note is issued by the manufacturer to the dealer as an acknowledgment of
+the diminution of the original sale price. Axiomatically, credit note is not a sale price or valuable
+consideration, as the character of credit is not towards the price of the newly replaced part, but a
+credit that embodies the diminution of the price already paid for the car. Therefore, it was submitted
+that, Mohd. Ekram Khan does not correctly conceive and appreciate the nature of a warranty
+transaction, i.e., an undertaking to ensure defect-free functioning of the sold product for the
+stipulated period of time. Therefore, the said judgment ought to be overruled was the submission. II.
+Submissions of Sri S.K. Bagaria, senior counsel for the petitioner, M/s TVS and Sons Ltd., in SLP (C)
+No. 14260 of 2007:
+(i) Sri Bagaria, learned senior counsel submitted that the nature of the transaction was not that of a
+sale, as the service was provided free of cost to the customer by a dealer pursuant to a warranty
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+13
+clause. The property in the replaced part passed merely as an incident of the performance of the
+manufacturer’s warranty obligation, which forms a part of the original sale of the automobile. Sri
+Bagaria referred to the relevant clauses of the Dealership Agreement and Warranty Policy to
+highlight two facts: (a) dealers are contractually obligated to provide free-of- cost warranty services
+for warranty parts to the customer and
+(b) defective parts are returned by the customers and become the property of the manufacturer.
+(ii) Learned senior counsel clarified that the nature of the transaction was as a compensation to the
+buyer, and the measure thereof was equivalent to the cost of exchange of defective parts. He cited
+Benjamin’s Sale of Goods Act (10th edn., para 16.032) to underline the compensatory principle,
+following which the manufacturer compensates the buyer for the breach that occurred by way of the
+defect in the part covered by way of a warranty. Citing para 1.069, learned senior counsel asserted
+that a transaction involving contractual compensation would not amount to the sale of a thing as the
+property passes merely as an incident of performance of a contract of indemnity.
+(iii) Therefore, learned senior counsel submitted that enforcement of a contractual right for getting a
+free replacement in exchange for a defective part was neither any purchase by the buyer nor a sale to
+him. According to learned senior counsel, this proposition was crystallized in Gannon Dunkerley (I),
+Devi Dass Gopal Krishnan, Gannon Dunkerley (II), and Kone Elevators Pvt. Ltd. vs. State of Tamil
+Nadu, (2014) 7 SCC 1.
+Relying upon Builders’ Association of India vs. Union of India, (1989) 2 SCC 645, it was stressed
+that the constitutional position post-46th Amendment of the Indian Constitution whereby the
+States’ legislative competence to tax the sale of goods was circumscribed by Entry 54, List II,
+Schedule VII of the Constitution. That taxation under this entry, being limited to “sale and purchase
+of goods” cannot be extended to activities that are not a sale.
+(iv) Reliance was also placed upon Commissioner of Customs vs. Dilip Kumar & Co., (2018) 9 SCC 1
+and CIT vs. Motor & General Stores Pvt. Ltd., AIR 1968 SC 200 to emphasize that taxing statutes
+ought to be specific and must be interpreted strictly, as taxation on citizens should not be subject to
+the whims and fancies of the government. Learned senior counsel adopted the arguments with
+respect to Mohd. Ekram Khan. That the case did not apply to facts of the present case where the
+warranty obligation was being discharged free of cost and the defective goods were being returned to
+the manufacturer. Alternatively, it was contended that the said case was not correctly decided as the
+essential elements of a sale were not considered in the said judgment. III. Submissions of Sri V.
+Sridharan, learned senior counsel for the petitioner in SLP (C) Nos. 12806-12808/ 2016:
+(i) Learned senior counsel Sri Sridharan submitted that the petitioner in the aforementioned cases
+being a dealer of M/s Maruti Suzuki India Ltd., merely fulfilled the manufacturer’s warranty
+obligation. It was urged that the dealership agreement was a framework agreement. Taking note of
+the chain of transactions, the customer is compensated for the consideration of purchase of an
+automobile from the petitioner. Therefore, there is no contract of sale either between the petitioner
+and the customer for the replacement of defective parts or between the petitioner and manufacturer
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+14
+as sale of parts replaced for the defective parts.
+(ii) Challenging the applicability of the Central Sales Tax Act, 1956 to the present case, learned
+counsel maintained that there is no inter-state movement of replacement parts as they are fitted at
+the dealer’s location. There is only the movement of defective parts from the dealer’s location to the
+manufacturer if located in another State.
+(iii) Learned senior counsel stressed the importance of keeping prudent commercial sense in mind
+while construing the contractual obligations in the present case. In this regard, the decision of the
+United Kingdom Supreme Court in Rainy Sky SA & Orad vs. Kookmin Bank, (2011) UKSC 50 was
+cited wherein it was held that the Court was entitled to prefer the construction which is consistent
+with business common sense. Therefore, it was submitted that the contract of warranty cannot be
+equated with a contingent contract of sale, with the contingency being the occurrence of a defect in
+the parts covered under the warranty. Moreover, the construction preferred by the Revenue that
+there is an agreement to sell an unspecified good in the future for which the manufacturer will pay
+the consideration is an unreasonable one. On the other hand, the decision of this Court in Nabha
+Power Ltd. vs. Punjab State Power Corporation Ltd., (2018) 11 SCC 508 was relied upon as it laid a
+five-fold test for constructing a contract of warranty as a sale. Therein, it was held that to imply a
+term in a contract, the same must be (i) reasonable and equitable; (ii) necessary to give business
+efficacy; (iii) passes officious bystander test; (iv) be capable of clear expression; and (v) must not
+contradict express term of the contract. Thus, it was contended that the construction preferred by
+the Revenue was contradicting the express terms of the contract of warranty.
+(iv) Learned senior counsel further submitted that even if the present transaction is assumed to be
+that of a sale between manufacturer and dealer, the same has to be treated as purchase return and
+not be eligible to sales tax. There is no scope for entertaining any doubt that a purchase return
+would be relevant only when a purchase tax is levied on the purchaser. Furthermore, the present
+transaction where manufacturer-issued credits are accounted as sales return which is a recognized
+accounting practice and not a tax avoidance strategy. Therefore, it was argued that sales return
+beyond statutory time limit does not lose its character of return. The only consequence could be that
+selling dealer may not be able to claim the deduction from gross turnover.
+(v) Learned senior counsel also relied upon the judgment of the Court of Appeal, New Zealand, in
+the case of Suzuki New Zealand Ltd. vs. Commissioner of Inland Revenue, (2001) 20 NZTC 17. The
+said case pertained to supply of spare parts by the car manufacturer to the purchaser directly or
+through the dealer under the terms of a warranty. Here, the parts were transferred from the
+overseas Suzuki Motor Corporation to Suzuki New Zealand. Rejecting the claim for imposition of
+Goods and Services Tax, the Court of Appeal held that there was no export of service for GST
+purposes.
+Arguments on Behalf of Revenue in the present Appeals/SLPs: Submissions of Sri Pallav Sisodia,
+senior counsel for the State of Kerala in SLP (C) No.14260/2007:
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+15
+(i) Learned senior counsel, Sri Pallav Sisodia submitted that the presence of a manufacturer’s or
+dealer’s warranty on the car sold by the dealer does not make any difference to whether the
+transaction of replacement of defective goods satisfies the elements of sale or not. The learned
+senior counsel listed various instances by way of illustrations when a customer purchases a car and
+reasoned that even when a customer did not purchase a car with a warranty but had taken an
+insurance, his expenses on the replacement of defective parts are reimbursed. Yet, the transaction is
+understood as a component of the taxable turnover of the dealer as per Explanation (5) to Section 2
+(xxi) of the Kerala General Sales Tax Act, 1963. Even when the customer enforces the warranty, the
+dealer obtains a discharge of warranty obligation as a valuable consideration for the transfer of fresh
+parts from the dealer to the customer. The car dealer gets the replacement of parts as co-warrantor
+from the manufacturer towards the discharge of warranty obligation either on a principal-to-
+principal basis or as an agent of the manufacturer. Moreover, there exists a form of recompense
+from the manufacturer to the dealer. It makes no difference if the recompense is in the form of a
+credit note or cheque or cash. Irrespective of the nature of the transfer of goods between
+manufacturer and dealer, it is a sale for the purposes of sales tax laws.
+(ii) It was submitted that the Prem Nath Motors line of cases was decided on fallacious reasons, and
+the decision in Mohd. Ekram Khan deserves affirmation. Therefore, the idea of ‘continuous sale’,
+‘credit note as not a valuable consideration’, or ‘sales return’ are all red herrings not supported by
+facts on record.
+Submissions of Sri Ravindra K. Raizada, senior counsel for Commissioner, Commercial Tax, State of
+U.P. in SLP(C) Nos. 12119/2017 and 11509/2017:
+(i) Sri Raizada, learned senior counsel submitted that the Dealership Agreement between Tata
+Motors and M/s Vikrant Automobiles was on a principal-to-principal basis. Furthermore, the case
+did not involve an exchange of the manufacturer’s spare parts with customer’s defective parts.
+Instead, the dealer purchased the parts from the manufacturer. It is clearly not a stock transfer from
+the manufacturer to the dealer. The ingredients of sale in the present case ought to be considered
+complete when goods i.e. new spare parts, are transferred to the customers and payment is received
+from the manufacturer who is fulfilling the warranty obligation as per established trade practice. He
+asserted that the manufacturer maintaining a running account of the dealer, through a credit note in
+respect of such sale of spare parts by dealer, has acknowledged such adjustment to be made in Sale
+and Purchase Account of the dealer. Thus, the warranty claims ought to be taxable as elucidated in
+Mohd. Ekram Khan. On the issue of warranty obligation emanating from the original sale, learned
+senior counsel submitted that the performance of warranty obligations is determined through actual
+damage to the defective part at the relevant time a claim is made. Therefore, it cannot be said to
+have been totally accounted for and debited in manufacturer’s Taxable Turnover of Sales and
+Purchase under VAT/Trade Tax.
+(ii) Accordingly, he prayed that the case of the revenue ought to succeed in both SLPs, therefore,
+SLP(C) No. 12119/2017 should be allowed, and SLP(C) No. 11509/2017, filed by a dealer, M/s
+Maskat Pvt Ltd, ought to be dismissed. Submissions of Dr. Manish Singhvi, senior counsel for the
+State of Rajasthan in Civil Appeal No. 3856/2013:
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+16
+(i) Dr. Singhvi, learned senior counsel, instructed by Sri Milind Kumar, submitted that the exact
+nature of the transaction has to be seen to determine whether sales tax was leviable or not. It was
+stressed that the crucial issue pertains to the misuse or misdeclaration of C-Forms which are issued
+at concessional rate under Section 8(4) of Central Sales Tax Act, 1956 read with Rule 12 of Central
+Sales Tax Rules, 1957. Any internal adjustment qua accounts or even contracts is alien for the
+charging section to operate. Thus, in the case at hand, all spare parts were sold against C-Forms, and
+have been sold again, in violation of conditions pertaining to resale. That, spare parts were fitted
+during the warranty period for a consideration given by way of credit notes by the manufacturer.
+Therefore, the penalty is bound to be imposed on Dealer/Manufacturer company.
+Submissions of Sri Nikhil Goel, Counsel for the State of Karnataka in Civil Appeal Nos. 1822/2007,
+1821/2007 and SLP (C) Nos. 5449-5451/2014, 5447/2014:
+(i) Sri Goel, learned counsel submitted that the Karnataka Value Added Tax Act, 2003 specifically
+excludes those transactions which are not sales. Since the transaction under dispute is not
+specifically excluded, the assessees have sought to canvass that it does not satisfy the definition of
+sale under Section 2(t) of the Karnataka Value Added Tax Act, 2003. It was further submitted that
+the four elements of the sale are completed in the transaction under dispute. The State seeks to tax
+sales and it does not matter if there is an element of profit involved. The cost of the car does not
+include the cost of the warranty. Therefore, he submitted that the argument made by assessee is
+incorrect, when seen in light of the decision of this court in Premier Automobiles. That the Supreme
+Court of England in Digital Satellite Warranty Cover Limited vs. Financial Services Authority,
+(2013) UKSC 7 held that warranty is in the nature of insurance. Even without such warranty, the Act
+binds the manufacturer to provide working goods, failure of which would invite an action in
+damages.
+(ii) Learned counsel, Sri Goel, also underlined that in the accounting entries, the assessee was not
+accounting for the sale occasioned by a warranty to be a sales return. The concept of sale and
+purchase return applies to the same good, whereas the present facts pertain to a defective good.
+Furthermore, the transactions of sale occasioned by warranty are separate from the sale of a car by
+the manufacturer. Both transactions ought to be tested independently. Therefore, the discharge of a
+larger obligation by the dealer to sell motor vehicles on which tax is already paid, does not render
+the separate transaction of return of defective parts to the manufacturer against a credit note, as not
+a sale. Submissions of Sri Aniruddha Joshi, learned counsel for State of Maharashtra in Civil Appeal
+Nos. 2756/2012, 10924/2018 and 9979/2018:
+(i) Sri Joshi submitted that the elements of sale for the imposition of sales tax were satisfied in the
+present transaction. It was urged that the real nature of the transaction and the substance thereof
+had to be deciphered to distinguish between a contract of sale between the dealer and manufacturer
+with that of an agency. It was submitted that the Dealership Agreement between the dealer-assessee
+and the manufacturer is a composite document that includes multiple contracts of sale, as
+understood from Section 4(1) of the Act. These include: a. Agreement to sell the car to the dealer;
+b. Agreement to sell spare parts by manufacturer to the dealer;
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+17
+c. Conditional Agreement to sell the spare parts by the dealer to the manufacturer if such a condition
+is fulfilled. The condition is a warranty claim being raised by a purchaser. d. Agreement to purchase
+wherein the dealer undertakes to purchase spare parts from the manufacturer.
+(ii) The counsel further submitted that all elements of sale are complete because there is a seller and
+a buyer, i.e. dealer and manufacturer; valuable consideration was paid by the manufacturer in the
+form of credit notes and the transfer of the property of goods is taking place to the nominee of the
+manufacturer, i.e. car purchaser.
+It was also contended that there is no question of the delivery of spare parts and the consequent
+payment by way of credit note being an instance of sales return. The sale of the car is separate from
+the sale of spare parts, the sales in question would be specifically applicable to the latter.
+Submissions of Ms. Deepanwita Priyanka, Counsel for the State of Gujarat in SLP (Civil) Nos.
+12806-12808/ 2016:
+(i) Learned counsel submitted that the assessee’s claim for exemption from payment of sales tax is
+not covered by the exemption notification issued under Section 8(4) of Central Sales Tax Act, 1956
+on 13.05.2002. It was submitted that the burden of proving exemption was on the assessee and that
+the benefit of any ambiguity ought to go to the State.
+11. Points for consideration:
+(i) Whether the judgment of this Court in Mohd. Ekram Khan calls for reconsideration in terms of
+the Reference Order dated 05.12.2019? In other words, whether the aforesaid case has been
+correctly decided or not?
+(ii) What Order?
+12. At the outset, it is necessary to read the relevant provisions of the Act:
+Sections 4 and 5 of the said Act read as under:
+“4. Sale and agreement to sell. – (1) A contract of sale of goods is a contract whereby
+the seller transfers or agrees to transfer the property in goods to the buyer for a price.
+There may be a contract of sale between one part-owner and another.
+(2) A contract of sale may be absolute or conditional.
+(3) Where under a contract of sale the property in the goods is transferred from the
+seller to the buyer, the contract is called a sale, but where the transfer of the property
+in the goods is to take place at a future time or is subject to some condition thereafter
+to be fulfilled, the contract is called an agreement to sell.
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+18
+(4) An agreement to sell becomes a sale when the time elapses or the conditions are
+fulfilled subject to which the property in the goods is to be transferred.
+5. Contract of sale how made. – (1) A contract of sale is made by an offer to buy or sell
+goods for a price and the acceptance of such offer. The contract may provide for the
+immediate delivery of the goods or immediate payment of the price or both, or for the
+delivery or payment by instalments, or that the delivery or payment or both shall be
+postponed.
+(2) Subject to the provisions of any law for the time being in force, a contract of sale may be made in
+writing or by word of mouth, or partly in writing and partly by word of mouth or may be implied
+from the conduct of the parties.” 12.1. Section 4 defines the expression sale. In order to apply the
+said definition, four essential elements are necessary, namely, (i) parties competent to contract; (ii)
+mutual assent; (iii) passing of property; and (iv) price to be paid.
+12.2. While understanding the said Section, the terms defined under Section 2, clauses (7), (13), (11),
+(1) and (10) respectively are necessary as the said clauses define the terms “goods”, “seller”,
+“property”, “buyer” and “Price”. Thus, to constitute a sale, in the legal sense, there must be a
+contract in pursuance of which the transfer of property, which transfer need not necessarily be by
+the owner himself, takes place on payment of a price, though there are exceptions to this rule
+enshrined under Sections 19 to 24 of the Act. The contract may be oral or in writing, or it may be
+inferred even from the conduct of the parties, but it must originate from an offer and its acceptance.
+A sale must not be distinguished from a mere agreement to sell. If under the contract of sale, title to
+goods has not passed, then there is an agreement to sell and not a completed sale. An agreement to
+sell becomes a sale when the time lapses, or the conditions are fulfilled, subject to which the
+property in the goods are transferred. Thus, under the common law as well as the statute law,
+relating to sale of goods, it is of the essence that there must be an agreement, express or implied,
+relating to goods, to be completed by passing of title therein and also the agreement and the sale
+should relate to the same subject-matter. Thus, existence of a contract to sell is sine qua non for the
+coming into existence of a sale.
+12.3. Therefore, the following elements must be present to constitute a valid contract of sale,
+namely, -
+(1) a contract (as required by the Act and the Contract Act);
+(2) between two parties, (the one called the “seller” and the other called the “buyer”);
+(3) to transfer or agree to transfer the property;
+(4) in goods;
+(5) from the seller to the buyer;
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+19
+(6) for a price, that is, money consideration.
+12.4. It is also necessary to differentiate a contract of sale from other contracts, as the question
+whether a given contract is one of sale or a contract of any other description is one of substance and
+not of form. It depends on the real meaning and nature of the contract as to whether it is a contract
+of sale or – (i) a mere guarantee for the price, or (ii) a barter or exchange, or (iii) a bailment on trust,
+or (iv) a contract of sale or return, or (v) a contract of del credere agency, or (vi) a contract of sale on
+commission, or (vii) a contract for loan on security, or (viii) a mere wagering contract, or (ix) a
+contract for work and materials, or (x) a contract for hiring, or (xi) a contract to do work as an agent,
+or (xii) a licence to get mineral products from land, or (xiii) a pledge, or
+(xiv) a gift.
+12.5. In State of Madras vs. Gannon Dunkerley and Co. (Madras) Ltd., 1958 (9) STC 353 SC (Gannon
+Dunkerley and Co.-I), it was observed that the expression sale of goods in Entry 48, List II of
+Schedule VII of the Government of India Act, 1935, cannot be construed in its popular sense but
+must be interpreted in its legal sense and should be given the same meaning which it has in the Act.
+It was further observed that in order to constitute a sale, it is necessary that there should be an
+agreement between the parties for the purpose of transferring title in the goods, which presupposes
+capacity to contract, that it should be supported by money consideration, and that as a result of the
+transaction property must actually pass in the goods. Unless all these elements are present, there
+can be no sale. Thus, if merely title to the goods passes but not as a result of any contract between
+the parties, express or implied, there is no sale. So also, if the consideration for the transfer is not a
+money consideration but other valuable consideration, it may then be an exchange or barter but not
+a sale under the Act. Also if, under the contract of sale, title to the goods has not passed, then there
+is an agreement to sell and not a completed sale. Moreover under the law there cannot be an
+agreement relating to one kind of property and a sale as regards another. There must be an
+agreement between the parties for the sale of the very goods in which eventually the property passes.
+It was further observed in the aforesaid case that both under the common law and the statute law
+relating to sale of goods in England and in India, to constitute a transaction of sale, there should be
+an agreement, express or implied, relating to goods to be completed by passing of title in those
+goods. It is of the essence of this concept that both the agreement and the sale should relate to the
+same subject matter. Where the goods delivered under the contract are not the goods contracted for,
+the purchaser has got a right to reject them, or to accept them and claim damages for breach of
+warranty. Under the law, therefore, there cannot be an agreement relating to one kind of property
+and a sale as regards another. Thus, the expression sale of goods must relate to an agreement
+between the parties for the sale of the very goods in which eventually the property passes.
+12.6. It was further observed that the interpretation to the expression sale of goods in Gannon
+Dunkerley and Co.-I was made on the basis of the common law definition contained in Blackstone,
+Benjamin on Sale, Halsbury’s Law of England, Chalmer’s Sale of Goods Act, Corpus Juris, Williston
+on Sales and the Concise Oxford Dictionary. It was necessary to interpret the language of the
+Constitution with reference to the Common law, and the Court must place itself in the position of
+the men who framed and adopted the Constitution and inquire what they must have understood to
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+20
+be the meaning and scope of the principle that when power is conferred to legislate on a particular
+topic, to have regard to what is ordinarily treated as embraced within that topic in legislative
+practice and particularly in the legislative practice of the State which has conferred that power by
+the Constitution. Parliament must be presumed to have had Indian legislative practice in mind and
+unless the context otherwise clearly requires, not to have conferred a legislative power intended to
+be interpreted in a sense not understood by those to whom the Act was to apply. 12.7. In M/s Vishnu
+Agencies (Pvt.) Ltd. vs. Commercial Tax Officers, (1978) 1 SCC 520, while holding that even when
+there was a transfer of controlled commodities in pursuance of a direction under the Control Order
+where an element of mutual assent was absent, there was, nevertheless, sale as defined under the
+Act. In the said case, a Seven-Judge Bench of this Court held that the earlier decision in M/s New
+India Sugar Mills Ltd. vs. Commissioner of Sales Tax, AIR 1963 SC 1207 was not good law. Reliance
+was placed on the judgment in Gannon Dunkerley and Co.-I to observe that in order to constitute a
+sale, it is necessary that there should be an agreement between the parties for the purpose of
+transferring title to the goods, which presupposes capacity to contract and the contract must be
+supported by valuable consideration and that as a result of the transaction, property must actually
+pass in the goods. It was observed that, “unless all these elements are present, there can be no sale.”
+12.8. In Sunrise Associates vs. Govt. of NCT of Delhi, (2006) 5 SCC 603, a Constitution Bench of this
+Court speaking through Ruma Pal, J. observed that when there is a sale of a lottery ticket, there is no
+sale of goods within the meaning of Sales Tax Acts of the different States but at the highest a transfer
+of an actionable claim. Accordingly, the earlier decision of this Court in H. Anraj vs. Govt. of T.N.,
+(1986) 1 SCC 414 was overruled.
+13. Sections 12, 13 and 59 of the Act are relevant for the purpose of these cases and the same read as
+under:
+“12. Condition and warranty. — (1) A stipulation in a contract of sale with reference to
+goods which are the subject thereof may be a condition or a warranty. (2) A condition
+is a stipulation essential to the main purpose of the contract, the breach of which
+gives rise to a right to treat the contract as repudiated.
+(3) A warranty is a stipulation collateral to the main purpose of the contract, the
+breach of which gives rise to a claim for damages but not to a right to reject the goods
+and treat the contract as repudiated.
+(4) Whether a stipulation in a contract of sale is a condition or a warranty depends in
+each case on the construction of the contract. A stipulation may be a condition,
+though called a warranty in the contract.
+13. When condition to be treated as warranty. — (1) Where a contract of sale is
+subject to any condition to be fulfilled by the seller, the buyer may waive the
+condition or elect to treat the breach of the condition as a breach of warranty and not
+as a ground for treating the contract as repudiated.
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+21
+(2) Where a contract of sale is not severable and the buyer has accepted the goods or
+part thereof, [***] the breach of any condition to be fulfilled by the seller can only be
+treated as a breach of warranty and not as a ground for rejecting the goods and
+treating the contract as repudiated, unless there is a term of the contract, express or
+implied, to that effect.
+(3) Nothing in this section shall affect the case of any condition or warranty
+fulfilment of which is excused by law by reason of impossibility or otherwise.” xxx
+59. Remedy for breach of warranty. — (1) Where there is a breach of warranty by the
+seller, or where the buyer elects or is compelled to treat any breach of a condition on
+the part of the seller as a breach of warranty, the buyer is not by reason only of such
+breach of warranty entitled to reject the goods; but he may—
+(a) set up against the seller the breach of warranty in diminution or extinction of the
+price; or
+(b) sue the seller for damages for breach of warranty.
+(2) The fact that a buyer has set up a breach of warranty in diminution or extinction of the price
+does not prevent him from suing for the same breach of warranty if he has suffered further damage.”
+13.1. Section 12 deals with condition and warranty. A stipulation in a contract of sale with reference
+to goods which are the subject matter thereof may be a condition or a warranty. A condition is a
+stipulation essential to the main purpose of the contract, the breach of which gives rise to a right to
+treat the contract as repudiated. A warranty is, on the other hand, a stipulation collateral to the main
+purpose of the contract, the breach of which gives rise to a claim for damages but not to a right to
+reject the goods and treat the contract as repudiated. Whether a stipulation in a contract of sale is a
+condition or a warranty depends in each case on the construction of the contract. However, a
+stipulation may be a condition, though called a warranty in the contract. 13.2. There is also a
+distinction between a warranty and guarantee. As already stated, a warranty is an express or implied
+statement of something, which a party undertakes to fulfil as part of the contract, yet collateral to
+the main object of it. A warranty does not go to the root or substance of the contract. A guarantee is
+a contract which is ancillary and subsidiary to some other contract or liability whereby the promisor
+undertakes to be answerable to the promisee for the debt, default or miscarriage of another person
+whose primary liability to the promisee must exist, or be contemplated. It is an additional or
+collateral or conditional contract as distinguished from an original or absolute contract. 13.3. A
+warranty can only exist when the subject matter of the contract of sale is ascertained and is existing
+so as to be capable of being inspected at the time of the contract. It is a collateral engagement that
+the specific thing possesses certain qualities after the passing of the property under the contract of
+sale to the buyer. A warranty may be express or implied. It is express if entered into a contract in
+express terms or implied when deemed to be entered into a contract by implication of law, that is, in
+the absence of express stipulation to the contrary. 13.4. A breach of the warranty cannot entitle the
+vendee to rescind the contract and revest the property in the vendor without his consent. Under
+Section 59 of the Act, the remedies available for a breach of warranty for a seller are prescribed. One
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+22
+of the remedies is the right to return of goods; return of goods by the buyer falls into two categories,
+namely, (i) where there is an obligation to return the goods and (ii) where the buyer has the right or
+the power to return the goods.
+13.5. We may discuss on collateral contracts and collateral warranties as discerned from various
+legal treatises and commentaries:
+(i) A contract between two persons may be accompanied by a collateral contract between one of
+them and a third person relating to the same subject matter. When a person buys goods from a
+dealer, he is given a “guarantee” in the name of the manufacturer. Here the main contract of sale is
+between the customer and the dealer but it seems that the “guarantee” could also be regarded as a
+collateral contract between the manufacturer and customer. Special legislation applies to certain
+guarantees given to consumers in respect of goods sold or supplied to them. Where the
+requirements specified in the legislation are satisfied, such guarantees take effect as contractual
+obligations whether or not the requirements of a collateral contract are satisfied; and these
+requirements continue to apply to manufacturers’ guarantees not covered by any legislation.
+[Source: Chitty on contracts, Thirty-First Edition].
+(ii) A collateral contract between a third party and one of the parties to a main contract may be
+associated with the main contract. Such a contract may enable a third party to enforce the main
+contract. A “manufacturer” guarantee is an example of such contract collateral to the main contract
+of purchase of goods. When such collateral contract is expressed, it may not be an exception to the
+third-party rule, because the third party is a party to the collateral contract. It is a devise used or
+implied to impose obligations on persons not parties to the main contract. [Source: Pollock and
+Mulla - The Indian Contract Act].
+(iii) Where a preliminary statement or assurance is not a term of the principal agreement, the Courts
+may deem it as a contract or warranty, collateral to the principal agreement. Where a necessary
+contractual intention is present, the Courts would treat or would construe an assurance as a
+collateral contract or warranty conferring a right to damages. The device of a collateral warranty has
+been employed where the principal contract is one to which either the person giving or the person
+receiving the assurance is not a party vide Shanklin Pier Ltd. vs. Detel Products Ltd., (1951) 2 KV
+854. [Source: Anson’s law of contract].
+(iv) Thus, a contract between two persons may be accompanied by a collateral contract between one
+of them and a third person relating to the same subject matter. When a person buys goods from a
+dealer and is given a guarantee issued by the manufacturer, the main contract of sale is between
+dealer and the purchaser or customer but the guarantee from the manufacturer is a collateral
+contract between the manufacturer and the customer. To be enforceable as a collateral contract, a
+promise must be supported by consideration. (i) In the case of purchase of goods by the customer
+from the dealer for consideration, the guarantee from the manufacturer is collateral contract
+between the manufacturer and the customer. (ii) When a customer buys goods from a shop and the
+payment involves use of cheque, cards or credit cards issued by the bank, the main contract is
+between the customer and the shopkeeper but there is also a contract between the shop keeper and
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+23
+the issuer of the credit card, by which the latter undertakes that the shop keeper will be paid. (iii) In
+the case of a hire-purchase agreement, the primary contract is the customer entering into a
+hire-purchase agreement with the finance company. In such a case, the main contract is between the
+customer and the finance company. A representation by the dealer as to the quality of the goods
+used does not bind the finance company but it would be enforced against the dealer as a collateral
+contract by a customer. [Source: Benjamin’s Sale of Goods, Eighth Edition]
+(v) According to Halsbury’s Laws of England, Fifth Edition-2012, Volume 91, meaning of warranty is
+as under:
+“64. Meaning of ‘warranty’. ‘Warranty’ means an agreement with reference to goods
+which are the subject of a contract of sale, but collateral to the main purpose of such a
+contract, the breach of which gives rise to a claim for damages, but not to a right to
+reject the goods and tret the contract as repudiated. In order to satisfy the definition,
+therefore, a warranty must, first, be an agreement, a promise that the representation
+is or will be true; and, secondly, the agreement must be collateral to the main
+purpose of the contract, such purpose being the transfer of the property in, and the
+possession of, goods of the description contracted for. A warranty may be given in
+consideration of an agreement to enter into a contract of sale of the goods to which
+the warranty relates with a party other than the person giving the warranty.” 13.6. In
+Rotork Controls India Pvt. Ltd. vs. Commissioner of Income Tax, Chennai, (2009) 13
+SCC 283, a provision within the meaning of Section 40-A of the Income Tax Act, 1961
+which deals with expenses or payment not deductible in certain circumstances came
+up for consideration. In that context, it was observed that a provision is a liability
+which can be measured only by using a substantial degree of estimation. A provision
+is recognised when:
+(a) an enterprise has a present obligation as a result of a past event (such as a sale); (b) it is probable
+that an outflow of resources will be required to settle the obligation; and (c) a reliable estimate can
+be made of the amount of the obligation. The assessee therein was in the business of valve actuators
+which are sophisticated goods and if any valve actuator was found defective then the warranty
+became significant. As the valve actuator is a sophisticated good, no customer was prepared to buy
+the same without a warranty. In other words, a warranty stood attached to the sale price of the
+product. In that context, it was observed that obligations arising from past events have to be
+recognized as provisions and these past events such as a sale of goods are known as obligating
+events. It was observed on the facts and circumstances of that case that provision for warranty was
+rightly made by the appellant enterprise therein because it had incurred a present obligation as a
+result of past events which resulted in an outflow of resources. 13.7. In the context of levy of excise
+duty on the manufacturer who is also a seller at the point of first sale, this Court in Medley
+Pharmaceuticals Ltd. vs. Commissioner of Central Excise and Customs, Daman, (2011) 2 SCC 601 at
+paragraph 12 referred to Firm Ram Krishna Ramnath Agarwal vs. Municipal Committee, Kamptee,
+AIR 1950 SC 11 which had in turn referred to the distinction made by the Federal Court between a
+duty of excise and a tax on sale in Province of Madras vs. Boddu Paidanna and Sons, AIR 1942 FC 33
+wherein it was observed as under:
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+24
+“9. … … Plainly, a tax levied on the first sale must, in the nature of things, be a tax on
+the sale by the manufacturer or producer; but it is levied upon him qua seller and not
+qua manufacturer or producer. It may well be that a manufacturer or producer is
+sometimes doubly hit.… If the taxpayer who pays a sales tax is also a manufacturer or
+producer of commodities subject to a central duty of excise, there may no doubt be
+overlapping in one sense; but there is no overlapping in law. The two taxes which he
+is called on to pay are economically two separate and distinct imposts. There is, in
+theory, nothing to prevent the Central Legislature from imposing a duty of excise on a
+commodity as soon as it comes into existence, no matter what happens to it
+afterwards, whether it be sold, consumed, destroyed or given away. … It is the fact of
+manufacture which attracts the duty, even though it may be collected later…. In the
+case of a sales tax, the liability to tax arises on the occasion of a sale, and a sale has no
+necessary connection with manufacture or production.” (emphasis supplied) 13.8. In
+Bharat Heavy Electricals Ltd. vs. Commissioner of Customs and Central Excise,
+Indore, (2003) 9 SCC 185, the question was, whether, excise duty is payable on the
+parts which are replaced during the warranty period. It was contended that the
+replaced part was free of cost during the warranty period and the sale price of the
+machinery sold included the price of the part which was subsequently being replaced.
+There could not be double levy of excise on the same part. It was observed that the
+price charge for the machinery may include the element of “complaint reserve”. At
+that time, it is not known whether there would be any need to replace any part. In
+many cases, parts are not required to be replaced. When parts are not replaced, the
+component of “complaint reserve” is not returned to the customer. Thus, as far as the
+customer is concerned, the total amount paid, including the component towards
+“complaint reserve” is the price for the machinery. It was further observed that when
+a manufacturer offers a warranty to replace a defective part within a particular period
+and defective part is replaced by another part, the latter is exigible to excise duty.
+Pertinent Controversy: Analysis
+14. In Mohd. Ekram Khan, this Court distinguished the judgment in Premier Automobiles by
+holding that the fact situation there was different and the issues in the said case were also different
+by observing that one of the issues was, whether, the expenses on account of warranty and statutory
+bonus were to be excludable while working out the ex-works cost. It was noted therein that car
+manufacturers furnish warranty covering the cars sold by entering into an agreement with the
+manufacturers of components providing for a warranty so far as the components supplied are
+concerned. The whole object behind the warranty is that the consumer who has to make a heavy
+investment for the vehicle should be assured of a proper performance of the vehicle in a trouble-free
+manner for a reasonable length of time. Therefore, entire cost of warranty was to be borne by the
+manufacturer.
+15. Referring to Prem Nath Motors, it was observed in Mohd. Ekram Khan that the said case dealt
+with transfer of property in the part or parts replaced in pursuance of a stipulation or a warranty
+which is a part of the original sale of the car for the price fixed and received from the buyer or
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+25
+consumer. It was observed that the price so fixed and received was a consolidated price for the car
+and the parts that may have to be supplied by way of replacement in pursuance of the warranty. It
+was observed by this Court that the decision in Prem Nath Motors did not apply to the controversy
+in Mohd. Ekram Khan.
+16. It was further observed in Mohd. Ekram Khan that in a case where manufacturer may have
+purchased from the open market parts for the purpose of replacement of the defective parts, the
+manufacturer would have to pay taxes. In such a situation, the dealer would have supplied the parts
+and not received any price either from the customer or from the manufacturer. The dealer (assessee)
+would have not received the payment of the price for the parts supplied to customers received from
+the manufacturer. Therefore, the transaction is not subject to levy of tax. What is significant to note
+is that when there is a warranty clause appended to the sale of a motor vehicle for the replacement
+of a defective part on the part of the manufacturer and if the manufacturer purchases the said part
+from the open market, it would have paid the tax. In such a case the dealer (assessee) would have
+supplied the part to the customer but not received the payment of the price from the manufacturer.
+In such a case, the transaction between the dealer and the manufacturer is not one of sale. But what
+is the nature of transaction when a dealer receives a credit note from the manufacturer while
+discharging his obligation under a warranty clause and uses a spare part from his own stock to
+replace a defective part was a question which was also considered.
+17. In Prem Motors, it was observed that when a dealer sells an automobile, he sells it with all parts
+in a salable condition. The warranty from the manufacturer is that if, during the warranty period,
+any part is found to be defective and is to be replaced, the responsibility of replacement is that of the
+manufacturer. For the convenience of the customer, there is an arrangement between the
+manufacturer and the dealer so that the customer may get replacement done from the dealer which
+in due course is again made good by the manufacturer. The dealer/assessee replaces parts to the
+customers and gets it reimbursed, it is neither sale of these parts by the dealer to the customer or by
+the manufacturer. What he does only is to pass on the parts from the manufacturer to the customer
+but in order to avoid delay and inconvenience of the customer he replaces the parts first (from his
+own stock) and gets a recompense from the manufacturer later which is not a sale as per the
+definition of sale of goods.
+18. Similarly, in Geo Motors, it was observed that when the replacement of the spare part is done
+during the warranty period free of charge, the same cannot be treated as a sale and included in the
+taxable turnover, even if the purchase of such spares was effected from outside the State by issuance
+of ‘C’ forms. This is because the transaction between the dealer and the customer is one as an agent
+of automobile manufacturer and the spare part is given on the basis of the warranty for replacement
+even though the dealer may have purchased the spare part by giving the ‘C’ form. It is purely for
+replacement and not for sale. Credit notes are also issued by the manufacturer reducing the sale
+value. Therefore, the spare parts which are given for replacement have to be exempted from the
+turnover.
+19. In the Reference order, an attempt has been made to distinguish the judgment in Mohd. Ekram
+Khan by contending that a car manufacturer would enter into an agreement with the manufacturer
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+26
+of components, providing for a warranty so far as the components are concerned. During the period
+of warranty, the car manufacturer or his dealer has to replace the defective part free of cost. The
+whole object behind the warranty is that a consumer who has made a heavy investment, while
+purchasing a car, is assured of proper performance of the vehicle in a trouble-free manner for a
+reasonable length of time. According to the appellants this fundamental concept had been lost while
+deciding Mohd. Ekram Khan.
+20. This Court in Mohd. Ekram Khan distinguished the factual situation in Premier Automobiles
+and Prem Nath Motors. In other words, after distinguishing the aforesaid cases, it was noted that “in
+a case the manufacturer may have purchased from the open market parts for the purpose of
+replacement of the defective parts. For such transaction, it would have paid taxes. The position is
+not different because the assessee had supplied the parts and had received the price.” In other
+words, in Mohd. Ekram Khan, a situation where a manufacturer has purchased the part from the
+open market for the purpose of replacement of the defective part and for which taxes have been paid
+by the manufacturer and a situation where the dealer/assessee supplies the part from his own stock
+and has received the price for the same in the form of credit note on return of the spare part to the
+manufacturer have been considered to be not different to each other, but the same.
+21. The question is, whether, this Court in Mohd. Ekram Khan was right in equating both the factual
+situations and holding that in the latter case, the dealer was liable to pay sales tax on the premise
+that the transaction between the manufacturer and dealer was one of sale.
+22. In Mohd. Ekram Khan, the facts were that the dealer/assessee therein had received the amount
+from the manufacturer for supply of spare parts to the customer as a part of the warranty, the
+manufacturer had the warranty agreement with the purchaser of automobiles to replace defective
+parts during the warranty period. The manufacturer made payment to the dealer / assessee as the
+price for the parts which were supplied by the dealer/assessee to the purchaser or customer. Credit
+notes were issued by the manufacturer to the dealer / assessee in respect of the price of the parts
+supplied to the purchaser of the automobile.
+23. The above distinct factual basis in Mohd. Ekram Khan is equated to a case where a manufacturer
+purchases spare parts from the open market for the purpose of replacement of defective parts and
+the tax is paid by the manufacturer himself. The judgment in Mohd. Ekram Khan proceeds on the
+footing that the two situations are identical. Thus, a situation where the assessee supplies the part
+from his own stock and receives a credit note by way of recompense for the said replacement from
+the manufacturer is construed to be identical to a situation where a manufacturer buys a spare part
+from the open market and replaces the defective part through the dealer (assessee) and the dealer
+returns the defective part to the manufacturer. In the latter situation there would be no recompense
+paid to the dealer as the dealer has acted merely as an intermediary and/or an agent of the
+manufacturer in replacing the defective part with a part received from the manufacturer and
+returning the defective part received from the customer to the manufacturer. In contradiction, if the
+dealer replaces a defective part from his own stock and returns the defective part to the
+manufacturer, pursuant to a warranty clause appended to a sale of an automobile and, in turn,
+receives a recompense for the same, can it be termed a sale is the question to be considered.
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+27
+24. In both of the above situations, firstly, a dealer is acting pursuant to a warranty which he is
+bound to honour along with the manufacturer vis-à-vis a customer or purchaser of an automobile.
+Secondly, the dealer is also acting as an intermediary and/or an agent of the manufacturer as the
+warranty emanates from the manufacturer to the ultimate customer through the dealer. The
+warranty clause runs along with the sale of the automobile, firstly, from the manufacturer to the
+dealer on a principal to principal basis and secondly, from the dealer to the customer. Therefore, as
+an intermediary between the manufacturer and the customer, the dealer has to act on behalf of the
+manufacturer i.e. between the manufacturer on the one hand and the customer on the other hand in
+order to fulfil the obligation cast on the manufacturer under the warranty clause vis-à-vis the
+customer.
+25. While so acting as an intermediary, the dealer may replace the defective part in the car either by
+receiving a spare part from the manufacturer directly. In such a case, (i) the manufacturer could
+either dispatch the spare part from its own factory or production unit to the dealer to replace the
+defective part in the automobile and seek return of the defective part or (ii) the manufacturer can
+procure the spare part from the producer of the same or from the open market. In both the above
+situations, there is no transaction of sale between the manufacturer and dealer. If the manufacturer
+of the automobile has purchased the spare part from the open market or from the producer of the
+spare part, sales tax would have been paid by the manufacturer on it and dispatched to the dealer to
+replace it in place of the defective part.
+26. But there can also be a situation when the dealer would replace the defective part in the
+automobile pursuant to a warranty from his own stock of spare parts which he would have
+purchased either from the manufacturer or from the open market or the manufacturer of the spare
+part. In the aforesaid three situations, the dealer would have paid sales tax while purchasing the said
+stock. When the defective part is replaced by the dealer from a spare part from his stock, the dealer
+is no doubt acting pursuant to the warranty on behalf of the manufacturer but is sourcing the spare
+part from his own stock. Simply put, the dealer is not “selling” the spare part to a customer while
+acting on behalf of the manufacturer but replacing the defective part free of cost by acting under the
+warranty. But what is to be borne in mind is that the replacement of the spare part is from the stock
+of the dealer who would have earlier bought the same by paying the requisite tax on the same. If the
+said part, instead of being replaced pursuant to the warranty free of cost had been sold, the dealer
+would have earned a return on his investment and possibly with a reasonable profit also and would
+have also collected the sales tax. But when the dealer replaces a defective part with a spare part from
+his stock pursuant to a warranty, he does not receive anything in return from the customer for the
+spare part used from his own stock. It is in such a situation that the manufacturer issues a credit
+note to recompense the dealer for his investment on the spare part in his stock which was used to
+replace a defective part pursuant to a warranty in the sale of automobile as nothing would have been
+received in return from the customer. This is because if the spare part from the stock of the dealer
+had been sold to any other customer, across the counter and not pursuant to any warranty, he would
+have received a return on his investment. But such a return is not received by the dealer from the
+customer when he replaces a defective part pursuant to a warranty. In such a situation, on return of
+the defective part to the manufacturer by the dealer, he is issued a credit note by the manufacturer
+which is to make good the stock of the dealer.
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+28
+27. Therefore, we have to assess the nature of the transaction by discerning the manner in which the
+dealer would have acted under the scope of a warranty on the sale of an automobile. The similarity
+in both kinds of situations referred to above is that the dealer is acting on behalf of the manufacturer
+pursuant to a warranty and in both the situations does not receive any price or consideration from
+the customer. But, the significant distinction in the two situations must be borne in mind. In the
+first situation, the dealer merely transmits the spare part received from the manufacturer to the
+customer and in turn returns the defective part to the manufacturer and does not receive a
+recompense by way of cost of the spare part but may receive a service charge under a dealership
+agreement. On the other hand, in the second situation, the dealer would have used a spare part from
+his stock to replace the defective part and returns the defective part to the manufacturer, who then
+issues a credit note to the dealer.
+28. The controversy in these cases is, whether, the second of the aforesaid situations would amount
+to a sale in the sense that the dealer is liable to pay sales tax on the credit note issued in his favour.
+In other words, whether the transaction is in the nature of a sale to attract payment of sales tax by
+the dealer under the sales tax laws under consideration. In this context, it is necessary to
+recapitulate as to why a credit note is issued by the manufacturer to the dealer. A credit note is
+issued with a particular intention in mind and that is to recompense the dealer. What is the reason
+for doing so? The reason is not far to see and has already been adverted to above. The recompense in
+the form of credit note to the dealer is because the dealer would not receive any price from the
+customer for the replacement of the defective part while acting under the warranty on behalf of the
+manufacturer while using the spare part from his own stock which belongs to him and which he had
+procured by paying the necessary price including tax, either from the manufacturer himself or from
+the open market. If the dealer had sold the said spare part which he used to replace a defective part
+pursuant to a warranty clause, he would have received a return for his investment plus a profit. But,
+while acting under the warranty on behalf of the manufacturer, the dealer does not receive any price
+from the customer. Hence, he is recompensated by the manufacturer in the form of a credit note.
+29. In this context, it is necessary to understand the legal import of the expression credit note which
+has been cited by Sri Kavin Gulati, learned senior counsel for the appellants. According to various
+dictionaries and references, definitions of credit note are as follows:
+(i) In P. Ramanatha Aiyar, Advanced Law Lexicon, 6th Edition, Volume 1 – “Credit Note” is defined
+as “A note showing that an allowance is to be made for shortage or defects in goods supplied and
+returned to sender, or for overcharge in price. The term is also used for a note or document that
+confirms the availability of funds for future purchases (as when goods are paid for but later returned
+to the supplier)”. A “sales credit note” is defined as – “Note sent from a seller to a buyer to cancel
+(partly or in total) a charge that has already been invoiced. The credit thus granted can be offset
+against the cost of future purchases (and is, therefore, from the seller’s point of view, better than
+making a cash refund”.
+(ii) According to the Oxford Advance Learner’s Dictionary – “if, damaged items have to be returned,
+the manufacturer may issue a credit note”.
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+29
+(iii) According to the Cambridge Advanced Learner’s Dictionary and Thesaurus – A credit note is an
+outstanding amount, to be used when needed. “It is the document that a seller gives to a buyer who
+returns a product, which the buyer may use at a later date/time to pay for something else”.
+(iv) According to the Collins English Dictionary – “A credit note is a piece of paper that a shop gives
+when a person returns goods that have been bought from it, which entitle the buyer to take goods of
+the same value without paying for them”.
+(v) According to Black’s Law Dictionary, Fifth Edition, -
+“Credit Memorandum” is “a document used by a seller to inform a buyer that the
+buyer’s account receivable is being credited (reduced) because of errors, returns, or
+allowances”.
+(vi) Under the Goods and Services Tax Law – It has been stated that after the invoice has been
+issued there could be situations where the quality of the goods or services or both supplied is not to
+the satisfaction of the recipient, thereby, necessitating a partial or total reimbursement on the
+invoice value. In order to regularize these kinds of situations the supplier is allowed to issue what is
+called as credit note to the recipient. Once the credit note has been issued, the tax liability of the
+supplier will reduce. The credit note is, therefore, a convenient and legal method by which the value
+of the goods or services in the original tax invoice can be amended or revised. The issuance of the
+credit note will easily allow the supplier to decrease his tax liability in his returns without requiring
+him to undertake any tedious process of refunds.
+30. Therefore, the entire controversy must be viewed in the perspective of a composite transaction
+and not in isolation as the dealer (assessee) would be acting under a warranty with there being a
+manufacturer on one end and the purchaser or customer of an automobile at the other end and the
+dealer acting on behalf of the manufacturer or an intermediary between the said customer and
+manufacturer. The said transaction cannot be viewed in a myopic sense by truncating or excluding
+the role or action of a dealer under the warranty and viewing it only from the perspective of a
+transaction simpliciter between manufacturer and a dealer. Such an approach is not only skewed
+from a commercial perspective but also jurisprudentially or in the legal sense. There need not be a
+reiteration of the significance of a warranty in a transaction of a sale of goods already discussed
+above.
+31. Thus, as a sequel to the aforesaid discussion, the following situations may be adumbrated by way
+of illustration. When a dealer–assessee sells an automobile to a customer containing a warranty for
+the replacement of a defective part of the automobile in terms of the warranty and when the
+customer during the period of warranty approaches the dealer for the replacement of a defective
+part, the dealer could resort to the following: -
+(a) request the manufacturer to supply the defective part of the automobile for replacement. In such
+a situation, the manufacturer of the automobile could do any of the following: -
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+30
+(i) send the spare part from his factory either as a manufacturer of the same to the dealer for
+replacement and seek return of the defective part, or
+(ii) purchase the spare part from the manufacturer of the particular part by paying the requisite
+taxes and send it to the dealer and seek return of the defective part, or
+(iii) purchase the spare part from the open market after paying the requisite taxes and send it to the
+dealer for replacement of the defective part in the automobile and seek return of the defective part.
+or
+(b) may purchase the spare part from the open market by paying the requisite taxes and replace the
+defective part and return the same to the manufacturer, or
+(c) may replace the defective part from his stock maintained in his showroom and return the
+defective part to the manufacturer.
+32. In situation (a), since the manufacturer himself has dispatched the spare part to the dealer for
+the purpose of replacement, there is no investment made by the dealer on the said part. The dealer
+merely acts on behalf of the manufacturer, pursuant to the warranty.
+33. In situations (b) and (c), the dealer would have invested on the spare part either by buying it
+from the open market or earlier would have purchased the same from the manufacturer of the
+automobile or from the manufacturer of the particular part by paying the requisite price and taxes.
+The dealer has every right to sell such a part and seek a return on his investment and possibly a
+profit also. But when the same is used for the purpose of replacement of a defective part pursuant to
+a warranty, the dealer does not “sell” the part to the customer who has approached the dealer with
+the defective part. The dealer does not receive any consideration in the form of a price from the
+customer but on the basis of the warranty, the dealer is obliged to replace the defective part with a
+new part. The dealer then sends the defective part to the manufacturer of the automobile, who had
+given the warranty. The manufacturer, from whom the automobile has been purchased, then issues
+a credit note which may be equivalent to the value of the spare part used by the dealer. This credit
+note is in order to recompense the dealer for his investment made on the spare part which was “not
+sold” by him to the customer so as to earn any return but has been utilised to replace a defective part
+of the automobile as an obligation under a warranty given at the time of the sale of the automobile
+on behalf of the manufacturer. In such a situation, whether, the recompense made to the dealer can
+be termed to be a “sale” between manufacturer and the dealer within the meaning of the definition
+of “sale” under the Sales Tax Acts is the question. In other words, can it be construed that when the
+dealer has utilised a spare part from his own stock to undertake an obligation pursuant to a
+warranty for the sale of an automobile on behalf of the manufacturer to the customer and by acting
+as an intermediary, there would be a “sale” between a dealer and manufacturer of the automibile of
+the spare part and thus, a credit note being issued by the manufacturer to the dealer?
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+31
+34. It has to be borne in mind that there is no transfer of property between the manufacturer and
+the dealer when the spare part from the stock of the dealer is used for the purpose of replacement of
+defective part in the automobile. The spare part used from the stock of a dealer is the property of the
+dealer which could have been either sold to any other customer and seek a return on his investment,
+in which case, the customer would have paid the requisite taxes to the dealer. Alternatively, the
+spare part could also be used from the stock maintained by the dealer to replace a defective part
+when an automobile has been sold by him and the customer approaches the dealer during the
+warranty period when there is a defect in any part of the automobile. In such a situation, the dealer
+is acting on behalf of the manufacturer or as an intermediary between the manufacturer and the
+customer of the automobile and discharging his obligation under a collateral contract. Hence, it is a
+warranty given by the manufacturer through the dealer to the customer during the period of
+warranty. In such a situation, when a credit note is issued to the dealer on return of the defective
+part by the manufacturer is there a sale within the scope and meaning of definition of “sale” under
+the Sale Tax Legislation? The transaction that takes place when the dealer discharges his obligation
+under a warranty appended to the sale transaction of the automobile is on behalf of the
+manufacturer but the manufacturer issuing a credit note to a dealer is a “valuable consideration”
+paid by the manufacturer to the dealer, when the dealer is acting under the warranty.
+35. The argument of Shri Pallav Sisodia, learned senior counsel that the purchaser or the customer
+seeking replacement of a defective part is distinct and disjunct from the earlier sale of the
+automobile by the dealer to the customer, cannot be accepted. This is for the simple reason that the
+dealer discharges his warranty obligation pursuant to the earlier sale of the automobile made by him
+to the customer which transaction of sale is accompanied by a collateral contract in the form of a
+warranty. There cannot be a warranty unless there is a sale of goods in the first place. That is why a
+warranty is termed as a contract collateral to the main contract of sale. But for the warranty which is
+a contract collateral to the main contract of sale of an automobile, the dealer would not have
+replaced the defective part with a spare part from his stock without any consideration from
+customer. This is obvious because when the defective part is replaced by another part, no
+consideration passes from customer to the dealer. This could be contrasted with a situation where
+the dealer would have sold the same part to any other customer and received a price on the sale as
+well as collected the tax on the said sale. Since, the dealer does not receive any consideration from
+the customer who approaches the dealer during the warranty period for replacement of a defective
+part and the dealer does so from his own stock of the spare parts, he receives a credit note from the
+manufacturer of the automobile. What is significant to note is in both of the aforesaid situations,
+there is transfer of property in the goods from the dealer to the customer.
+36. Thus, the bifurcation of the two transactions as suggested by learned senior counsel Sri Sisodia,
+i.e., one, between the dealer and the customer for the sale of the automobile and the second,
+between the manufacturer and the dealer, when the dealer is discharging his warranty pursuant to
+the sale of the automobile, cannot be accepted.
+37. But the issuance of a credit note to a dealer by a manufacturer is only when the dealer replaces a
+spare part from his stock in the automobile to the customer or has purchased the spare part from
+the open market for the said purpose and returns the defective part to the manufacturer which is
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+32
+pursuant to the warranty appended as a collateral agreement to the earlier sale of the automobile
+and the dealer acting on behalf of the manufacturer. Hence, whether the revenue is right in
+contending that the credit note issued to the dealer whilst he is discharging his obligation under the
+warranty is a “sale” and the dealer is liable to pay sales tax on the credit note is the point under
+consideration.
+38. It is also significant to note that there is transfer of property in the spare part between the dealer
+and the customer on behalf of the manufacturer under a warranty. Hence, whether, one can
+construe the credit note as a price for the same and, therefore, subject to sales tax? The ingredients
+of a sale have been discussed above and would not call for reiteration. When the dealer is acting
+pursuant to a warranty, he is no doubt discharging his obligation not as a seller stricto sensu, but as
+an intermediary or an agent of the manufacturer as the case may be vis-à-vis the purchaser of the
+automobile. But, there is transfer of property between the dealer and the customer/purchaser of the
+automobile on the one hand and receipt of a valuable consideration by the dealer for the same from
+the manufacturer on the other in the form of a credit note. Further, it must be borne in mind that
+credit note is issued only when a dealer discharges his obligation under the warranty and may be
+required to return the defective part to the manufacturer while seeking a recompense in the form of
+a credit note.
+39. The contention of the revenue is that the credit note is a valuable consideration in the account of
+the dealer while the dealer is discharging his obligation pursuant to the warranty and therefore
+exigible to sale tax. This is based on the premise that the dealer “sells” the part while acting on
+behalf of the manufacturer while replacing a defective part under a warranty and discharging his
+warranty obligation for which the consideration flows from the manufacturer to the dealer and
+therefore is amenable to sales tax. There are two aspects to be considered here: firstly, there is
+transfer of property in the spare part between the dealer and the customer and secondly, for the said
+transfer, the manufacturer issues a credit note to the dealer which is in substance on behalf of the
+customer owing to the warranty with the customer.
+40. Thus, when the transaction between the manufacturer and dealer is viewed in the larger canvas
+of a dealer discharging his obligations pursuant to a warranty appended to a sale of an automobile,
+the same cannot be narrowly construed. At the same time, whether the transaction resulting in
+payment by way of a credit note to a dealer/assessee is a sale within the definition of sale under the
+Sales Tax Acts of the respective States under consideration has to be considered.
+41. For ease of reference, the definition of “sale” and “sale price” under the Rajasthan Value Added
+Tax Act, 2003, which is one of the legislations under consideration as per Section 2(35) and (36), are
+extracted for easy reference:
+“(35)“sale” with all its grammatical variations and cognate expressions means every
+transfer of property in goods by one person to another for cash, deferred payment or
+other valuable consideration and includes–
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+33
+(i) a transfer, otherwise than in pursuance of a contract, of property in goods for cash,
+deferred payment or other valuable consideration;
+(ii) a transfer of property in goods (whether as goods or in some other form) involved
+in the execution of a works contract;
+(iii) any delivery of goods on hire–purchase or other system of payment by
+instalments;
+(iv) a transfer of the right to use goods for any purpose (whether or not for a specified
+period) for cash, deferred payment or other valuable consideration;
+(v) a supply of goods by an unincorporated association or body of persons to a
+member thereof for cash, deferred payment or other valuable consideration; and
+(vi) a supply, by way of or as part of any service or in any other manner whatsoever,
+of goods, being food or any other article for human consumption or any drink
+(whether or not intoxicating), where such supply is for cash, deferred payment or
+other valuable consideration, and such transfer, delivery or supply shall be deemed to
+be a sale and the word “purchase” or “buy” shall be construed accordingly;
+Explanation.– Notwithstanding anything contained in this Act, where any goods are
+sold in packing, the packing material in such case shall be deemed to have been sold
+with the goods;
+(36) “sale price” means the amount paid or payable to a dealer as consideration for
+the sale of any goods less any sum allowed by way of any kind of discount or rebate
+according to the practice normally prevailing in the trade, but inclusive of any
+statutory levy or any sum charged for anything done by the dealer in respect of the
+goods or services rendered at the time of or before the delivery thereof, except the tax
+imposed under this Act;
+Explanation I. – In the case of a sale by hire purchase agreement, the prevailing
+market price of the goods on the date on which such goods are delivered to the buyer
+under such agreement, shall be deemed to be the sale price of such goods;
+Explanation II. – Cash or trade discount at the time of sale as evident from the
+invoice shall be excluded from the sale price but any ex post facto grant of discounts
+or incentives or rebates or rewards and the like shall not be excluded;
+Explanation III. – Where according to the terms of a contract, the cost of freight and
+other expenses in respect of the transportation of goods are incurred by the dealer for
+or on behalf of the buyer, such cost of freight and other expenses shall not be
+included in the sale price, if charged separately in the invoice;”
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+34
+42. Under Section 4 of the Act, a contract of sale of goods is a contract whereby the
+seller transfers or agrees to transfer the property in goods to the buyer for a price.
+The expression “price” is defined in Section 2(10) of the said Act to mean a money
+consideration for sale of goods, i.e., whether the sale is for cash or credit, it must be in
+terms of money. If any consideration other than money is given, it is not a sale, but
+only an exchange or barter. If no consideration is given, then it will be a gift.
+43. However, under Section 2(g) of the Central Sales Tax Act or the Sales Tax Act of
+the respective states under consideration, sale, with its grammatical variations and
+cognate expressions, means any transfer of property in goods by one person to
+another for cash or deferred payment or for any other valuable consideration. The
+definition of sale under the Sales Tax legislations are in consonance with Article
+366(29-A) as per the Constitution 46th Amendment Act, 1982. The expression
+“dealer” is defined in Section 2(b) of the Central Sales Tax Act and, accordingly,
+under the respective State Acts to mean any person who carries on (whether regularly
+or otherwise) the business of buying, selling, supplying or distributing goods, directly
+or indirectly, for cash or for deferred payment, or for commission, remuneration or
+other valuable consideration.
+44. The expression “valuable consideration” is not defined either under the Central Sales Tax or
+under the respective State Acts under consideration. “Price” is the amount of consideration which a
+seller charges the buyer for parting with the title to the goods. The price would include not only the
+price of the goods but also the expenditure incurred for transporting the goods, duties levied, etc.
+The entire amount of consideration including the sales tax component which the purchaser pays,
+constitutes the price of goods. As already noted, the expression “price” under the Sale of Goods Act
+is limited to a money consideration, cash or deferred payment but under the definition of “sale”
+under the Sales Tax legislations, the expression used is not just cash or deferred payment but also a
+valuable consideration. The expression valuable consideration has a wider connotation but must be
+read ejusdem generis to cash and deferred payment. The expression valuable consideration takes
+colour from the preceding expressions cash or deferred payment, therefore, it means payment in
+monetary terms i.e. in the nature of cash or deferred payment such as cheque, bank draft,
+promissory note, etc. Cash and deferred payment are relatable to the expression “money”. In other
+words, a transaction could amount to a sale if consideration is in terms of money. Thus, money is a
+genus of which cash or deferred payment in the form of cheque, bank draft, promissory note, etc. are
+species. Money has a wider connotation to include a valuable consideration in the form of money or
+a payment in monetary terms which is the price for the transfer of property paid. Thus, a valuable
+consideration is also a species of money which is the consideration for the transfer of goods under
+the sales tax enactments.
+45. The aforesaid discussion could be illustrated better with reference to State of T.N. vs. Sri
+Srinivasa Sales Circulation, (1996) 10 SCC 648. In the said case, the facts were that under a scheme
+introduced by the assessee, ‘A’ purchased one coupon from the assessee on payment of Rs.5. ‘A’ was
+to name a particular kind of goods required by him and mentioned in the said coupon. On receipt of
+the coupon from ‘A’, the asssessee would forward to him by V.P.P. three more such coupons. ‘A’ was
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+35
+required to give the said three coupons to three persons ‘B’, ‘C’ and ‘D’ and keep the money so
+realised to himself. Each of ‘B’, ‘C’ and ‘D’ were to forward in the above manner, their respective
+coupons to the assessee, who was to send to each one of them three coupons separately by post
+(V.P.P.). On realisation of the three V.P.Ps. the assessee would supply to ‘A’ the article named by
+him. It was held that the consideration was not only money paid or promised to be paid, but it was
+something more. According to the High Court of Madras, the title to the goods did not pass to ‘A’
+under a contract of sale. The transactions were held not to be sales liable to tax. However, the State
+came up to this Court contending that the respondent therein had offered the coupons against
+payment, in the scheme of circulation sales, and the article of choice was ultimately sent to the
+customer for payment of a price which was accepted by the customer; there was, thus, offer and
+acceptance. All the attributes and characteristics and requirements of a sale were present in the
+transaction. Though, designed by the adoption of a circuitous method, the transaction amounted to
+nothing but a sale and was liable to sales tax.
+46. Applying the aforesaid principles and the judgment of this Court to the case at hand, it is noted
+that when the dealer uses one of the spare parts from his stock for the replacement of a defective
+part in an automobile under a warranty, he is given a monetary benefit in the form of a credit note.
+The definition of “credit note” from various dictionaries and Law Lexicons have been adverted to
+above. A perusal of the aforesaid definitions would clearly indicate that a credit note issued by a
+manufacturer in favour of a dealer is a valuable consideration within the meaning of the definition
+of “sale” under both, Central Sales Tax Act as well as the respective State enactments under
+consideration. The object and purpose of including the expression valuable consideration within the
+definition of sale apart from cash and deferred payment is to enlarge the scope of the expression
+price than what is enunciated under the Sale of Goods Act which is an enactment of 1930. The
+expression as already noted, is relatable to a money consideration. No doubt, cash is a money
+consideration but the definition of “sale” under the Central Sales Tax Act as well as under the State
+enactments does not imply price to mean only a money consideration in a narrower sense but in a
+wider sense to include different forms of money consideration such as deferred payment and also a
+valuable consideration which need not be restricted to cash or deferred payment only but a valuable
+consideration which would include a credit note which is to be read within the definition of “price”.
+47. Benjamin’s Sale of Goods, Eighth Edition, states that the consideration in a contract of sale of
+goods must in English law, be a price in money, either paid of promised. By money is meant legal
+tender; it does not mean money’s worth. Payment need not, however, be made in cash: a method of
+payment that enables the seller to obtain money such as the use by the buyer of a credit card or a
+debit card or digital cash or cheque or banker’s draft or trading cheque also comes within the
+expression “payment of price”. It is only a method of payment or a form of payment. It is also
+irrelevant that the money payment comes, not from the buyer of the goods or to whom the property
+in the goods are transferred, but from the card issuer. Thus, there can be various methods of
+payment i.e., by cash, by negotiable instrument, by credit or charge card or by stored value card or
+sometimes referred to as digital cash card or electronic purses, internet payments on which that
+“value” is stored electronically. There can also be payment by direct debits to effect payment of
+goods supplied particularly when there are recurring payments of variable amounts. The seller can
+obtain through the banking system in direct debit forms to the buyer’s bank. A converse to the
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+36
+system of direct debit is the credit note issued by a buyer in favour of a seller which is a recompense
+or monetary benefit showed in the buyer’s accounts. Thus, the use of the banking system by
+instructing the bank to transfer of balance from the buyer’s account to the credit of a seller is a form
+of transmission of a valuable consideration.
+48. A credit note is a valuable consideration which is essentially a document to inform a buyer that
+the buyer’s account is being credited because of errors, returns or allowances. On discharging his
+obligation under the warranty appended to a sale of an automobile, a dealer receives a credit note.
+This would be a receipt in the account of the dealer and a liability in the returns of the manufacturer
+which may ultimately enable the manufacturer to decrease his tax liability. Consequently, the dealer
+of the automobile in whose account a credit is shown would be ultimately a recipient of a valuable
+consideration on account of a transfer of goods, namely, spare part by a dealer to a customer while
+discharging his obligation under a warranty and thereby receiving a valuable consideration for the
+spare part used by the dealer from his stock from the manufacturer in the form of a credit note.
+When the entire transaction is viewed in the aforesaid perspective and in juxtaposition with the
+expression “sale” under the Central Sales Tax Act as well as the respective State enactments under
+consideration which is of a wider connotation than the definition of sale under the Sale of Goods
+Act, we hold that the amount shown in the account of the dealer in the form of a credit note is
+nothing but a price received for a sale of a spare part by the dealer which is from his stock and which
+belongs to him. Where there is transfer of property by the dealer to the customer while acting under
+a warranty and the dealer being paid by the manufacturer, when viewed in the aforesaid prism, the
+credit note shown in the account of the dealer is a valuable consideration pursuant to the sale that
+has taken place of a spare part from his stock. The aforesaid transaction may be juxtaposed with the
+transaction of sale which the customer who would buy a spare part de hors a warranty. In such an
+event, the dealer would have collected the sales tax along with the price of the spare part and would
+have remitted the same to the revenue. Merely because the dealer is acting as an intermediary or on
+behalf of the manufacturer pursuant to a warranty and receives a recompense in the form of a credit
+note, the same cannot escape liability of tax under the Sales Tax Acts under consideration.
+49. The assessees herein have placed reliance on the decision of Constitution Bench of this Court
+Devi Dass Gopal Krishnan. This Court in the said case considered amendments to various sections
+of the Punjab General Sales Tax Act, 1948 and interpreted the expression ‘other valuable
+consideration’, included in section 2(ff) defining purchase and section 2(h), defining sale, to have a
+wider connotation than cash and deferred payment. In para 25 of its decision, the court reasoned
+that the said expression takes colour from the preceding expression “cash or deferred payment.” It
+was reiterated that ‘other valuable consideration’ has to be monetary in nature. The nature of
+consideration in the form of a credit note is also monetary in nature. Thus, the definition of price
+includes consideration paid by way of credit note. Therefore, payment of consideration through the
+mode of credit note signifies ‘other monetary payment in the nature of a valuable consideration.’
+This decision is hence of no assistance to the assessees in the present case.
+50. Our attention was also drawn to this Court’s decision in CIT vs. Motors and General Stores (P)
+Ltd., (1967) 3 SCR 876. This Court, in that case, adjudicated the exigibility of the profits emanating
+from the sale of assets by way of transfer of 5% tax-free cumulative preference shares under the
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+37
+Income Tax Act. This Court noted that the transaction was one of exchange and the value of shares,
+as well as immovable properties, were recorded solely for the purpose of computing stamp duty. Due
+to the sheer variance of facts in the above case to the present cases, we find the above decision to be
+of no assistance.
+51. We, however, clarify that the judgment of this Court in Mohd. Ekram Khan must be read in the
+context of a case where a dealer is utilising a spare part from his stock to replace a defective part
+under a warranty and receiving a recompense in the form of a credit note from the manufacturer.
+When given such an understanding of the judgment in Mohd. Ekram Khan to the aforesaid
+conspectus of facts, we do not think that the said judgment has been erroneously rendered.
+52. However, in Mohd. Ekram Khan, the judgments of the High Court of Madhya Pradesh in Prem
+Motors and the High Court of Kerala in Geo Motors were overruled. The said judgments were rightly
+overruled. This is because, in those judgments, there was no consideration of the question whether
+the credit note issued by the manufacturer in favour of the dealer was valuable consideration within
+the meaning of the expression “sale” under the respective State laws and it was simply held therein
+that there was no sale transaction within the meaning of the sales tax legislation considered therein.
+53. But the matter does not end, it is necessary to take into consideration that all the credit notes
+received by the dealer are not indicative of the value of the spare part supplied by the dealer from his
+own stock or when he buys it from the open market, to the customer under a warranty. It could be
+for rendering a service under a dealership agreement which can cover a situation when the
+manufacturer sends the spare part to the dealer to replace a defective part and receives a
+consideration for the said service. In such a case, there is no recompense for spare part. It is only
+when a credit note is issued for a spare part used by a dealer from his own stock or when he has
+purchased it from the open market or from another manufacturer of a spare part that it becomes a
+sale within the meaning of the sales tax enactments under consideration.
+54. On the other hand, when a dealer acts as an agent of the manufacturer (Principal) on the basis of
+an express or implied contract of agency he may be entitled to certain remuneration under the terms
+and conditions of agency which is recognised in law. Learned senior counsel for the respective
+parties have adverted to such agreements with regard to consideration received by a dealer under
+the terms of an Agency Agreement for the service rendered by the dealer pursuant to a warranty. We
+are not concerned with such kind of remuneration as the same cannot be construed as a transaction
+of sale. It is a service contract and possibly a service tax is leviable depending on the terms and
+conditions of the Agency.
+55. In C.T.O. (AE), Jodhpur vs. M/s Marudhara Motors, Jodhpur, (2010) 29 VST 114, the learned
+Single Judge of the Rajasthan High Court considered the controversy under the provisions of the
+Rajasthan Sales Tax Act, 1994 in the context of a dealer of automobiles receiving credit notes issued
+by the manufacturer for replacement of defective parts of the automobiles, supplied by the dealer
+under a warranty agreement between the manufacturer and the ultimate customers to whom
+vehicles were sold by the dealer (assessee). After referring to the judgment of the Supreme Court in
+Mohd. Ekram Khan in paragraph 20, the major points of distinction between the facts in Mohd.
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+38
+Ekram Khan case and in the said case were considered in paragraph 21 and it was observed as
+under:
+“21. …. Since title of property in goods namely spare parts passes from the hands of
+respondent assessee to the customer free of cost and such title of property in spare
+parts does not pass from assessee dealer to the manufacturer, no taxable sale can be
+said to have taken place in the hands of respondent assessee at all.”
+56. Thereafter, the learned Single Judge of the Rajasthan High Court has observed that:
+“22. In other words, where there is supply of spare parts to the customer by the
+dealer there is no consideration passing as it is free of cost and where such
+consideration or payment is being received by the dealer from the manufacturer in
+the form of credit notes in discharge of manufacturer's warranty obligations, there is
+no transfer of property in goods viz. spare parts from dealer to the manufacturer.
+These two transactions viz. one between customer and dealer, and another between
+dealer and manufacturer are independent and are not linked to each other.
+First is sans consideration against goods and second one is sans transfer of property
+in goods. The credit notes given by manufacturer to dealer in discharge of its
+warranty obligations to customers cannot be taxed under sales tax laws in the hands
+of the dealer.”
+57. While considering the gamut of transactions in the context of a warranty, bifurcation of the
+same, namely, one between customer and dealer, and another between dealer and manufacturer and
+the observation that the same being “independent and are not linked to each other” is not correct.
+This is because in order to ascertain whether the issuance of the credit note by the manufacturer to
+the dealer is one pursuant to a sale of spare part and therefore liable to sales tax law, as noticed
+above, it has to be viewed in the larger perspective of carrying out an obligation under a warranty at
+the time of sale of the vehicle and not independently as has been stated above. We also find that the
+learned single judge incorrectly distinguished the facts of the case with Mohd. Ekram Khan by
+reasoning that the dealership agreement contemplated a principal- principal relationship between
+the manufacturer and the dealer. On the other hand, we agree with the decision of the Division
+Bench of Bombay High Court in M/s Navnit Motors Pvt Ltd. vs. State of Maharashtra, where it
+compared the assessee’s dealership agreement with Maruti Udyog Ltd. with the dealership
+agreement of the dealer in Mohd. Ekram Khan with Mahindra & Mahindra Ltd. The Bombay High
+Court correctly found that both dealership agreements established a Principal-to-Principal
+relationship and recorded that a solitary sentence in para 1 of the decision in Mohd. Ekram Khan
+ought not to be construed as the dealer was an agent of the manufacturer. Therefore, we do not
+approve of the observations made in paragraph 21 and 22 of the judgment of the learned Single
+Judge of the Rajasthan High Court in the aforesaid case and the said judgment is liable to be
+overruled.
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+39
+58. We further place reliance on the decision of this Court in Govind Saran Ganga Saran vs.
+Commissioner of Sales Tax, AIR 1985 SC 1041 while analysing Article 265 of the Constitution while
+noting as follows:
+“The components which entered into tax are well known. The first is the character of
+the imposition known by its nature which transpires attracting the levy. The second is
+a clear communication of the person on whom the levy is imposed and which is
+obliged to pay the tax. The third is rate at which the tax is imposed and the fourth is
+the measure or value to which the rate is applied for computing the tax liability”.
+Obviously, all the four components of a particular concept of tax has to be inter
+related having nexus with each other. Having identified tax event, tax cannot be
+levied on a person unconnected with event, nor the measure or value to which rate of
+tax can be applied can be altogether unconnected with the subject of tax, though the
+contours of the same may not be identified.”
+59. Reliance was placed on behalf of the Revenue on Dhampur Sugar Mills Ltd. vs. Commissioner of
+Trade Tax, U.P., (2006) 5 SCC 624, wherein the question was, whether, the adjustment of the price
+of molasses from the amount of licence fee would amount “to sale” within the meaning of the Uttar
+Pradesh Trade Tax Act, 1948. The facts therein were that the concerned company owned and
+possessed a sugar mill. A deed of licence was executed by the said company in favour of the
+appellant therein (Dhampur Sugar Mills Ltd.) pursuant whereto and in furtherance whereof, the
+appellant therein executed a performance guarantee to ensure performance of the said deed of
+licence. It was agreed to by and between the parties that a major portion of the licence fee would be
+paid in the shape of molasses. It was contended by the appellant therein that in view of the
+consideration for the right to use the said sugar mill i.e. the licence fee, the appellant therein was
+required to hand over molasses to the said company for an amount equivalent to the licence fee and
+such a transaction would not constitute a sale of molasses so as to attract the provisions of the Act.
+60. The precise question for consideration therein was whether the transaction involved a transfer
+of property or a transfer of a right to use any goods or not. This Court reasoned that molasses
+manufactured in the sugar mills, was the property of the appellant therein and it answers the
+description of goods, that the transfer of the ownership in the goods wherefor the company was to
+pay the price to the appellant therein was not in the form of cash but to be adjusted from the amount
+payable by the appellant therein to the owner by way of consideration for use of the mill. The
+expression cash, deferred payment or other valuable consideration had to be given its true meaning
+and the latter two expressions enlarge the ambit of consideration beyond cash only. It was observed
+that “once an essential component of sales takes place, sales tax would, indisputably, be payable”. It
+was held that the arrangement between the parties therein being clear and unambiguous and not
+with a view to evade tax but there being transfer of goods from the appellant therein to the company
+in the form of supply of molasses, the appellant therein was entitled to a consideration which was in
+the form of the right to run the sugar mill under a deed of licence. It was also observed that a barter
+or an exchange being different from a sale, payment of a licence fee could not be a subject matter of
+barter or exchange. The aforesaid judgment is squarely applicable to the facts of the present cases on
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+40
+the interpretation of the expression valuable consideration in the definition of sale in the legislations
+under consideration.
+61. In Commissioner of Central Excise, Mumbai vs. Fiat India Private Limited, (2012) 9 SCC 332,
+this Court observed that consideration means something which is of value in the eye of the law. In
+other words, it may consist either in some right, interest, profit or benefit accruing to one party, or
+some forbearance, detriment, loss or responsibility, given, suffered or undertaken by the other.
+62. Webster's Third New International Dictionary (unabridged) defines, consideration thus:
+“Something that is legally regarded as the equivalent or return given or suffered by one for the act or
+promise of another.” In Salmond on Jurisprudence, the word “consideration” has been explained in
+the following words:
+“A consideration in its widest sense is the reason, motive or inducement, by which a
+man is moved to bind himself by an agreement. It is for nothing that he consents to
+impose an obligation upon himself, or to abandon or transfer a right. It is in
+consideration of such and such a fact that he agrees to bear new burdens or to forego
+the benefits which the law already allows him.” The gist of the term “consideration”
+and its legal significance has been clearly summed up in Section 2(d) of the Indian
+Contract Act which defines “consideration” thus:
+“When, at the desire of the promisor, the promisee or any other person has done or
+abstained from doing, or does or abstains from doing, or promises to do or to abstain
+from doing, something, such act or abstinence or promise is called a consideration to
+the promise.”
+63. In Assistant Collector of Central Excise vs. Madras Rubber Factory Ltd., 1986
+Supp SCC 751, the question arose under the Central Excises and Salt Act, 1944 with
+regard to the method of computation of assessable value in a cum-duty price at the
+factory gate and the permissible deductions to be made from the cum-duty paid
+selling price to arrive at the assessable value and then tariff rate being applicable to
+the assessable value. One of the contentions regarding deduction was with regard to
+TAC-
+warranty discount to be made for determining the assessable value. It was observed that a warranty
+is not a discount on the tyre already sold, but relates to the goods which are being subsequently sold
+to the same customers. It cannot be strictly called as discount on the tyre being sold. It is in the
+nature of a benefit given to the customers by way of compensation for the loss suffered by them in
+the previous sale.
+64. The said view was reiterated in Government of India vs. Madras Rubber Factory Ltd., (1995) 4
+SCC 349 where the question was whether the claim put forward as TAC-warranty discount is a trade
+discount within the meaning of Section 4 of Central Excises and Salt Act, 1944. It was observed that
+the claim is only a claim for refund by the buyer for the manufacturing defect in the tyre sold by the
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+41
+assessee therein, which is being honoured by the assessee in a manner acceptable to both the
+parties. It was reiterated that it is a benefit given to the customers by way of compensation for the
+loss suffered by them in the previous sale owing to a defective tyre. It is a compensation in the
+nature of a warranty allowance on a defective tyre.
+65. Thus, the manufacturer gives the warranty to the consumer by making a representation with
+regard to the automobile. It is in the nature of a promise which the dealer assessee carries out on
+behalf of the manufacturer. There is transfer of property in the spare part from the stock of the
+dealer to the customer for which the manufacturer pays by way of a credit note. The said promise is
+carried out and a valuable consideration is received by the dealer through credit notes. In substance,
+when the dealer receives a credit note, it is a sale within the meaning of the definition under the
+respective sales tax legislation under consideration, pursuant to the warranty for which the
+manufacturer compensates the dealer by issuance of a credit note. The value of the credit note is a
+valuable consideration received which is in the nature of a benefit from the manufacturer which is
+exigible to tax. If the dealer had sold a spare part of the automobile from his stock to any other
+consumer across the counter, he would have collected the requisite sales tax along with the price
+from that consumer but in the instant case, the consideration is received in the form of a credit note
+from the manufacturer which is subject to sales tax. The person who pays the valuable consideration
+in a sale transaction is irrelevant so long as it is paid.
+66. In this context, it would be relevant to refer to the provisions of the Indian Contract Act, 1872.
+Section 2 (d) of the said Act states that when, at the desire of the promisor, the promisee or any
+other person has done or abstained from doing, or does or abstains from doing, or promises to do or
+to abstain from doing, something, such act or abstinence or promise is called a consideration for the
+promise; Section 2 (c) states that the person making the proposal is called the “promisor”, and the
+person accepting the proposal is called the “promisee”; Section 2 (a) states that when one person
+signifies to another his willingness to do or to abstain from doing anything, with a view to obtaining
+the assent of that other to such act or abstinence, he is said to make a proposal; Section 2 (b) states
+that when the person to whom the proposal is made signifies his assent thereto, the proposal is said
+to be accepted. A proposal, when accepted, becomes a promise; Further, promises which form the
+consideration or part of the consideration for each other, are called reciprocal promises vide Section
+2 (f) of the said Act.
+67. Applying the aforesaid definitions of the Indian Contract Act, 1872 to the facts of the present
+case, it would mean that as between the manufacturer of the automobile, the dealer and the
+customer, the manufacturer is the promisor who makes the proposal to recompensate the dealer
+when pursuant to a warranty clause, the dealer replaces a spare part from out of his own stock or by
+buying the same from the open market or from the manufacturer of the spare part. Thus, the dealer
+is the promisee. The occasion to replace the spare part is when the customer brings to the notice of
+the dealer a defect in a part of the automobile, pursuant to a warranty which has been given by the
+manufacturer to the customer.
+68. Section 2(d) of the said Act in fact enables the promisee (the dealer) to provide consideration by
+conferring a benefit on a third party (customer) at the promisor’s (the manufacturer’s) request
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+42
+pursuant to a warranty between the manufacturer and customer. Thus, a contract could arise even
+though the promise is for doing or abstaining from doing something for the benefit of a third party.
+In other words, if the promisee (the dealer) replaces a defective part of an automobile sold to a third
+party, i.e., the customer, he would receive a credit note from the manufacturer. This is because the
+manufacturer would have proposed to the dealer to recompensate the dealer for the above act which
+proposal would have been accepted by the dealer and, thus, the manufacturer who has made the
+proposal is the promisor and the dealer who has accepted the proposal is the promisee. Further,
+when at the desire of the promisor (the manufacturer), the promise (the dealer) does some act or
+promises to do an act, such act or promise is called consideration for the promise. Therefore, the
+dealer (promisee) agrees to replace a defective part which is a consideration for the promise and in
+turn, receives a recompense in the form of a credit note from the manufacturer. Thus, there is an
+agreement between the manufacturer and the dealer, and it would be in an instance of there being
+reciprocal promises.
+69. In view of the above, the transaction between the manufacturer and dealer while acting pursuant
+to a warranty in the circumstances explained above has to be construed as sale within the meaning
+and definition of sale under the Sales Tax Acts under consideration.
+70. In the circumstances, the reference is answered in the following terms:
+i) The judgment of this Court in Mohd. Ekram Khan is applicable to a situation where a
+manufacturer issues a credit note to a dealer acting under a warranty given by the manufacturer
+pursuant to a sale of an automobile in the following situations. The dealer replaces a defective part
+of the automobile by a spare part maintained in the stock of the dealer or when the same is
+purchased by the dealer from the open market. In such situations, the credit note issued in the name
+of the dealer is a valuable consideration for a transfer of property in the spare part made by the
+dealer to the customer and hence a sale within the meaning of the sales tax legislations of the
+respective States under consideration. The value in the credit note is thus exigible to sales tax under
+the respective sales tax enactments under consideration.
+ii) The judgment in Mohd. Ekram Khan does not apply to a case where the dealer has simply
+received a spare part from the manufacturer of the automobile so as to replace a defective part
+therein under a warranty collateral to the sale of the automobile. In such a situation also, the dealer
+may receive a consideration for the purpose of the service rendered by him as a dealer under a
+dealership agreement or any other agreement akin to an agent of the manufacturer which is not a
+sale transaction.
+On the above understanding of the judgment of this Court in Mohd. Ekram Khan, we are of the view
+that the same does not call for any interference.
+In light of the above, in our view, overruling of the judgments in the case of Prem Motors and Geo
+Motors in Mohd. Ekram Khan, is just and proper.
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+43
+(iii) It is reiterated that a credit note issued by a manufacturer to the dealer, in the situations
+explained above, is a valuable consideration within the meaning of the definition of sale and hence,
+exigible to sales tax under the respective State enactments of the States under consideration. In the
+result, appellants-dealer/assessee are liable to pay sales tax under the respective State enactments
+under consideration.
+(iv) In view of the above, the appeals filed by the dealers are dismissed. The appeals filed by the
+revenue are allowed. Parties to bear their respective costs.
+………………..J.
+[K.M. JOSEPH] …….……………….J.
+[B.V. NAGARATHNA] ……………….………………….J.
+[AHSANUDDIN AMANULLAH] New Delhi;
+15th May, 2023.
+M/S. Tata Motors Ltd. vs The Deputy Commissioner Of ... on 15 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/183778757/
+44
