@@ -1,0 +1,264 @@
+Supreme Court of India
+Peethambaran vs The State Of Kerala on 3 May, 2023
+Author: Sanjay Karol
+Bench: B.R. Gavai, Vikram Nath, Sanjay Karol
+                                            1
+                                                                REPORTABLE
+                          IN THE SUPREME COURT OF INDIA
+                         CRIMINAL APPELLATE JURISDICTION
+                         CRIMINAL APPEAL NO. 1381 OF 2023
+                            (@ SLP (CRIMINAL) NO.545 OF 2020)
+          PEETHAMBARAN                                     …APPELLANT
+                                       VERSUS
+          STATE OF KERALA & ANR.                           …RESPONDENTS
+                                   JUDGMENT
+SANJAY KAROL, J.
+Leave Granted.
+1. Two questions arise for consideration− one, whether under the recognized parameters of exercise
+of power under Section 482, in the facts of the present case, the non− exercise of power is justified
+and two, whether the District Police Chief, Kottayam Signature Not Verified could have ordered the
+further investigation pursuant to which Digitally signed by Deepak Singh Date: 2023.05.04
+18:08:28 IST Reason:
+the second final report was filed?
+2. The instant appeal by special leave petition has been filed against an order of the High Court of
+Kerala passed in Crl. MC No. 6314 of 2018 dated 6th of November, 2019 whereby a prayer to
+exercise powers under Section 482, Code of Criminal Procedure, 1973 was disallowed and
+proceedings under Criminal Case No. 1326/2017 was found unfit to be quashed.
+3. The Appellant has been charged under Section 420 of the Indian Penal Code, 1860, for having
+cheated, alongside accused no.1, now deceased, the de−facto complainant, namely Sunesh and seven
+Peethambaran vs The State Of Kerala on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/129081397/
+1
+other persons of a sum totaling three lakh eighty−three thousand five hundred and eighty−three
+rupees, in exchange for securing jobs for them or their wives at the Kottayam Rubber Board, as
+clerks.
+4. An FIR was registered bearing number 1838 of 2015 under the above stated section on 24th
+October, 2015. The accused No.2 before us is the uncle of the de−facto complainant.
+5. The Final Report (hereafter, FR−I) placed on record dated 30 th December, 2015 records that the
+complainant was asked to produce documents in this regard, but despite notice, the same were not
+produced, nor were any other documents, in regards to any financial transaction. It then states− “As
+there is no proper evidence in this regard, it shall be considered as a false case…”
+6. Interestingly, another Final Report (hereafter, FR−II) forms part of the record. It states that
+witness number 10, namely S. Anilkumar, Inspector of Police, Viakom, conducted further
+investigation as per Order No. D2−43642/16/K passed by the District Police Chief, Kottayam.
+7. It has been urged by way of this appeal that in effect, a re− investigation had been ordered, in
+violation of the procedure laid down in law. Further it has been argued that; the ingredients of
+Section 420, IPC have not been met− and therefore the High court has erred in not quashing the
+proceedings subject of the petition under Section 482; No specific role has been attributed to the
+appellant; That in all of the witness statements, the name mentioned is that of the de−facto
+complainant who gave the money to the deceased accused number 1 namely, Babu and was the
+instigator in other people giving the money to him. The Appellant seeks reliance on Vinay Tyagi v.
+Irshad Ali1; T.T 1 (2013) 5 SCC 762 Antony v. State of Kerala2; Vinubhai Haribhai Malviya and Ors
+v. State of Gujarat3; Randhir Singh Rana v. State (NCT of Delhi)4; G.V Rao v. L.H.V Prasad5; Hari
+Prasad Chamaria v. Bishun Kumar Surekha6.
+8. Having taken note of the facts that have led to the present appeal by special leave petition and the
+chief arguments made, we now proceed to examine the law on the issues before us.
+9. On the second question, that is whether District Police Chief, Kottayam’s order was permissible in
+law or not, the relevant provisions of CrPC is Section 173 (8) which reads as under:
+“(8) Nothing in this section shall be deemed to preclude further investigation in
+respect of an offence after a report under sub− section (2) has been forwarded to the
+Magistrate and, where upon such investigation, the officer in charge of the police
+station obtains further evidence, oral or documentary, he shall forward to the
+Magistrate a further report or reports regarding such evidence in the form
+prescribed; and the provisions of sub− sections (2) to (6) shall, as far as may be, apply
+in relation to such report or reports as they apply in relation to a report forwarded
+under sub− section (2).” 2 (2001) 6 SCC 181 3 2019 SCC OnLine 1346 4 (1997) 1 SCC
+361 5 (2000) 3 SCC 693 6 (1973) 2 SCC 823
+Peethambaran vs The State Of Kerala on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/129081397/
+2
+10. The evolution of Section 173 CrPC has been noted by this Court in Vinubhai Haribhai Malaviya
+(supra). In Para 25, it is opined that investigation after the coming into force of the Cr.PC, 1973 will
+include all proceedings under Cr.PC for collection of evidence conducted by a police officer. “All”
+would undoubtedly then include Section 173 (8) as well. The power therefore, under Section 190, of
+a Magistrate ordering such investigation, would encompass further investigation under Section 173
+(8).
+11. It has been argued on behalf of appellants that, in effect, a reinvestigation has been conducted,
+12. This Court in Vinay Tyagi (supra) gave detailed consideration to the powers under Section 173
+and Section 482 of CrPC.
+“43. At this stage, we may also state another well− settled canon of the criminal jurisprudence that
+the superior courts have the jurisdiction under Section 482 of the Code or even Article 226 of the
+Constitution of India to direct “further investigation”, “fresh” or “de novo” and even
+“reinvestigation”. “Fresh”, “de novo” and “reinvestigation” are synonymous expressions and their
+result in law would be the same. The superior courts are even vested with the power of transferring
+investigation from one agency to another, provided the ends of justice so demand such action. Of
+course, it is also a settled principle that this power has to be exercised by the superior courts very
+sparingly and with great circumspection.
+*** *** *** ***
+45. The power to order/direct “reinvestigation” or “de novo” investigation falls in the domain of
+higher courts, that too in exceptional cases. If one examines the provisions of the Code, there is no
+specific provision for cancellation of the reports, except that the investigating agency can file a
+closure report (where according to the investigating agency, no offence is made out). Even such a
+report is subject to acceptance by the learned Magistrate who, in his wisdom, may or may not accept
+such a report. For valid reasons, the court may, by declining to accept such a report, direct “further
+investigation”, or even on the basis of the record of the case and the documents annexed thereto,
+summon the accused.”
+13. Per contra, the State would contend that only further investigation upon the order of the District
+Police Chief was conducted. In respect of further investigation, in Vinay Tyagi (supra) this Court has
+observed:
+22. “Further investigation” is where the investigating officer obtains further oral or
+documentary evidence after the final report has been filed before the court in terms
+of Section 173(8). This power is vested with the executive. It is the continuation of
+previous investigation and, therefore, is understood and described as “further
+investigation”. The scope of such investigation is restricted to the discovery of further
+oral and documentary evidence. Its purpose is to bring the true facts before the court
+even if they are discovered at a subsequent stage to the primary investigation. It is
+commonly described as “supplementary report”. “Supplementary report” would be
+Peethambaran vs The State Of Kerala on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/129081397/
+3
+the correct expression as the subsequent investigation is meant and intended to
+supplement the primary investigation conducted by the empowered police officer.
+Another significant feature of further investigation is that it does not have the effect
+of wiping out directly or impliedly the initial investigation conducted by the
+investigating agency. This is a kind of continuation of the previous investigation. The
+basis is discovery of fresh evidence and in continuation of the same offence and chain
+of events relating to the same occurrence incidental thereto. In other words, it has to
+be understood in complete contradistinction to a “reinvestigation”, “fresh” or “de
+novo” investigation.
+14. This distinction between further investigation and fresh investigation/reinvestigation/de novo
+investigation being that the former is a continuation of the previous investigation and is done on the
+basis of discovery of fresh material, whereas the latter can only be done when there is a definite
+order of the court to that effect which must states the reason as to why the previous investigation is
+incapable of being acted upon.
+15. In Minu Kumari v. State of Bihar7, it was observed that upon submission of a report in terms of
+Section 173 (2) (i) the concerned Magistrate has three courses of action available before him:
+(i) Accept the report and proceed further
+(ii) Disagree with the report and drop the proceedings.
+(iii) Direct further investigation under Section 156 (3) which is the power of the police to investigate
+a cognizable offence, and require them to make a further report. 7 (2006) 4 SCC 359
+16. In Hemant Dhasmana v. CBI8 it was observed that although the section is not specific in respect
+of the Court’s power to order further investigation, the power of the police can be set into motion
+upon the order of such a court. It was further observed that this order should not be interfered with
+even in the exercise of the revisional jurisdiction of a higher court.
+17. The above two cases make it amply clear that a magistrate has the power to order further
+investigation and the cases referred to earlier make clear that fresh investigation/reinvestigation/de
+novo investigation fall into the purview of the jurisdiction of a higher court.
+18. In the present case, as is clear from FR II that S. Anilkumar, Inspector of Police, Vaikom
+conducted further investigation as per Order No.D2−43642/16/K, passed by a police officer and not
+by any duly empowered judicial officer.
+19. The Chief Police Officer of a district is the Superintendent of Police who is an officer of the
+Indian Police Service. Needless to state, an order from the District Police Chief is not the same as 8
+(2001) 7 SCC 536 an order issued by the concerned Magistrate. Referring to Vinay Tyagi (supra),
+this Court in Devendra Nath Singh v. State of Bihar and Ors.9 noted that there is no specific
+requirement to seek leave of the court for further investigation or to file a supplementary report but
+Peethambaran vs The State Of Kerala on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/129081397/
+4
+investigation agencies, have not only understood it to be so but have also adopted the same as a legal
+requirement. The doctrine of contemporanea exposito aids such an interpretation of matters which
+have been long understood and implemented in a particular manner to be accepted into the
+interpretive process. In other words, the requirement of permission for further investigation or to
+file a supplementary report is accepted within law and is therefore required to be complied with.
+20. In the facts at hand, it is clear that such a permission was never taken, granted or ordered.
+Consequently, FR−II is without basis. In FR−I it has been stated that in the absence of any
+documents in respect of the financial transactions, the instant case may be treated as a false case.
+This, then would necessarily imply that after due investigation conducted by a duly authorized
+person, 9 (2023) 1 SCC 48 the conclusion is that the ingredients of the section mentioned in the FIR
+have not been met and no case is made out.
+21. In Paramjit Batra v. State of Uttarakhand10 (two−Judge bench) it was observed that the High
+Court must use its powers under Section 482 only sparingly and to facilitate the ends of justice. It
+was also observed that the court must see must see whether a dispute which is essentially of a civil
+nature is given a cloak of criminal offence. In such a situation, the High Court should not hesitate to
+quash the criminal proceedings to prevent abuse of process of the court.
+22. In State of Haryana v. Bhajan Lal11 (two−Judge bench) seven instances were laid out wherein
+the exercise of either the power of Article 226 of the Constitution of India or the Inherent Powers
+under Section 482, Cr.PC would be justifiably exercised. They are− “(1) Where the allegations made
+in the first information report or the complaint, even if they are taken at their face value and
+accepted in their entirety do not prima facie constitute any offence or make out a case against the
+accused.
+10 (2013) 13 SCC 673 11 1992 Supp (1) 335 (2) Where the allegations in the first information report
+and other materials, if any, accompanying the FIR do not disclose a cognizable offence, justifying an
+investigation by police officers under Section 156(1) of the Code except under an order of a
+Magistrate within the purview of Section 155(2) of the Code. (3) Where the uncontroverted
+allegations made in the FIR or complaint and the evidence collected in support of the same do not
+disclose the commission of any offence and make out a case against the accused.
+(4) Where, the allegations in the FIR do not constitute a cognizable offence but constitute only a
+non− cognizable offence, no investigation is permitted by a police officer without an order of a
+Magistrate as contemplated under Section 155(2) of the Code. (5) Where the allegations made in the
+FIR or complaint are so absurd and inherently improbable on the basis of which no prudent person
+can ever reach a just conclusion that there is sufficient ground for proceeding against the accused.
+(6) Where there is an express legal bar engrafted in any of the provisions of the Code or the
+concerned Act (under which a criminal proceeding is instituted) to the institution and continuance
+of the proceedings and/or where there is a specific provision in the Code or the concerned Act,
+providing efficacious redress for the grievance of the aggrieved party. (7) Where a criminal
+proceeding is manifestly attended with mala fide and/or where the proceeding is maliciously
+Peethambaran vs The State Of Kerala on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/129081397/
+5
+instituted with an ulterior motive for wreaking vengeance on the accused and with a view to spite
+him due to private and personal grudge.”
+23. These categories of cases have been quoted with approval by a bench of three judges in
+Neeharika Infrastructure Pvt. Ltd. v. State of Maharashtra12. The principles in respect of the
+exercise of power under Section 482 CrPC have been summarised as under:
+12 2021 SCC OnLine 315 A. The Police has a statutory right as well as a duty under the Code of
+Criminal Procedure to investigate cognizable offences;
+B. Courts are not to stymie any investigation into a cognizable offence;
+C. When the perusal of the FIR however, does not disclose any offense of any nature whatsoever, the
+court is not to permit the investigation to proceed. D. The powers under this section are to be used
+‘sparingly’ and with due circumspection. While doing so, the Court ought to consider whether the
+allegations in the FIR disclose the commission of the cognizable offence or not, without going into
+the merits of the case.
+E. In exercise of this power, it is not for the court to go into questions of legitimacy or reliability of
+the allegations made in the FIR/Complaint;
+F. Quashing of a complaint should not acquire the stature of the rule, and should be a rarity, and nor
+should, in exercise of such power, an investigation be unnecessarily cut short;
+G. The Police and the Courts are two distinct organs of the State with perspicuous spheres of
+activities, with complementary functions, and so, unwarranted interference by the latter into the
+former’s work is loathe, save in the interest of securing justice and preventing miscarriage thereof;
+H. It must be noted that procedure is well establish to deal with an FIR upon which, post
+investigation, no merit is found, then the officer can file the suitable application to that effect which
+will be considered by the learned Magistrate seized of the matter;
+24. The offence alleged in the FIR is Section 420 IPC which is a serious form of cheating include
+inducement in terms of delivery of property and/or valuable securities. The ingredients that must be
+met in order to constitute an offence under the section have been noted by this Court in Vijay Kumar
+Ghai and Ors. v. State of West Bengal and Ors.13 by a bench of two judges (consisting one of us,
+Krishna Murari, J.):
+“35.To establish the offence of cheating in inducing the delivery of property, the
+following ingredients need to be proved:
+(i) The representation made by the person was false.
+(ii) The accused had prior knowledge that the representation he made was false.
+Peethambaran vs The State Of Kerala on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/129081397/
+6
+(iii) The accused made false representation with dishonest intention in order to
+deceive the person to whom it was made.
+(iv) The act where the accused induced the person to deliver the property or to
+perform or to abstain from any act which the person would have not done or had
+otherwise committed.
+36. As observed and held by this Court in R.K. Vijayasarathy v. Sudha Seetharam
+[R.K. Vijayasarathy v. Sudha Seetharam, (2019) 16 SCC 739 : (2020) 2 SCC (Cri) 454]
+, the ingredients to constitute an offence under Section 420 are as follows:
+(i) a person must commit the offence of cheating under Section 415; and
+(ii) the person cheated must be dishonestly induced to:
+(a) deliver property to any person; or
+(b) make, alter or destroy valuable security or anything signed or sealed and capable
+of being converted into valuable security. Thus, cheating is an essential ingredient for
+an act to constitute an offence under Section 420IPC.”
+25. Significantly, no material has been placed on record to show that the representation made by
+accused No.1 Babu (now deceased), the present appellant or the de facto complainant, was false or
+13 (2022) 7 SCC 124 that they had prior knowledge of such representation being false and made only
+with the intention to deceive. There are only statements to the effect that despite reminders by the
+seven persons no jobs were secured for them or their wives. The only ingredient out of the four
+required, being in the present case is that in the ordinary course, none of the persons would have
+given the accused any money, and therefore were induced to deliver property which otherwise they
+would have not. No proof of any financial transaction is on record, much less concerning the present
+appellant.
+26. With only one ingredient being fulfilled and mere statements made to show dishonest intention
+or falsity of statement, the threshold of Section 420 is not breached, constituting the offence.
+27. Therefore, the first question is answered in the negative.
+28. In terms of second question, the above discussion makes clear that the District Police Chief,
+Kottayam could not have ordered further investigation, as that power rests either with the
+concerned magistrate or with a higher court and not with an investigating agency.
+29. Given the above, the order dated 6th of November, 2019 in Crl. MC No. 6314 of 2018 passed by
+the High Court of Kerala is set aside and Criminal Case No.132 of 2017 is quashed. The appeal is
+allowed in the above terms and the pending application(s), if any, stand disposed of.
+Peethambaran vs The State Of Kerala on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/129081397/
+7
+………………………J.
+(KRISHNA MURARI) ..……………..…J.
+(SAJAY KAROL) Dated: 3rd May, 2023 Place: New Delhi
+Peethambaran vs The State Of Kerala on 3 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/129081397/
+8

@@ -1,0 +1,611 @@
+Supreme Court of India
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Author: S. Ravindra Bhat
+Bench: S. Ravindra Bhat, Dipankar Datta
+                                                           1
+                                                                                        
+                                    IN THE SUPREME COURT OF INDIA
+                                     CIVIL APPELLATE JURISDICTION
+                                     CIVIL APPEAL NO(S). 8996 OF 2019
+          CENTRAL GST DELHI - III                                                   …APP
+                                                      VERSUS
+          DELHI INTERNATIONAL AIRPORT LTD                                           …RES
+                                                        WITH
+                                      CIVIL APPEAL NO. 2465 OF 2020
+                                  CIVIL APPEAL NO(S). 4751-4753 OF 2021
+                                                JUDGMENT
+S. RAVINDRA BHAT, J.
+1. In all these appeals, orders of the Customs, Excise and Service Tax Appellate Tribunal1 (hereafter
+“CESTAT”) are impugned by the service tax authorities (hereafter “the revenue”), who argue that
+user development fee levied and collected by the airport operation, maintenance and development
+entities (i.e., the Mumbai International Airport Pvt. Ltd., the Delhi International Signature Not
+Verified Digitally signed by NEETA SAPRA Date: 2023.05.19 16:57:39 IST Reason: Final Order No,
+ST/A/50064/2019-CUIDBI dated 18/01/2019 [by the Principal Bench, CESTAT, New Delhi];
+Final Order No. A/88830- -88832/16/STB dated 28.01.2016 [by the Western Zonal Bench,
+CESTAT, Mumbai]; and Final Order No. A/30739/2019 dated 16.09.2019 [by the CESTAT Regional
+Bench at Hyderabad]. Airport Pvt. Ltd., and the Hyderabad International Airport Pvt. Ltd.,
+(hereafter collectively called “the assessees”) is subjected to service tax levy, under the provisions of
+the Finance Act, 1994 (hereafter “the Act”).
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+1
+2. All the assessees had entered into joint venture arrangements/agreements (hereafter “OMDA”)
+with the Airports Authority of India (hereafter “AAI”, a body corporate created by the Airports
+Authority of India Act, 1994 [hereafter “AAI Act”]. Under OMDA, the assesses agreed to undertake
+some activities enjoined upon the AAI, by the AAI Act. The assessees were authorised, by various
+notifications (dated 27th February 2009) issued by the Central Government under Section 22A of
+the AAI Act to collect a “development fee” @ Rs. 100/- for every departing domestic passenger and
+Rs. 600/- for every departing international passenger at the concerned airports for a period of 48
+months.
+3. The Commissioner of Service Tax, through various show cause notices demanded payment of tax
+on the development fee collected for various periods. These notices were adjudicated and confirmed;
+the CESTAT remanded the matter to the original authority requiring fresh adjudication after taking
+into consideration the decisions of this court in Consumer Online Foundation v. Union of India2,
+Commissioner of Central Excise v. Cochin International Airport Ltd.,3, Acer India Ltd. and Orissa
+Cement Ltd. v. State (2011) 5 SCC 360 2010 (17) STR J 79 (S.C.) of Orissa4 and various instructions
+issued by the Central Board of Excise and Customs (hereafter “CBEC”). The original authority
+disposed of all show cause notices by confirming demands, and also levying penalties under the Act.
+The adjudicating authority accorded the benefit of “cum-tax” valuation. These orders were
+challenged before the CESTAT, which, by the orders impugned, allowed the assessees’ appeals,
+holding that the development fee collected was not liable to service tax levy.
+II The relevant provisions
+4. Section 65 (105) (zzm) of the Finance Act, 1994, contains the definition of “airport service” (with
+effect from 01.07.2010) and states that such service is:
+“any service provided or to be provided by airports authority or by any other person in any airport or
+a civil enclave” Before the amendment, i.e., before 1 July 2010, the definition, of airport service was
+as follows:
+“to any person, by airports authority or any person authorised by it, in an airport or a civil enclave"
+Section 65 (3d) defines airport authority as:
+“Airports Authority of India constituted under section 3 of the Airports Authority of
+India Act, 1994 (55 of 1994) and also includes any person having the charge of
+management of an airport or civil enclave”.
+1991 Supp (1) SCC 430
+5. Section 68 (1) of the Finance Act provides that every person providing taxable service to any
+person shall pay service tax at the rate specified in section
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+2
+66. Section 67 (1) of the Finance Act, provides that where service tax is chargeable on any taxable
+service with reference to its value then such value shall be the gross amount charged by the service
+provider for such service provided or to be provided by him.
+6. The relevant provisions of the Airports Economic Regulatory Authority of India Act, 2008 and the
+Aircraft Rules, 1937 are extracted below:
+Section 13 of the Airports Economic Regulatory Authority of India Act, 2008 sets out the functions
+of the authority, and inter alia, reads as follows:
+“13. Functions of Authority.
+(1) The Authority shall perform the following functions in respect of major airports,
+namely:--
+(a) to determine the tariff for the aeronautical services taking into consideration--
+****************
+(b) to determine the amount of the development fees in respect of major airports;
+(c) to determine the amount of the passengers service fee levied under rule 88 of the Aircraft Rules,
+1937 made under the Aircraft Act, 1934 (22 of 1934);…” Provisions of the Aircraft Rules, 1937:
+“Rule 88. Passenger Service Fee. —The licensee is entitled to collect fees to be called
+as Passenger Service Fee from the embarking passengers at such rate as the Central
+Government may specify and is also liable to pay for security component to any
+security agency designated by the Central Government for providing the security
+service. Provided that in respect of a major airport such rate shall be as determined
+under clause (c) of sub-section (1) of section 13 of the Airports Economic Regulatory
+Authority of India Act, 2008. Rule 89. User Development Fee —The licensee may, -
+(i) levy and collect at a major airport the User Development Fee at such rate as may
+be determined under clause (b) of sub-section (1) of section 13 of the Airports
+Economic Regulatory Authority of India Act, 2008;
+(ii) levy and collect at any other airport the User Development Fees at such rate as the Central
+Government may specify.” The relevant provisions of the AAI Act are extracted below:
+“Section 22. The Authority may,-
+(i) With the previous approval of the Central Government, charge fees, or rent-
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+3
+(a) for the landing, housing or parking of aircraft or for any other service or facility
+offered in connection with aircraft operations at any airport, heliport or airstrip
+Explanation. -
+In this sub-clause “aircraft” does not include an aircraft belonging to any armed force
+of the Union and “aircraft operations” does not include operations of any aircraft
+belonging to the said force;
+(b) for providing air traffic services, ground safety services, aeronautical
+communications and navigational aids and meteorological services at any airports
+and at any aeronautical communication station;
+(c) for the amenities given to the passengers and visitors at any airport, civil enclave,
+heliport or airstrip;
+(d) for the use and employment by persons of facilities and other services provided by
+the authority at any airport, civil enclave heliport or airstrip;
+(ii) with due regard to the instructions that the Central Government may give to the
+authority, from time to time, charge fees or rent from persons who are given by the
+authority any facility for carrying on any trade or business at any airport, heliport or
+airstrip. Section 22A. The Authority may, after the previous approval of the Central
+Government in this behalf, levy on, and collect from, the embarking passengers at an
+airport, the development fees at the rate as may be prescribed and such fees shall be
+credited to the Authority and shall be regulated and utilized in the prescribed
+manner, for the purposes of-
+(a) funding or financing the costs of upgradation, expansion or development of the airport at which
+the fee is collected; or
+(b) establishment or development of a new airport in lieu of the airport referred to in clause (a); or
+(c) investment in the equity in respect of shares to be subscribed by the Authority in companies
+engaged in establishing, owning, developing, operating or maintaining a private airport in lieu of the
+airport referred to in clause (a) or advancement of loans to such companies or other persons
+engaged in such activities.” III Contentions of the parties
+7. Ms. Nisha Bagchi, learned counsel for the revenue, submits that assessees function as licensees of
+Airports. The airports are capable of being licensed by the AAI to operate as aerodromes. It was
+submitted that grant of licenses is subject to express conditions. Rule 88 provides for collection of
+fees known as “passenger services fees” from the embarking passengers; Rule 89 provides for
+collection of “User Development Fee” (hereafter “UDF”) by licensees. Ms Bagchi argued that user
+development fees are nothing but amounts collected for extending or enhancing various services like
+providing passenger lounges, passenger amenities, toilets, rest rooms and other facilities inside
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+4
+airports. Even the agreement entered by the assessees with AAI, indicates that UDF is to enhance
+passenger amenities, services and facilities. Those amounts are to be used for development,
+management, maintenance and operation and expansion of facilities at the airport.
+8. It was urged that the nature of UDF indicates that such fees are amounts collected for rendering
+various services. The amounts collected is nothing but development fee, meant to be used for
+funding and financing specific renovation, maintenance, development and upgradation of airports.
+These are necessary due to cost escalation. These amounts are for services rendered, and providing
+access by the airport. Such amounts are taxable. Learned counsel also relied on the circular No.
+106/Commr (ST)/2009 dated 08.07.2011, which specifically stated that service tax is paid by the
+various airports on passenger services fee and UDF but no tax is paid on development fees. It was
+argued that CBEC has clarified that passenger service fee, user development fee and development
+fee are different and development fee is to be taxed under “airport services”.
+9. Learned counsel sought to distinguish the decision of the Kerala High Court in the case of Cochin
+International Airport Ltd. because in that case, what was in issue was user fee while in the case in
+hand it is UDF. Counsel reiterated that the findings of the lower authorities are correct and submits
+that the impugned orders of CESTAT call for interference.
+10. Learned counsel pointed out that by Section 22A of the AAI Act, the authority “may”, after the
+previous approval of the Central Government “levy on, and collect from, the embarking passengers
+at, an airport, the Development Fees”. It was contended that such levy cannot be called a tax because
+it is discretionary and subject to the approval of the Central Government, meant for funding or
+financing the costs of upgradation, expansion or development of the airport at which the fee is
+collected; or establishment or development of a new airport in lieu of the existing airport or towards
+investment in the equity in respect of “shares to be subscribed by the authority in companies
+engaged in establishing, owning, developing, operating or maintaining a private airport in lieu of the
+airport” or “advancement of loans to such companies or other persons engaged in such activities.” It
+was also urged that the amounts cannot be termed as levy, because they are not deposited with the
+government treasury.
+11. It was submitted that from a reading of Section 22A, it is clear that it allows for funding or
+financing the cost of upgradation, expansion or development of the airport at which the fee is
+collected and establishment or development of a new Airport in lieu of the airport at which the fee is
+collected. This is a pre-funding collection and imposed for the facility to be provided by the
+assessees and to be used for funding of project cost which ultimately would result in creation of
+better facilities and amenities for passengers. The assessees entered into agreements for the purpose
+of its operation, management and development of airports (OMDA). In terms of such OMDAs,
+assessees are responsible for the development, design, upgradation of airport. It is for this purpose
+that they have been permitted to collect UDF from the passengers.
+12. It is further submitted that the assessees are authorized to collect UDF by the Ministry of Civil
+Aviation which granted approval under Section 22A of the AAI Act. Once it is clear that the purpose
+and object of the UDF is for funding or financing the costs of upgradation, expansion or
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+5
+development of the major Airports, only the rate of fees are determined by the Airport Economic
+Regulatory Authority. The upgradation or development of an airport results in better infrastructure
+and services to passengers. Collection of the DF could facilitate and provide better services to the
+passengers who would be the recipient of the airport service. Therefore, the amount cannot be called
+a tax or levy, but is actually a collection for service, and consequently liable to service tax.
+13. The revenue argues that the definition of airport service is wide and includes any service
+provided or to be provided by any person in the airport. It is a taxable service. Further, without
+payment of such levy, passengers cannot enter the airport nor can have access to the plane. Thus,
+the UDF collected by DIAL is covered by the definition of “airport service” and would be liable to
+payment of service tax. The impugned order has failed to appreciate this submission and hence, the
+same is liable to be set aside.
+14. It was argued that the decision of this court in the case of Consumer Online Foundation v Union
+of India5 had expressed the view that DF appeared to be in the form of tax or cess, but was not a
+legally collected tax. It was argued that Section 22A provided for the “levy” of DF, but the rate at
+which the said levy was to be collected had not been prescribed by framing of a separate rule by the
+Airports Economic Regulatory Authority (AERA) as amended by the 2008 Act. This court held that
+the collection of UDF by the assessees prior to the notification issued by AERA was considered to be
+levied and collected without the authority of law. It further found that the levy and collection of 2011
+(5) SCR 911 UDF by the two airport concessionaires at the rates fixed by the Central Government (by
+two letters dated 9.2.2009 and 27.2.2009) respectively were ultra vires the AAI Act, and were not
+saved by Section 6 of the General Clauses Act, 1897.
+15. It is submitted that in the above decision, there is no clear finding that DF is a tax or cess and the
+same was held to be ultra vires the AAI Act on the ground that the rate could not have been fixed by
+the Central Government, but only by making a rule by AERA which has not been done. In the
+present case, we are concerned with the levy of service tax on DF collected by the respondents from
+the passengers. Also in that decision, this court was not concerned with levy or otherwise of service
+tax on DF. It was argued that DF has not been collected as tax or cess and therefore, the contention
+that DF is a tax on which there cannot be any service tax is incorrect. The nature of DF is that these
+are the charges collected by the respondents for development of facilities for the use of the airport.
+In fact, the assesses’ contention was these are the charges for the use of the airport services by the
+passengers and is not a tax.
+16. Learned counsel relied on the judgment reported as Krishi Upaj Mandi Samiti v Commissioner
+of Central Excise6 and urged that the nature of UDF is similar to the optional collection made by
+market committees who perform services, which are not in the nature of a statutory activity or a
+sovereign 2022 (1) SCR 700 function, and if such services are rendered for a consideration, they are
+subjected to levy.
+17. Mr. Arvind Datar, Mr. Tarun Gulati and Mr. Pritesh Kapoor, learned senior counsel appearing
+for the assessees, contended that the decision in Consumer Online (supra) has concluded the nature
+of collections; it is a tax, unrelated to any service provided, and has to be borne in mind that there is
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+6
+no consideration. Learned counsel relied on the following observation in Consumer Online
+Foundation:
+“the object 8 of Parliament in inserting Section 22A in the 2004 Act by the
+Amendment Act of 2003 is to authorize by law the levy and collection of development
+fees from every embarking passenger de hors the facilities that the embarking
+passengers get at the existing airports. The nature of the levy under Section 22A of
+the 2004 Act, in our considered opinion, is not charges C or any other consideration
+for services for the facilities provided by the Airports Authority.”
+18. It was argued by learned counsel that the taxable activity did not occur in this case, as the
+collections were intended for future developments whereas the ‘airport’ referred to in Section
+65(105) (zzm) is an existing airport. Counsel urged that such statutory levies were in the nature of
+cess or tax and were not liable to taxation. Counsel emphasized that the ruling of the Kerala High
+Court in Cochin International Airport Limited vs. Collector Central Excise 7 has held that UDF is
+collected to fulfil the funding gap for development of airports, and cannot be termed as service. This
+ruling was upheld by this court 8 . In these 2009 (16) STR 401 (Ker.) in 2010 (17) S.T.R. J79 (S.C.)
+circumstances, there is no merit in the revenue’s submission that development fee is collected for
+rendering services.
+19. Learned counsel relied on the impugned orders to say that to be liable to tax, service should be
+rendered to a person by a specifically described service provider in an airport. The scope of activities
+of the assessee vis-a-vis passengers who bear the burden of development fee needs a closer look.
+Passengers in an airport intend to travel by an airline which has the said airport as a scheduled port
+of call. The contractual nature of this relationship is enshrined in the ticket which provides access to
+the airport, process through check-in and security, space for waiting and necessary amenities and
+provision for boarding an aircraft. There is nothing to show that passengers have to make payments
+for any of these activities. These facilities were available without any additional charge before the
+imposition of ‘development fee’. Such services continue to be available after its quashing. No
+additional benefit accrues to the passenger during the period of levy of ‘development fee.’ All
+facilities are basic facilities inherent in the civil aviation sector in which the appellant, a non- public
+sector entity, is a recent entrant.
+20. It was emphasized that moving away from state control, airports entered the phase of regulatory
+control with the advent of the AAI Act. This transition also had to factor in the larger public interest
+in safety and security, which meant that some level of control, de-regulation was limited and
+confined to the financial aspects of airport management. Having created a statutory authority, the
+statute should have been specific to contain the scope of functions of the AAI. Despite granting
+financial autonomy, the need for dependence on the State exchequer could not be eliminated and
+hence appropriate types of levies as well as restrictions on their utilization were incorporated in the
+statute. It was contended that Sections 22 and 22A of the AAI Act are in the context of substitution
+of the constitutional funds of the Union of India, for deposit and drawing with that of the accounts
+of AAI.
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+7
+21. The assesses urge that Section 22 of the AAI Act enables AAI to charge for the facilities it
+provides. However, the levy under Section 22A [of the AAI Act] is compulsorily charged from
+passengers; it is placed in an escrow account owing to the restricted purpose for which such fee
+collected can be used. Hence, there is a substantive difference between a charge under Section 22
+and levy under Section 22A. The charge under Section 22, paid by any passenger, may be a
+consideration for a service and subjected to service tax. However, the same principles are not
+applicable to a levy under Section 22A, which is independent of Section 22 and is not for any service
+rendered.
+22. Counsel underlines that this court in Consumer Online Foundation (Supra) has declared the law
+and has interpreted both Section 22 and Section 22A of the AAI Act. This court has held that charges
+collected under Section 22 are for different services and facilities provided to the third parties by the
+lessee of AAI. Collections under Section 22A of the AAI Act, this court has ruled, are "dehors the
+facilities that the embarking passengers get at the existing airports". There is also a specific finding
+that there is no contractual relationship between the passengers and the AAI for the funds collected
+under Section 22A of the AAI Act. Further, it was highlighted that in the same judgment, it was held
+that charges under Section 22A:
+“are not charges or any other consideration for services for the facilities provided by the Airports
+Authority.” The court decisively held that development fee is “really in the nature of a cess or a tax
+for generating revenue for specific purpose.” And, further, that amounts collected are accountable to
+the AAI, which would ensure that such fee levied and collected are “utilized for the purposes
+mentioned in Section 22A (a) of the AAI Act.”
+23. It was argued that in view of the declaration of law, CESTAT correctly held that the charges
+collected by the assesses under Section 22A of the AAI Act cannot be regarded as considered for
+services rendered.
+24. Learned counsel submitted that the decision in Krishi Upaj Mandi Samiti (supra) is
+distinguishable. In that case, the court was concerned only with Section 9 (2) of the Rajasthan
+Agricultural Produce Markets Act, 1961, which was held not to relate to a statutory function but only
+a discretionary charge, i.e., renting of premises. Rent for immovable property is materially different
+from a collection under Section 22A of the AAI Act, which, according to this court, is in the nature of
+cess or tax and a compulsory exaction in Consumer Online Foundation (supra).
+25. The assesses also rely on the decision of this court in Commissioner of Service Tax vs. Bhayana
+Builders (P) Ltd9, where it was stated that under Section 67 of the Finance Act, 1994, not every
+amount charged by the service provider is taxable. Upon an analysis of Section 67, it was held that
+the amount charged should be "for such service provided" to be taxable. The court emphasized the
+connection between the service and the amount by stating that:
+"the Act has provided for a nexus between the amount charged and the service provided".
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+8
+26. Counsel pointed out that Consumer Online Foundation (supra) has ruled that there is no nexus
+between the amounts charged under Section 22A of the AAI Act and any service provided. In the
+absence of a nexus between the amount charged as DF/UDF and any service rendered, such
+amounts cannot be liable to service tax.
+IV Analysis and Conclusions
+27. In the decision of this court, in Consumer Online Foundation (Supra), the context was the
+validity of the levy of development fees and their collection from embarking passengers by lessees of
+airports, under OMDAs, including the 2018 (1) SCR 1128 DIAL in this case. The court examined the
+history of airport regulation in India, including the legislation concerning it, and, after analysing the
+provisions of the AAI Act, including the amendment to it, in 2003, held that:
+“12. The functions of the Airports Authority under clause (aa) of sub- section (3) of
+Section 12 also inserted by the Amendment Act of 2003 to establish airports, or assist
+in the establishment of private airports by rendering such technical, financial or other
+assistance which the Central Government may consider necessary for such purposes
+cannot be assigned to the lessee under Section 12A Section 12A of the 1994 Act. The
+Amendment Act of 2003 which also inserted Section 12A therefore provides in
+sub-section (1) of Section 12A that the Airports Authority can make a lease of the
+premises of an airport (including buildings and structures thereon and appertaining
+thereto) to carry out "some" of its functions under Section 12 as the Airports
+Authority may, in the public interest or in the interest of better management of
+airports, deem fit. Obviously, "a lease of premises of an airport" as contemplated in
+sub-section (1) of Section 12A cannot include establishing an airport or assisting in
+establishment of private airports as contemplated in clause (aa) of sub-section (3) of
+Section 12 of the Act.
+13. To enable the Airports Authority to perform its statutory function of establishing
+a new airport or to assist in the establishment of private airports, the legislature has
+thought it fit to empower the Airports Authority to levy and collect development fees
+as will be clear from clauses (b) and (c) of Section 22A of the 1994 Act. Such
+development fees levied and collected under Section 22A can also be utilized for
+funding or financing the costs of up-gradation, expansion and development of an
+existing airport at which the fees is collected as provided in clause (a) of Section 22A
+of the Act and in case the lease of the premises of an existing airport (including
+buildings and structures thereon and appertaining thereto) has been made to a lessee
+under Section 12A of the Act, the Airports Authority may meet the costs of
+up-gradation, expansion and development of such leased out airport to a lessee, but
+this can be done only if the rules provide for such payment to the lessee of an airport
+because Section 22A says that the development fees are to be regulated and utilized
+in the manner prescribed by the Rules. Since the lessee of an airport cannot be
+assigned the function of the Airports Authority to establish airports or assist in
+establishing private airports in lieu of the existing airports at which the development
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+9
+fees is being collected, the lessee cannot under sub-section (4) of Section 12A have
+the power of the Airports Authority under Section 22A of the 1994 Act to levy and
+collect development fees. This is because sub-section (4) of Section 12A provides that
+the lessee can have all those powers of the Airports Authority which are necessary for
+performance of such functions as assigned to it under sub-section (1) of Section 12A
+in terms of the lease. Moreover, since we have held that the function of establishment
+and development of a new airport in lieu of an existing airport and the function of
+establishing a private airport are exclusive functions of the Airports Authority under
+the 2004 Act, and these statutory functions cannot be assigned by the Airports
+Authority under lease to a lessee under Section 12A of the Act, the lease agreements,
+namely, the OMDA and the State Support agreement could not make a provision
+conferring the right on the lessee to levy and collect development fees for the purpose
+of discharging these statutory functions of the Airports Authority. We, therefore, do
+not think it necessary to refer to the clauses of the OMDA and the State Support
+Agreements executed in favour of the two lessees to find out whether the right of
+levying and collecting the development fees has been assigned to the lessees or not.”
+28. This court further held as follows:
+“It will be clear from a bare reading of Sections 22 and 22A that there is a distinction
+between the charges, fees and rent collected under Section 22 and the development
+fees levied and collected under Section 22A of the 1994 Act. The charges, fees and
+rent collected by the Airports Authority under Section 22 are for the services and
+facilities provided by the Airports Authority to the airlines, passengers, visitors and
+traders doing business at the airport. Therefore, when the Airports Authority makes a
+lease of the premises of an airport (including buildings and structures thereon and
+appertaining thereto) in favour of a lessee to carry out some of its functions under
+Section 12, the lessee, who has been assigned such functions, will have the powers of
+the Airports Authority under Section 22 of the Act to collect charges, fees or rent
+from the third parties for the different facilities and services provided to them in
+terms of the lease agreement. The legal basis of such charges, fees or rent enumerated
+in Section 22 of the 2008 Act is the contract between the Airports Authority or the
+lessee to whom the airport has been leased out and the third party, such as the
+airlines, passengers, visitors and traders doing business at the airport. But there can
+be no such contractual relationship between the passengers embarking at an airport
+and the Airports Authority with regard to the upgradation, expansion or development
+of the airport which is to be funded or financed by development fees as provided in
+clause (a) of Section 22A. Those passengers who embark at the airport after the
+airport is upgraded, expanded or developed will only avail the facilities and services
+of the upgraded, expanded and developed airport. Similarly, there can be no
+contractual relationship between the Airports Authority and passengers embarking at
+an airport for establishment of a new airport in lieu of the existing airport or
+establishment of a private airport in lieu of the existing airport as mentioned in
+Clauses
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+10
+(b) and (c) of Section 22A of the 1994 Act. In the absence of such contractual
+relationship, the liability of the embarking passengers to pay development fees has to
+be based on a statutory provision and for this reason Section 22A has been enacted
+empowering the Airports Authority to levy and collect from the embarking
+passengers the development fees for the purposes mentioned in clauses (a), (b) and
+(c) of Section 22A of the Act. In other words, the object of Parliament in inserting
+Section 22A in the 2004 Act by the Amendment Act of 2003 is to authorize by law the
+levy and collection of development fees from every embarking passenger de hors the
+facilities that the embarking passengers get at the existing airports. The nature of the
+levy under Section 22A of the 2004 Act, in our considered opinion, is not charges or
+any other consideration for services for the facilities provided by the Airports
+Authority. This Court has held in Vijayalakshmi Rice Mills & Ors v Commercial Tax
+Officers, Palakot & Ors (supra) that a cess is a tax which generates revenue which is
+utilized for a specific purpose. The levy under Section 22A though described as fees is
+really in the nature of a cess or a tax for generating revenue for the specific purposes
+mentioned in clauses (a),
+(b) and (c) of Section 22A.
+15. Once we hold that the development fees levied under Section 22A is really a cess
+or a tax for a special purpose, Article 265 of the Constitution which provides that no
+tax can be levied or collected except by authority of law gets attracted and the
+decisions of this Court starting from The Trustees of the Port of Madras v M/s
+Aminchand Pyarelal (supra), cited on behalf of the Union of India and DIAL and
+MIAL on the charges or tariff levied by a service or facility provided are of no
+assistance in interpreting Section 22A. It is a settled principle of statutory
+interpretation that any compulsory exaction of money by the Government such as a
+tax or a cess has to be strictly in accordance with law and for these reasons a taxing
+statute has to be strictly construed. As observed by this Court in Ahmedabad Urban
+Development Authority v Sharadkumar Jayantikumar Pasawalla & Ors. (supra), it
+has been consistently held by this Court that whenever there is compulsory exaction
+of money, there should be specific provision for the same and there is no room for
+intendment and nothing is to be read or nothing is to be implied and one should look
+fairly to the language used. Looking strictly at the plain language of Section 22A of
+1994 Act before its amendment by the 2008 Act, the development fees were to be
+levied on and collected from the embarking passengers "at the rate as may be
+prescribed".
+29. The observations and findings extracted above are decisive about the nature of development fee,
+collected under Section 22A; they are statutory exactions and not fees or tariffs, as was contended by
+the Union of India. In fact, the court even underlined that the “nature of the levy under Section 22A
+of the 2004 Act, in our considered opinion, is not charges or any other consideration for services for
+the facilities provided by the Airports Authority.”
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+11
+30. By virtue of Section 67 of the Finance Act, the basis of charge is the value of taxable service.
+Section 67 as it stood, before amendment w.e.f. April 18, 2006, read as follows:
+“67. Valuation of taxable services for charging service tax. - For the purposes of this
+Chapter, the value of any taxable service shall be the gross amount charged by the
+service provider for such service provided or to be provided by him.
+****************** ****************** Explanation 3.-For the removal of doubts, it
+is hereby declared that the gross amount charged for the taxable service shall include
+any amount received towards the taxable service before, during or after provision of
+such service.”
+(i) in a case where the provision of service is for a consideration in money, be the
+gross amount charged by the service provider for such service provided or to be
+provided by him;
+(ii) in a case where the provision of service is for a consideration not wholly or partly
+consisting of money, be such amount in money as, with the addition of service tax
+charged, is equivalent to the consideration;
+(iii) in a case where the provision of service is for a consideration which is not
+ascertainable, bet he amount as may be determined in the prescribed manner.
+After Section 67 (4), the following explanation to the entire section read as follows:
+“Explanation.- For the purposes of this section.
+(a) “consideration” includes any amount that is payable for the taxable services
+provided or to be provided;
+(b) “money” includes any currency, cheque, promissory note, letter of credit, draft,
+pay order, travellers cheque, money order, postal remittance and other similar
+instruments but does not include currency that is held for its numismatic value.”
+31. After the amendment, Section 67 of the Act read as follows:
+“Section 67. Valuation of taxable services for charging service tax (1) Subject to the
+provisions of this Chapter, service tax chargeable on any taxable service with
+reference to its value shall-
+(i) in a case where the provision of service is for a consideration in money, be the
+gross amount charged by the service provider for such service provided or to be
+provided by him;
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+12
+(ii) in a case where the provision of service is for a consideration not wholly or partly
+consisting of money, be such amount in money, with the addition of service tax
+charged, is equivalent to the consideration;
+(iii) in a case where the provision of service is for a consideration which is not
+ascertainable, be the amount as may be determined in the prescribed manner.”
+32. This court, in Bhayana Builders (supra), ruled that to attract service tax levy, a taxable service
+has to be provided to a recipient, by a service provider, for a consideration and in the absence of any
+nexus to any service rendered, an amount charged, or value of service or goods provided without a
+consideration, would not be a taxing incident. The court held that:
+“Section 67 clearly indicates that the gross amount charged by the service provider
+has to be for the service provided. Therefore, it is not any amount charged which can
+become the basis of value on which service tax becomes payable but the amount
+charged has to be necessarily a consideration for the service provided which is
+taxable under the Act. By using the words "for such service provided" the Act has
+provided for a nexus between the amount charged and the service provided.
+Therefore, any amount charged which has no nexus with the taxable service and is
+not a consideration for the service provided does not become part of the value which
+is taxable under Section 67.”
+33. On 02.08.2011, the Airports Authority of India (Major Airports) Development Fees Rules 2011
+(hereafter “the 2011 Rules”) came into force. They, by Rule 3, authorized the collection of
+development fees; by Rule 4 (1), an Escrow account had to be opened in respect of each airport into
+which the development fee collections were to be deposited; by Rule 4 (2), AAI is empowered to
+monitor and regulate the receipts and utilization of fees; by Rule 4 (3), various sub accounts were to
+be opened [(a) Development Fees Receipt Account; (b) Development Fees Statutory Dues Account;
+(c) Development Fees Disbursement Account; (d) Development Fees Surplus Account]. By Rule 4
+(4), the money collected as development fees is to be deposited in the Development Fees Receipt
+Account.
+34. Besides the rules, the assessee, in the case of DIAL, has placed on the record, a letter issued to it,
+by AAI which imposes controls on the utilization of amounts collected as development fee; apart
+from the fact that the amounts are deposited in an escrow, any plan for utilization has to be
+approved. Unlike fees, rent, charges etc., provided under Section 22 of AAI Act, assessee companies
+are authorized on behalf of the AAI to levy and collect 'development fee' under Section 22A of the
+AAI Act on behalf of the AAI and was applied for generating revenue for utilization of the same for
+the specific purpose provided under sub- clause (a), (b) and (c) of section 22(A) of the AAI Act. The
+UDF collected by the assessee is to bridge the funding gap of project cost for the development of
+future establishment at the airports. There is nothing on record to show that any additional benefit
+has accrued to passengers, visitors, traders, airlines etc., upon levy of UDF during the period in
+question in the present case.
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+13
+35. There is a distinction between the charges, fee and rent etc. collected under Section 22 of the AAI
+Act and the UDF levied and collected under Section 22A of the AAI Act. It is that the UDF is in the
+form of 'tax or cess' collected for financing the cost of future projects and there was no consideration
+for services provided by the assessee to the customer, visitors, passengers, vendors etc. The
+aggregate of collections in the bank accounts do not form part of profit and loss account.
+36. It is also useful to notice that by a circular issued by the CBEC 10, on 18.12.2006, it was clarified
+that collection of amounts, by way of taxes, sovereign or statutory dues, would not be subjected to
+service tax levy:
+“Subject: Applicability of service tax on fee collected by Public Authorities while
+performing statutory functions /duties under the provisions of a law – regarding A
+number of sovereign/public authorities (i.e. an agency constituted/set up by
+government) perform certain functions/ duties, which are statutory in nature. These
+functions are performed in terms of specific responsibility assigned to them under
+the law in force. For example, the Regional Reference Standards Laboratories (RRSL)
+undertake verification, approval and calibration of weighing and measuring
+instruments; the Regional Transport Officer (RTO) issues fitness certificate to the
+vehicles; the Directorate of Boilers inspects and issues certificate for boilers; or
+Explosive Department inspects and issues certificate for petroleum storage tank,
+LPG/CNG tank in terms of provisions of the relevant laws. Fee as prescribed is
+charged and the same is ultimately deposited into the Government Treasury. A doubt
+has arisen whether such activities provided by a sovereign/public authority required
+to be provided under a statute can be considered as ‘provision of service’ for the
+purpose of levy of service tax.
+2. The issue has been examined. The Board is of the view that the activities
+performed by the sovereign/public authorities under the provision of law are in the
+nature of statutory obligations which are to be fulfilled in accordance with law. The
+fee collected by them for performing such activities is in the nature of compulsory
+levy as per the provisions of the relevant statute, and it is deposited into the
+Government treasury. Such activity is purely in public interest and it is undertaken as
+mandatory and statutory function. These are not in the nature of service to any
+particular individual for any Circular No. 89/7/2006- ST dated 18.12.2006
+consideration. Therefore, such an activity performed by a sovereign/public authority
+under the provisions of law does not constitute provision of taxable service to a
+person and, therefore, no service tax is leviable on such activities.
+3. However, if such authority performs a service, which is not in the nature of
+statutory activity and the same is undertaken for a consideration not in the nature of
+statutory fee/levy, then in such cases, service tax would be leviable, if the activity
+undertaken falls within the ambit of a taxable service.”
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+14
+37. This circular was interpreted in Krishi Upaj Samiti (supra). The court held that the fee collected
+in that case could not be said to be a statutory exaction or levy, but was for consideration:
+“10. The aforesaid submission seems to be attractive but has no substance. Section
+9(2) is an enabling provision and the words used is “market committee may”. It is to
+be noted that insofar as sub-section (1) of Section 9 is concerned, the word used is
+“shall”. Therefore, wherever the legislature intended that the particular activity is a
+mandatory statutory, the legislature has used the word “shall”. Therefore, when
+under sub-section (2) of Section 9, the word used is “may”, the activities mentioned
+in Section 9(2)(xvii) cannot be said to be mandatory statutory duty and/or activity.
+Under Section 9(2), it is not a mandatory statutory duty cast upon the Market
+Committees to allot/lease/rent the shop/platform/land/space to the traders. Hence,
+such an activity cannot be said to be a mandatory statutory activity as contended on
+behalf of the appellants. Even the fees which is collected is not deposited into the
+Government treasury. It will go to the market committee fund and will be used by the
+market committee(s). In the facts of the case on hand, such a fee collected cannot
+have the characteristics of the statutory levy/statutory fee. Thus, under the 1961 Act,
+it cannot be said to be a mandatory statutory obligation of the Market Committees to
+provide shop/land/platform on rent/lease. If the statute mandates that the Market
+Committees have to provide the land/shop/platform/space on rent/lease then and
+then only it can be said to be a mandatory statutory obligation otherwise it is only a
+discretionary function under the statute. If it is discretionary function, then, it cannot
+be said to be a mandatory statutory obligation/statutory activity. Hence, no
+exemption to pay service tax can be claimed.”
+38. The principal holding, so to say, was that the discretionary fee could be levied, and that there
+was no “duty cast upon the Market Committees to allot/lease/rent the shop/platform/land/space to
+the traders”. The second reason was that the amounts were credited to a market fund, which was
+later deposited in the government treasury, even after which it remained a market committee fund.
+39. In the present case, undoubtedly, neither is there any compulsion to levy development fee nor is
+the collection conditional upon its deposit in the government treasury. However, the absence of
+these features in this court’s opinion, does not render UDF any less a statutory levy. Firstly, the
+ruling in Consumer Online Foundation (Supra) is conclusive that UDF is a statutory levy. Secondly,
+the collection is not premised on rendering of any service. Thirdly, the amounts collected are
+deposited in an escrow account, not within the control of the assesses. Fourthly, the utilization of
+funds, is monitored and regulated by law. In this regard, the fact that the amount is not deposited in
+a government treasury, per se, does not make it any less a statutory levy or compulsory exaction.
+Nor does its discretionary nature, (in the sense that it may not be necessarily levied always) render it
+any less a statutory levy. Airport management has evolved; it is no longer the monopoly of the
+government; private participation is recognized. This sector is now regulated through a new
+regulator, i.e., the Airports Economic Regulatory Authority of India. As part of the Union’s economic
+policies, the upgradation and renovation of airports are funded through UDF, which is a statutory
+levy. Instead of the conventional practise of ensuring that amounts collected are deposited with the
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+15
+Government, an entirely new regulatory regime has been envisioned, under the 2011 Rules, read
+with specific conditions imposed by the AAI on each assessee, which includes monitoring of
+amounts, nature of expenditure, submission of plans for expansion, renovation, their sanctioning
+etc. These rules and controls are in the public interest, and evidently intended to further efficiency
+in funding and swift taking up and completion of works, rather than funding through Finance Rules,
+which might entail delay, and cost overruns. However, the public nature of these funds does not in
+any manner get undermined, merely because they are kept in an escrow account, and their
+utilization is monitored separately.
+40. In view of the foregoing reasons, this court is of opinion that the impugned orders cannot be
+faulted. The revenue’s appeals therefore fail and are dismissed; in the circumstances, without order
+on costs.
+…………………………………. J.
+[S. RAVINDRA BHAT] .…………………………………J.
+[DIPANKAR DATTA] NEW DELHI;
+MAY 19, 2023.
+Central Gst Delhi Iii vs Delhi International Airport Ltd on 19 May, 2023
+Indian Kanoon - http://indiankanoon.org/doc/33926990/
+16
