@@ -2,6 +2,7 @@ import {
 	loadQAMapReduceChain,
 	loadQAStuffChain,
 	loadQARefineChain,
+	RefineDocumentsChain,
 } from 'langchain/chains'
 import { TokenTextSplitter } from 'langchain/text_splitter'
 import { HNSWLib } from 'langchain/vectorstores/hnswlib'
@@ -20,93 +21,72 @@ const app = express()
 
 dotenv.config()
 
-const a1_loader = new DirectoryLoader('../dataset/summary/A1', {
-	'.txt': (path) => new TextLoader(path),
-})
-const a2_loader = new DirectoryLoader('../dataset/summary/A2', {
-	'.txt': (path) => new TextLoader(path),
-})
-const judgement_loader = new DirectoryLoader('../dataset/judgement', {
-	'.txt': (path) => new TextLoader(path),
-})
-const main_documents = new DirectoryLoader('../converted_text', {
-	'.txt': (path) => new TextLoader(path),
-})
+// const a1_loader = new DirectoryLoader('../dataset/summary/A1', {
+// 	'.txt': (path) => new TextLoader(path),
+// })
+// const a2_loader = new DirectoryLoader('../dataset/summary/A2', {
+// 	'.txt': (path) => new TextLoader(path),
+// })
+// const judgement_loader = new DirectoryLoader('../dataset/judgement', {
+// 	'.txt': (path) => new TextLoader(path),
+// })
+// const main_documents = new DirectoryLoader('../converted_text', {
+// 	'.txt': (path) => new TextLoader(path),
+// })
 
-let docs = []
+// let docs = []
 
 // docs.push(await a1_loader.load())
 // docs.push(await a2_loader.load())
 // docs.push(await judgement_loader.load())
-docs.push(await main_documents.load())
+// docs.push(await main_documents.load())
 
-docs = docs.flat()
+// docs = docs.flat()
 
-const splitter = new TokenTextSplitter({
-	chunkSize: 400,
-	chunkOverlap: 20,
-	encodingName: 'cl100k_base',
-})
+// const splitter = new TokenTextSplitter({
+// 	chunkSize: 400,
+// 	chunkOverlap: 20,
+// 	encodingName: 'cl100k_base',
+// })
 
-const data = []
+// const data = []
 
-for await (const doc of docs) {
-	const chunks = await splitter.splitDocuments([doc])
+// for await (const doc of docs) {
+// 	const chunks = await splitter.splitDocuments([doc])
 
-	const params = doc.metadata.source.match(
-		/converted_text\/([^\/]+)_on_(.+)\.txt$/
-	)
+// 	const params = doc.metadata.source.match(
+// 		/converted_text\/([^\/]+)_on_(.+)\.txt$/
+// 	)
 
-	let case_name = params[1],
-		case_date = params[2]
+// 	let case_name = params[1],
+// 		case_date = params[2]
 
-	for await (const chunk of chunks) {
-		const parser = StructuredOutputParser.fromNamesAndDescriptions({
-			argument_of_respondent:
-				'what is the argument made by the respondent',
-			case_interpretation: 'what is the interpretation of the case',
-		})
+// 	chunks.forEach((chunk, i) => {
+// 		data.push(
+// 			new Document({
+// 				pageContent: chunk.pageContent,
+// 				metadata: {
+// 					id: `${case_name}-${i}`,
+// 					case_name,
+// 					case_date,
+// 				},
+// 			})
+// 		)
+// 	})
+// }
 
-		const formatInstructions = parser.getFormatInstructions()
+// const vectorStore = await HNSWLib.fromDocuments(
+// 	data,
+// new OpenAIEmbeddings({
+// 	openAIApiKey: process.env.OPENAI,
+// 	// verbose: true,
+// })
+// )
 
-		const prompt = new PromptTemplate({
-			template:
-				"extract all the mentioned things and summarize them in the mentioned document. if the mentioned thing is not mentioned anywhere. don't return anything.\n{format_instructions}\n{case}",
-			inputVariables: ['case'],
-			partialVariables: { format_instructions: formatInstructions },
-		})
+// await vectorStore.save('../hnswlib')
 
-		const model = new OpenAI({
-			modelName: 'gpt-3.5-turbo',
-			openAIApiKey: process.env.OPENAI,
-			verbose: true,
-			temperature: 0,
-		})
-
-		const input = await prompt.format({
-			case: chunk.pageContent,
-		})
-		const response = await model.call(input)
-
-		console.log(response)
-	}
-
-	chunks.forEach((chunk, i) => {
-		data.push(
-			new Document({
-				pageContent: chunk.pageContent,
-				metadata: {
-					id: `${case_name}-${i}`,
-					case_name,
-					case_date,
-				},
-			})
-		)
-	})
-}
-
-const vectorStore = await HNSWLib.fromDocuments(
-	data,
+const vectorStore = await HNSWLib.load(
+	'../hnswlib',
 	new OpenAIEmbeddings({
 		openAIApiKey: process.env.OPENAI,
 		verbose: true,
@@ -139,27 +119,27 @@ app.get('/query', async (req, res) => {
 		for await (const doc of docs) {
 			const caseDocs = await vectorStore.similaritySearch(
 				'argument of respondent\ncase interpretation',
-				undefined,
+				10,
 				(document) =>
 					document.metadata.case_name === doc.metadata.case_name
 			)
 
-			const response = await chain.call({
+			const summary = await chain.call({
 				input_documents: caseDocs,
 				question:
-					'summarize the docs where the argument of the respondent and the interpretation of the case is mentioned',
+					'summarize the documents where argument of the respondent and the case interpretation in mentioned. also mention the laws and the references of all the docs in bullet points.',
 			})
 
 			response.push({
-				res: response,
+				res: summary,
 				case: {
 					date: doc.metadata.case_date,
-					name: doc.metadata.case_date,
+					name: doc.metadata.case_name,
 				},
 			})
 		}
 
-		res.send({ docs, response })
+		res.send({ docs, response: response })
 	} catch (error) {
 		res.send(error)
 	}
