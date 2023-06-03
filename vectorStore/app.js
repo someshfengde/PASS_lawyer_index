@@ -128,59 +128,152 @@ app.get('/query', async (req, res) => {
 		const response = []
 
 		for await (const doc of docs) {
-			const caseDocs = await vectorStore.similaritySearch(
-				'argument made by the respondent\nwhat is the interpretation of the case\nwhat are the articles used and their description\nwhat is the background of the case\nwhat are the clauses of the case\nwhat are the proven points in case\nwhat are the submissions in the case\nWas the leave granted',
-				10,
-				(document) =>
-					document.metadata.case_name === doc.metadata.case_name
+			let argument_res,
+				interpretation_res,
+				articles_res,
+				background_res,
+				clause_res,
+				points_res,
+				submission_res
+
+			const caseArray = []
+
+			caseArray.push(
+				new Promise(async (resolve) => {
+					const argumentDocs = await vectorStore.similaritySearch(
+						'argument made by the respondent',
+						2,
+						(document) =>
+							document.metadata.case_name ===
+							doc.metadata.case_name
+					)
+					argument_res = await chain.call({
+						input_documents: argumentDocs,
+						question: 'summarize the docs',
+					})
+
+					resolve()
+				})
+			)
+			caseArray.push(
+				new Promise(async (resolve) => {
+					const interpretationDocs =
+						await vectorStore.similaritySearch(
+							'what is the interpretation of the case',
+							2,
+							(document) =>
+								document.metadata.case_name ===
+								doc.metadata.case_name
+						)
+					interpretation_res = await chain.call({
+						input_documents: interpretationDocs,
+						question: 'summarize the docs',
+					})
+
+					resolve()
+				})
+			)
+			caseArray.push(
+				new Promise(async (resolve) => {
+					const articlesDocs = await vectorStore.similaritySearch(
+						'what are the articles used and their description',
+						2,
+						(document) =>
+							document.metadata.case_name ===
+							doc.metadata.case_name
+					)
+					articles_res = await chain.call({
+						input_documents: articlesDocs,
+						question: 'summarize the docs',
+					})
+
+					resolve()
+				})
+			)
+			caseArray.push(
+				new Promise(async (resolve) => {
+					const backgroundDocs = await vectorStore.similaritySearch(
+						'what is the background of the case',
+						2,
+						(document) =>
+							document.metadata.case_name ===
+							doc.metadata.case_name
+					)
+					background_res = await chain.call({
+						input_documents: backgroundDocs,
+						question: 'summarize the docs',
+					})
+
+					resolve()
+				})
+			)
+			caseArray.push(
+				new Promise(async (resolve) => {
+					const clausesDocs = await vectorStore.similaritySearch(
+						'what are the clauses of the case',
+						2,
+						(document) =>
+							document.metadata.case_name ===
+							doc.metadata.case_name
+					)
+					clause_res = await chain.call({
+						input_documents: clausesDocs,
+						question: 'summarize the docs',
+					})
+
+					resolve()
+				})
+			)
+			caseArray.push(
+				new Promise(async (resolve) => {
+					const pointsDocs = await vectorStore.similaritySearch(
+						'what are the proven points in case',
+						2,
+						(document) =>
+							document.metadata.case_name ===
+							doc.metadata.case_name
+					)
+					points_res = await chain.call({
+						input_documents: pointsDocs,
+						question: 'summarize the docs',
+					})
+
+					resolve()
+				})
+			)
+			caseArray.push(
+				new Promise(async (resolve) => {
+					const submissionDocs = await vectorStore.similaritySearch(
+						'what are the submissions in the case',
+						2,
+						(document) =>
+							document.metadata.case_name ===
+							doc.metadata.case_name
+					)
+					submission_res = await chain.call({
+						input_documents: submissionDocs,
+						question: 'summarize the docs',
+					})
+
+					resolve()
+				})
 			)
 
-			for await (const chunk of caseDocs) {
-				const parser = StructuredOutputParser.fromNamesAndDescriptions({
-					argument_of_respondent:
-						'what is the argument made by the respondent',
-					case_interpretation:
-						'what is the interpretation of the case',
-					articles_and_description:
-						'what are the articles used and their description',
-					facts_of_case: 'what is the background of the case',
-					case_clause: 'what are the clauses of the case',
-					proof: 'what are the proven points in case',
-					submissions: 'what are the submissions in the case',
-					leave: 'Was the leave granted',
-				})
+			await Promise.all(caseArray)
 
-				const formatInstructions = parser.getFormatInstructions()
-
-				const prompt = new PromptTemplate({
-					template:
-						"extract all the mentioned things and summarize them in the mentioned document. if the mentioned thing is not mentioned anywhere. don't return anything.\n{format_instructions}\n{case}",
-					inputVariables: ['case'],
-					partialVariables: {
-						format_instructions: formatInstructions,
-					},
-				})
-
-				const input = await prompt.format({
-					case: chunk.pageContent,
-				})
-
-				const res = await model.call(input)
-
-				response.push({
-					res: res,
-					case: {
-						date: chunk.metadata.case_date,
-						name: chunk.metadata.case_name,
-					},
-				})
-			}
-
-			// const summary = await chain.call({
-			// 	input_documents: caseDocs,
-			// 	question:
-			// 		'list all the important bullet points and the arguments and the interpretations and everything imporant that is mentioned in the chunk',
-			// })
+			response.push({
+				argument_res,
+				interpretation_res,
+				articles_res,
+				background_res,
+				clause_res,
+				points_res,
+				submission_res,
+				case: {
+					date: doc.metadata.case_date,
+					name: doc.metadata.case_name,
+				},
+			})
 		}
 
 		res.send({ docs, response })
