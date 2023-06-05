@@ -184,7 +184,8 @@ app.get('/query', async (req, res) => {
 					)
 					articles_res = await chain.call({
 						input_documents: articlesDocs,
-						question: 'summarize the docs',
+						question:
+							'give a summary, provide important bullet points and list the specific details',
 					})
 
 					resolve()
@@ -276,7 +277,7 @@ app.get('/query', async (req, res) => {
 			})
 		}
 
-		res.send({ docs, response })
+		res.send(response)
 	} catch (error) {
 		res.send(error)
 	}
