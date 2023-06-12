@@ -8,4 +8,4 @@ Requests==2.31.0
 streamlit==1.23.1
 streamlit_chat==0.0.2.2
 torch==2.0.1
-transformers==4.29.2
+transformers==4.30.0
